@@ -1,0 +1,152 @@
+Question,Answer(s)
+"Main Question: During a high-stakes basketball game, Player A aggressively blocks Player B causing him to fall, while Player C argues heatedly with the referee about a previous call. Which of the following fouls could be called by the referee in this scenario? 
+ 
+
+ A) Personal foul on Player A and technical foul on Player C
+ B) Flagrant foul on Player A and technical foul on Player C
+ C) Personal foul on Player A and personal foul on Player C
+ D) Flagrant foul on Player A and personal foul on Player C
+ 
+
+ Sub-Question 1: Considering the aggressive block by Player A, which foul could be called depending on the level of unnecessary and excessive contact to Player B?
+ 
+
+ A) Personal foul
+ B) Flagrant foul
+ C) Technical foul
+ D) Both personal and flagrant fouls
+ 
+
+ Sub-Question 2: Given Player C's heated argument with the referee, which foul could be called based on the non-physical, behavioral misconduct?
+ 
+
+ A) Personal foul
+ B) Flagrant foul
+ C) Technical foul
+ D) Both personal and technical fouls",AB;AB;CD
+"Main Question: Which of the following scenarios would result in a player expel fouling out in a professional basketball game, according to the official rules of the NBA and FIBA?
+ 
+
+ A) A player commits 5 personal fouls in a 48-minute NBA game.
+ B) A player commits 4 personal fouls in a 40-minute FIBA game.
+ C) A player commits 6 personal fouls in a 48-minute NBA game.
+ D) A player commits 5 personal fouls in a 40-minute FIBA game.
+ 
+
+ Sub-Question 1: According to NBA and FIBA rules, which of the following fouls are considered personal fouls?
+ 
+
+ A) A player makes illegal contact with an opponent while the ball is live.
+ B) A player argues with a referee.
+ C) A player intentionally kicks the ball.
+ D) A player uses excessive force while attempting to play the ball.
+ 
+
+ Sub-Question 2: In NBA and FIBA rules, which of the following scenarios would not reset the personal foul count?
+ 
+
+ A) The game goes into overtime.
+ B) A player is substituted.
+ C) The second half of the game begins.
+ D) The game goes into a new quarter.",CD; AD;ABCD
+"Main Question: In a basketball game, when considering the defensive three-second violation, which of the following scenarios would result in a technical foul being called? 
+ A) Player A, belonging to the defensive team, stays in the paint for four seconds while his direct opponent is outside the three-point line, but within the Lower Defensive Box.
+ B) Player B, from the defensive team, is guarding an opponent who is in control of the ball and is positioned in the Lower Defensive Box, while Player B himself has stayed in the paint for more than three seconds.
+ C) Player C, from the defensive team, stays in the paint for three seconds without actively guarding an opponent, while the ball is in the backcourt.
+ D) Player D, from the defensive team, remains in the paint for five seconds while his direct opponent is outside the Lower Defensive Box and is not in control of the ball.
+ 
+
+ Sub-Question 1: In the context of the defensive three-second violation, which of the following situations would allow Player A, from the defensive team, to legally stay in the paint for more than three seconds? 
+ A) Player A's direct opponent is within arm's length and is in control of the ball.
+ B) Player A's direct opponent is in the Lower Defensive Box.
+ C) Player A is actively guarding an opponent.
+ D) Player A is making a move towards an opponent who is receiving the ball.
+ 
+
+ Sub-Question 2: Considering the defensive three-second violation, which of the following scenarios would not result in a technical foul for Player B, from the defensive team? 
+ A) Player B is in the paint for three seconds while his direct opponent is in the Lower Defensive Box.
+ B) Player B exits the paint before the referee completes the three-second count.
+ C) Player B is within arm's length of his direct opponent who is outside the three-point line.
+ D) Player B is actively guarding an opponent who is in control of the ball.",AD;AC;BD
+"Main Question: 
+ 
+
+ In a basketball game, Team A and Team B ended the first half with a score of 60-60. In the second half, Team A scored 25 times with two-pointers, 10 times with three-pointers, and 15 times with free throws. Team B scored 30 times with two-pointers, 7 times with three-pointers, and 20 times with free throws. Which team won the game?
+ 
+
+ A) Team A
+ 
+
+ B) Team B
+ 
+
+ C) It was a draw
+ 
+
+ D) Data is insufficient to determine the winner
+ 
+
+ Sub-Question 1:
+ 
+
+ How many points did Team A score in the second half?
+ 
+
+ A) 85 points
+ 
+
+ B) 75 points
+ 
+
+ C) 95 points
+ 
+
+ D) 105 points
+ 
+
+ Sub-Question 2:
+ 
+
+ How many points did Team B score in the second half?
+ 
+
+ A) 101 points
+ 
+
+ B) 90 points
+ 
+
+ C) 80 points
+ 
+
+ D) 110 points",B;C;A
+"Main Question: 
+ Which of the following scenarios best demonstrates the difference between a personal foul, a flagrant foul, and a technical foul in basketball?
+ A) Player A shoves Player B while trying to get the ball, Player C curses at the referee, and Player D punches Player E in the face.
+ B) Player A accidentally trips Player B, Player C argues with the referee, and Player D slaps the ball out of Player E's hands.
+ C) Player A blocks Player B's shot, Player C yells at the referee, and Player D intentionally trips Player E.
+ D) Player A pushes Player B while trying to steal the ball, Player C throws the ball at the referee, and Player D elbows Player E hard in the chest.
+ 
+
+ Sub-Question 1:
+ Which of the following actions is most likely to result in a personal foul?
+ A) Player A arguing with the referee.
+ B) Player B intentionally tripping another player.
+ C) Player C blocking another player's shot.
+ D) Player D shoving another player while trying to get the ball.
+ 
+
+ Sub-Question 2:
+ Which of the following actions is most likely to result in a flagrant foul?
+ A) Player A cursing at the referee.
+ B) Player B elbowing another player hard in the chest.
+ C) Player C accidentally tripping another player.
+ D) Player D slapping the ball out of another player's hands.
+ 
+
+ Sub-Question 3:
+ Which of the following actions is most likely to result in a technical foul?
+ A) Player A intentionally tripping another player.
+ B) Player B blocking another player's shot.
+ C) Player C throwing the ball at the referee.
+ D) Player D shoving another player while trying to get the ball.",D;C;B;C

@@ -15,8 +15,15 @@ Each level includes three files: data, dev, and test. The test folder includes q
 
 If you find our dataset useful in your research, please consider giving a star and citation.
 
-<tab>@article{xia2024sportqa,
+```
+@article{xia2024sportqa,
   title={SportQA: A Benchmark for Sports Understanding in Large Language Models},
   author={Xia, Haotian and Yang, Zhengbang and Wang, Yuqing and Tracy, Rhys and Zhao, Yun and Huang, Dongdong and Chen, Zezhi and Zhu, Yan and Wang, Yuan-fang and Shen, Weining},
   journal={arXiv preprint arXiv:2402.15862},
-  year={2024}<tab>
+  year={2024}
+}
+```
+
+## Support
+
+For further Questions, please contact Haotian Xia (xiah6@uci.edu) 

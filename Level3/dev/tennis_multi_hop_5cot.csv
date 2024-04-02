@@ -1,0 +1,95 @@
+Question,Answer(s)
+"Main Question: How could the umpire and the Hawkeye system determine the in/out calls during a grand slam tennis match when the ball was hit close to the line?
+A) The umpire visually determined the ball was in while the Hawkeye system showed it was out.
+B) The Hawkeye system showed the ball was in, but the umpire called it out.
+C) Both the umpire and the Hawkeye system agreed that the ball was in.
+D) Both the umpire and the Hawkeye system agreed that the ball was out.
+
+Sub-Question 1: How would the decision-making process occur if there were discrepancies between the umpire's call and the Hawkeye system's result?
+A) The decision of the Hawkeye system would always be final.
+B) The umpire's call would be final if the Hawkeye system was not available or malfunctioning.
+C) The player's opinion would be taken into account.
+D) The audience's opinion would influence the final decision.
+
+Sub-Question 2: How would the decision-making process occur if both the umpire and the Hawkeye system agreed on the call?
+A) The decision would be immediately accepted without any further review.
+B) The decision could be contested by the player.
+C) The decision could be reviewed by a third-party system.
+D) The decision would be delayed until a consensus is reached with the players.",ABCD;AB;A
+"Main Question: How might the structure of a tennis match be affected given that Player A has a minor injury, and the match is scheduled to take place on a clay court under rainy weather conditions?
+
+A) Player A will have to forfeit the match due to the injury.
+B) The match will take place as scheduled, but Player A might have to pull out if the injury worsens.
+C) The match might be postponed due to the rainy conditions, giving Player A more time to recover.
+D) The clay court might need to be prepared differently to accommodate the rainy conditions, potentially affecting the match's pace and Player A's injury.
+
+Sub-Question 1: How might Player A's minor injury affect the match structure?
+
+A) Player A might need to take more frequent breaks for medical attention.
+B) Player A might need to play fewer sets to prevent exacerbation of the injury.
+C) The match might be played at a slower pace to accommodate Player A.
+D) The match might not be affected if Player A can manage the injury effectively.
+
+Sub-Question 2: How might the rainy weather conditions and the clay court affect the match structure?
+
+A) The match might be postponed if the court becomes too wet to play on.
+B) The match might be moved to an indoor court to avoid the rain.
+C) The clay court might require additional preparation to ensure it is safe and playable in the rain.
+D) The match might be played as scheduled if the court can drain effectively and the rain is not too heavy.",BCD;AD;ACD
+"Main Question: Which of the following statements are correct regarding the application of Medical Timeouts and injury scenarios in professional tennis matches?
+A) A player can take a Medical Timeout for a pre-existing condition that has suddenly become acute.
+B) If a player sustains an injury, they are allowed to take an unlimited number of Medical Timeouts until they feel better.
+C) The player who has not requested the Medical Timeout is allowed to leave the court for practice.
+D) Medical Timeouts can last for a maximum of 3 minutes.
+
+Sub-Question 1: Which of the following statements are true about the role and responsibilities of the physiotherapists during a Medical Timeout?
+A) The physiotherapist is allowed to provide advice to the player on game strategy during a Medical Timeout.
+B) The physiotherapist can use any medical equipment available to treat the player.
+C) The physiotherapist is only permitted to treat the player on the court.
+D) Physiotherapists must immediately respond when a player requests a Medical Timeout.
+
+Sub-Question 2: Which of the following are correct about the consequences and implications of a player's injury during a tennis match?
+A) If a player is unable to continue playing due to injury, the match is postponed until the player recovers.
+B) An injured player can decide to retire from the match, leading to their opponent winning by default.
+C) Injuries could potentially affect a player's ranking if they are unable to participate in subsequent matches.
+D) A player's injury does not affect the opponent's score or standing in the tournament.",AC;BD;BC
+"Main Question: 
+What was the final score of the match between Player A and Player B in the Grand Slam Tennis Tournament, given that Player A won the first set with a score of 7-5, lost the second set with a score of 4-6, won the third set with a score of 6-4, and the fourth set was a tiebreaker where Player B scored 7 points and Player A scored 9 points?
+A) 3-1
+B) 3-2
+C) 2-3
+D) 1-3
+
+Sub-Question 1: 
+What is the scoring system for the tiebreaker round in a tennis match?
+A) The first player to score 7 points wins unless the score reaches 6-6, in which case the tiebreaker continues until one player leads by 2 points.
+B) The first player to score 10 points wins unless the score reaches 9-9, in which case the tiebreaker continues until one player leads by 2 points.
+C) The first player to score 5 points wins unless the score reaches 4-4, in which case the tiebreaker continues until one player leads by 2 points.
+D) The first player to score 6 points wins unless the score reaches 5-5, in which case the tiebreaker continues until one player leads by 2 points.
+
+Sub-Question 2: 
+How many sets does a player need to win to be declared the winner in a Grand Slam tennis match?
+A) The player needs to win 2 out of 3 sets.
+B) The player needs to win 3 out of 5 sets.
+C) The player needs to win 3 out of 4 sets.
+D) The player needs to win 4 out of 7 sets.",A;D;B
+"Main Question: 
+Which tennis player has the highest chance to win a match, provided that Player A has a 75% win record on clay courts, Player B has an 85% win record on grass courts, the match is set on a grass court, and the weather forecast predicts rain, which is known to slow down the ball and benefit clay court specialists? 
+A) Player A 
+B) Player C 
+C) Player B 
+D) Player D 
+
+Sub-Question 1: 
+Which player has a higher win record on the court surface where the match will be held?
+A) Player A 
+B) Player C 
+C) Player B 
+D) Player D 
+
+Sub-Question 2: 
+Which player is more likely to benefit from rain conditions, which are known to slow down the ball? 
+A) Player A 
+B) Player C 
+C) Player B 
+D) Player D",A;C;A

@@ -1,0 +1,1286 @@
+[
+    {
+        "Question": "What is the maximum length allowed for a metal tip on the apparatus?\nA) 1 cm\nB) 2 cm\nC) 3 cm\nD) 4 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \u00e9p\u00e9e is a thrusting weapon, which makes it similar to which of the following?\nA) Foil\nB) Mace\nC) Axe\nD) Bow",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the name of the V-shaped groove found on the \u00e9p\u00e9e's blade?\nA) Fuller\nB) Ricasso\nC) Tang\nD) Quillon",
+        "Answer": "A"
+    },
+    {
+        "Question": "The \u00e9p\u00e9e's bell guard is larger than those of foil and sabre. What is its primary purpose?\nA) To protect the user's leg\nB) To protect the user's arm\nC) To balance the weapon\nD) To catch the opponent's blade",
+        "Answer": "B"
+    },
+    {
+        "Question": "In \u00e9p\u00e9e fencing, what makes the technique of use differ from foil and sabre?\nA) The use of slashing attacks\nB) The rules regarding priority and right of way do not apply\nC) The target area is limited to the upper body\nD) The requirement of wearing a mask with a black mesh",
+        "Answer": "B"
+    },
+    {
+        "Question": "The French word \"\u00e9p\u00e9e\" is derived from which Latin word?\nA) Gladius\nB) Spatha\nC) Pugio\nD) Scutum",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what century did the small sword become the most commonly used dueling sword?\nA) 15th century\nB) 16th century\nC) 17th century\nD) 18th century",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \u00e9p\u00e9e evolved from which type of civilian weapons?\nA) Heavy military swords\nB) Light civilian weapons\nC) Farming tools\nD) Hunting weapons",
+        "Answer": "B"
+    },
+    {
+        "Question": "Duels in the 19th century were fought until what condition was met?\nA) To the death\nB) Until \"first blood\" only\nC) Until one opponent surrendered\nD) Until a judge called a halt",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the primary target area in duels that were fought until \"first blood\"?\nA) The leg\nB) The torso\nC) The wrist or other exposed area\nD) The head",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of guard did rapiers have that became more common in the 19th century?\nA) Half-cup guards\nB) Full-cup guards\nC) No guards\nD) Shell guards",
+        "Answer": "B"
+    },
+    {
+        "Question": "In modern fencing, which weapon is unique in that the entire body is a valid target area?\nA) Foil\nB) \u00c9p\u00e9e\nC) Sabre\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the heaviest weapon used in modern fencing?\nA) Foil\nB) \u00c9p\u00e9e\nC) Sabre\nD) All are of equal weight",
+        "Answer": "B"
+    },
+    {
+        "Question": "In \u00e9p\u00e9e fencing, what is used to prevent floor hits from registering as touches?\nA) A padded jacket\nB) An electrically grounded piste\nC) A special type of glove\nD) A wireless scoring system",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is NOT a feature of \u00e9p\u00e9e fencing compared to foil and sabre?\nA) The entire body is a valid target area\nB) Right-of-way rules apply\nC) Double-touches are allowed\nD) Touches are awarded based on who touches first",
+        "Answer": "B"
+    },
+    {
+        "Question": "How close in time must double-touches occur in \u00e9p\u00e9e fencing to both be awarded?\nA) Within 20 milliseconds\nB) Within 40 milliseconds\nC) Within 50 milliseconds\nD) Within 100 milliseconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "What are the two varieties of counterattacks specified in \u00e9p\u00e9e fencing?\nA) Beat attack and parry-riposte\nB) Stop-thrust and time thrust\nC) Fleche and lunge\nD) Disengage and coupe",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a time thrust in \u00e9p\u00e9e fencing?\nA) A simple counterattack\nB) A counterattack on the opposition\nC) An attack made from a distance\nD) A feint attack followed by a real one",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why is a counterattack a common tactic in \u00e9p\u00e9e fencing?\nA) Because it is the easiest move to perform\nB) Because of the right-of-way rules\nC) Because it can be a highly efficient way to score a touch\nD) Because it is the only allowed defensive move",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \u00e9p\u00e9e fencing, what is not necessarily an offense unless done with \"brutality or violence\"?\nA) Hitting below the waist\nB) Corps-\u00e0-corps contact\nC) Using a point d'arr\u00eat\nD) Scoring with the side of the blade",
+        "Answer": "B"
+    },
+    {
+        "Question": "How were touches indicated in a later evolution of \u00e9p\u00e9e fencing before electric weapons?\nA) Using a bell\nB) With a dye that marked the white uniform\nC) Through a system of flags\nD) By the sound of the weapon's impact",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the current method of scoring in competitive \u00e9p\u00e9e fencing?\nA) Visual confirmation by referees\nB) A circuit is closed when a touch is made\nC) Counting the number of blade engagements\nD) Using a mechanical counter on the weapon",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who pioneered the novel line of tactical thought in modern \u00e9p\u00e9e fencing?\nA) Johan Harmenberg\nB) Eric Sollee\nC) Aldo Nadi\nD) Giuseppe Mangiarotti",
+        "Answer": "B"
+    },
+    {
+        "Question": "What did Eric Sollee's strategic approach in fencing emphasize?\nA) The importance of classical fencing styles\nB) The ability to decide the technical level of a bout\nC) The use of the most advanced weapons\nD) Focusing on offensive strategies only",
+        "Answer": "B"
+    },
+    {
+        "Question": "Can the fencer with the shorter fencing distance control the distance in a bout according to the \"Sollee conjectures\"?\nA) Yes\nB) No\nC) Only in foil fencing\nD) Only with specific referee approval",
+        "Answer": "A"
+    },
+    {
+        "Question": "According to the new strategic approach, is it possible to force an opponent into one's own area of greatest strength?\nA) Yes\nB) No\nC) Only in sabre fencing\nD) Only if the opponent consents",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was a prerequisite for Johan Harmenberg using his strongest move?\nA) Forcing the opponent to retreat\nB) Making the opponent attack high\nC) Waiting for the opponent to tire\nD) Distracting the opponent with footwork",
+        "Answer": "B"
+    },
+    {
+        "Question": "What kind of weapons are now typically used only for practice in \u00e9p\u00e9e fencing?\nA) Electric weapons\nB) Weapons with a point d'arr\u00eat\nC) Non-electric weapons\nD) Sharp-edged weapons",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum weight allowed for a modern \u00e9p\u00e9e ready for use?\nA) 770 g\nB) 300 g\nC) 450 g\nD) 90 g",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the shape of an \u00e9p\u00e9e blade in cross-section?\nA) Triangular\nB) Rectangular\nC) Circular\nD) Hexagonal",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the maximum width of any side of an \u00e9p\u00e9e's blade?\nA) 24 mm\nB) 30 mm\nC) 20 mm\nD) 15 mm",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the shape of the guard on an \u00e9p\u00e9e?\nA) Hemispherical\nB) Rectangular\nC) Oval\nD) Square",
+        "Answer": "A"
+    },
+    {
+        "Question": "How deep can the guard of an \u00e9p\u00e9e be?\nA) 1\u20132 cm\nB) 3\u20135.5 cm\nC) 2\u20134 cm\nD) 5\u20137 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "What type of grip can be exchanged with a screw-on pommel on an \u00e9p\u00e9e?\nA) French grip\nB) Pistol grip\nC) Both A and B\nD) Neither A nor B",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the minimum force required to score a valid touch with an \u00e9p\u00e9e?\nA) 500 gf\nB) 750 gf\nC) 1000 gf\nD) 850 gf",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the purpose of the wires running down the groove in an \u00e9p\u00e9e blade?\nA) To balance the blade\nB) To connect to the scoring box\nC) To make the blade more aerodynamic\nD) To reinforce the blade structure",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens if a fencer manages a touch in the glue holding the wires?\nA) The touch is registered\nB) The touch is not registered\nC) The fencer is disqualified\nD) The match is paused",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct term for the tip of an electric \u00e9p\u00e9e?\nA) Button\nB) Blade\nC) Edge\nD) Foil",
+        "Answer": "A"
+    },
+    {
+        "Question": "How is the \u00e9p\u00e9e tip held in place?\nA) Magnets\nB) Grub screws\nC) Welding\nD) Snap-fit",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the minimum thickness of a shim that must fit between the pointe d'arr\u00eat and the barrel of an \u00e9p\u00e9e tip?\nA) 1.0 mm\nB) 1.5 mm\nC) 2.0 mm\nD) 0.5 mm",
+        "Answer": "B"
+    },
+    {
+        "Question": "When a 0.5 mm shim is inserted and the \u00e9p\u00e9e tip is depressed, what should happen?\nA) It should register a touch\nB) It should not register a touch\nC) The tip should break\nD) The match should be stopped",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many weapons and body wires are fencers required to have during competitions?\nA) One of each\nB) Two of each\nC) Three of each\nD) Four of each",
+        "Answer": "B"
+    },
+    {
+        "Question": "Compared to foil fencing, how would you describe the tempo of an \u00e9p\u00e9e bout?\nA) Faster and more continuous\nB) Slower with sudden bursts of speed\nC) The same as foil fencing\nD) Nonexistent; \u00e9p\u00e9e has no tempo",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the length of a size 5 \u00e9p\u00e9e blade?\nA) 70 cm\nB) 80 cm\nC) 90 cm\nD) 100 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum diameter of an \u00e9p\u00e9e's guard?\nA) 10 cm\nB) 11.5 cm\nC) 12 cm\nD) 13.5 cm",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the main distinction between an \u00e9p\u00e9e's blade and a foil's blade?\nA) Material\nB) Flexibility\nC) Cross-section shape\nD) Length",
+        "Answer": "C"
+    },
+    {
+        "Question": "What would happen if the \u00e9p\u00e9e's tip is depressed with less than 750 gf of force?\nA) A touch is still registered\nB) A touch is not registered\nC) The weapon is disqualified\nD) The bout is paused",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the wire that connects the \u00e9p\u00e9e to the scoring box?\nA) Edge wire\nB) Body cord\nC) Blade cable\nD) Scoring tether",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the United Kingdom, the Regional Youth Circuit program is aimed at encouraging students to participate in fencing. This program is similar to the _______ in the US.\nA) NCAA Championship\nB) USACFC National Championships\nC) Leon Paul Youth Development series\nD) Public Schools Fencing Championship",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Public Schools Fencing Championship in the UK is unique because it is only open to _______.\nA) Independent Schools\nB) All secondary schools in Scotland\nC) Universities\nD) Primary schools",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Scottish Secondary Schools Championships is distinctive because it _______.\nA) is open to all secondary schools in Scotland\nB) only allows individual events\nC) is a regional competition\nD) uses foam and plastic swords",
+        "Answer": "A"
+    },
+    {
+        "Question": "To make fencing more accessible to a wider range of schools, recent initiatives have included using _______ which require much less protective equipment.\nA) Metal swords\nB) Foam and plastic swords\nC) Electronic scoring systems\nD) Traditional fencing attire",
+        "Answer": "B"
+    },
+    {
+        "Question": "The sabre is a weapon that targets the entire body above the _______, excluding which of the following?\nA) Waist\nB) Feet\nC) Hands\nD) Head",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum legal weight of a sabre?\nA) 400 grams\nB) 500 grams\nC) 600 grams\nD) 700 grams",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a sabre bout, if a fencer lands a touch outside the target area, what happens?\nA) The action stops and is reset.\nB) The fencer receives a penalty.\nC) The action continues without scoring.\nD) The touch is scored as a point.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In sabre fencing, how does the referee decide which fencer receives the point when both land a scoring touch simultaneously?\nA) Coin toss\nB) Judging the technique\nC) Using \"right of way\" rules\nD) Awarding the point to the more aggressive fencer",
+        "Answer": "C"
+    },
+    {
+        "Question": "What part of the sabre extends from the hilt to the point at which the blade connects to the pommel and is typically turned outwards during sport?\nA) The blade\nB) The grip\nC) The hand guard\nD) The pommel",
+        "Answer": "C"
+    },
+    {
+        "Question": "In what year did Domenico Angelo establish Angelo's School of Arms in London?\nA) 1753\nB) 1763\nC) 1773\nD) 1783",
+        "Answer": "B"
+    },
+    {
+        "Question": "What did Domenico Angelo emphasize in his book \"L'\u00c9cole des armes\"?\nA) Use of fencing as a killing art\nB) Health and sporting benefits of fencing\nC) Advanced attacking techniques\nD) Historical significance of swordsmanship",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who set down the basic conventions of fencing in the 1880s?\nA) Domenico Angelo\nB) Camille Pr\u00e9vost\nC) The Amateur Fencers League of America\nD) The F\u00e9d\u00e9ration Internationale d'Escrime",
+        "Answer": "B"
+    },
+    {
+        "Question": "When was the first regularised fencing competition held?\nA) 1860\nB) 1870\nC) 1880\nD) 1890",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was the \u00e9p\u00e9e event not held at the Summer Olympics?\nA) 1896\nB) 1902\nC) 1908\nD) 1912",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was the purpose of the Laurent-Pagan electrical scoring apparatus?\nA) To train fencers in new techniques\nB) To reduce bias in judging\nC) To record fencing matches\nD) To enhance the visual appeal of the sport",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following fencing weapons was automated last?\nA) Foil\nB) \u00c9p\u00e9e\nC) Sabre\nD) None, they were all automated simultaneously",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Amateur Fencing Association of Great Britain was founded in what year?\nA) 1881\nB) 1891\nC) 1902\nD) 1906",
+        "Answer": "C"
+    },
+    {
+        "Question": "The electrical scoring apparatus introduced an audible tone and a light to indicate what?\nA) Start and end of the bout\nB) A penalty has been awarded\nC) A touch landed\nD) A fencer is offside",
+        "Answer": "C"
+    },
+    {
+        "Question": "The maximum weight of a foil in fencing is _______.\nA) 300 grams\nB) 400 grams\nC) 500 grams\nD) 600 grams",
+        "Answer": "C"
+    },
+    {
+        "Question": "In foil fencing, the valid target area is the _______.\nA) torso, including arms and legs\nB) torso, excluding arms and legs\nC) entire body\nD) arms and legs only",
+        "Answer": "B"
+    },
+    {
+        "Question": "The foil's hand guard is designed to protect the hand from _______.\nA) off-target touches\nB) direct stabs\nC) electronic scoring errors\nD) the opponent's guard",
+        "Answer": "B"
+    },
+    {
+        "Question": "In foil fencing, touches are scored only with the _______.\nA) flat of the blade\nB) side of the blade\nC) tip of the blade\nD) entire blade",
+        "Answer": "C"
+    },
+    {
+        "Question": "An off-target touch in foil fencing is indicated by _______.\nA) stopping the action without scoring\nB) a point for the opponent\nC) continuation of the action\nD) a penalty",
+        "Answer": "A"
+    },
+    {
+        "Question": "If both fencers land touches within a certain timeframe, the referee decides the point by using _______.\nA) the electronic scoring apparatus\nB) the fencers' total score\nC) the rules of \"right of way\"\nD) a random choice",
+        "Answer": "C"
+    },
+    {
+        "Question": "When a foil fencer's touch lands outside the target area and the other fencer scores a valid hit, _______.\nA) the off-target hit has priority\nB) no touch is awarded\nC) both touches are awarded\nD) only the valid hit is awarded",
+        "Answer": "B"
+    },
+    {
+        "Question": "The FIE is responsible for maintaining the rules used in major international fencing events. Which of the following is NOT an event where the FIE's rules are applied?\nA) World Cups\nB) Olympic Games\nC) Annual Congress\nD) World Championships",
+        "Answer": "C"
+    },
+    {
+        "Question": "During which event does the FIE handle proposals to change the rules of fencing?\nA) Monthly Meetings\nB) Annual Congress\nC) Biannual Symposiums\nD) Olympic Games",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is an attack in fencing known as when the arm is extended and the opponent's target is continuously threatened?\nA) Riposte\nB) Lunge\nC) Attack\nD) Feint",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many different attacks are there in fencing?\nA) Three\nB) Four\nC) Five\nD) Six",
+        "Answer": "B"
+    },
+    {
+        "Question": "In sabre, how are attacks made apart from thrusting?\nA) With a kicking action\nB) With a cutting action\nC) With a flicking action\nD) With a crossing action",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a riposte?\nA) An initial offensive action\nB) A false attack\nC) An attack by the defender after a successful parry\nD) A renewal of attack",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the purpose of a feint?\nA) To gain priority\nB) To provoke a reaction\nC) To disturb the opponent's aim\nD) To score with a single light",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the goal of a beat attack in foil and sabre?\nA) To deceive a parry\nB) To gain priority\nC) To score with a single light\nD) To provoke a reaction",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a disengage designed to do?\nA) Threaten the same part of the target\nB) Threaten a different part of the target\nC) Score with a single light\nD) Gain priority",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a compound attack?\nA) An attack with multiple thrusts\nB) An attack with a single feint\nC) An attack preceded by one or more feints\nD) A direct attack without feints",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a flick used to hit?\nA) The front of the shoulder\nB) The opponent's blade\nC) An obscured part of the target\nD) The opponent's bell guard",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a fl\u00e8che?\nA) A false attack\nB) A defensive maneuver\nC) An offensive maneuver involving running past the opponent\nD) A technique involving crossing one's feet in sabre",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why has the flick technique become more difficult?\nA) Due to changes in blade flexibility\nB) Because it is now illegal\nC) Due to timing changes requiring longer point depression\nD) Because of new parry techniques",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a flunge?\nA) A flying lunge in \u00e9p\u00e9e\nB) A defensive action in foil\nC) A flying lunge in sabre\nD) A compound attack in sabre",
+        "Answer": "C"
+    },
+    {
+        "Question": "What happens if a renewal of attack in foil or sabre is made without right of way?\nA) It scores double points\nB) It is considered valid\nC) It is considered to have lost right of way\nD) It provokes a reaction",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the result of a successful parry in foil and sabre?\nA) The attacker gains priority\nB) The defender has the opportunity to attack\nC) The attacker can make a compound attack\nD) The defender must retreat",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why is crossing one's feet illegal in Sabre?\nA) It is considered a defensive action\nB) It is deemed too aggressive\nC) It can lead to injuries\nD) It is against FIE rules",
+        "Answer": "D"
+    },
+    {
+        "Question": "What action typically follows a successful parry?\nA) A counterattack\nB) A riposte\nC) A retreat\nD) A salute",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a counterattack generally combined with in \u00e9p\u00e9e?\nA) A riposte\nB) A parry\nC) A retreat\nD) An advance",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which move can be used to evade an attacking blade in foil and sabre?\nA) Circle parry\nB) In Quartata\nC) Passata-sotto\nD) Both B and C",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the result of a point-in-line in \u00e9p\u00e9e if the attacker does not manage a single light?\nA) The defender wins the touch\nB) The attacker wins the touch\nC) A double touch is scored\nD) The bout is paused",
+        "Answer": "A"
+    },
+    {
+        "Question": "How can a point-in-line be used in all weapons?\nA) To score a double touch\nB) To slow the opponent's advance\nC) To request a halt\nD) Both A and B",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which weapon is a counterattack more difficult to accomplish?\nA) Foil\nB) Sabre\nC) \u00c9p\u00e9e\nD) All weapons equally",
+        "Answer": "A"
+    },
+    {
+        "Question": "The F\u00e9d\u00e9ration Internationale d'Escrime (FIE), which governs the sport of fencing, is headquartered in which city?\nA) Paris\nB) Rome\nC) Lausanne\nD) Geneva",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many national federations are recognized by the FIE as the sole representatives of Olympic-style fencing in their respective countries?\nA) 120\nB) 155\nC) 165\nD) 150",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \u00e9p\u00e9e is a thrusting weapon similar to the foil, but differs in weight. What is the maximum total weight for an \u00e9p\u00e9e?\nA) 500 grams\nB) 775 grams\nC) 350 grams\nD) 900 grams",
+        "Answer": "B"
+    },
+    {
+        "Question": "In \u00e9p\u00e9e fencing, what part of the body is considered a valid target?\nA) Above the waist only\nB) The torso only\nC) The entire body\nD) The arms and head only",
+        "Answer": "C"
+    },
+    {
+        "Question": "The hand guard of the \u00e9p\u00e9e is designed to protect a specific part of the body. Which part does it cover?\nA) The forearm\nB) The elbow\nC) The hand\nD) The wrist",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \u00e9p\u00e9e, how must a hit be executed to be valid?\nA) With the tip only\nB) With the side of the blade only\nC) With either the tip or the side of the blade\nD) With the pommel",
+        "Answer": "A"
+    },
+    {
+        "Question": "What happens when a fencer accidentally strikes the floor during an \u00e9p\u00e9e match?\nA) The action is halted\nB) A point is awarded to the opponent\nC) The fencer receives a penalty\nD) The light and tone on the scoring apparatus are set off",
+        "Answer": "D"
+    },
+    {
+        "Question": "How is a double touch resolved if the score is tied at the last point in an \u00e9p\u00e9e match?\nA) Both fencers receive a point\nB) The point is awarded to the fencer who attacked first\nC) The point is null and void\nD) A sudden death bout is fought",
+        "Answer": "C"
+    },
+    {
+        "Question": "The oldest surviving treatise on western fencing, the Royal Armouries Ms. I.33, also known as the Tower manuscript, was written around what year?\nA) 1200\nB) 1300\nC) 1400\nD) 1500",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Royal Armouries Ms. I.33 discusses the usage of the arming sword in combination with what other item?\nA) A shield\nB) A buckler\nC) A cape\nD) A parrying dagger",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who wrote the oldest surviving Italian treatise on fencing, Fior di Battaglia?\nA) Filippo Dardi\nB) Fiore dei Liberi\nC) Achille Marozo\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Bolognese school of fencing was named after its founder, who was also a Professor of Geometry at the University of Bologna. What was his name?\nA) Fiore dei Liberi\nB) Filippo Dardi\nC) Achille Marozo\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Bolognese school focused primarily on the use of which weapon?\nA) Longsword\nB) Sidesword\nC) Arming sword\nD) Poleaxe",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which master from the Bolognese school covered the usage of the two-handed greatsword or spadone?\nA) Filippo Dardi\nB) Fiore dei Liberi\nC) Achille Marozo\nD) None of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Bolognese school laid the foundation for modern fencing and spread outside of Italy, eclipsing older traditions from which two countries?\nA) France and Spain\nB) Germany and Italy\nC) Spain and Germany\nD) Italy and France",
+        "Answer": "B"
+    },
+    {
+        "Question": "The German schools of fencing were known for focusing on which type of weapons?\nA) Sideswords and bucklers\nB) Archaic weapons such as the longsword\nC) Rapiers and smallswords\nD) Modern fencing foils",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which century did the mechanics of modern fencing originate?\nA) 16th century\nB) 17th century\nC) 18th century\nD) 19th century",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Italian school of fencing of the Renaissance was influential in the improvement of fencing mechanics under the influence of which other school?\nA) The Spanish school\nB) The French school\nC) The German school\nD) The English school",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which school of fencing stagnated and was eventually replaced by the Italian and French schools?\nA) The English school\nB) The German school\nC) The Spanish school\nD) The Bolognese school",
+        "Answer": "C"
+    },
+    {
+        "Question": "In wheelchair fencing, the participants are ________.\nA) able-bodied individuals\nB) individuals with disabilities\nC) randomly selected\nD) professional athletes only",
+        "Answer": "B"
+    },
+    {
+        "Question": "The American Fencing League is distinct from the United States Fencing Association because ________.\nA) it has the same format and rules\nB) it does not use swords\nC) it interprets the right of way rules differently\nD) it is a historical fencing society",
+        "Answer": "C"
+    },
+    {
+        "Question": "The variant of fencing that uses toy lightsabers and was featured on ESPN2 is known for ________.\nA) being part of the modern pentathlon\nB) earning national attention\nC) being the official format for university matches\nD) replacing traditional fencing in the Olympics",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to FIE rules, the fabric for tournament wear must resist a force of how many newtons?\nA) 400 newtons\nB) 600 newtons\nC) 800 newtons\nD) 1000 newtons",
+        "Answer": "C"
+    },
+    {
+        "Question": "The mask bib must resist a force of how many newtons?\nA) 800 newtons\nB) 1200 newtons\nC) 1600 newtons\nD) 2000 newtons",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is NOT a reason for the traditional white color of the fencer's uniform?\nA) To distinguish instructors, who wear black\nB) To show marks from dye, soot, or coloured chalk\nC) To reflect ultraviolet light\nD) To make it easier for the referee to determine the placing of the touches",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the purpose of the sous-plastron in the fencing kit?\nA) To protect the chest\nB) To cover the fencer's dominant arm\nC) To hold the weapon\nD) To resist puncture",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main reason Kevlar can be problematic in fencing gear maintenance?\nA) It shrinks when washed\nB) It is degraded by ultraviolet light and chlorine\nC) It loses color over time\nD) It is too heavy",
+        "Answer": "B"
+    },
+    {
+        "Question": "What alternative ballistic fabric is used in fencing gear that does not degrade like Kevlar?\nA) Cotton\nB) Nylon\nC) Leather\nD) Dyneema",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which color of uniforms is still NOT allowed by FIE rules?\nA) White\nB) Pink\nC) Green\nD) Black",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following disciplines is NOT one of the three modern fencing disciplines?\nA) Foil\nB) \u00c9p\u00e9e\nC) Sabre\nD) Singlestick",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the main difference between the disciplines of modern fencing?\nA) The type of protective gear used\nB) The kind of blade used\nC) The duration of bouts\nD) The age of competitors",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which school later refined the system of classical fencing that was altered by the Italian school?\nA) The German school\nB) The Spanish school\nC) The French school\nD) The British school",
+        "Answer": "C"
+    },
+    {
+        "Question": "Fencing has been featured in every modern Olympics since its inception. Which other sport shares this distinction?\nA) Tennis\nB) Boxing\nC) Gymnastics\nD) Equestrian",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year's Olympic Games was the fencing discipline of singlestick featured?\nA) 1896\nB) 1900\nC) 1904\nD) 1908",
+        "Answer": "C"
+    },
+    {
+        "Question": "Techniques or movements in fencing can be divided into two categories: ________ and defensive.\nA) Aggressive\nB) Offensive\nC) Progressive\nD) Passive",
+        "Answer": "B"
+    },
+    {
+        "Question": "In foil and sabre, holding the right of way is important when performing ________ techniques.\nA) offensive\nB) defensive\nC) neutral\nD) passive",
+        "Answer": "A"
+    },
+    {
+        "Question": "A high outside parry is a defensive action that can be followed by a ________.\nA) low line riposte\nB) high line riposte\nC) counter-attack\nD) fleche",
+        "Answer": "B"
+    },
+    {
+        "Question": "When fencer A attacks the arm of fencer B and expects a high line riposte, fencer A can make his own parry by ________.\nA) extending his arm further\nB) dropping his weapon to the ground\nC) pivoting his blade under fencer B's weapon\nD) jumping back",
+        "Answer": "C"
+    },
+    {
+        "Question": "The purpose of angulating the hand upwards after a parry is to ________.\nA) disarm the opponent\nB) score against the low line\nC) obtain the right of way\nD) prepare for a counter-attack",
+        "Answer": "B"
+    },
+    {
+        "Question": "To protect against a hit or obtain the right of way, fencers use ________ techniques.\nA) only offensive\nB) only defensive\nC) both offensive and defensive\nD) neither offensive nor defensive",
+        "Answer": "C"
+    },
+    {
+        "Question": "The body cord in electric fencing serves as the connection between the fencer and __________.\nA) the opponent's weapon\nB) the scoring machine\nC) the reel of wire\nD) the protective gear",
+        "Answer": "C"
+    },
+    {
+        "Question": "\u00c9p\u00e9e body cords are unique because they consist of __________.\nA) two sets of three prongs each\nB) two prongs on the weapon side\nC) a twist-lock bayonet connector\nD) a single wire connection",
+        "Answer": "A"
+    },
+    {
+        "Question": "In foil and sabre, the third wire of the body cord connects to the fencer's __________.\nA) weapon\nB) mask\nC) lam\u00e9\nD) glove",
+        "Answer": "C"
+    },
+    {
+        "Question": "In foil, when the tip is depressed and touches the opponent's lam\u00e9, it is considered a __________.\nA) valid touch\nB) fault\nC) off-target hit\nD) disqualification",
+        "Answer": "A"
+    },
+    {
+        "Question": "In \u00c9p\u00e9e fencing, a touch to the floor registers as a valid touch if __________.\nA) there is no grounded strip\nB) the tip is not depressed\nC) the opponent jumps\nD) the fencer is off-balance",
+        "Answer": "A"
+    },
+    {
+        "Question": "Sabre fencing does not require grounded strips because __________.\nA) hitting anything other than the opponent's lame does nothing\nB) the floor is always a valid target\nC) the weapon cannot touch the floor\nD) the scoring machine is calibrated differently",
+        "Answer": "A"
+    },
+    {
+        "Question": "An electric body cord for foil fencing is worn __________.\nA) over the fencer's jacket\nB) on the fencer's non-dominant side\nC) under the fencer's jacket on his/her dominant side\nD) around the fencer's waist",
+        "Answer": "C"
+    },
+    {
+        "Question": "The electric equipment of sabre is similar to that of foil, but sabre includes a __________.\nA) smaller conductive lam\u00e9\nB) completely conductive mask\nC) non-conductive glove\nD) conductive shoe cover",
+        "Answer": "B"
+    },
+    {
+        "Question": "In sabre, any contact between one's B/C line and the opponent's __________ results in a valid touch.\nA) C line\nB) weapon body\nC) A line\nD) mask",
+        "Answer": "C"
+    },
+    {
+        "Question": "The B line in a foil's electric body cord runs up a wire to the __________.\nA) lam\u00e9\nB) mask\nC) tip of the weapon\nD) glove",
+        "Answer": "C"
+    },
+    {
+        "Question": "When the tip of an \u00c9p\u00e9e is depressed and touches the opponent's weapon or grounded strip, __________.\nA) a valid touch is registered\nB) an off-target hit is registered\nC) nothing happens\nD) a penalty is given",
+        "Answer": "C"
+    },
+    {
+        "Question": "A complete set of electric equipment for professional fencing competitions is __________.\nA) optional\nB) needed\nC) provided by the opponent\nD) only for foil and sabre",
+        "Answer": "B"
+    },
+    {
+        "Question": "The electric mask cord connects the conductive bib to the __________ in foil fencing.\nA) weapon\nB) lam\u00e9\nC) glove\nD) body cord",
+        "Answer": "B"
+    },
+    {
+        "Question": "A conductive glove or overlay is a piece of equipment used in __________.\nA) foil\nB) \u00c9p\u00e9e\nC) sabre\nD) all weapons",
+        "Answer": "C"
+    },
+    {
+        "Question": "The A line in a sabre's electric body cord is connected to the __________.\nA) weapon's tip\nB) lam\u00e9\nC) mask\nD) glove",
+        "Answer": "B"
+    },
+    {
+        "Question": "In \u00c9p\u00e9e fencing, the body cords are constructed differently because __________.\nA) the target area includes the whole body\nB) the lam\u00e9 is not used\nC) the scoring is manual\nD) the weapons are heavier",
+        "Answer": "B"
+    },
+    {
+        "Question": "The electric sabre's distinct feature compared to foil is the __________.\nA) use of a conductive bib\nB) use of a completely conductive mask\nC) connection of the A line to the lam\u00e9\nD) need for a grounded strip",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which film, related to fencing and directed by Klaus H\u00e4r\u00f6, was nominated for the 73rd Golden Globe Awards in the Foreign Language Film Category?\nA) The Swordsman\nB) The Fencer\nC) The Duelist\nD) The Blade Master",
+        "Answer": "B"
+    },
+    {
+        "Question": "The 2015 film \"The Fencer\" is based on the life of which accomplished Estonian fencer and coach?\nA) Jaan Talts\nB) Nikolai Novosjolov\nC) Endel Nelis\nD) Heiki Nabi",
+        "Answer": "C"
+    },
+    {
+        "Question": "In modern fencing, the referee must consider the possibility of _______ when using the electrical scoring apparatus.\nA) Fencer's skill level\nB) Mechanical failure\nC) Audience interference\nD) Time constraints",
+        "Answer": "B"
+    },
+    {
+        "Question": "When a sabre hit is registered, it is indicated by _______.\nA) A white light for the offending fencer\nB) A red or green light specific to each fencer\nC) A blue light signaling a pause in the bout\nD) A yellow light for a warning",
+        "Answer": "B"
+    },
+    {
+        "Question": "An off-target hit in fencing is indicated by a _______ signal.\nA) Red\nB) Green\nC) White\nD) Blue",
+        "Answer": "C"
+    },
+    {
+        "Question": "In sabre fencing, why has the fl\u00e8che attack been prohibited?\nA) It was too difficult to perform.\nB) It made the game too slow.\nC) It involved the forward cross-over, which is now a cardable offence.\nD) It was considered too dangerous.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What tactical device have sabre fencers begun to use instead of the fl\u00e8che?\nA) The parry-riposte\nB) The flunge\nC) The balestra\nD) The riposte",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a primary parry in sabre defense?\nA) Quinte\nB) Tierce\nC) Seconde\nD) Quarte",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"Hungarian\" parry is most effective against opponents of the same ________.\nA) Height\nB) Skill level\nC) Handedness\nD) Strategy",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main difference between sabre parries and those in foil and \u00e9p\u00e9e?\nA) Sabre parries are more aggressive.\nB) Sabre parries block rather than deflect attacks.\nC) Sabre parries are taken earlier.\nD) Sabre parries are only used in defense.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Circle parries, such as Circle 3, 4, and 5, are designed to defend against ________.\nA) Feints\nB) Stabs to the body\nC) Running attacks\nD) Remises",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a common variation of the \"Seconde\" parry that utilizes the fencer's body?\nA) Jumping into the air\nB) Squatting to the floor\nC) Lunging forward\nD) Stepping back",
+        "Answer": "A"
+    },
+    {
+        "Question": "The tempo for sabre is characterized as ________ throughout the entire touch.\nA) Slow and steady\nB) Fast\nC) Variable\nD) Non-existent",
+        "Answer": "B"
+    },
+    {
+        "Question": "What are coaches encouraging sabre fencers to do to control the tempo?\nA) Take larger steps\nB) Take smaller steps\nC) Increase the speed of attacks\nD) Use more feints",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"flunge\" is a combination of a fl\u00e8che and a ________.\nA) Lunge\nB) Parry\nC) Riposte\nD) Balestra",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which secondary parry is often used instead of tierce when moving from a \"point-in-line\"?\nA) Prime\nB) Seconde\nC) Quinte\nD) Sixte",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"Hungarian\" technique involves a transition from which parry to which parry?\nA) From quinte to seconde\nB) From prime to quinte\nC) From sixte to prime\nD) From tierce to quarte",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of a Circle parry in sabre?\nA) To gain the right of way\nB) To prepare for a riposte\nC) To defend against stabs\nD) To confuse the opponent",
+        "Answer": "C"
+    },
+    {
+        "Question": "In sabre, what has been eliminated along with the fl\u00e8che attack?\nA) The riposte\nB) The running attack\nC) The balestra\nD) The counter-attack",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the debate regarding the Sixte parry in sabre?\nA) Whether it should be a cardable offence\nB) Whether it is distinct from a tierce parry\nC) Whether it is effective against feints\nD) Whether it is allowed in competition",
+        "Answer": "B"
+    },
+    {
+        "Question": "How do sabre parries differ from foil and \u00e9p\u00e9e in terms of timing?\nA) They are taken more quickly.\nB) They are taken as late as possible.\nC) They are taken at the beginning of the bout.\nD) They are not time-dependent.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the benefit of jumping into the air while performing a \"Seconde\" parry?\nA) It confuses the opponent.\nB) It allows the defender to block an attack to the \"Tierce\" sector.\nC) It provides a stronger parry.\nD) It increases the chance of a double touch.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which parry is described as being taken in a sweeping motion to cover the entire inside line?\nA) Prime\nB) Seconde\nC) Quinte\nD) Sixte",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the purpose of wearing a lam\u00e9 in sabre fencing?\nA) To complete the circuit and register a touch to a valid target\nB) To protect the fencer from injuries\nC) To distinguish team members\nD) To absorb sweat and prevent slipping",
+        "Answer": "A"
+    },
+    {
+        "Question": "How long after the foil did sabre make the transition to electrical equipment?\nA) 32 years\nB) 52 years\nC) 12 years\nD) 22 years",
+        "Answer": "A"
+    },
+    {
+        "Question": "What change occurred in sabre fencing immediately following the 2004 Athens Summer Olympics?\nA) The target area was expanded\nB) The timing for recording a touch was shortened\nC) The weight of the sabre was reduced\nD) The length of the bouts was increased",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is NOT a difference between an electric sabre and a steam or dry sabre?\nA) The blade wire\nB) The pressure-sensitive tip\nC) The socket\nD) The blade itself",
+        "Answer": "D"
+    },
+    {
+        "Question": "Why is insulation used on the pommel and inside of the guard in an electric sabre?\nA) To make the sabre lighter\nB) To prevent an electrical connection with the lam\u00e9\nC) To enhance the grip for the fencer\nD) To make the sabre more aesthetically pleasing",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the capteur in early electric sabres designed to do?\nA) Count the number of touches\nB) Distinguish between a good cut and a mere touch\nC) Measure the force of the attack\nD) Record the speed of the blade",
+        "Answer": "B"
+    },
+    {
+        "Question": "When did the FIE announce their intention to re-introduce the capteur to sabre fencing?\nA) 1988\nB) 2004\nC) 2019\nD) 1956",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why was the timing for recording a touch in sabre fencing shortened after the 2004 Olympics?\nA) To make the bouts faster\nB) To increase the difficulty of scoring\nC) To alter the sport and method in which a touch is scored\nD) To reduce the number of accidental touches",
+        "Answer": "C"
+    },
+    {
+        "Question": "The sabre is a weapon used in modern fencing that allows for scoring by _______.\nA) thrusting only\nB) cutting only\nC) thrusting and cutting with both the cutting edge and the back of the blade\nD) using the point of the blade only",
+        "Answer": "C"
+    },
+    {
+        "Question": "In sabre fencing, unlike the other modern fencing weapons, a touch can be scored with _______.\nA) the point of the blade only\nB) both the cutting edge and the back of the blade\nC) the flat part of the blade\nD) the hilt of the weapon",
+        "Answer": "B"
+    },
+    {
+        "Question": "A male fencer who participates in the discipline of sabre is informally known as a _______.\nA) sabreur\nB) sabreuse\nC) \u00e9p\u00e9ist\nD) foilist",
+        "Answer": "A"
+    },
+    {
+        "Question": "The lockout period in fencing is the minimum amount of time between registered touches respective of the ________.\nA) Scoring technique\nB) Fencer's position\nC) Target area\nD) Type of weapon",
+        "Answer": "C"
+    },
+    {
+        "Question": "Following the 2016 Olympic Games, the registering times for scoring apparatuses were modified from 120 ms (\u00b1 10 ms) to ________.\nA) 150 ms (\u00b1 10 ms)\nB) 170 ms (\u00b1 10 ms)\nC) 130 ms (\u00b1 10 ms)\nD) 160 ms (\u00b1 10 ms)",
+        "Answer": "B"
+    },
+    {
+        "Question": "If both hits occur within the lockout period, the final judgement of the score is determined by the ________.\nA) Lockout period\nB) Referee's discretion\nC) Fencer's appeal\nD) 'Right of way'",
+        "Answer": "D"
+    },
+    {
+        "Question": "The change in lockout timing has made the sabre fencing faster with greater emphasis on ________.\nA) Strength\nB) Technique\nC) Footwork\nD) Equipment",
+        "Answer": "C"
+    },
+    {
+        "Question": "The timing change in fencing was initially received with ________.\nA) Indifference\nB) Enthusiasm\nC) Controversy\nD) Acceptance",
+        "Answer": "C"
+    },
+    {
+        "Question": "To avoid an attacker remising, defenders may need to add an additional step ________.\nA) Forward\nB) Back\nC) To the side\nD) In place",
+        "Answer": "B"
+    },
+    {
+        "Question": "The shorter timings in fencing have encouraged techniques with ________.\nA) Larger, more powerful moves\nB) Smaller, neater moves\nC) The same movements as before\nD) No specific pattern of movement",
+        "Answer": "B"
+    },
+    {
+        "Question": "As a result of the timing changes, sabre fencing has become ________.\nA) Slower and less accurate\nB) Faster and more precise\nC) More focused on strength\nD) Less competitive",
+        "Answer": "B"
+    },
+    {
+        "Question": "The efficacy of which tactic was increased due to the narrower timings?\nA) Counter-riposte\nB) Attacks into preparation\nC) Fleche attack\nD) Defensive bind",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main purpose of the lockout period in fencing's electrical apparatus?\nA) To record the score\nB) To aid judgement\nC) To charge the weapons\nD) To synchronize the clocks",
+        "Answer": "B"
+    },
+    {
+        "Question": "What part of the body is NOT included in the general target area for fencing?\nA) The torso above the waist\nB) The arms up to the wrist\nC) The legs\nD) The head",
+        "Answer": "C"
+    },
+    {
+        "Question": "In fencing, what is the role of the conductive lam\u00e9?\nA) It protects the fencer from injury.\nB) It covers the torso and arms and is used to register valid hits.\nC) It extends past the waistline to cover the legs.\nD) It is worn under the glove for additional safety.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where is the conductive manchette typically located?\nA) On the mask\nB) On the lam\u00e9\nC) On the glove\nD) On the legs",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the mask used in the scoring system of fencing?\nA) It is worn for protection only and has no role in scoring.\nB) It contains a pressure-sensitive button for registering hits.\nC) It is directly connected to the lam\u00e9 to register valid hits.\nD) It extends the target area to include the feet.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is NOT a part of the single circuit used in fencing's scoring systems?\nA) The glove's conductive manchette\nB) The conductive lam\u00e9\nC) The conductive mask\nD) The pressure-sensitive head on the blade",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which part of the fencer's equipment is usually NOT conductive?\nA) The lam\u00e9\nB) The manchette\nC) The mask\nD) The hand",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the maximum length allowed for a sabre blade?\nA) 70 cm\nB) 88 cm\nC) 105 cm\nD) 500 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "The minimum width of the sabre blade at the button must be at least:\nA) 1.2 mm\nB) 3 mm\nC) 4 mm\nD) 6 mm",
+        "Answer": "C"
+    },
+    {
+        "Question": "The blade's thickness, immediately below the button, must be at least:\nA) 0.16 in\nB) 1.2 mm\nC) 4 mm\nD) 3 mm",
+        "Answer": "B"
+    },
+    {
+        "Question": "At what point must the sabre blade be fixed horizontally according to regulation?\nA) 35 cm from the tip\nB) 70 cm from the tip\nC) 88 cm from the tip\nD) 105 cm from the tip",
+        "Answer": "B"
+    },
+    {
+        "Question": "The cross-sectional profile of the sabre blade transitions to a flat rectangular shape towards the:\nA) Base\nB) Middle\nC) End\nD) Button",
+        "Answer": "C"
+    },
+    {
+        "Question": "The interior of the sabre's guard must be insulated by:\nA) Leather\nB) Paint or a pad\nC) Plastic\nD) Rubber",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"button\" at the end of the blade must not be more than how far from the end of the 88 cm blade section?\nA) 6 mm\nB) 3 mm\nC) 1.2 mm\nD) 4 mm",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum weight allowed for a sabre weapon?\nA) 400 g\nB) 500 g\nC) 600 g\nD) 700 g",
+        "Answer": "B"
+    },
+    {
+        "Question": "Compared to foil or \u00e9p\u00e9e, the sabre is:\nA) Longer and heavier\nB) Shorter and lighter\nC) The same length but lighter\nD) The same weight but longer",
+        "Answer": "B"
+    },
+    {
+        "Question": "The guard's dimensions are measured at:\nA) 15 by 14 cm\nB) 14 by 15 cm\nC) 16 by 14 cm\nD) 14 by 16 cm",
+        "Answer": "A"
+    },
+    {
+        "Question": "What part of the sabre electrically separates the handle and the guard?\nA) The blade\nB) The button\nC) The pommel\nD) The socket",
+        "Answer": "C"
+    },
+    {
+        "Question": "The conventional handle of the sabre allows the hand to slide down for:\nA) Aesthetic purposes\nB) Ergonomic comfort\nC) Further extension of the weapon\nD) Electrical insulation",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the shape of the \"button\" when viewed end on?\nA) Circular\nB) Square or rectangular\nC) Triangular\nD) Hexagonal",
+        "Answer": "B"
+    },
+    {
+        "Question": "When determining which fencer scores a point, the referee bases the decision on the concept of _______, which gives the point to the fencer who had priority.\nA) Right of attack\nB) Right of way\nC) Right of defense\nD) Right of contact",
+        "Answer": "B"
+    },
+    {
+        "Question": "A remise of the attack occurs when the fencer hits with the blade after the front foot has _______.\nA) been lifted\nB) crossed over\nC) touched the strip\nD) been retracted",
+        "Answer": "C"
+    },
+    {
+        "Question": "Priority in fencing can be gained by executing an attack preceded by a _______ on the opponent's weapon.\nA) touch\nB) glance\nC) beat\nD) lock",
+        "Answer": "C"
+    },
+    {
+        "Question": "Establishing a point in line refers to the action of holding the weapon's point towards the opponent's target and must be completed with the point _______.\nA) sliding off after a hit\nB) sticking to their opponent's chest\nC) in a high guard position\nD) in a low guard position",
+        "Answer": "B"
+    },
+    {
+        "Question": "If an opponent has established a point in line, the attacker must _______ to gain the right of way.\nA) touch the point\nB) move the point aside\nC) parry the point\nD) ignore the point",
+        "Answer": "B"
+    },
+    {
+        "Question": "A failed attack can lead to an immediate return offense, which is also known as a _______.\nA) parry-riposte\nB) remise\nC) fl\u00e8che\nD) beat",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the event of a \"simultaneous attack\" where neither fencer has right of way, what is the usual outcome?\nA) A point is awarded to the fencer on the left.\nB) No point is awarded.\nC) A point is awarded to the fencer on the right.\nD) The action is repeated until a clear right of way is established.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The right of way rules were initially established to encourage fencers to use techniques to hit without being hit, as if they were using _______.\nA) blunt swords\nB) sharp swords\nC) wooden sticks\nD) practice foils",
+        "Answer": "B"
+    },
+    {
+        "Question": "An attack in sabre may be established with the point or the _______.\nA) guard\nB) pommel\nC) cutting edge\nD) grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "Point in line can lose priority if the fencer's arm is _______ or the point is moved away from targeting the opponent.\nA) extended\nB) bent\nC) raised\nD) lowered",
+        "Answer": "B"
+    },
+    {
+        "Question": "If an attack is executed against an opponent who has point in line, the attacker must _______ the point in line to gain the right of way.\nA) acknowledge\nB) remove\nC) follow\nD) ignore",
+        "Answer": "B"
+    },
+    {
+        "Question": "A \"get-away-go\" is a term used to describe a failed attack that has _______.\nA) been parried\nB) hit the target\nC) fallen short of the target\nD) been executed perfectly",
+        "Answer": "C"
+    },
+    {
+        "Question": "The end of an attack in sabre is marked by the moment the _______ touches the strip.\nA) back foot\nB) weapon\nC) front foot\nD) hand",
+        "Answer": "C"
+    },
+    {
+        "Question": "If an attempt to beat the blade is made and missed, the opponent _______ the right of way.\nA) loses\nB) maintains\nC) gains\nD) forfeits",
+        "Answer": "B"
+    },
+    {
+        "Question": "If a fencer moves forward before the command \"fence\" is heard, the referee may issue a:\nA) Black card\nB) Red card\nC) Yellow card\nD) No penalty",
+        "Answer": "C"
+    },
+    {
+        "Question": "When a fencer receives two yellow cards, it results in:\nA) A final warning\nB) A red card\nC) An immediate black card\nD) No additional penalty",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the consequence of a fencer's touch if they are issued a red card?\nA) The touch is annulled and a point is awarded to the opponent.\nB) The touch is annulled with no further penalty.\nC) The touch stands and the opponent is awarded a point.\nD) The touch stands with no further penalty.",
+        "Answer": "A"
+    },
+    {
+        "Question": "If the referee says \"halt\", what happens to actions that occur after the command?\nA) They may still score a point.\nB) They are considered for additional penalties.\nC) They cannot score a point.\nD) They result in a yellow card.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does a black card signify in a fencing tournament?\nA) A warning to the fencer\nB) A serious penalty resulting in removal from the tournament and building\nC) A point awarded to the opponent\nD) A minor rule violation",
+        "Answer": "B"
+    },
+    {
+        "Question": "In international competitions, referees are required to score the bout in which language?\nA) The local language of the fencer\nB) English\nC) French\nD) The local language of the competition",
+        "Answer": "C"
+    },
+    {
+        "Question": "What additional method do referees use to indicate specific calls to bridge a potential language barrier?\nA) Written signals\nB) Hand motions\nC) Audio recordings\nD) Visual aids such as flags",
+        "Answer": "B"
+    },
+    {
+        "Question": "A warning from the referee in a fencing bout has what scoring implication?\nA) It results in a point for the opponent.\nB) It annuls the offender's touch.\nC) It has no scoring implication.\nD) It leads to a black card.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the minimum force that the tip of a foil must be able to support without breaking the circuit?\nA) 3.90 newtons\nB) 4.90 newtons\nC) 5.90 newtons\nD) 6.90 newtons",
+        "Answer": "B"
+    },
+    {
+        "Question": "What part of the blade must make contact with the opponent's lam\u00e9 in foil fencing to register a score?\nA) The side of the blade\nB) The flat of the blade\nC) The tip of the blade\nD) The guard of the foil",
+        "Answer": "C"
+    },
+    {
+        "Question": "In saber fencing, the lam\u00e9 covers which parts of the body?\nA) Only the torso\nB) The whole upper body\nC) The arms and torso\nD) The legs and torso",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the context of fencing, what is the primary purpose of ratings/rankings as used by national fencing federations?\nA) To determine the material of the fencing equipment\nB) To serve as the basis for initial seeding into the pool rounds of tournaments\nC) To decide the type of fencing weapons used in competitions\nD) To select the members of the national fencing team",
+        "Answer": "B"
+    },
+    {
+        "Question": "In foil fencing, what piece of equipment is used to verify that a touch is on the valid target area?\nA) Mask\nB) Glove\nC) Lam\u00e9\nD) Chest protector",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since which year's Olympics has electric scoring been used in foil fencing to register touches?\nA) 1948\nB) 1956\nC) 1964\nD) 1972",
+        "Answer": "B"
+    },
+    {
+        "Question": "What are the two types of foil used in modern fencing?\nA) Electric and Steam\nB) Steam and Dry\nC) Electric and Dry\nD) Dry and Wet",
+        "Answer": "B"
+    },
+    {
+        "Question": "What component at the tip of an electric blade provides information when touching the opponent?\nA) A rubber cap\nB) A pommel\nC) A button\nD) A grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is required to determine the scoring in a tournament with non-electric foils?\nA) An electric scoring apparatus\nB) A judge\nC) A plastic sword\nD) A fencing mask",
+        "Answer": "B"
+    },
+    {
+        "Question": "Since which Olympics have the F\u00e9d\u00e9ration Internationale d'Escrime and most national organizations required electric scoring apparatus?\nA) 1948 Olympics\nB) 1952 Olympics\nC) 1956 Olympics\nD) 1960 Olympics",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the purpose of the pommel in a fencing sword assembly?\nA) To sharpen the blade\nB) To hold the guard, blade, plug, and grip together\nC) To provide a decorative element to the sword\nD) To indicate the type of fencing sword being used",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which type of grip is associated with pommels that fit into a countersink in the grip?\nA) Straight traditional grips\nB) Pistol grips\nC) Italian grips\nD) French grips",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many types of grips are mentioned for use in foil fencing?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum length of a foil used in the sport of fencing?\nA) 90 cm\nB) 100 cm\nC) 110 cm\nD) 120 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "In foil fencing, how is a point scored?\nA) By making contact with the side of the blade\nB) By making contact with the tip of the sword\nC) By disarming the opponent\nD) By making contact with the flat of the blade",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum weight allowed for a foil in official fencing competitions?\nA) 400 g\nB) 450 g\nC) 500 g\nD) 550 g",
+        "Answer": "C"
+    },
+    {
+        "Question": "The rules for the sport of fencing in the United States are regulated by which organization?\nA) International Olympic Committee\nB) United States Fencing Association\nC) National Collegiate Athletic Association\nD) American Sports Federation",
+        "Answer": "B"
+    },
+    {
+        "Question": "When were the current international rules for foil adopted by the FIE Committee for Foil?\nA) 1899\nB) 1904\nC) 1914\nD) 1920",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year were the rules governing the use of electrical judging apparatus in fencing first adopted?\nA) 1945\nB) 1957\nC) 1962\nD) 1971",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was women's \u00e9p\u00e9e introduced to the Olympics?\nA) 1924\nB) 1964\nC) 1996\nD) 2000",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following weapons is NOT a part of women's fencing at the Olympics?\nA) Foil\nB) \u00c9p\u00e9e\nC) Sabre\nD) Rapier",
+        "Answer": "D"
+    },
+    {
+        "Question": "In fencing, what is the age group for competitors who are 14 and under?\nA) Cadet\nB) Y10\nC) Y14\nD) Junior",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following age groups in fencing allows for those who are 19 and under to compete?\nA) Senior\nB) Junior\nC) Cadet\nD) Y12",
+        "Answer": "B"
+    },
+    {
+        "Question": "Is it permissible for a fencer to compete in an age group that is younger than their actual age?\nA) Yes, but it is not encouraged.\nB) No, older competitors must compete in their own age group or higher.\nC) Yes, and it is encouraged to expedite learning.\nD) No, competitors are strictly bound to their age-specific group.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the veteran category of fencing, which age group does not exist?\nA) 40 and over\nB) 50 and over\nC) 60 and over\nD) 70 and over",
+        "Answer": "B"
+    },
+    {
+        "Question": "The tip of an electric foil is designed to break the circuit and signal a hit when the tip is __________.\nA) twisted\nB) heated\nC) depressed\nD) disconnected",
+        "Answer": "C"
+    },
+    {
+        "Question": "In foil fencing, a hit that lands outside the valid target area is indicated by which colors on the scoring apparatus?\nA) Blue or Green\nB) Red or Black\nC) White or Yellow\nD) Purple or Orange",
+        "Answer": "C"
+    },
+    {
+        "Question": "The button assembly of an electric foil's tip includes all of the following components EXCEPT:\nA) a barrel\nB) a plunger\nC) a wire mesh\nD) retaining screws",
+        "Answer": "C"
+    },
+    {
+        "Question": "When both fencers hit, how is the point awarded according to the rules of priority?\nA) To the fencer who hits first\nB) To the fencer judged to be on the defensive\nC) To the fencer judged to be attacking\nD) Points are awarded to both fencers",
+        "Answer": "C"
+    },
+    {
+        "Question": "How can the defending fencer gain \"priority\" over the attacking fencer in a foil bout?\nA) By retreating quickly\nB) By performing a \"parry\" with the forte of their blade\nC) By shouting louder\nD) By attacking simultaneously",
+        "Answer": "B"
+    },
+    {
+        "Question": "If an attacking fencer's attack misses, what happens to the \"priority\"?\nA) It remains with the attacking fencer\nB) It is lost and a point is given to the defender\nC) It switches to the defending fencer\nD) The bout is paused to determine the next move",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the term for the strong part of the fencer's blade used to deflect an attack?\nA) Foible\nB) Forte\nC) Tang\nD) Ricasso",
+        "Answer": "B"
+    },
+    {
+        "Question": "What action can the defending fencer take to switch \"priority\" to themselves?\nA) A fast retreat\nB) A \"beat\" on the opponent's blade\nC) A loud verbal objection\nD) Removing their mask",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the weak part of the blade called, which can be struck to maintain or gain \"priority\"?\nA) Edge\nB) Forte\nC) Foible\nD) Point",
+        "Answer": "C"
+    },
+    {
+        "Question": "When both fencers are attempting to beat each other's blades, who is favored by the rules of priority?\nA) The fencer with the heavier blade\nB) The fencer who is on the defensive\nC) The fencer who is on the attack\nD) The fencer with the quicker beat",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of steel is required for foil blades used in international competitions?\nA) High-carbon steel\nB) Low-carbon steel\nC) Maraging steel\nD) Stainless steel",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the purpose of the foil blade's design to bend upon impact?\nA) To make the blade lighter\nB) To create a distinctive sound\nC) To prevent breaking and causing harm\nD) To increase the reach of the fencer",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum length allowed for a foil blade?\nA) 80 cm (31 in)\nB) 90 cm (35 in)\nC) 100 cm (39 in)\nD) 110 cm (43 in)",
+        "Answer": "B"
+    },
+    {
+        "Question": "How much does a typical competition foil weigh?\nA) 500 g (18 oz)\nB) 450 g (16 oz)\nC) 400 g (14 oz)\nD) 350 g (12 oz)",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which part of the foil blade is referred to as the \"forte\"?\nA) The middle section\nB) The section near the guard\nC) The section near the tip\nD) The section contained within the grip",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the part of the blade that extends into the tang?\nA) Foible\nB) Ricasso\nC) Pommel\nD) Quillons",
+        "Answer": "B"
+    },
+    {
+        "Question": "How long is the assembled weapon at maximum?\nA) 90 cm (35 in)\nB) 100 cm (39 in)\nC) 110 cm (43 in)\nD) 120 cm (47 in)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In electric foil fencing, where does one end of the cord attach to?\nA) The front of the fencing strip\nB) The back of the fencing strip\nC) The fencer's mask\nD) The referee's scoring device",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which statement is correct regarding the cord in electric fencing weapons?\nA) The two ends of the cord are interchangeable with one another.\nB) The cord is only used in foil fencing, not in epee or sabre.\nC) One end of the cord goes through the fencing gear, coming out behind the fencer.\nD) The cord is wireless and does not need to be attached to the strip or weapon.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The modern foil is considered a training weapon for the small-sword, which was commonly carried by gentlemen in which century?\nA) 16th century\nB) 17th century\nC) 18th century\nD) 19th century",
+        "Answer": "C"
+    },
+    {
+        "Question": "The use of the foil as a weapon for sport became more prevalent during which century?\nA) 16th century\nB) 17th century\nC) 18th century\nD) 19th century",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Shakespeare's \"Hamlet,\" the reference to \"let the foils be brought\" indicates that the foil as a blunted weapon for sword practice dates back to at least the:\nA) 14th century\nB) 15th century\nC) 16th century\nD) 17th century",
+        "Answer": "C"
+    },
+    {
+        "Question": "The point of the foil was often blunted by wrapping a foil around the blade or by fastening what on the point?\nA) A cap\nB) A knob\nC) A guard\nD) A button",
+        "Answer": "B"
+    },
+    {
+        "Question": "German students developed which type of thrusting small sword for the Sto\u00dfmensur?\nA) Pariser\nB) Londoner\nC) Wiener\nD) Berliner",
+        "Answer": "A"
+    },
+    {
+        "Question": "Foil fencing rules are derived from a period when what was considered the norm?\nA) Dueling for sport\nB) Dueling to the death\nC) Competitive exhibition matches\nD) Non-contact displays",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year were foil events first included in the Olympic Games?\nA) 1886\nB) 1896\nC) 1906\nD) 1916",
+        "Answer": "B"
+    },
+    {
+        "Question": "In foil fencing, which part of the body is NOT considered a valid target area?\nA) The torso\nB) The groin\nC) The head\nD) The lower part of the bib of the mask",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the consequence of making a touch on an off-target area in a foil fencing bout?\nA) The bout continues without interruption\nB) The fencer who made the touch is penalized\nC) Play is stopped, and no points are awarded\nD) The fencer who was touched gains a point",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which part of the fencing mask's bib is considered a valid target area in foil fencing?\nA) The entire bib\nB) The upper half of the bib\nC) The lower part of the bib\nD) None of the bib",
+        "Answer": "C"
+    },
+    {
+        "Question": "Touches to which part of the foil fencing equipment do NOT stop play?\nA) The torso\nB) The guard\nC) The mask\nD) The arms",
+        "Answer": "B"
+    },
+    {
+        "Question": "The electric foil is connected to the scoring apparatus via a _______ that runs down a channel cut into the top of the blade.\nA) body cord\nB) wireless transmitter\nC) Bluetooth device\nD) metal chain",
+        "Answer": "A"
+    },
+    {
+        "Question": "The socket underneath the guard of an electric foil is designed to connect with the body cord at the fencer's _______.\nA) ankle\nB) waist\nC) wrist\nD) shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of socket used in electric foils has a single prong and utilizes a twist-lock mechanism?\nA) European\nB) Bayonette\nC) Italian\nD) Two prong",
+        "Answer": "B"
+    },
+    {
+        "Question": "The two-prong socket used in electric foils is characterized by _______.\nA) having prongs of the same diameter\nB) requiring a twist to lock in place\nC) prongs with different diameters\nD) a magnetic attachment system",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was the additional bonus round added to \u00e9p\u00e9e fencing in international competitions?\nA) 2014\nB) 2015\nC) 2016\nD) 2017",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the purpose of the anti-parrying rule?\nA) To make the game more exciting\nB) To prevent evasion of the Laws\nC) To increase scoring opportunities\nD) To shorten the duration of matches",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the consequence for a fencer who commits a Group 4 offence such as deliberate brutality?\nA) They receive a verbal warning.\nB) They are awarded a point.\nC) They are given a black card and excluded from the competition.\nD) They are required to apologize to the opponent.",
+        "Answer": "C"
+    },
+    {
+        "Question": "If a fencer refuses to shake hands after a bout, what can the director issue?\nA) A yellow card\nB) A red card\nC) A black card\nD) A white card",
+        "Answer": "C"
+    },
+    {
+        "Question": "What happens to a fencer's name in the official tournament record if they are issued a black card?\nA) It is highlighted in red.\nB) It is underlined.\nC) It remains unchanged.\nD) It is replaced with \"FENCER EXCLUDED\".",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many instances of a Group 3 offence are necessary before a black card is issued?\nA) One instance\nB) Two instances\nC) Three instances\nD) Four instances",
+        "Answer": "B"
+    },
+    {
+        "Question": "In fencing, what is the consequence of receiving a black card from the director or referee?\nA) A warning is given\nB) The fencer is awarded a point\nC) The fencer is excluded from the remainder of the competition\nD) The fencer receives a time penalty",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following actions can result in a fencer being issued a black card?\nA) A first instance of a Group 2 offence\nB) Deliberate brutality\nC) Winning a match\nD) Arriving late to the competition",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens to a fencer's name in the official record of the tournament if they are issued a black card?\nA) It is highlighted\nB) It is underlined\nC) It is replaced with \"FENCER EXCLUDED\"\nD) It is moved to the top of the list",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many Group 3 offences does it take for a fencer to be punished with a black card?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the winner of some fencing matches determined according to F\u00e9d\u00e9ration Internationale d'Escrime rules?\nA) By the number of touches\nB) By a judges' decision\nC) By a coin toss\nD) By a final duel",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the penalty for a second approaching their principal during the round?\nChoices:\nA) Disqualification\nB) Warning\nC) 5 shillings\nD) 10 shillings",
+        "Answer": "C"
+    },
+    {
+        "Question": "In most forms of swordsmanship and stickfighting, how should the lead foot be positioned in relation to the main hand?\nA) Opposite to the main hand\nB) Matched with the main hand\nC) Behind the main hand\nD) Irrelevant to the position of the main hand",
+        "Answer": "B"
+    },
+    {
+        "Question": "When wielding a weapon, what is considered paramount to all other positioning options?\nA) Speed\nB) Agility\nC) Reach\nD) Balance",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the lead-to-lead rule, which of the following statements is true?\nA) The rear foot should be matched with the weapon hand for better defense.\nB) The lead foot and weapon hand should be on the same side to maximize reach.\nC) Any foot can be lead regardless of the weapon hand.\nD) The weapon should be used to shield the body only in exceptional cases.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The male triangle pattern in triangular footwork involves:\nA) Advancing towards the opponent\nB) Retreating in a pattern facing away from the practitioner\nC) Moving laterally to the right and left\nD) Charging directly at the opponent",
+        "Answer": "B"
+    },
+    {
+        "Question": "The emphasis on efficient counterattacking in triangular footwork is due to:\nA) The low risk of exchanging weapon strikes\nB) The high risk of exchanging weapon strikes\nC) The preference for long-range combat\nD) The focus on aerial techniques",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the consequence of a fencer receiving a black card for a Group 4 offence?\nA) The fencer receives a warning.\nB) The fencer is excluded from the remainder of the competition.\nC) The fencer is awarded penalty points.\nD) The fencer must apologize to the opponent.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following actions would NOT result in the issuance of a black card?\nA) Deliberate brutality\nB) Refusal to shake hands\nC) A minor technical fault\nD) Refusal to salute",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who has the authority to issue a black card to a fencer?\nA) The tournament organizer\nB) The director, or the referee\nC) The opponent fencer\nD) The audience by majority vote",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the official record of the tournament, how is a fencer who has been issued a black card listed?\nA) As \"FENCER EXCLUDED\"\nB) With a red mark next to their name\nC) Their name remains unchanged\nD) Their name is removed entirely",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the consequence of a fencer receiving a black card in a competition?\nA) The fencer receives a warning\nB) The fencer is given a penalty point\nC) The fencer is excluded from the remainder of the competition\nD) The fencer is awarded a point",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following actions can lead to a fencer being issued a black card?\nA) A second instance of a Group 1 offence\nB) A second instance of a Group 2 offence\nC) A second instance of a Group 3 offence\nD) A third instance of a Group 3 offence",
+        "Answer": "C"
+    },
+    {
+        "Question": "After a fencer is excluded due to a black card, how is their name recorded in the official tournament record?\nA) FENCER DISQUALIFIED\nB) FENCER EXCLUDED\nC) FENCER WITHDRAWN\nD) FENCER PENALIZED",
+        "Answer": "B"
+    }
+]

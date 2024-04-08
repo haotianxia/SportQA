@@ -1,0 +1,3066 @@
+[
+    {
+        "Question": "In Kodokan Judo, one of the most influential figures is Kyuzo Mifune, who is featured in a video that emphasizes the core principles of the sport. What is the title of this video?\nA) The Canon of Judo\nB) The Essence of Judo\nC) Judo Mastery\nD) The Judo Way",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ude-Hishigi-Waki-Gatame is classified as one of the ______ techniques of Kodokan Judo.\nA) 29 grappling\nB) 15 throwing\nC) 12 striking\nD) 18 pinning",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Waki gatame is prohibited in competition if the competitor falls directly to the mat while applying it, and this action is considered a(n) ______.\nA) Ippon\nB) Shido\nC) Yuko\nD) Hansoku-make",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the context of Judo's Katame-waza, how many joint techniques are listed in the Kansetsu-waza?\nA) 5\nB) 7\nC) 9\nD) 11",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing this armlock with Uke on their stomach, where should tori trap uke's arm to perform the technique correctly?\nA) With the elbow above tori's shoulder\nB) With the elbow beneath tori's armpit\nC) With the elbow around tori's waist\nD) With the elbow against tori's knee",
+        "Answer": "B"
+    },
+    {
+        "Question": "Uchi Makikomi is categorized as a __________ technique in Judo.\nA) Frontal sacrifice\nB) Rear sacrifice\nC) Side sacrifice\nD) Standing",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the 1895 Gokyo no Waza lists, Uchi Makikomi belonged to which group?\nA) First group\nB) Third group\nC) Fifth group\nD) Seventh group",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kouchi Gaeshi is categorized as a __________ technique within Judo.\nA) Foot\nB) Hand\nC) Hip\nD) Sacrifice",
+        "Answer": "B"
+    },
+    {
+        "Question": "To successfully execute Kouchi Gaeshi, the Tori must first dodge Uke's __________.\nA) Ouchi gari\nB) Kouchi gari\nC) Uchi mata\nD) Harai goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kosoto Gari is classified as a _______ technique in Judo.\nA) Hand\nB) Hip\nC) Foot\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Gokyo (no waza), Kosoto Gari belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kosoto Gari is one of the original throws developed by which founder of Judo?\nA) Morihei Ueshiba\nB) Mitsuyo Maeda\nC) Jigoro Kano\nD) Kyuzo Mifune",
+        "Answer": "C"
+    },
+    {
+        "Question": "The official IJF name for the technique commonly known as the \"Three corner armlock\" is:\nA) Ao-Muke-Gata-Ude-Hishigi\nB) Ude-hishigi-sankaku-gatame\nC) Shime garami\nD) Ushiro sankaku gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a variant of the Sankaku gatame technique?\nA) Omote sankaku gatame\nB) Yoko sankaku gatame\nC) Shime garami\nD) Ushiro sankaku gatame",
+        "Answer": "C"
+    },
+    {
+        "Question": "Ude-Hishigi-Sankaku-Gatame is classified under which of the following lists in Judo's Katame-waza?\nA) Osae-waza\nB) Shime-waza\nC) Kansetsu-waza\nD) Nage-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many grappling techniques are officially recognized in Kodokan Judo's Katame-waza?\nA) 9\nB) 29\nC) 40\nD) 15",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is demonstrated the Ude-Hishigi-Sankaku-Gatame in the video \"The Essence of Judo\"?\nA) Jigoro Kano\nB) Isao Okano\nC) Kyuzo Mifune\nD) Masahiko Kimura",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the term \"Sankaku\" translate to in the context of Judo techniques?\nA) Circle\nB) Square\nC) Triangle\nD) Grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Sankaku-waza, what part of Tori's body is primarily used to form the controlling \"triangle\"?\nA) Arms\nB) Legs\nC) Head\nD) Shoulders",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a component of Sankaku-waza techniques?\nA) Levers\nB) Chokes\nC) Fixed assets\nD) Strikes",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Judo, if a practitioner wants to execute a kick that involves striking with the knee towards the front, which technique should they use?\nA) Ushiro-jury\nB) Yoko-jury\nC) Mae-ate\nD) Taka-jury",
+        "Answer": "C"
+    },
+    {
+        "Question": "Atemi waza, or body-striking techniques, were adopted into judo from several ancient traditional Japanese jujitsu styles by _______.\nA) Jigor\u014d Kan\u014d\nB) Morihei Ueshiba\nC) Kyuzo Mifune\nD) Gichin Funakoshi",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following techniques is NOT one of the four counterattack techniques against atemi waza introduced by Kan\u014d in the nage nokata?\nA) Seoi nage\nB) Uki goshi\nC) Tomoe nage\nD) Yoko guruma",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo competitions, atemi waza are _______.\nA) Encouraged as scoring techniques\nB) Used only in kata and self-defense\nC) Forbidden in the sport judo competitions rules\nD) The primary focus of the match",
+        "Answer": "C"
+    },
+    {
+        "Question": "The classical repertoire of 40 throws that Jigor\u014d Kan\u014d compiled is known as _______.\nA) Randori-no-kata\nB) Nage nokata\nC) Gokyo no waza\nD) Katame no kata",
+        "Answer": "C"
+    },
+    {
+        "Question": "Jigor\u014d Kan\u014d's intention for judo was to keep its practical character as a martial art and its nature of physical and moral education. This is reflected in his inclusion of counterattacks against atemi waza in the _______.\nA) Katame waza\nB) Nage waza\nC) Nage nokata\nD) Atemi waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many body-striking techniques did Kan\u014d distinguish in judo?\nA) 15\nB) 23\nC) 40\nD) 5",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does \"Empi-uchi\" refer to in Judo's Ude-Ate-waza arm striking techniques?\nA) Side blow\nB) Upward blow\nC) Elbow blow\nD) Downward strike",
+        "Answer": "C"
+    },
+    {
+        "Question": "Yoko wakare (\u6a2a\u5206) is classified as which type of Judo technique?\nA) Standing technique\nB) Ground technique\nC) Side sacrifice technique\nD) Arm entanglement technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list, Gokyo (no waza), of Kodokan Judo, Yoko wakare belongs to which group?\nA) First group\nB) Third group\nC) Fifth group\nD) Seventh group",
+        "Answer": "C"
+    },
+    {
+        "Question": "Ude gaeshi is a variation of which technique in judo?\nA) Tomoe nage\nB) Yoko wakare\nC) Ouchi gari\nD) Koshi guruma",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who demonstrated Ude gaeshi in \"The Essence of Judo\"?\nA) Jigoro Kano\nB) Isao Okano\nC) Kyuzo Mifune\nD) Keiko Fukuda",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the described technique, when should the tori initiate the fall to the mat to perform the sacrifice throw?\nA) As soon as the uke begins to push back\nB) When the uke is about to resist\nC) At the moment of maximum forward push by uke\nD) After uke has stopped pushing and is off balance",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the position of the tori's body relative to the uke's feet when executing the sacrifice throw?\nA) Parallel and distant\nB) Directly in front of, close to, and perpendicular\nC) Behind and aligned with\nD) At an acute angle to the side",
+        "Answer": "B"
+    },
+    {
+        "Question": "What must the tori do while dropping to the mat to ensure the successful execution of the throw?\nA) Rotate his body to push uke away\nB) Keep his body straight and stiff\nC) Rotate his body to pull uke over him\nD) Stay static to let uke trip over",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is it crucial for the timing of the sacrifice throw to be precise?\nA) To prevent uke from landing on top of tori\nB) To allow tori to regain a standing position quickly\nC) To ensure the audience is impressed\nD) To make the throw more aesthetically pleasing",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the primary action performed in the technique De Ashi Harai?\nA) Blocking of the foot\nB) Grabbing of the wrist\nC) Sweeping of one foot\nD) Throwing over the shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "How does Sasae Tsuri Komi Ashi differ from Harai Tsuri Komi Ashi?\nA) Sasae Tsuri Komi Ashi involves a sweeping motion while Harai Tsuri Komi Ashi involves blocking\nB) Sasae Tsuri Komi Ashi involves blocking the foot to prevent stepping forward, whereas Harai Tsuri Komi Ashi involves a sweeping motion backwards\nC) Both techniques involve throwing over the shoulder\nD) Both techniques are identical in execution",
+        "Answer": "B"
+    },
+    {
+        "Question": "Harai Tsurikomi Ashi is classified as a _______ technique in Judo.\nA) Hand\nB) Hip\nC) Foot\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Harai Tsurikomi Ashi belongs to the _______ group.\nA) First\nB) Second\nC) Third\nD) Fourth",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Nage No Kata, when Uke strikes downward towards Tori's forehead, how does Tori respond?\nA) Tori steps backward to maintain distance.\nB) Tori steps forward and into Uke's armpit.\nC) Tori blocks the strike with their arm.\nD) Tori ducks under Uke's arm.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where does Tori place their feet while preparing to execute Ura nage in the Nage No Kata?\nA) One foot past Uke's hip and the other outside Uke's legs.\nB) Both feet in front of Uke.\nC) One foot behind Uke and the other in front of Uke.\nD) One foot past Uke's hip and the other foot inwards between Uke's legs.",
+        "Answer": "D"
+    },
+    {
+        "Question": "During the execution of Ura nage, where does Tori place their hands on Uke?\nA) On the back of Uke's belt and on Uke's shoulder.\nB) On Uke's wrist and on the back of Uke's belt.\nC) On the back of Uke's belt and Uke's abdomen.\nD) On Uke's chest and abdomen.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What movement does Tori perform with their foot that is between Uke's legs during the Ura nage?\nA) Tori moves the foot outward while lifting Uke.\nB) Tori keeps the foot stationary and uses only the hips to lift Uke.\nC) Tori moves the foot inward while dropping shoulders towards the mat.\nD) Tori sweeps Uke's legs with the foot.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is Uke's responsibility during the execution of the throw in Ura nage?\nA) To maintain tension in their posture to avoid drooping.\nB) To assist Tori by jumping over the shoulder.\nC) To relax the body completely and fall onto Tori.\nD) To counter the throw and regain balance.",
+        "Answer": "A"
+    },
+    {
+        "Question": "Ura Nage is classified under which group of the traditional throwing list of Kodokan Judo?\nA) First group, Ikkyo\nB) Second group, Nikyo\nC) Third group, Sankyo\nD) Fifth group, Gokyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "What type of technique is Ura Nage considered in Kodokan Judo?\nA) Side sacrifice technique\nB) Front sacrifice technique\nC) Rear sacrifice technique\nD) Standing technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo, the technique known as \"Uchi mata sukachi\" is primarily used as a counter to which other technique?\nA) Sumi otoshi\nB) Uki otoshi\nC) Uchi mata\nD) Floating drop",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"sumi otoshi\" technique in judo is characterized by which directional orientation?\nA) Forwards oriented\nB) Sideways oriented\nC) Backwards oriented\nD) Upwards oriented",
+        "Answer": "C"
+    },
+    {
+        "Question": "In free fight and tournaments, the technique described is considered 100% a _________ technique.\nA) Leg (Ashi-Waza)\nB) Hip (Koshi-Waza)\nC) Hand (Te-Waza)\nD) Foot (Sutemi-Waza)",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing the technique in randori, Tori can defend against Uke's hipthrows by stepping to the side, known as _________.\nA) Uchi Mata\nB) Kuzushi\nC) Tai Sabaki\nD) Tsuri Goshi",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the action of tai sabaki, Tori can pull at the _________ to break Uke's balance.\nA) Belt\nB) Sleeves or lapel\nC) Ankles\nD) Neck",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the context of yaku soku geiko, variations can be seen by pulling at the _________.\nA) Lapels\nB) Belt\nC) Sleeves\nD) Both A and C",
+        "Answer": "D"
+    },
+    {
+        "Question": "When Uke overcommits in hipthrows, the principle used to guide Uke to the ground is similar to that in _________.\nA) Kata Guruma\nB) Uchi Mata Sukashi\nC) O Goshi\nD) Harai Goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Uki otoshi, or \"floating drop,\" is categorized under which group of the traditional throwing list, Gokyo-no-Nagewaza, in Kodokan Judo?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Kodokan Judo, how many throws are currently recognized in addition to the traditional forty throws?\nA) 27\nB) 67\nC) 10\nD) 50",
+        "Answer": "A"
+    },
+    {
+        "Question": "What type of technique is Uki otoshi classified as in Judo?\nA) Koshi-waza (hip technique)\nB) Ashi-waza (foot and leg technique)\nC) Te-waza (hand technique)\nD) Sutemi-waza (sacrifice technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "Tawara Gaeshi is classified as a _________ technique in Judo.\nA) Forward throw\nB) Rear sacrifice\nC) Pinning\nD) Striking",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the 1895 Gokyo no Waza lists, Tawara Gaeshi was part of which group?\nA) Dai Ikkyo\nB) Dai Sankyo\nC) Dai Yonkyo\nD) Dai Gokyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "When an opponent attempts a Morote gari, what is the defender's initial response according to the technique description?\nA) The defender steps aside to avoid the attack.\nB) The defender goes over the shoulders and arms to lock the opponent's body.\nC) The defender counters with a striking technique.\nD) The defender immediately attempts a throw.",
+        "Answer": "B"
+    },
+    {
+        "Question": "After locking the opponent's body in response to Morote gari, what does the defender do next?\nA) The defender maintains the body lock without moving.\nB) The defender pushes the opponent forward.\nC) The defender drops his/her weight down and backwards to fling the opponent behind.\nD) The defender releases the lock and transitions to a different technique.",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the technique description, what can the defender maintain all the way through to osaekomi-waza after countering Morote gari?\nA) A grip on the opponent's sleeve\nB) The initial stance\nC) The body lock\nD) The Morote gari attack",
+        "Answer": "C"
+    },
+    {
+        "Question": "Soto Makikomi belongs to which group of the traditional throwing list in Kodokan Judo?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many throws are part of the current Kodokan Judo syllabus that includes Soto Makikomi?\nA) 40 Throws\nB) 50 Throws\nC) 67 Throws\nD) 20 Throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the English alias for the judo technique also known as \"Sode Tsurikomi Goshi\"?\nA) Sleeve tip throw\nB) Armlock throw\nC) Leg sweep\nD) Shoulder drop",
+        "Answer": "A"
+    },
+    {
+        "Question": "Tsurikomi Goshi is classified under which category of Judo techniques?\nA) Ashi-Waza (foot techniques)\nB) Koshi-Waza (hip techniques)\nC) Te-Waza (hand techniques)\nD) Sutemi-Waza (sacrifice techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Tsurikomi Goshi belongs to which group?\nA) Dai Ikkyo (First Group)\nB) Dai Nikyo (Second Group)\nC) Dai Sankyo (Third Group)\nD) Dai Yonkyo (Fourth Group)",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many throws are currently recognized in the Kodokan Judo syllabus, which includes Tsurikomi Goshi?\nA) 40 throws\nB) 67 throws\nC) 20 throws\nD) 100 throws",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kodokan Judo, one of the essential components is the \"Gokyo\", which is a set of _____________. What does this set consist of?\nA) Philosophical principles\nB) Physical exercises\nC) Judo techniques\nD) Mental meditation practices",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, where can one find exemplar videos demonstrating Danzan Ryu techniques?\nA) http://www.judoinfo.com/techdraw.htm\nB) http://www.judoinfo.com/gokyo1.htm\nC) http://judoinfo.com/video8.htm\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kuchiki taoshi is categorized as a _______ in Judo.\nA) Foot technique\nB) Hand technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Kuchiki taoshi technique was adopted into the Kodokan's list of techniques known as _______.\nA) Gokyo No Waza\nB) Katame No Waza\nC) Shinmeisho No Waza\nD) Kyusho Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, one of the key components is the set of techniques that practitioners must learn. Which of the following is a recognized compilation of these techniques?\nA) The Canon of Judo\nB) The Judo Handbook\nC) The Judo Manifesto\nD) The Judo Chronicles",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the judo technique known as Kuchiki taoshi, what part of the opponent's body is primarily targeted to initiate the throw?\nA) The arm\nB) The leg\nC) The neck\nD) The waist",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the literal translation of the judo technique \"Kuchiki taoshi\"?\nA) Gentle way\nB) Dead tree drop\nC) Floating reed\nD) Victory by fall",
+        "Answer": "B"
+    },
+    {
+        "Question": "Uchi Mata Gaeshi is classified as which type of technique in Judo?\nA) Hand technique\nB) Foot technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which list is Uchi Mata Gaeshi included at the Kodokan?\nA) Gokyo No Waza\nB) Katame No Waza\nC) Shinmeisho No Waza\nD) Kyushin No Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "Sumi Otoshi is classified as which type of technique in Judo?\nA) Leg technique\nB) Hand technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Sumi Otoshi belongs to which group?\nA) First group, Ikkyo\nB) Second group, Nikyo\nC) Third group, Sankyo\nD) Fifth group, Gokyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "Ouchi Gaeshi is categorized as which type of Judo technique?\nA) Hand technique (Te-waza)\nB) Foot technique (Ashi-waza)\nC) Hip technique (Koshi-waza)\nD) Sacrifice technique (Sutemi-waza)",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of the Ouchi Gaeshi technique in Judo?\nA) To initiate an attack\nB) To pin the opponent to the ground\nC) To counteract the Ouchi gari throw\nD) To execute a chokehold",
+        "Answer": "C"
+    },
+    {
+        "Question": "Hikikomi Gaeshi, also known as the __________, is one of the preserved throwing techniques in judo.\nA) pulling-in counter\nB) lifting reversal\nC) grip escape\nD) balance breaker",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the described technique, what does tori do differently compared to Sumi Gaeshi?\nA) Tori uses a leg sweep instead of a throw.\nB) Tori traps both of uke's arms.\nC) Tori traps one of uke's arms.\nD) Tori performs a striking technique.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Tani otoshi is classified as which type of Judo technique?\nA) Hand technique (te-waza)\nB) Hip technique (koshi-waza)\nC) Leg technique (ashi-waza)\nD) Side sacrifice technique (yoko-sutemi)",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the traditional throwing list of the Gokyo no waza, Tani otoshi belongs to which group?\nA) First group\nB) Second group\nC) Third group\nD) Fourth group",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Judo, which technique is considered similar to the \"Valley drop\" due to its mechanics and execution?\nA) Uki goshi\nB) Yoko otoshi\nC) O soto gari\nD) Seoi nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the tani-otoshi technique, how do you position your leg in relation to your opponent's legs?\nA) You place your leg in front of one of your opponent's legs.\nB) You place your leg behind both legs of your opponent.\nC) You place your leg between your opponent's legs.\nD) You do not use your legs; you only use your arms.",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing the tani-otoshi, what is the intended direction to pull your opponent to effectively perform the technique?\nA) Pull the opponent forwards.\nB) Pull the opponent sideways.\nC) Pull the opponent backwards.\nD) Push the opponent upwards.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Ude-Hishigi-Te-Gatame is classified under which category of Kodokan Judo techniques?\nA) Nage-waza\nB) Kansetsu-waza\nC) Ne-waza\nD) Atemi-waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many official grappling techniques are there in Judo's Katame-waza according to the Kodokan?\nA) 9\nB) 29\nC) 3\nD) 15",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT an official IJF name for the technique commonly known as \"Hand armlock\"?\nA) Ude-hishigi-te-gatame  \nB) Te-gatame  \nC) U.H. te-gatame  \nD) Shoulder arm breaker",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the video titled \"The Essence of Judo,\" which renowned judo expert is featured demonstrating techniques?\nA) Jigoro Kano\nB) Isao Okano\nC) Kyuzo Mifune\nD) Anton Geesink",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kuzure-Kami-Shiho-Gatame is a variation of which fundamental Judo mat hold?\nA) Kesa-Gatame\nB) Kami-Shiho-Gatame\nC) Yoko-Shiho-Gatame\nD) Tate-Shiho-Gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the English alias for the judo technique known as Sankaku Gatame in Japanese?\nA) Broken upper four quarter hold down\nB) Full body embrace\nC) Diagonal body hold\nD) Broken top four corner hold",
+        "Answer": "A"
+    },
+    {
+        "Question": "In executing the Kuzure-kami-shiho-gatame, how are the opponent's arms controlled differently from Kami shiho gatame?\nA) By pinning them to the mat with knees\nB) By wrapping them with a belt\nC) By pinning them between an upper arm and a knee\nD) By holding them above the head",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the key difference that gives Kuzure-kami-shiho-gatame its 'broken' attribute?\nA) The use of a belt to control the opponent\nB) The position of tori's knees on the mat\nC) The specific way the opponent's arms are pinned\nD) The requirement for tori to stay on his toes",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to Kyuzo Mifune in \"The Canon Of Judo,\" what is the correct position for tori's toes during the execution of a technique?\nA) Flat on the mat\nB) On his toes with knees off the mat\nC) On the sides of the feet\nD) On his heels with toes pointing upwards",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing the Kuzure-kami-shiho-gatame, what does tori do with his knees?\nA) Keeps them on the mat to stabilize his position\nB) Lifts them off the mat to apply pressure\nC) Uses them to pin the opponent's arms to the side\nD) Keeps them off the mat as stated by Kyuzo Mifune",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the English alias for the Judo technique 'O Goshi'?\nA) Major Hip (Roll) Throw\nB) Large Hip Throw\nC) 1/2 Hip Throw\nD) 2/2 Hip Throw",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which technique is considered a variant of the 'Major Hip (Roll) Throw'?\nA) Uki Goshi\nB) O Goshi\nC) Koshi Guruma\nD) Tsuri Goshi",
+        "Answer": "C"
+    },
+    {
+        "Question": "O-goshi, a technique in Judo, was originally referred to as what in the Tenjin Shiny\u014d-ry\u016b texts?\nA) Koshi-waza\nB) Koshi-nage\nC) Uki-goshi\nD) Harai-goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which group of the Gokyo-no-waza was O-goshi included when Judo was first founded?\nA) Dai ikkyo\nB) Dai sankyo\nC) Dai nikyo\nD) Dai yonkyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "During which year's revision of the Gokyo-no-waza was O-goshi moved to the first taught group?\nA) 1895\nB) 1905\nC) 1920\nD) 1930",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is O-goshi often the first throw taught to beginners in Judo?\nA) It requires exceptional strength.\nB) It is a complex technique to master.\nC) It is relatively simple to perform with control.\nD) It is only used in advanced competitions.",
+        "Answer": "C"
+    },
+    {
+        "Question": "\u014c goshi, the major hip throw, is classified under which category of Judo techniques?\nA) Ashi-waza (foot techniques)\nB) Koshi-waza (hip techniques)\nC) Te-waza (hand techniques)\nD) Sutemi-waza (sacrifice techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Gokyo-no-waza, \u014c goshi is part of which group of techniques?\nA) Dai ikkyo (first taught group)\nB) Dai nikyo (second taught group)\nC) Dai sankyo (third taught group)\nD) Dai yonkyo (fourth taught group)",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many throws are currently recognized in Kodokan Judo, which includes \u014c goshi?\nA) 40 throws\nB) 50 throws\nC) 67 throws\nD) 100 throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Danzan Ryu's Nagete list, how many techniques are identified alongside O-Goshi as common throws in martial arts that emphasize grappling and throwing?\nA) 15\nB) 20\nC) 25\nD) 30",
+        "Answer": "B"
+    },
+    {
+        "Question": "O-Goshi, a hip throw, is commonly used in martial arts that concentrate on which two aspects?\nA) Striking and blocking\nB) Grappling and throwing\nC) Kicking and punching\nD) Locking and pinning",
+        "Answer": "B"
+    },
+    {
+        "Question": "O-goshi is classified as a __________, which highlights the importance of the hip in the execution of the technique.\nA) te-waza (hand technique)\nB) ashi-waza (foot technique)\nC) koshi-waza (hip technique)\nD) ne-waza (ground technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the execution of O-goshi, kuzushi (the balance break) is directed to uke's __________.\nA) side\nB) rear\nC) front\nD) ground",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the tsukuri phase of O-goshi, tori's tsurite (lifting hand) passes behind uke's back, usually under uke's arm, with the goal of minimizing space between tori's back and uke's chest. This action is to ensure:\nA) maximum lifting power\nB) proper balance break\nC) effective turning/fitting in\nD) a strong defensive posture",
+        "Answer": "C"
+    },
+    {
+        "Question": "The hikite (pulling hand) in O-goshi is responsible for __________.\nA) lifting uke off the ground\nB) pulling uke's arm to the front to maintain the balance break\nC) pushing uke's back for better momentum\nD) securing uke's leg for a trip",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the kake phase of O-goshi, tori completes the throw by __________.\nA) stepping away from uke\nB) lifting with the hips and bending forward while continuing the pull to the front and down\nC) executing a sweeping motion with the leg\nD) throwing uke over the shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gyaku J\u016bji-jime is classified under which category of techniques in Kodokan Judo?\nA) Nage-waza\nB) Katame-waza\nC) Shime-waza\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Danzan Ryu, what is the name given to the technique similar to Gyaku J\u016bji-jime?\nA) Katate-jime\nB) Eri-jime\nC) Namijujijime\nD) Sode-guruma-jime",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the effect of properly applying the Gyaku J\u016bji-jime technique?\nA) Joint dislocation\nB) Increased blood flow\nC) Reduced blood flow to the brain\nD) Muscle strain",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which direction are the palms facing when executing the Gyaku J\u016bji-jime chokehold?\nA) Facing away from the person being choked\nB) Facing towards the person being choked\nC) Facing upwards\nD) Facing downwards",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who demonstrated the Ura-Juji-Jime technique in \"The Essence of Judo\"?\nA) Jigoro Kano\nB) Masahiko Kimura\nC) Kyuzo Mifune\nD) Keiko Fukuda",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the 2018 World Judo Championships, the Men's 90 kg category concluded with a contest for the _______ medal.\nA) Gold\nB) Silver\nC) Bronze\nD) Platinum",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kata guruma is categorized under which group in the traditional throwing list of the Gokyo no waza?\nA) First group\nB) Second group\nC) Third group\nD) Fourth group",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of throwing technique is Kata guruma classified as in Kodokan Judo?\nA) Leg technique (ashiwaza)\nB) Hip technique (koshiwaza)\nC) Hand technique (tewaza)\nD) Sacrifice technique (sutemiwaza)",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many throws are part of the current Kodokan Judo syllabus that includes Kata guruma?\nA) 40 throws\nB) 67 throws\nC) 50 throws\nD) 100 throws",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kyuzo Mifune's second variation of kata guruma, where does Mifune position himself in relation to uke?\nA) In front of uke\nB) To the side of uke\nC) Behind uke\nD) At a distance from uke",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the third variation of kata guruma demonstrated by Kyuzo Mifune, what is distinctive about his grip?\nA) He grabs uke's right leg\nB) He grabs both of uke's legs\nC) He grabs uke's left leg\nD) He does not touch uke's legs",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is uke positioned on tori's body during the execution of kata guruma?\nA) On tori's side\nB) In front of tori\nC) On tori's shoulder behind tori's head\nD) Below tori's waist",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why are the most common versions of kata guruma currently illegal under International Judo Federation rules?\nA) They involve a grip above the belt\nB) They involve throwing uke out of the mat area\nC) They involve a grip below the belt/touching the legs\nD) They involve excessive force",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which city was the book \"Judo Unleashed\" by Neil Ohlenkamp published?\nA) Los Angeles\nB) New York City\nC) Tokyo\nD) London",
+        "Answer": "B"
+    },
+    {
+        "Question": "Osoto Gaeshi is classified as a _______ technique in Judo.\nA) Hand\nB) Foot\nC) Hip\nD) Sacrifice",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of Osoto Gaeshi in Judo?\nA) To initiate an attack\nB) To pin the opponent\nC) To counter or reverse an Osoto gari\nD) To execute a joint lock",
+        "Answer": "C"
+    },
+    {
+        "Question": "When the uke attempts an Osoto Gari, how does the tori defend themselves?\nA) By stepping forward and pushing the uke\nB) By drawing back their trailing foot and twisting their torso\nC) By performing a forward roll to avoid the throw\nD) By countering with an immediate armlock",
+        "Answer": "B"
+    },
+    {
+        "Question": "What technique does the tori use to counter the uke's Osoto Gari?\nA) Seoi Nage\nB) Osoto Gari\nC) Uchi Mata\nD) Kesa Gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a choke in Judo, the practitioner wraps one arm behind the opponent's head and grasps onto the ________ with the opposite hand.\nA) belt\nB) leg\nC) sleeve of the gi\nD) ankle",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, while holding onto the sleeve for leverage, the opposite forearm is brought down across the ________ and clinched tight to execute the technique.\nA) chest\nB) throat\nC) arm\nD) waist",
+        "Answer": "B"
+    },
+    {
+        "Question": "The described choking technique is directly aided by the use of a _______, but it has also been adapted for no-gi application.\nA) belt\nB) gi\nC) protective gear\nD) mat",
+        "Answer": "B"
+    },
+    {
+        "Question": "The technique known as Sode guruma jime in Judo is categorized as a _______, which aims to compress the opponent's trachea or carotid arteries.\nA) Nage-waza\nB) Shime-waza\nC) Katame-waza\nD) Atemi-waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which judo technique was used by Hidehiko Yoshida to defeat Kiyoshi Tamura during Pride Total Elimination 2003?\nA) Ude garami\nB) Seoi nage\nC) Sode guruma jime\nD) Osoto gari",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"Ezequiel choke\" is also known by several other names. Which of the following is NOT an alias for the Ezequiel choke?\nA) Ezekiel choke\nB) Sleeve wheel choke\nC) Sleeve choke\nD) Scissor choke",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the purpose of Tori encircling and elevating uke's occiput in kesa gatame?\nA) To increase the pressure on uke's chest\nB) To reduce the power of uke's bridge\nC) To prevent uke from seeing the referee\nD) To make it easier for tori to stand up",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to Kodokan's technique guide, how should Tori's lead leg be positioned in relation to uke's trunk?\nA) Perpendicular and flexed\nB) Parallel and flexed\nC) Perpendicular and extended\nD) Parallel and extended",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is a common mistake Tori makes with their lead leg that makes them susceptible to uke's bridge?\nA) Keeping the knee fully extended\nB) Keeping the knee flexed\nC) Positioning the leg at a 45-degree angle\nD) Crossing the leg over uke's body",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the consequence of Tori having their knee pointed upwards while in kesa gatame?\nA) It decreases the pressure on uke\nB) It allows for a quicker transition to standing\nC) It increases susceptibility to the leg hook escape\nD) It makes it easier for tori to apply an armlock",
+        "Answer": "C"
+    },
+    {
+        "Question": "In kesa gatame, what does gripping the back of uke's lapel accomplish?\nA) It helps control uke's posture\nB) It prevents uke from rolling tori\nC) It diminishes the power of uke's bridge\nD) It allows tori to apply a choke",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the effect of maintaining Tori's knee close to the mat in kesa gatame?\nA) It allows uke to initiate a leg hook escape\nB) It prevents the initiation of the leg hook escape\nC) It makes it easier for uke to apply a counter-choke\nD) It reduces the effectiveness of tori's armlock",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where should Tori's head be in the ideal position for kuzure kesa gatame?\nA) Close to the ground\nB) More upright and above uke's\nC) To the side, facing away from uke\nD) Tucked under uke's chin",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary post that Tori loses when maintaining a flexed knee in kesa gatame?\nA) Hand post\nB) Head post\nC) Foot plantar-flexion\nD) Hip pressure",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which grip is NOT commonly used in kesa gatame?\nA) Gripping the back of uke's lapel\nB) Gripping tori's own thigh\nC) Clasping hands behind uke's head\nD) Gripping tori's far lapel",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does full extension of Tori's lead leg at the knee allow for in kesa gatame?\nA) Increased susceptibility to roll-over\nB) Use of foot plantar-flexion as a post\nC) Easier transition to a standing position\nD) Reduced control over uke's movement",
+        "Answer": "B"
+    },
+    {
+        "Question": "What mistake does Tori make when their lead leg and thigh are extended but perpendicular to uke's trunk?\nA) It allows for an easier armlock by uke\nB) It decreases the pressure on uke's chest\nC) It results in the loss of foot plantar-flexion as a post\nD) It makes tori's position more stable",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is it a mistake for Tori to have their knee pointed upwards in kesa gatame?\nA) It decreases the effectiveness of the hold\nB) It makes it easier for uke to breathe\nC) It increases tori's center of gravity\nD) It allows uke to apply a choke",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Elbow Pullout Escape, what is Tori's initial action to escape?\nA) Tori pushes uke forward\nB) Tori pulls out his held elbow\nC) Tori rolls over onto his stomach\nD) Tori applies a choke to uke",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the Roll-over Escape, what does Tori do to cause a forward shift in uke's weight?\nA) Tori extends his/her legs\nB) Tori applies a wrist lock\nC) Tori bridges into uke\nD) Tori performs a sweep",
+        "Answer": "C"
+    },
+    {
+        "Question": "What position does Tori aim to land in after executing the Roll-over Escape?\nA) Yoko-shiho-gatame\nB) Mune-gatame\nC) Kesa-gatame\nD) Tate-shiho-gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, Kesa-Gatame is one of the seven mat holds classified as __________.\nA) Osaekomi-waza\nB) Nage-waza\nC) Katame-waza\nD) Ashi-waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "The term \"scarfhold\" in English, when referring to Kesa-Gatame, is a mistranslation. The 'scarf' actually refers to a __________.\nA) Western neck scarf\nB) Buddhist Monk's sash\nC) Traditional Japanese belt\nD) Martial arts headband",
+        "Answer": "B"
+    },
+    {
+        "Question": "The correct orientation of the Buddhist Monk's sash, which the term 'kesa' refers to, is worn from the __________.\nA) Right shoulder towards the left hip\nB) Left shoulder towards the right hip\nC) Left hip towards the right shoulder\nD) Right hip towards the left shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, when transitioning to Kesa-Gatame from a throw, where should tori's grip be placed on the opponent's body?\nA) On the opponent's knee\nB) Near the opponent's elbow\nC) On the opponent's lapel\nD) On the opponent's ankle",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to \"The Canon Of Judo\" by Kyuzo Mifune, what should tori's arm do during Kesa-Gatame?\nA) Push uke's head down\nB) Lift uke's head\nC) Wrap around uke's waist\nD) Hold uke's leg",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where should tori's leg be positioned when holding an opponent in Kesa-Gatame?\nA) Under uke's knee\nB) Over uke's hip\nC) Under uke's shoulder\nD) Wrapped around uke's neck",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, which technique is categorized as both a mat hold and a choke when applied with sufficient pressure?\nA) Kesa-Ashi-Gatame\nB) Double Leg Gatame Arm Bar\nC) Single Leg Gatame Arm Bar\nD) Kata-Gatame",
+        "Answer": "D"
+    },
+    {
+        "Question": "In which year was Tsubame Gaeshi officially recognised by the Kodokan as part of the Shimmeisho no waza?\nA) 1975\nB) 1980\nC) 1982\nD) 1985",
+        "Answer": "C"
+    },
+    {
+        "Question": "Tsubame Gaeshi is a counter technique against which of the following?\nA) Uchi Mata\nB) Deashi Harai\nC) O Soto Gari\nD) Ippon Seoi Nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing Tsubame Gaeshi as a counter, what does tori do to avoid uke's right-handed Deashi-harai?\nA) Tori steps forward with his left leg\nB) Tori bends his right knee\nC) Tori jumps over uke's leg\nD) Tori performs an Ippon Seoi Nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which kata includes Tsubame Gaeshi as the opening move?\nA) Katame-no-kata\nB) Nage-no-kata\nC) Kaeshi-no-kata\nD) Kime-no-kata",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \"The Canon Of Judo,\" how is Ushiro Guruma described?\nA) A foot sweep where tori uses his arm to unbalance uke\nB) A hip throw where tori uses one of his legs much as in Hane Goshi\nC) A shoulder throw similar to Seoi Nage\nD) A hand technique that involves gripping the lapel",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to Kyuzo Mifune's demonstration in \"The Essence of Judo,\" where does his foot catch uke when performing Ushiro Guruma?\nA) On uke's hip as described in The Canon Of Judo\nB) On uke's lower back\nC) On uke's inner thigh\nD) On uke's outer thigh",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the primary difference between the Ushiro Guruma as demonstrated by Kyuzo Mifune in \"The Essence of Judo\" and as described in \"The Canon Of Judo\"?\nA) The direction of the throw\nB) The leg used to execute the throw\nC) The part of uke's body where tori's foot catches\nD) The grip on uke's uniform",
+        "Answer": "C"
+    },
+    {
+        "Question": "Hane goshi is classified as what type of technique in Judo?\nA) Arm technique\nB) Leg technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Hane goshi belongs to which group?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many original throws of Judo, as developed by Jigoro Kano, does Hane goshi count among?\nA) 20\nB) 40\nC) 67\nD) 100",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, which technique is similar to the \"Large outer wheel\" and involves action on one leg?\nA) Uchi Mata\nB) O Soto Gari\nC) Seoi Nage\nD) Kesa Gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Osoto Guruma belongs to the ______ group.\nA) First\nB) Third\nC) Fifth\nD) Seventh",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique described, where does the tori's attacking foot need to be placed during execution?\nA) In front of both of uke's legs\nB) Behind both of uke's legs\nC) Behind only the near leg of uke\nD) To the side of uke's legs",
+        "Answer": "B"
+    },
+    {
+        "Question": "Yoko Otoshi is classified as a _________ sacrifice technique in Judo.\nA) Front\nB) Rear\nC) Side\nD) Vertical",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Yoko Otoshi belongs to which group?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, which technique is considered similar to the \"Side drop\" and involves a principle of unbalancing the opponent and executing a throw by dropping sideways?\nA) Uki waza\nB) Yoko wakare\nC) Tama Guruma\nD) Tani otoshi",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, when performing a technique where tori lifts uke, which part of the body is primarily used to lift?\nA) Arms\nB) Legs\nC) Core and abdomen\nD) Shoulders",
+        "Answer": "C"
+    },
+    {
+        "Question": "Ushiro Goshi is classified under which group of the traditional throwing list in Kodokan Judo?\nA) First group\nB) Third group\nC) Fifth group\nD) Seventh group",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of throwing technique is Ushiro Goshi in Kodokan Judo?\nA) Leg throwing technique, Ashi-Waza\nB) Hand throwing technique, Te-Waza\nC) Hip throwing technique, Koshi-Waza\nD) Sacrifice throwing technique, Sutemi-Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "This choke can be applied in two variations, one being the figure-four and the other being the ________ variation.\nA) clasped-hand\nB) locked-elbow\nC) open-palm\nD) grip-and-hold",
+        "Answer": "A"
+    },
+    {
+        "Question": "When applied as a blood choke, this technique immediately reduces the supply of ________ to the brain.\nA) blood\nB) oxygen\nC) nutrients\nD) glucose",
+        "Answer": "B"
+    },
+    {
+        "Question": "If the choke is not released upon the opponent losing consciousness, it could ultimately lead to ________.\nA) recovery\nB) temporary paralysis\nC) brain damage or death\nD) a disqualification",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the \"Clasping hands\" variation of a choke, what is the supporting hand doing?\nA) Grasping the opponent's wrist\nB) Clasping the hand of the choking arm\nC) Holding the opponent's belt\nD) Touching the opponent's shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing Hadaka-Jime, the choking force is applied to the _______.\nA) windpipe\nB) carotid sinus\nC) jugular vein\nD) spine",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Hadaka-Jime choke is classified as a _______ choke.\nA) air\nB) blood\nC) carotid\nD) wind",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is true about the Hadaka-Jime technique?\nA) It requires more strength than the figure four version.\nB) It is easier to learn than other chokes.\nC) It is slower to apply than mixed-martial arts versions.\nD) It uses a lever motion assisted by the underhand.",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Kodokan Judo, how is the rear naked choke technique officially referred to?\nA) Kata-guruma\nB) Hadaka-jime\nC) Uki-goshi\nD) Seoi-nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kyuzo Mifune's work, \"The Essence of Judo,\" which technique is demonstrated that is also detailed in \"The Canon Of Judo\"?\nA) Osoto-gari\nB) Hasami-jime\nC) Uchi-mata\nD) Seoi-nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main purpose of using a body lock in Judo?\nA) To apply a leglock\nB) To limit the opponent's movement and stay close\nC) To prepare for a throw\nD) To pin the opponent's arms",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Gokyo no waza of Kodokan Judo, Harai goshi belongs to which group of the traditional throwing list?\nA) First\nB) Second\nC) Third\nD) Fourth",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many throws are currently recognized in the Kodokan Judo syllabus that includes Harai goshi?\nA) 40\nB) 50\nC) 67\nD) 100",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following English terms is NOT used for Harai goshi?\nA) Sweeping hip throw\nB) Hip Sweep\nC) Sweeping leg throw\nD) None of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "Uki goshi, a Judo throw included in the gokyo no waza, was developed by which historical figure?\nA) Morihei Ueshiba\nB) Mitsuyo Maeda\nC) Jigoro Kano\nD) Kyuzo Mifune",
+        "Answer": "C"
+    },
+    {
+        "Question": "In what year was Uki goshi incorporated into the first standard syllabus of Judo throws known as the gokyo no waza?\nA) 1882\nB) 1895\nC) 1905\nD) 1911",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the English alias for the judo technique \"Tsuri Goshi\"?\nA) Floating hip throw\nB) 1/2 hip throw\nC) Pulling hip throw\nD) 3/2 hip throw",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which technique is considered similar to \"uki goshi\" and is known as the 1/2 hip throw?\nA) o goshi\nB) koshi guruma\nC) Floating hip throw\nD) Tsuri Goshi",
+        "Answer": "A"
+    },
+    {
+        "Question": "Uki Goshi is classified under which category of Judo techniques?\nA) Arm Techniques (Te-Waza)\nB) Leg Techniques (Ashi-Waza)\nC) Hip Techniques (Koshi-Waza)\nD) Sacrifice Techniques (Sutemi-Waza)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Uki Goshi belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "A"
+    },
+    {
+        "Question": "Uki Goshi is part of how many throws in the current Kodokan Judo syllabus?\nA) 40 Throws\nB) 67 Throws\nC) 50 Throws\nD) 100 Throws",
+        "Answer": "B"
+    },
+    {
+        "Question": "Uki Goshi is also known by which other name?\nA) Shoulder throw\nB) Floating hip\nC) Leg sweep\nD) Arm entanglement",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the Uki Goshi, how does tori position uke to effectively use their hip as a pivot point?\nA) By pushing uke's arm away\nB) By pulling uke's arm around\nC) By locking uke's leg with their own\nD) By lifting uke over the shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "What part of tori's body is used as a pivot point in Uki Goshi?\nA) The shoulder\nB) The arm\nC) The back and hip\nD) The knee",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is Uki Goshi considered to be more suitable against heavier opponents compared to O Goshi?\nA) It requires less strength\nB) It uses a leg block\nC) It relies on tori being heavier than uke\nD) It relies on a high level of skill",
+        "Answer": "D"
+    },
+    {
+        "Question": "Tai Otoshi is classified as which type of technique in Kodokan Judo?\nA) Leg technique\nB) Hand technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Tai Otoshi belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kodokan Judo, Kata-Te-Jime is classified as one of the twelve techniques in which category?\nA) Nage-waza\nB) Katame-waza\nC) Shime-waza\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the variant of Itachi jime, what does tori use to execute the technique?\nA) The front of tori's thigh\nB) The back of tori's thigh\nC) Tori's arm\nD) Uke's belt",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, which technique is comparable to some variants of sukui nage?\nA) Osoto gari\nB) Uchi mata\nC) Hand wheel\nD) Seoi nage",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is Te Guruma (\u624b\u8eca) primarily classified as in Judo?\nA) A grappling technique\nB) A striking technique\nC) A throwing technique\nD) A joint lock technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of which year's IJF rule changes did Te Guruma become illegal in competition?\nA) 2009\nB) 2010\nC) 2011\nD) 2012",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the term \"Sode Tsurikomi Goshi\" translate to in English?\nA) Sleeve lifting pulling hip throw\nB) Collar lifting pulling hip throw\nC) Sleeve pushing pulling leg throw\nD) Arm lifting pulling head throw",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, what category of techniques does Sode Tsurikomi Goshi belong to?\nA) Leg techniques, or Ashi-waza\nB) Arm techniques, or Te-waza\nC) Hip techniques, or Koshi-waza\nD) Sacrifice techniques, or Sutemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique Sode Tsuri Komi Goshi, where does the judoka position the uke's armpit when performing the throw right-handed?\nA) On the judoka's left shoulder\nB) On the judoka's right shoulder\nC) On the judoka's hip\nD) On the judoka's head",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of Sode Tsuri Komi Goshi, what is the judoka's action with the sleeve when done right-handed?\nA) Pulling the sleeve down\nB) Pushing the sleeve up\nC) Pushing the sleeve away\nD) Keeping 'pushing' the sleeve",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the correct grip for a right-handed Sode Tsuri Komi Goshi?\nA) Both hands on the lapels\nB) Both hands on the sleeves\nC) One hand on the sleeve and one on the lapel\nD) One hand on the belt and one on the sleeve",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Sode Tsuri Komi Goshi technique, how is the uke lifted into the air?\nA) By extending the judoka's arms straight up\nB) By the judoka bending their knees and lifting\nC) By pulling the uke's belt\nD) By twisting the uke's arm",
+        "Answer": "B"
+    },
+    {
+        "Question": "After lifting the uke into the air for the Sode Tsuri Komi Goshi throw, what is the subsequent action the judoka must take to complete the technique?\nA) Push the uke forward\nB) Pull the uke's sleeve and push the lapelle\nC) Drop the uke straight down\nD) Swing the uke to the side",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kosoto Gake is classified as a _________ technique in Judo.\nA) Hand\nB) Foot\nC) Hip\nD) Sacrifice",
+        "Answer": "B"
+    },
+    {
+        "Question": "To effectively perform Kosoto Gake, the tori must place the uke's weight on the foot they wish to ______.\nA) Kick\nB) Push\nC) Reap\nD) Lift",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing Kosoto Gake, the tori's leg should wrap around the uke's leg from the ______.\nA) Inside\nB) Outside\nC) Front\nD) Back",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the traditional grip used in the execution of Kosoto Gake?\nA) Sleeve collar grip\nB) Belt grip\nC) Wrist grip\nD) Ankle grip",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the context of Kodokan Judo, Kosoto Gake belongs to which group of the traditional throwing list?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "The counter-throw often used against tai-otoshi is ______.\nA) \u014cuchi gari\nB) Kosoto Gake\nC) Uchi mata\nD) Harai goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kosoto Gake is one of the original ______ throws of Judo as developed by Jigoro Kano.\nA) 30\nB) 40\nC) 50\nD) 60",
+        "Answer": "B"
+    },
+    {
+        "Question": "The reverse technique of Kosoto Gake is called ______.\nA) Gyaku-kosoto Gake\nB) Gyaku-uchi mata\nC) Gyaku-tai otoshi\nD) Gyaku-harai goshi",
+        "Answer": "A"
+    },
+    {
+        "Question": "If uke's weight is not on the leg being swept in Kosoto Gake, what is likely to happen?\nA) Uke will fall more easily.\nB) Uke will perform a counter-throw.\nC) Uke will remain stable and keep balance.\nD) Uke will execute an escape maneuver.",
+        "Answer": "C"
+    },
+    {
+        "Question": "\u014cuchi gari is classified as a __________ technique in Judo.\nA) Hand\nB) Foot\nC) Hip\nD) Sacrifice",
+        "Answer": "B"
+    },
+    {
+        "Question": "In right Ouchi Gari, what does tori use to reap uke's left leg?\nA) Left leg\nB) Right arm\nC) Right leg\nD) Head",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the execution of right Ouchi Gari in competition, what motion can sometimes replace the classical reaping action?\nA) A pushing motion\nB) A hooking or lifting motion\nC) A punching motion\nD) A blocking motion",
+        "Answer": "B"
+    },
+    {
+        "Question": "What can the left hand be used for in right Ouchi Gari besides pulling uke down?\nA) To push uke's head\nB) To grab uke's belt\nC) To lift or block uke's other leg\nD) To slap uke's face",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \"The Canon Of Judo,\" soto morote is described as a _______, where tori is on uke's side.\nA) frontal attack\nB) hanmi-irimi technique\nC) defensive posture\nD) ground-hold maneuver",
+        "Answer": "B"
+    },
+    {
+        "Question": "Morote gari is categorized as a __________ technique in Judo.\nA) Foot\nB) Hip\nC) Hand\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "To effectively escape a triangle choke, the defending practitioner must first elevate their _______, to prevent the full force of the submission.\nA) hips\nB) head\nC) legs\nD) shoulders",
+        "Answer": "B"
+    },
+    {
+        "Question": "To weaken the strength of the choke, the defender should walk to the side _______.\nA) where the opponent's legs are locked\nB) opposite the captured arm\nC) in the direction of the opponent's head\nD) in a random pattern",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is associated with the first registered use of the triangle choke in a kosen judo tournament?\nA) Masami Oyama\nB) Yaichibei Kanemitsu\nC) Tsunetane Oda\nD) Senjuro Kanaya",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the triangle choke originally called before settling on sankaku-jime?\nA) matsuba-gatame\nB) sankaku-garami\nC) sankaku-gyaku\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "In what year was the triangle choke first seen in a kosen judo competition?\nA) 1890\nB) 1921\nC) 1994\nD) 1935",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which judoka is credited with demonstrating the triangle choke on video?\nA) Masaru Hayakawa\nB) Tsunetane Oda\nC) Masahiko Kimura\nD) Yaichibei Kanemitsu",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the first reported variation of the triangle choke?\nA) mae-sankaku-jime\nB) yoko-sankaku-jime\nC) ushiro-sankaku-jime\nD) None of the above",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which martial arts historian attributed the innovation of the horizontal triangle to Masahiko Kimura?\nA) Toshiya Masuda\nB) Romero Cavalcanti\nC) Rickson Gracie\nD) Roberto Pedreira",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the Japanese term for the front triangle choke?\nA) mae-sankaku-jime\nB) yoko-sankaku-jime\nC) ushiro-sankaku-jime\nD) sankaku-jime",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the term used for the simpler form of neck scissors shown by Takenouchi-ry\u016b master Senjuro Kanaya around 1890?\nA) matsuba-gatame\nB) sankaku-jime\nC) sankaku-garami\nD) sankaku-gyaku",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the term for the inverted variation of the triangle choke?\nA) mae-sankaku-jime\nB) yoko-sankaku-jime\nC) ushiro-sankaku-jime\nD) sankaku-jime",
+        "Answer": "C"
+    },
+    {
+        "Question": "The triangle choke, also known as sankaku-jime in judo, is a chokehold that resembles which geometric shape?\nA) Circle\nB) Square\nC) Triangle\nD) Rectangle",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo, which part of the opponent's body is encircled along with the neck during a triangle choke?\nA) The leg\nB) The arm\nC) The waist\nD) The head",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a triangle choke, what is the average time it takes to render an opponent unconscious?\nA) 5.5 seconds\nB) 9.5 seconds\nC) 15.5 seconds\nD) 20.5 seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "Osoto Makikomi is categorized as a _______ technique within the Kodokan Judo framework.\nA) Forward throw\nB) Side sacrifice\nC) Rear throw\nD) Groundwork",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which list did the Kodokan adopt Osoto Makikomi into as a recognized Judo technique?\nA) Gokyo No Waza\nB) Katame No Waza\nC) Shinmeisho No Waza\nD) Kyushin No Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the classification of Kawazu Gake in Judo?\nA) Ashi-Waza (foot technique)\nB) Te-Waza (hand technique)\nC) Yoko-sutemi (side sacrifice technique)\nD) Ne-Waza (ground technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kawazu Gake is categorized as one of the four ________ techniques in Judo.\nA) Osaekomi-Waza (pinning techniques)\nB) Nage-Waza (throwing techniques)\nC) Kinshi-Waza (forbidden techniques)\nD) Kansetsu-Waza (joint locking techniques)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In The Canon Of Judo, which variation of Juji-Jime involves the grip where both hands are underneath the opponent's chin, with the palms facing the judoka performing the technique?\nA) Katate-Juji-Jime\nB) Gyaku-Juji-Jime\nC) Nami-Juji-Jime\nD) Ura-Juji-Jime",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Judo, which variant of Tate-Shiho-Gatame involves the use of the thighs to control the opponent's shoulder or arm?\nA) Double Arm Tate-Shiho-Gatame\nB) Head Lock Tate-Shiho-Gatame\nC) Reverse Head Lock Tate-Shiho-Gatame\nD) Thigh on Shoulder/Arm Hold Tate-Shiho-Gatame",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Kuzure-Tate-Shiho-Gatame, as listed in The Canon of Judo, what does tori secure instead of uke's neck in a variation of the technique?\nA) Uke's leg\nB) Uke's arm\nC) Uke's belt\nD) Uke's wrist",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to The Canon of Judo, while performing the variation of Kuzure-Tate-Shiho-Gatame, what does tori hold onto in addition to securing one of uke's arms?\nA) Uke's collar\nB) Uke's sleeve\nC) Uke's belt\nD) The mat",
+        "Answer": "C"
+    },
+    {
+        "Question": "Tate-Shiho-Gatame is categorized as which type of technique in Kodokan Judo?\nA) A throwing technique\nB) A joint lock\nC) A mat hold\nD) A choking technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the foundational system that the \"Canon of Judo\" and \"Judo technique\" lists are associated with?\nA) Aikido\nB) Kodokan Judo\nC) Taekwondo\nD) Brazilian Jiu-Jitsu",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, what technique is comparable to the full mount in Brazilian Jiu Jitsu and other grappling arts?\nA) Osoto Gari\nB) Kesa Gatame\nC) Tatami Gaeshi\nD) Kami Shiho Gatame",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the context of Judo, what is the strategic purpose of grapevining your opponent's legs while in the full mount position?\nA) To prepare for a throwing technique\nB) To restrict their movement and maintain control\nC) To signal the referee for a pause\nD) To show a display of technical proficiency",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which variant of the kami shiho gatame involves sitting?\nA) DZR's Shiho-Gatame\nB) Sitting Kami-Shiho-Gatame\nC) Embracing Kami-Shiho-Gatame\nD) Kuzure kami shiho gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kami shiho gatame is one of the seven mat holds, known as _______, in Kodokan Judo.\nA) Osaekomi-waza\nB) Nage-waza\nC) Katame-waza\nD) Atemi-waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "In kami shiho gatame, the practitioner pins the opponent's arms by _______.\nA) locking them with their legs\nB) grabbing the opponent's belt\nC) tying the opponent's belt around their arms\nD) using a cloth to restrain the opponent",
+        "Answer": "B"
+    },
+    {
+        "Question": "The variation of kami shiho gatame where one or both arms of the opponent aren't pinned to the side is called _______.\nA) kuzure kami shiho gatame\nB) kata gatame\nC) yoko shiho gatame\nD) ude garami",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the variation kuzure kami shiho gatame, the opponent's arms can be controlled by _______.\nA) pinning them in between an upper arm and a knee\nB) wrapping them with a gi\nC) using a figure-four lock\nD) applying a chokehold",
+        "Answer": "A"
+    },
+    {
+        "Question": "Shiho gatame is also listed as one of the 25 techniques in Danzan Ryu's constriction arts, known as _______.\nA) Shimete\nB) Kansetsu-waza\nC) Aiki-jutsu\nD) Kyusho-jitsu",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, a straight over throw naturally leads to which of the following techniques?\nA) Ude Garami\nB) Juji Gatame\nC) Kami Shiho Gatame\nD) Kesa Gatame",
+        "Answer": "C"
+    },
+    {
+        "Question": "To transition into side control from the north\u2013south position, the top combatant must first switch into which hold?\nA) Kuzure-kesa-gatame\nB) Ushiro-kesa-gatame\nC) Tate-shiho-gatame\nD) Kami-shiho-gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "The north\u2013south choke is a submission technique that can only be employed from which position?\nA) The full mount\nB) The guard\nC) The north\u2013south position\nD) The side control",
+        "Answer": "C"
+    },
+    {
+        "Question": "When in the north\u2013south position, the top combatant controls the opponent's arm in a manner similar to which other hold?\nA) Kesa-gatame\nB) Hadaka-jime\nC) Ude-garami\nD) Juji-gatame",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the 1895 Gokyo no Waza lists, Daki Wakare was part of which group?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the technique of Tomoe nage, where does the tori plant a foot to unbalance the uke?\nA) On the uke's shoulder\nB) At the uke's waist level\nC) On the uke's knee\nD) At the uke's chest level",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the final position of both practitioners after a successful Tomoe nage throw?\nA) Both are standing up.\nB) Both practitioners are on their backs, head to head.\nC) Uke is on his back, and tori is mounted on uke.\nD) Tori is on his back, and uke is standing.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is a counter to the Tomoe nage technique?\nA) Jumping forward\nB) Crouching or evading the rising foot\nC) Grabbing the leg of tori\nD) Pushing tori to the side",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of Tomoe nage, what action does the tori take after unbalancing the uke forward?\nA) Tori steps aside, allowing uke to fall forward.\nB) Tori throws uke over his shoulder.\nC) Tori applies strong pressure with a foot and rolls onto his own back.\nD) Tori lifts uke and slams him to the ground.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is an alias for sumi gaeshi in Judo?\nA) Stomach throw\nB) Circular throw\nC) Monkey flip\nD) Side circle throw",
+        "Answer": "A"
+    },
+    {
+        "Question": "Tomoe nage is categorized as which type of technique in Judo?\nA) A sweep technique\nB) A trip technique\nC) A front sacrifice technique\nD) A rear throw technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional Gokyo (no waza), Tomoe nage belongs to which group?\nA) First group (Ikkyo)\nB) Second group (Nikyo)\nC) Third group (Sankyo)\nD) Fourth group (Yonkyo)",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many throws are in the current Throws of Kodokan Judo that include Tomoe nage?\nA) 20 throws\nB) 40 throws\nC) 67 throws\nD) 100 throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, Tsukkomi-Jime is classified as one of the twelve techniques in which category?\nA) Nage-waza (Throwing techniques)\nB) Katame-waza (Grappling techniques)\nC) Shime-waza (Constriction techniques)\nD) Atemi-waza (Striking techniques)",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to \"The Canon Of Judo\" by Kyuzo Mifune, what type of technique is Ashi-Hishigi classified as?\nA) A throwing technique (Nage-waza)\nB) A joint lock (Kansetsu-waza)\nC) A choking technique (Shime-waza)\nD) A holding technique (Osae-waza)",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which of the following competitions is the Ashi-Hishigi a commonly used technique?\nA) Judo Olympic Games\nB) Brazilian Jiu-Jitsu tournaments\nC) Sumo wrestling matches\nD) Karate championships",
+        "Answer": "B"
+    },
+    {
+        "Question": "Is Ashi-Hishigi recognized as an official technique by the Kodokan?\nA) Yes, it is a fundamental technique.\nB) No, but it is used in Judo practice.\nC) Yes, but only in advanced levels.\nD) No, it is not a recognized technique of the Kodokan.",
+        "Answer": "D"
+    },
+    {
+        "Question": "Executing this lock involves pressing the _______ into the back of the ankle or lower leg.\nA) Achilles tendon\nB) Forearm\nC) Shin\nD) Knee",
+        "Answer": "A"
+    },
+    {
+        "Question": "Ashi guruma, a throw in judo, is classified as a _________ technique.\nA) hand\nB) hip\nC) foot\nD) shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Gokyo no waza of Kodokan Judo, Ashi guruma belongs to the _______ group of the traditional throwing list.\nA) first\nB) second\nC) third\nD) fourth",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many throws are included in the current Throws of Kodokan Judo, which also feature Ashi guruma?\nA) 40\nB) 50\nC) 67\nD) 100",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique Ashi Guruma, the tori traps the uke's _______ leg to make his torso twist and fall about an oblique axis formed by the tori's tripping leg.\nA) leading\nB) trailing\nC) right\nD) left",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ashi Guruma is similar to which other judo technique, where the main difference lies in the leg being trapped for the execution of the throw?\nA) Ippon Seoi Nage\nB) Osoto Gari\nC) Uchi Mata\nD) Kouchi Gari",
+        "Answer": "B"
+    },
+    {
+        "Question": "Harai Makikomi in Judo is classified as a _________.\nA) Standing technique\nB) Ground technique\nC) Side sacrifice technique\nD) Frontal throw technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Kodokan categorized Harai Makikomi as part of the _________.\nA) Gokyo No Waza\nB) Katame Waza\nC) Shinmeisho No Waza\nD) Kansetsu Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "Uchi Mata Makikomi is categorized as a __________ technique in Judo.\nA) Standing\nB) Ground\nC) Side sacrifice\nD) Aerial",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Uchi Mata Makikomi technique was adopted by the Kodokan into their __________.\nA) Gokyo No Waza\nB) Katame Waza\nC) Shinmeisho No Waza\nD) Kansetsu Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the described technique, what is the role of the non-dominant hand?\nA) To push the opponent backward\nB) To draw the opponent forward\nC) To block the opponent's leg\nD) To grip the opponent's belt",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the practitioner do with their dominant hand during the execution of this technique?\nA) Places it on the opponent's back\nB) Puts it completely past the opponent's opposite shoulder\nC) Keeps it on their own belt for balance\nD) Uses it to grab the opponent's non-dominant leg",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is an IJF official alias for the technique commonly known as Sankaku garami?\nA) Ude-Hishigi-Betsu-Gata\nB) Hiza gatame\nC) Ude gatame ude kujiki\nD) Tachiai ude kujiki",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the \"Included Systems\" section, which pattern of Ude Gatame Ude Kujiki is mentioned?\nA) 1st pattern\nB) 2nd pattern\nC) 3rd pattern\nD) 4th pattern",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the technique described, what part of the body is primarily used to apply the joint lock and pin the opponent?\nA) Elbow\nB) Knee\nC) Hand\nD) Shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of this technique, where is upward pressure applied?\nA) On the opponent's wrist\nB) On the opponent's shoulder\nC) On the opponent's elbow\nD) On the opponent's knee",
+        "Answer": "A"
+    },
+    {
+        "Question": "Ude-Hishigi-Hiza-Gatame is classified as one of the joint techniques in the _______ list of Judo's Katame-waza.\nA) Kansetsu-waza\nB) Nage-waza\nC) Shime-waza\nD) Atemi-waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many grappling techniques are officially recognized in Kodokan Judo's Katame-waza?\nA) 9\nB) 29\nC) 15\nD) 40",
+        "Answer": "B"
+    },
+    {
+        "Question": "In judo, when an opponent attempts an uchi mata, which technique can be used to counter it?\nA) Osoto gari\nB) Harai goshi\nC) Uchi mata sukashi\nD) Seoi nage",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the classification of uchi mata sukashi in judo techniques?\nA) Koshi waza (hip techniques)\nB) Ashi waza (foot/leg techniques)\nC) Te waza (hand techniques)\nD) Ne waza (ground techniques)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In The Canon of Judo, Ushiro Guruma is classified as a _______ technique.\nA) striking\nB) grappling\nC) throwing\nD) blocking",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \"The Canon Of Judo,\" how is the throw where tori uses one of his legs described?\nA) As a foot sweep\nB) As a hand technique\nC) As a hip throw\nD) As a leg lock",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to Kyuzo Mifune, which part of uke's body does tori's foot catch in the Ushiro Guruma technique as described in \"The Canon Of Judo\"?\nA) The hip\nB) The inner thigh\nC) The outer thigh\nD) The knee",
+        "Answer": "A"
+    },
+    {
+        "Question": "In \"The Essence of Judo\" video demonstration by Mifune, where does his foot actually make contact with uke in the Ushiro Guruma technique?\nA) The hip\nB) The inner thigh\nC) The outer thigh\nD) The knee",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kodokan Judo, Ry\u014d-Te-Jime is classified as one of the techniques in which category?\nA) Nage-waza\nB) Shime-waza\nC) Katame-waza\nD) Atemi-waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, which technique is considered a variant of the \"large outer reap\" and involves a similar leg action but with a different execution that focuses on dropping the opponent by sweeping the supporting leg while holding the opponent's upper body in place?\nA) o soto otoshi\nB) o soto gaeshi\nC) o soto guruma\nD) o soto gake",
+        "Answer": "A"
+    },
+    {
+        "Question": "Osotogari is classified as a ________ technique in Kodokan Judo.\nA) Hand\nB) Hip\nC) Foot\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Osotogari belongs to the ________ group.\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a classical right-handed osotogari, tori steps next to uke with his ______ leg and reaps uke's right leg (at the back of the thigh) with his right leg.\nA) right\nB) left\nC) front\nD) back",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a classical right-handed osotogari, which leg does tori use to reap uke's right leg?\nA) Left\nB) Right\nC) Front\nD) Back",
+        "Answer": "B"
+    },
+    {
+        "Question": "During Yasuhiro Yamashita's winning streak, which technique scored him the highest number of victories in international competition?\nA) Uchi mata\nB) Seoi nage\nC) Yoko shiho gatame\nD) O soto gari",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many victories did Yasuhiro Yamashita secure using his highest scoring single technique, yoko shiho gatame, during his streak in the 1970s and 1980s?\nA) 45\nB) 50\nC) 203\nD) 100",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Kodokan Judo, Yoko-shiho-gatame is categorized as which type of hold?\nA) A standing control hold\nB) A side control hold\nC) A ground pinning hold\nD) A chokehold",
+        "Answer": "B"
+    },
+    {
+        "Question": "In judo, the chokehold known as Hasami jime is demonstrated in which instructional video?\nA) The Fundamentals of Judo\nB) The Essence of Judo\nC) The Judo Handbook\nD) The Art of Judo",
+        "Answer": "B"
+    },
+    {
+        "Question": "Uchi mata is classified as which type of Judo technique?\nA) Hand technique (Te-Waza)\nB) Hip technique (Koshi-Waza)\nC) Foot technique (Ashi-Waza)\nD) Sacrifice technique (Sutemi-Waza)",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is a counter to the Uchi mata technique in Judo?\nA) Osoto gari\nB) Uchi mata sukashi\nC) Harai goshi\nD) Kesa gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), to which group does Uchi mata belong?\nA) First group, Dai Ikkyo\nB) Second group, Dai Nikyo\nC) Third group, Dai Sankyo\nD) Fourth group, Dai Yonkyo",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Uki Waza belongs to which group?\nA) First\nB) Third\nC) Fifth\nD) Seventh",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is considered to be \"somehow related\" to the Floating throw in Judo?\nA) Uki waza\nB) Yoko otoshi\nC) Tani otoshi\nD) Yoko wakare",
+        "Answer": "D"
+    },
+    {
+        "Question": "When Uke attacks with a right hane goshi, how does Tori counter the attack?\nA) Tori counters by pushing Uke's upper body to the left.\nB) Tori counters by hooking his left leg around Uke's lower left leg and reaps it to the right.\nC) Tori counters by stepping away from Uke.\nD) Tori counters by applying an armlock on Uke's right arm.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is an alternative counter that Tori can perform when facing a right hane goshi from Uke?\nA) Tori can perform an elbow strike to Uke's head.\nB) Tori can duck under Uke's right arm and escape.\nC) Tori can lift Uke up and reap both his legs to the left with his right leg.\nD) Tori can counter with a right hane goshi as well.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Hane Goshi Gaeshi is categorized as a _______ in judo.\nA) Arm technique\nB) Foot technique\nC) Pinning technique\nD) Strangling technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Hane Goshi Gaeshi throw was included in the Kodokan's list known as _______.\nA) Gokyo No Waza\nB) Kyushin No Waza\nC) Shinmeisho No Waza\nD) Kime No Waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique Nami J\u016bji-jime, what part of the hands of the person applying the choke faces themselves?\nA) Palms\nB) Finger tips\nC) Backs\nD) Sides",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing the Nami J\u016bji-jime, where should the fingers be positioned?\nA) Inside the gi grabbing from underneath\nB) On top grabbing from the outside of the clothing\nC) On the sides of the neck\nD) Wrapped around the opponent's belt",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the effect of scissoring the hands in the Nami J\u016bji-jime technique?\nA) It causes joint dislocation\nB) It applies pressure to the carotid arteries\nC) It restricts the opponent's breathing\nD) It immobilizes the opponent's shoulders",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is safety ensured when practicing the Nami J\u016bji-jime technique in judo?\nA) The technique is performed slowly\nB) The technique is only demonstrated, not applied\nC) The technique is always taught under supervision\nD) The technique is modified to avoid contact",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, one of the essential compilations of techniques is known as \"The Canon of ______.\" What word completes this title?\nA) Mastery\nB) Judo\nC) Techniques\nD) Harmony",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kouchi Gari is classified as a ___ technique in Kodokan judo.\nA) Hand\nB) Hip\nC) Foot\nD) Shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan judo, Kouchi Gari belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "B"
+    },
+    {
+        "Question": "Daki Age is categorized as which type of judo technique?\nA) Arm technique\nB) Leg technique\nC) Hip technique\nD) Neck technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main objective when performing the Daki Age technique in judo?\nA) To lock uke's arm\nB) To pin uke to the ground\nC) To lift uke and drop them onto their back\nD) To throw uke over the shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is the Daki Age considered a dangerous technique in judo?\nA) It can cause arm dislocation\nB) It can cause spinal injuries\nC) It can cause unconsciousness\nD) It can cause leg fractures",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of 2017, what is the status of Daki Age in the Kodokan's list of judo techniques?\nA) It is recognized as a fundamental technique\nB) It is classified under the Shinmeisho-no-waza group\nC) It is considered an illegal technique\nD) It is no longer officially recognized by the Kodokan",
+        "Answer": "D"
+    },
+    {
+        "Question": "Seoi nage is classified under which category of judo techniques?\nA) Leg techniques (ashi-waza)\nB) Hand techniques (te-waza)\nC) Hip techniques (koshi-waza)\nD) Sacrifice techniques (sutemi-waza)",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Seoi nage belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "A"
+    },
+    {
+        "Question": "Seoi nage is one of the forty traditional throws developed by which judo founder?\nA) Mikinosuke Kawaishi\nB) Kyuzo Mifune\nC) Jigoro Kano\nD) Tsunetane Oda",
+        "Answer": "C"
+    },
+    {
+        "Question": "Seoi nage, a judo throw, is believed to have evolved from which jujutsu technique that utilizes an arm bar as leverage?\nA) Ashi guruma\nB) Empi nage\nC) Uki goshi\nD) O goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the variation known as eri seoi nage, how does tori grip uke's clothing?\nA) Tori grips the sleeve and lapel on opposite sides.\nB) Tori grips only the sleeve.\nC) Tori grips the sleeve and lapel on the same side.\nD) Tori uses both hands to grip the lapel.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the distinctive technical aspect of morote-seoi-nage compared to Ippon Seoi Nage?\nA) Tori uses a single hand grip.\nB) Tori grips with their two hands.\nC) Tori spins up to 360 degrees.\nD) Tori throws uke backwards.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which variation does uke end up being thrown backwards?\nA) Morote-seoi-nage\nB) Eri seoi nage\nC) Ippon Seoi Nage\nD) Reverse seoi-nage",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who is the renowned judoka that popularised the reverse seoi-nage?\nA) Isao Okano\nB) Toshihiko Koga\nC) Choi Min-ho\nD) None of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is the reverse seoi-nage banned in competitions under IJF rules?\nA) Because it involves gripping the clothing in an illegal manner.\nB) Because it is considered too easy to execute.\nC) Because uke is unable to breakfall properly.\nD) Because it gives an unfair advantage to the tori.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \"The Canon of Judo,\" which technique is demonstrated by Kyuzo Mifune in the video \"The Essence of Judo\"?\nA) Ude-Hishigi-Juji-Gatame\nB) Ude-Hishigi-Kata-Osae-Tai-Gatame\nC) Ude-Hishigi-Hara-Gatame\nD) Ude-Hishigi-Ashi-Gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the content, the Guillotine choke is considered universal to grappling and is taught in various martial arts including ________.\nA) Karate\nB) Taekwondo\nC) Judo\nD) Aikido",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the choke technique described, what is the position of the fighter's other hand after wrapping one arm around the enemy's head?\nA) It is placed on the enemy's shoulder\nB) It grasps the first hand\nC) It reaches around the enemy's arm\nD) It is used to push the enemy's head down",
+        "Answer": "B"
+    },
+    {
+        "Question": "When finishing the choke described in the field manual, the fighter must pull with their arms and push with their legs. Where does the enemy's head end up as the fighter begins this action?\nA) Above the fighter's arm\nB) Underneath one of the fighter's arms\nC) To the side of the fighter's body\nD) In front of the fighter's chest",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the described technique, what action does the tori perform towards the uke's legs?\nA) Grabbing \nB) Pushing \nC) Heel-picking \nD) Sweeping",
+        "Answer": "C"
+    },
+    {
+        "Question": "When is the described technique particularly difficult for the uke to defend?\nA) When the uke is moving sideways \nB) When the uke is stepping forwards \nC) When the uke is stepping backwards \nD) When the uke is stationary",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, a comprehensive collection of techniques is compiled in a reference known as \"The Canon of Judo.\" This reference is crucial for practitioners to understand the full range of techniques. What is another name for the set of techniques in Kodokan Judo?\nA) The Judo Manifesto\nB) The Judo Blueprint\nC) The Judo Syllabus\nD) List of Kodokan Judo techniques",
+        "Answer": "D"
+    },
+    {
+        "Question": "Kibisu gaeshi is classified as which type of technique in Judo?\nA) Ashi-waza (foot techniques)\nB) Te-waza (hand techniques)\nC) Koshi-waza (hip techniques)\nD) Sutemi-waza (sacrifice techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the term \"Kibisu gaeshi\" refer to in Judo?\nA) A chokehold\nB) An armlock\nC) A pinning technique\nD) A single leg takedown or \"Ankle Pick\"",
+        "Answer": "D"
+    },
+    {
+        "Question": "Tama Guruma is categorized as a __________ technique in Judo.\nA) Nage-waza\nB) Katame-waza\nC) Yoko-sutemi\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is similar to Tama Guruma?\nA) Uki Goshi\nB) Harai Goshi\nC) Kata Guruma\nD) O Goshi",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, Kuzure-Kesa-Gatame is categorized under which group of techniques?\nA) Nage-waza (Throwing techniques)\nB) Ne-waza (Ground techniques)\nC) Atemi-waza (Striking techniques)\nD) Osaekomi-waza (Mat holds)",
+        "Answer": "D"
+    },
+    {
+        "Question": "What technique is featured in \"The Essence of Judo\" video by Kyuzo Mifune that is also a part of Kodokan Judo systems?\nA) Kuzure kesa gatame\nB) Ura gesa\nC) O soto gari\nD) Seoi nage",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, when performing the Kuzure-Kesa-Gatame, the tori wraps an arm around the _______ of the uke.\nA) neck\nB) waist\nC) leg\nD) head",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Kuzure-Kesa-Gatame can transition into which other technique as demonstrated in the provided videos?\nA) Ouchi-Gari\nB) Mune-Gatame\nC) Uchi-Mata\nD) Harai-Goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, which technique is known for utilizing the legs to execute an armbar?\nA) Kesa Ashi Gatame\nB) Waki Gatame Arm Bar\nC) Calf and Forearm Choke\nD) Sankaku Jime",
+        "Answer": "A"
+    },
+    {
+        "Question": "In some countries, including Canada, Koshi Guruma is viewed negatively due to its potential risk of causing __________.\nA) arm injury\nB) leg injury\nC) neck injury\nD) back injury",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, which technique is also known as \"hip wheel\"?\nA) uki goshi\nB) o goshi\nC) koshi guruma\nD) None of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "Koshi Guruma is classified as a __________ technique in Kodokan Judo.\nA) Leg\nB) Arm\nC) Hip\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Gokyo (no waza), Koshi Guruma belongs to the __________ group.\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Koshi Guruma, what part of the body does the attacker use to force the opponent to bend down?\nA) Right arm\nB) Left arm\nC) Right leg\nD) Left leg",
+        "Answer": "A"
+    },
+    {
+        "Question": "During the Koshi Guruma, the attacker's right hip moves in which direction relative to the opponent's right hip?\nA) Outwards\nB) Inwards\nC) Backwards\nD) Forwards",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the final action the attacker takes to throw the opponent to the ground in Koshi Guruma?\nA) Rotate the body counterclockwise\nB) Rotate the body clockwise\nC) Step backwards\nD) Push forward",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Koshi Guruma, after lifting the opponent from the ground, how does the attacker position himself if he chooses to follow into the throw?\nA) Into Tate-shiho-gatame\nB) Into Kesa-gatame\nC) Into Kami-shiho-gatame\nD) Into Yoko-shiho-gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing Koshi Guruma, what movement do the attacker's legs perform?\nA) They remain stationary\nB) They step in a series of jumps\nC) They follow in a series of steps\nD) They stretch outwards",
+        "Answer": "C"
+    },
+    {
+        "Question": "The force of a sweep typically runs _______ to the opponent's leg or rises as it strikes.\nA) Parallel\nB) Perpendicular\nC) At an acute angle\nD) In a circular motion",
+        "Answer": "B"
+    },
+    {
+        "Question": "A sweep in Judo can be used for which of the following purposes?\nA) To take the opponent to the ground\nB) To disrupt the opponent's balance\nC) To make an opening for a punch or kick\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Japanese, the technique of sweeping an opponent's legs to take them down is called _______.\nA) Osoto-gari\nB) Ashi-barai\nC) Uchi-mata\nD) Kouchi-gari",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the context of ground fighting in Judo, a sweep is a technique used to transition from a neutral or inferior position to a _______ position.\nA) Weaker\nB) Dominant\nC) Static\nD) Disadvantaged",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which group is Sukui Nage found in the traditional throwing list, Gokyo (no waza), of Kodokan Judo?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the consequence of grabbing at the legs in Judo competitions with IJF rules?\nA) Ippon\nB) Waza-ari\nC) Shido\nD) Hansoku-make",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since what year has the IJF banned grabs to the legs in Judo competitions?\nA) 2005\nB) 2010\nC) 2015\nD) 2020",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, what is the main difference between the techniques of Mountain Storm and Harai Goshi?\nA) The grip on the opponent's belt\nB) The action of the leg in Harai Goshi\nC) The initial stance before execution\nD) The direction of the throw",
+        "Answer": "B"
+    },
+    {
+        "Question": "Yama Arashi is categorized as which type of throwing technique in Judo?\nA) Leg throwing technique, Ashi-waza\nB) Hip throwing technique, Koshi-waza\nC) Hand throwing technique, Te-waza\nD) Sacrifice throwing technique, Sutemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "Yama Arashi is considered to be one of the techniques in the Habukareta Waza, which implies that it is:\nA) Commonly used in competition\nB) Rarely used in competition\nC) Exclusively used in training\nD) A newly introduced technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which system is \"The Canon Of Judo\" included?\nA) Kodokan Judo\nB) Danzan Ryu\nC) Yama Arashi Goshin Jitsu\nD) None of the above",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, the technique that looks almost like a thigh sweeping throw but is categorized as a hand technique is known as _______.\nA) Osoto Gari\nB) Danzan Ryu\nC) Te Guruma\nD) Harai Goshi",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the context of Judo, what must have been thought to be primarily executed by tori's arms according to the technique's categorization?\nA) The gripping sequence\nB) The kuzushi or balance breaking\nC) The actual throw\nD) The defensive posture",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Grand Slam D\u00fcsseldorf 2019, which judoka represented Japan in the U73 category?\nA) Musa Mogushkov\nB) Masashi Ebinuma\nC) Teddy Riner\nD) Shohei Ono",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kata-Ha-Jime, also known as _______, is a chokehold in judo and is classified as one of the twelve constriction techniques of Kodokan Judo in the Shime-waza list. What is the alternative spelling for Kata-Ha-Jime?\nA) Kuzure-Kami-Shiho-Gatame\nB) Katahajime\nC) Uki-Gatame\nD) Osaekomi-Waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kataha jime, what part of the judo uniform is primarily used to exert pressure on the opponent's carotid arteries?\nA) The belt\nB) The sleeve\nC) The lapel\nD) The pants",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the execution of Kataha jime, which arm of the opponent is lifted and controlled?\nA) Right arm\nB) Left arm\nC) Both arms\nD) No arms are lifted",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Deashi Harai belongs to which group?\nA) Dai-Nikyo\nB) Dai-Sankyo\nC) Dai-Yonkyo\nD) Dai-Ikkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many throws are currently recognized in the Kodokan Judo syllabus that includes Deashi Harai?\nA) 40 Throws\nB) 67 Throws\nC) 20 Throws\nD) 100 Throws",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the technique \"okuri ashi harai,\" how are both feet of uki affected?\nA) Sweeping of both feet forwards\nB) Sweeping of both feet backwards\nC) Sweeping of both feet sideways\nD) Blocking of both feet",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main difference in the execution of \"harai tsurikomi ashi\" compared to \"de ashi harai\"?\nA) The foot of uki is pushed forwards by the sweeping foot of tori.\nB) The foot of uki is pushed sideways by the sweeping foot of tori.\nC) The foot of uki is pushed upwards by the sweeping foot of tori.\nD) The foot of uki is pushed backwards by the sweeping foot of tori.",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which technique involves sweeping the foot that is planted on the ground and supports a minimum amount of weight?\nA) Sasae tsurikomi ashi\nB) Ko soto gari\nC) De ashi harai\nD) Okuri ashi harai",
+        "Answer": "B"
+    },
+    {
+        "Question": "How does \"sasae tsurikomi ashi\" differ from the other techniques mentioned in terms of foot action?\nA) It involves a sweeping action of the foot.\nB) It involves a pushing action of the foot.\nC) It involves a blocking action of the foot.\nD) It involves a kicking action of the foot.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Deashi Harai is a basic foot sweep technique in martial arts that involves sweeping the opponent's foot from the ________.\nA) inside-out\nB) outside-in\nC) top-down\nD) bottom-up",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Deashi Harai technique, the attacker moves their foot to the opposite side of the opponent's, meaning if the attacker uses the right foot, it goes to the opponent's ________ side.\nA) right\nB) left\nC) front\nD) back",
+        "Answer": "B"
+    },
+    {
+        "Question": "To effectively execute the Deashi Harai, the upper body must complement the foot sweep with a push-pull motion and power generated from the rotation of the ________.\nA) shoulders\nB) knees\nC) hips\nD) elbows",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, when is the sankaku-gatame, also known as the triangle armlock, typically applied?\nA) When the opponent is attacking\nB) When the shime (strangle) is not working\nC) Immediately at the beginning of the match\nD) As a defensive response to a takedown",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main advantage of using the sankaku-gatame during a competition?\nA) It allows the judoka to rest\nB) It can surprise the opponent with a quick submission\nC) It exposes the opponent's arm while they are focused on defending the sankaku-jime\nD) It is the only legal armlock in Judo",
+        "Answer": "C"
+    },
+    {
+        "Question": "The top shoulder lock is also known as the _______.\nA) Figure-six armlock\nB) Bent armlock\nC) Leglock\nD) Wristlock",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the top shoulder lock technique, the practitioner uses the hand from the _______ side to pin the opponent's arm.\nA) Same\nB) Opposite\nC) Front\nD) Rear",
+        "Answer": "B"
+    },
+    {
+        "Question": "The top shoulder lock causes flexion to the opponent's shoulder, elbow, and to a lesser extent, the _______.\nA) Knee\nB) Ankle\nC) Wrist\nD) Neck",
+        "Answer": "C"
+    },
+    {
+        "Question": "The term \"reverse\" in reverse keylock or reverse ude-garami signifies _______ rotation.\nA) Lateral\nB) Medial\nC) Vertical\nD) Horizontal",
+        "Answer": "B"
+    },
+    {
+        "Question": "To finish the top shoulder lock submission, the practitioner must slide the opponent's wrist toward the _______ body.\nA) Upper\nB) Lower\nC) Same side\nD) Opposite side",
+        "Answer": "B"
+    },
+    {
+        "Question": "The technique of the top shoulder lock resembles using a _______ to create opposition to the joints.\nA) Hammer\nB) Screwdriver\nC) Paintbrush\nD) Wrench",
+        "Answer": "C"
+    },
+    {
+        "Question": "The traditional armbar involves pressing the elbow against the:\nA) Shoulder\nB) Thigh or hips\nC) Head\nD) Back",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which position is NOT mentioned as a favorable ground position for performing an armlock?\nA) Mount\nB) Side control\nC) Guard\nD) Standing up",
+        "Answer": "D"
+    },
+    {
+        "Question": "The shotgun armbar is characterized by placing the opponent's wrist in the:\nA) Neck\nB) Armpit\nC) Groin\nD) Knee",
+        "Answer": "B"
+    },
+    {
+        "Question": "When training, how should the method of executing an armlock be applied?\nA) Rapidly and forcefully\nB) Slowly and controlled\nC) Without any resistance\nD) With maximum strength",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which scenario are armlocks more difficult to perform?\nA) On the ground\nB) When both combatants are standing up\nC) During the guard position\nD) In the mount position",
+        "Answer": "B"
+    },
+    {
+        "Question": "The helicopter armbar is a combination of an armbar and which other technique?\nA) Seoi nage\nB) Kesa gatame\nC) Tomoe nage\nD) Uchi mata",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the helicopter armbar, where does the attacker place his feet to lift the opponent?\nA) On the opponent's shoulders\nB) On the opponent's stomach or hips\nC) On the opponent's knees\nD) On the opponent's chest",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of a helicopter armbar, what does the attacker do after grabbing both arms of the opponent?\nA) Pushes the opponent backwards\nB) Pulls the opponent sideways\nC) Falls forwards\nD) Falls backwards",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the result of the attacker dropping one foot while securing the opponent's arm in a helicopter armbar?\nA) The opponent is pushed away\nB) The opponent remains standing\nC) The opponent twists and falls\nD) The opponent performs a counter-attack",
+        "Answer": "C"
+    },
+    {
+        "Question": "The flying armbar, also known as _______, is executed from a stand-up position.\nA) tobi-j\u016bji-gatame\nB) ashi-garami\nC) sankaku-jime\nD) ude-garami",
+        "Answer": "A"
+    },
+    {
+        "Question": "When performing a flying armbar without a gi, it is typically applied when the opponent has a _______.\nA) leg control\nB) collar tie and arm control\nC) belt grip\nD) sleeve grip",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the flying armbar, the practitioner places one of his shins against the opponent's _______.\nA) head\nB) back\nC) midsection\nD) leg",
+        "Answer": "C"
+    },
+    {
+        "Question": "To achieve the flying armbar, the attacker swings the leg over the opponent's head into the typical _______ position.\nA) kesagatame\nB) j\u016bji-gatame\nC) osaekomi\nD) hadakajime",
+        "Answer": "B"
+    },
+    {
+        "Question": "A modification of the flying armbar involves directing the lower leg through the space between the _______.\nA) arm and leg\nB) arm and trunk\nC) head and neck\nD) legs and torso",
+        "Answer": "B"
+    },
+    {
+        "Question": "The modification of the flying armbar places the knee generally close to the opponent's _______.\nA) hip\nB) armpit\nC) knee\nD) ankle",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the advantage of the modified flying armbar technique?\nA) It is less risky.\nB) It allows for a faster escape.\nC) It engages the hips more closely with the defender's shoulders.\nD) It requires less strength.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the disadvantage of the modified flying armbar?\nA) It is less effective.\nB) It is easier to counter.\nC) It increases the risk of injury.\nD) It is more time-consuming.",
+        "Answer": "C"
+    },
+    {
+        "Question": "If the flying armbar is improperly performed, the opponent may _______.\nA) submit immediately\nB) escape and gain an advantageous position\nC) be immobilized\nD) not realize the technique is being applied",
+        "Answer": "B"
+    },
+    {
+        "Question": "The omoplata in judo is also known as _______.\nA) kesa-gatame\nB) ashi-sankaku-garami\nC) ude-garami\nD) hadaka-jime",
+        "Answer": "B"
+    },
+    {
+        "Question": "The omoplata applies pressure to the opponent's shoulder by pushing the arm _______ away from the opponent's back.\nA) perpendicularly\nB) parallel\nC) diagonally\nD) directly",
+        "Answer": "A"
+    },
+    {
+        "Question": "The technique that is similar to an omoplata but has a mechanism like the j\u016bji-gatame is called a _______.\nA) monoplata\nB) bioplata\nC) trioplata\nD) quadroplata",
+        "Answer": "A"
+    },
+    {
+        "Question": "Tsunetane Oda, known for demonstrating the omoplata, was a specialist in _______.\nA) judo groundwork\nB) judo throws\nC) judo katas\nD) judo philosophy",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the primary purpose of executing a \"shoulder lock\" technique in Judo?\nA) To block the flow of air to the brain\nB) To apply pressure between the radial bone and shoulder\nC) To confuse the opponent\nD) To score a point directly",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why is a \"shoulder lock\" not considered the same as a choke in Judo?\nA) Because it is used to score points\nB) Because it is applied on the lower body\nC) Because it does not interfere with the flow of air or oxygen to the brain\nD) Because it is an illegal move",
+        "Answer": "C"
+    },
+    {
+        "Question": "The term \"j\u016bji-gatame\" in Judo is sometimes used interchangeably with which of the following terms?\nA) Hip Throw\nB) Armbar\nC) Leg Lock\nD) Choke Hold",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the Japanese word \"j\u016bji\" visually resemble when written in kanji?\nA) The number 5\nB) The number 10\nC) The number 15\nD) The number 20",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the armbar technique, where should the practitioner's pinky finger be positioned?\nA) On the opponent's forehead\nB) On the opponent's shoulder\nC) On the sternum\nD) On the opponent's wrist",
+        "Answer": "C"
+    },
+    {
+        "Question": "To effectively perform an armbar, the opponent's arm should be held how?\nA) Between the practitioner's neck and shoulder\nB) Between the practitioner's thighs\nC) Behind the practitioner's back\nD) Over the practitioner's shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which part of the opponent's arm is targeted for hyperextension in the armbar technique?\nA) Shoulder\nB) Wrist\nC) Elbow\nD) Fingers",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing the armbar, the attacker's hips should be positioned where in relation to the opponent?\nA) On the opponent's chest\nB) Away from the opponent\nC) Tight into the opponent's armpit\nD) On the opponent's legs",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which grappling martial art is NOT mentioned as using the armbar technique?\nA) Brazilian jiu-jitsu\nB) Catch wrestling\nC) Aikido\nD) Sambo",
+        "Answer": "C"
+    },
+    {
+        "Question": "How should the opponent's wrist be held to execute an armbar?\nA) With the thumb facing down\nB) With the thumb facing up\nC) With the thumb facing sideways\nD) With the thumb wrapped around the opponent's hand",
+        "Answer": "B"
+    },
+    {
+        "Question": "The armbar technique is reportedly how many years old?\nA) At least 100 years old\nB) At least 150 years old\nC) At least 200 years old\nD) At least 250 years old",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, the double wristlock is referred to as\nA) gyaku ude-garami\nB) kata-guruma\nC) tomoe-nage\nD) kesa-gatame.",
+        "Answer": "A"
+    },
+    {
+        "Question": "To effectively apply a double wristlock, one requires some space\nA) in front\nB) behind\nC) to the left\nD) to the right of the opponent.",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a double wristlock, the opponent's wrist is grabbed with the hand on the\nA) opposite side\nB) same side\nC) top\nD) bottom.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The double wristlock can be applied from\nA) side control or guard\nB) mount or side control\nC) guard or back mount\nD) half guard or mount.",
+        "Answer": "A"
+    },
+    {
+        "Question": "The pressure from a double wristlock is applied primarily to the\nA) elbow joint\nB) shoulder joint\nC) wrist joint\nD) knee joint.",
+        "Answer": "B"
+    },
+    {
+        "Question": "When applying a double wristlock, forming a\nA) figure-four\nB) triangle\nC) circle\nD) square with the arms is a key component of the technique.",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Kyuzo Mifune's video \"The Essence of Judo,\" which technique does he demonstrate that involves grabbing uke by the lapels to toss them over?\nA) Harai Goshi\nB) Ganseki Otoshi\nC) Uki Goshi\nD) Seoi Nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "Seoi Otoshi is categorized as a _____ technique in Judo.\nA) Leg\nB) Hand\nC) Hip\nD) Sacrifice",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the 1895 Gokyo no Waza lists, Seoi Otoshi belonged to the _____ group.\nA) Third\nB) Fourth\nC) Fifth\nD) Sixth",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique known as Morote Seoi Nage, the tori grips which parts of the uke's gi?\nA) The belt and the collar\nB) The sleeve and the lapel on the same side\nC) The sleeve and the opposite lapel\nD) The back of the gi and the sleeve",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the technique of Seoi Otoshi, the judo player (tori) breaks the opponent's (uke's) balance in which direction?\nA) Backward\nB) Forward or right front corner\nC) Left side\nD) Downward",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing Seoi Otoshi, what technique does tori initially turn in for before performing the throw?\nA) Ouchi gari\nB) Ippon seoi nage or seoi nage\nC) Uchi mata\nD) Kouchi gari",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Tai Otoshi, how can Tori limit Uke's movements?\nA) By pulling Uke's sleeve\nB) By extending Tori's leg to push Uke over\nC) By lifting Uke using Tori's arm\nD) By blocking Uke's vision",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the effect of extending the leg in Sei Otoshi due to the fixation point of the working hand?\nA) It leads to a blocking effect\nB) It leads to a tripping effect\nC) It leads to a lifting effect\nD) It has no effect",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, what is the correct English alias for the technique 'Harai tsuri komi ashi'?\nA) Sweeping of one foot either forward or sideways\nB) Sweeping one foot backwards\nC) Throwing the opponent using their arm\nD) Tripping the opponent with both legs",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Okuriashi harai technique, how should the sweep be executed to be most effective?\nA) By pushing against the opponent's shoulder\nB) By sweeping when the opponent is advancing\nC) By extending the stepping motion of the opponent's leg towards his other leg\nD) By lifting the opponent's leg with your hand",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which part of the opponent's foot should you use your own foot to push against during the Okuriashi harai technique?\nA) The heel\nB) The instep or side\nC) The toes\nD) The top of the foot",
+        "Answer": "B"
+    },
+    {
+        "Question": "When is the Okuriashi harai technique not effective?\nA) When the opponent is standing still\nB) When the opponent's both feet are on the ground\nC) When just one of the opponent's feet leaves the ground\nD) When the opponent is retreating",
+        "Answer": "C"
+    },
+    {
+        "Question": "Okuriashi harai, also known as Okuri ashi barai, is one of the original __ throws of Judo as developed by Kano Jigoro.\nA) 40\nB) 50\nC) 60\nD) 70",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the Gokyo no waza of the Kodokan Judo, Okuriashi harai belongs to the __ group of the traditional throwing list.\nA) first\nB) second\nC) third\nD) fourth",
+        "Answer": "B"
+    },
+    {
+        "Question": "Harai Goshi Gaeshi is classified as which type of technique in Judo?\nA) Hand technique\nB) Foot technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which category of Kodokan's list of techniques is Harai Goshi Gaeshi included?\nA) Gokyo No Waza\nB) Shimmeisho No Waza\nC) Kyushin No Waza\nD) Atemi-waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "When Uke attacks Tori with a right harai goshi, how does Tori counter the attack?\nA) Tori uses his right leg to block Uke's attack.\nB) Tori counters by hooking his left leg around Uke's lower left leg and reaps it to the right.\nC) Tori steps aside to avoid the attack.\nD) Tori grabs Uke's belt and pulls him down.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the described judo technique, which direction does Tori reap Uke's lower left leg?\nA) To the left\nB) Backwards\nC) To the right\nD) Forwards",
+        "Answer": "C"
+    },
+    {
+        "Question": "Ashi garami is a joint lock in judo that specifically targets the _______.\nA) arm\nB) leg\nC) neck\nD) wrist",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ashi garami is classified under which of the following categories in Judo's Katame-waza?\nA) Osae-waza\nB) Shime-waza\nC) Kansetsu-waza\nD) Nage-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, what is the classification of Do-jime within the Kodokan Judo techniques?\nA) Gokyo-no-waza\nB) Katame-waza\nC) Shime-waza\nD) Nage-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the International Judo Federation (IJF) rules, how is Do-jime categorized in terms of competition conduct?\nA) Accepted technique\nB) Slight infringement\nC) Commendable action\nD) Major infringement",
+        "Answer": "B"
+    },
+    {
+        "Question": "Do-jime is recognized as one of the four _________ in Judo.\nA) Ashi-waza\nB) Kinshi-waza\nC) Te-waza\nD) Kansetsu-waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the technique morote seoi nage, how does tori grip uke?\nA) Tori grips both of uke's sleeves.\nB) Tori grips the sleeve and opposite lapel.\nC) Tori grips the sleeve and lapel on the same side.\nD) Tori grips both of uke's lapels.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What distinguishes eri seoi nage/kate-eri-seoi-nage from other seoi nage variants?\nA) Tori uses a one-handed grip.\nB) Tori grips the sleeve and opposite lapel.\nC) Tori grips the sleeve and lapel on the same side.\nD) Tori releases the sleeve grip entirely.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Seoi otoshi is considered a variation of which technique?\nA) Morote seoi nage\nB) Eri seoi nage\nC) Ippon seoi nage\nD) Hidari kata seoi",
+        "Answer": "C"
+    },
+    {
+        "Question": "In hidari kata seoi, what does tori maintain when executing the technique?\nA) The sleeve grip and goes under the same arm.\nB) The lapel grip and goes under the same arm.\nC) The sleeve grip and goes under uke's other arm.\nD) The lapel grip and goes under uke's other arm.",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the technique of Ippon seoi nage, how does tori initiate the move on uke?\nA) By pushing uke in the backward direction\nB) By breaking uke's balance in the forward direction\nC) By sweeping uke's legs\nD) By pulling uke in a sideways direction",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does tori do after passing their arm under uke's in the Ippon seoi nage technique?\nA) Tori clamps uke's arm and lifts them off the ground\nB) Tori pushes uke away to break the grip\nC) Tori steps back to create distance\nD) Tori kneels to the ground",
+        "Answer": "A"
+    },
+    {
+        "Question": "The ippon seoi nage is classified as which type of throwing technique in judo?\nA) Leg throwing technique\nB) Hand throwing technique\nC) Hip throwing technique\nD) Sacrifice throwing technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does \"ippon seoi nage\" literally translate to in English?\nA) One arm over the back throw\nB) Two arms over the back throw\nC) One arm around the waist throw\nD) One leg over the back throw",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the Kodokan Judo classification, ippon seoi nage is one of the nineteen accepted techniques in which category?\nA) Gokyo No Waza\nB) Shinmeisho No Waza\nC) Kyushin No Waza\nD) Kime No Waza",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Kodokan Judo, Okuri-Eri-Jime is classified as one of the twelve techniques in which category?\nA) Nage-waza (Throwing techniques)\nB) Katame-waza (Grappling techniques)\nC) Shime-waza (Constriction techniques)\nD) Atemi-waza (Striking techniques)",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is known as the \"bow and arrow choke\" in Judo?\nA) Yoko jime\nB) Tawara-Jime\nC) Jigoku jime\nD) Nezumi tori",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo, Ganseki Otoshi is classified as a type of __________.\nA) foot technique\nB) hand throw\nC) pinning technique\nD) choking technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is known for demonstrating Ganseki Otoshi in the video \"The Essence of Judo\"?\nA) Jigoro Kano\nB) Isao Okano\nC) Kyuzo Mifune\nD) Anton Geesink",
+        "Answer": "C"
+    },
+    {
+        "Question": "Hiza guruma is classified as what type of technique in Kodokan Judo?\nA) Hand technique (te-waza)\nB) Hip technique (koshi-waza)\nC) Foot technique (ashiwaza)\nD) Sacrifice technique (sutemi-waza)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Gokyo no waza of Kodokan Judo, Hiza guruma belongs to which group of the traditional throwing list?\nA) First group\nB) Second group\nC) Third group\nD) Fourth group",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the variation known as Kneeling Stance Kata-Gatame, how does tori maintain control over uke?\nA) By pressing his thigh against uke's side\nB) By keeping uke in a standing position\nC) By using his arms to pin uke's shoulders to the ground\nD) By applying a chokehold",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which variation of Kata-Gatame involves tori sprawling out to maintain the hold?\nA) Sitted Kata-Gatame\nB) Kneeling Kata-Gatame\nC) Sprawled Kata-Gatame\nD) Mounted Kata-Gatame",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, Kata-Gatame is primarily used as a __________.\nA) Choke\nB) Hold down\nC) Striking technique\nD) Takedown",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kata-Gatame is categorized under which group of techniques in Kodokan Judo?\nA) Nage-waza\nB) Ne-waza\nC) Osaekomi-waza\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique described, what is the primary reason the Tori employs a variation of Kesa gatame?\nA) To apply a choke\nB) To secure the Uke's leg\nC) To control the Uke's arm movement\nD) To prepare for a throw",
+        "Answer": "C"
+    },
+    {
+        "Question": "What part of the Tori's body is used to press the Uke's arm against their own head/neck?\nA) The Tori's elbow\nB) The Tori's head and shoulder\nC) The Tori's hip\nD) The Tori's foot",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the technique described, how should the Tori's knee be positioned in relation to the Uke's body?\nA) As far away as possible\nB) As close to the Uke's body as possible\nC) Behind the Uke's head\nD) Floating above the Uke's body",
+        "Answer": "B"
+    },
+    {
+        "Question": "The technique described is a variation of which traditional Judo hold?\nA) Uki gatame\nB) Kesa gatame\nC) Kami shiho gatame\nD) Yoko shiho gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional throwing list, Gokyo (no waza), of Kodokan Judo, to which group does Hane Makikomi belong?\nA) Ikkyo (first group)\nB) Nikyo (second group)\nC) Sankyo (third group)\nD) Yonkyo (fourth group)",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the IJF official name for the technique commonly known as \"Leg Armlock\"?\nA) Ude-hishigi-hara-gatame\nB) Ude-hishigi-ashi-gatame\nC) Ashi-gatame\nD) AGA",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many grappling techniques are officially recognized in the Katame-waza of Kodokan Judo?\nA) 9\nB) 29\nC) 40\nD) 15",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which technique does \u014c guruma belong to in the traditional throwing list of Kodokan Judo?\nA) First group\nB) Second group\nC) Third group\nD) Fourth group",
+        "Answer": "D"
+    },
+    {
+        "Question": "\u014c guruma is classified under which category of Judo techniques?\nA) Hand techniques (te-waza)\nB) Foot techniques (ashiwaza)\nC) Hip techniques (koshiwaza)\nD) Sacrifice techniques (sutemiwaza)",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ura Gatame was officially recognized as a legitimate hold for competition by the International Judo Federation in which year?\nA) 2010\nB) 2011\nC) 2013\nD) 2017",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, what is the classification of Ura Gatame?\nA) Nage-waza (throwing technique)\nB) Atemi-waza (striking technique)\nC) Katame-waza (grappling technique)\nD) Kansetsu-waza (joint technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who demonstrated the use of Ura Gatame as a turtle turnover in \"The Essence Of Judo\"?\nA) Jigoro Kano\nB) Isao Okano\nC) Kyuzo Mifune\nD) Anton Geesink",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which weight category did Sally Conway compete against Melissa Helaine at the Grand Prix The Hague 2018?\nA) U48\nB) U57\nC) U70\nD) U78",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the video \"The Essence of Judo\" featuring Kyuzo Mifune, which Judo technique is demonstrated as part of the content?\nA) O soto gari\nB) Ude gatame ude kujiki\nC) Seoi nage\nD) Tomoe nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ude-Hishigi-Ude-Gatame is classified as one of the nine joint techniques in the _________ list of Judo's Katame-waza.\nA) Kansetsu-waza\nB) Ne-waza\nC) Tachi-waza\nD) Atemi-waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo competitions, all legal joint techniques are restricted to _________.\nA) leg locks\nB) arm locks\nC) neck cranks\nD) finger holds",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Ude-hishigi-ude-gatame arm lock, Tori responds to Uke's escape attempt by hugging one of Uke's arms against their _______.\nA) Leg\nB) Back\nC) Chest\nD) Head",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Ude-hishigi-ude-gatame arm lock is specifically used when Uke attempts to escape by _______.\nA) Kicking Tori's leg\nB) Grabbing Tori's belt\nC) Extending an arm to grab Tori\u2019s collar\nD) Pushing Tori away",
+        "Answer": "C"
+    },
+    {
+        "Question": "When applying the Ude-hishigi-ude-gatame, Tori controls the extended arm with _______.\nA) One hand\nB) Both feet\nC) Both hands\nD) Their chin",
+        "Answer": "C"
+    },
+    {
+        "Question": "To effectively apply the Ude-hishigi-ude-gatame, Tori presses their knee against Uke's _______.\nA) Head\nB) Arm\nC) Side\nD) Back",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Ude-hishigi-ude-gatame, Tori employs the lever principle to _______ Uke's arm.\nA) Extend\nB) Hyperextend and bend\nC) Shorten\nD) Relax",
+        "Answer": "B"
+    },
+    {
+        "Question": "While performing the Ude-hishigi-ude-gatame, Tori pulls Uke's trapped arm toward their _______ to apply the elbow joint lock.\nA) Side\nB) Head\nC) Stomach\nD) Feet",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the date when the video of the match between Assmaa Niang and Sally Conway was retrieved for reference?\nA) 2018-08-10\nB) 2019-04-07\nC) 2019-04-08\nD) 2018-08-11",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, what is the IJF official name for the technique commonly known as the \"Arm Bar\"?\nA) Ude-hishigi-juji-gatame\nB) Ude-garami\nC) Ude-hishigi-hara-gatame\nD) Ude-hishigi-ashi-gatame",
+        "Answer": "A"
+    },
+    {
+        "Question": "Ude-Hishigi-Juji-Gatame is classified under which category of Kodokan Judo techniques?\nA) Nage-waza (Throwing techniques)\nB) Kansetsu-waza (Joint techniques)\nC) Ne-waza (Ground techniques)\nD) Atemi-waza (Striking techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many grappling techniques are officially recognized in Kodokan Judo's Katame-waza?\nA) 9\nB) 29\nC) 3\nD) 15",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the video that captures the core principles of Judo, which prominent Judo master is featured?\nA) Jigoro Kano\nB) Kyuzo Mifune\nC) Isao Okano\nD) Toshihiko Koga",
+        "Answer": "B"
+    },
+    {
+        "Question": "Sasae Tsurikomi Ashi is classified as a __________ technique in Judo.\nA) Hand\nB) Hip\nC) Foot\nD) Sacrifice",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Sasae Tsurikomi Ashi belongs to which group?\nA) Dai Ikkyo\nB) Dai Nikyo\nC) Dai Sankyo\nD) Dai Yonkyo",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many throws are part of the current Kodokan Judo syllabus, which includes Sasae Tsurikomi Ashi?\nA) 40\nB) 50\nC) 67\nD) 100",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique Harai Tsuri Komi Ashi, how is the opponent's foot dealt with compared to Sasae Tsuri Komi Ashi?\nA) The foot is lifted upwards.\nB) The foot is pushed forwards.\nC) The foot is swept away backwards.\nD) The foot is trapped against the mat.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the distinctive feature of the technique Hiza Guruma in comparison to other foot techniques?\nA) The blocking is done with the elbow.\nB) The blocking is done on the knee.\nC) The blocking is done with the head.\nD) The blocking is done with the hand.",
+        "Answer": "B"
+    },
+    {
+        "Question": "To execute Harai Tsuri Komi Ashi effectively, the practitioner must simultaneously perform a foot sweep while doing what other action?\nA) Pushing the opponent away\nB) Pulling the opponent towards themselves\nC) Lifting the opponent off the ground\nD) Stepping back to create distance",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the technique Harai Tsuri Komi Ashi, what part of the opponent's movement is blocked to prevent them from regaining balance?\nA) The arm movement\nB) The head movement\nC) The foot stepping\nD) The hip rotation",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the result of the combined actions of pulling, twisting, and sweeping in the Harai Tsuri Komi Ashi technique?\nA) The opponent is pushed to the ground.\nB) The opponent is lifted and thrown forward.\nC) The opponent begins a rotation that completes the throw.\nD) The opponent is locked in a submission hold.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, what is the Japanese term for a grappling hold that critically reduces or prevents air or blood from passing through the neck of an opponent?\nA) Kansetsu-waza\nB) Ne-waza\nC) Shime-waza\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the average time it takes for a choke to render an opponent unconscious in Judo?\nA) 5 seconds\nB) 9 seconds\nC) 15 seconds\nD) 20 seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a benefit of using chokeholds over brute-force manual strangling?\nA) Requires less physical strength\nB) Uses leverage effectively\nC) Relies on the clothes for constriction\nD) Causes immediate death",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Judo, what are \"blood chokes\" commonly referred to as?\nA) Chokeholds\nB) Strangleholds\nC) Air chokes\nD) Constriction chokes",
+        "Answer": "B"
+    },
+    {
+        "Question": "What primarily differentiates a \"stranglehold\" from a \"chokehold\" in martial arts terminology?\nA) Strangleholds require the use of a weapon\nB) Chokeholds are exclusively air-based constriction\nC) Strangleholds are exclusively blood-based constriction\nD) Chokeholds cannot lead to unconsciousness",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, which type of holds use the clothes to assist in the constriction?\nA) Figure-four holds\nB) Collar holds\nC) Armbar holds\nD) Leg locks",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a critical outcome of applying a chokehold improperly in Judo?\nA) Temporary paralysis\nB) Increased strength in the opponent\nC) Unconsciousness or death\nD) Immediate escape by the opponent",
+        "Answer": "C"
+    },
+    {
+        "Question": "An air choke in Judo is designed to compress which part of the opponent's body?\nA) The arm\nB) The leg\nC) The upper airway\nD) The torso",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the primary consequence of an air choke that makes a fighter yield to such a submission hold?\nA) Loss of limb function\nB) Excruciating pain and air hunger\nC) Immediate unconsciousness\nD) Disorientation and confusion",
+        "Answer": "B"
+    },
+    {
+        "Question": "Compared to blood chokes, air chokes are considered:\nA) More effective at inducing unconsciousness\nB) Safer to practice\nC) Less safe to practice\nD) Equally as safe to practice",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Ezekiel choke involves the attacker grabbing inside their own sleeve. Where is the opponent's neck in relation to the attacker's arm?\nA) Above the arm\nB) Below the arm\nC) Beside the arm\nD) Through the arm",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a North\u2013south choke, the opponent is facing up. What two parts of the attacker's body are primarily used to cut off airflow?\nA) Shoulder and forearm\nB) Biceps and forearm\nC) Shoulder and biceps\nD) Biceps and hand",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing an Ezekiel choke, the attacker grabs inside their own sleeve to apply pressure where?\nA) On the opponent's chest\nB) Around the opponent's neck\nC) Against the opponent's arm\nD) Over the opponent's shoulder",
+        "Answer": "B"
+    },
+    {
+        "Question": "The North\u2013south choke is applied from the north-south position. Which part of the attacker's body uses the biceps to cut off airflow?\nA) The attacking arm\nB) The attacking leg\nC) The defending arm\nD) The defending leg",
+        "Answer": "A"
+    },
+    {
+        "Question": "A blood choke is designed to compress which of the following to induce unconsciousness?\nA) The airway\nB) The carotid arteries\nC) The muscles of the neck\nD) The spine",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why do blood chokes require little physical strength compared to strangulation with the hands?\nA) They compress the airway more efficiently\nB) They rely on leverage rather than brute force\nC) They target the carotid arteries and jugular veins instead of the airway\nD) They cause immediate unconsciousness",
+        "Answer": "C"
+    },
+    {
+        "Question": "A hold that blocks both the left and right carotid arteries can result in:\nA) Permanent brain damage\nB) Cerebral ischemia and loss of consciousness within seconds\nC) Immediate death\nD) No significant effect",
+        "Answer": "B"
+    },
+    {
+        "Question": "To avoid injury, the lateral vascular neck restraint cannot be maintained for more than:\nA) 10 minutes\nB) A few seconds\nC) 30 seconds\nD) 1 minute",
+        "Answer": "B"
+    },
+    {
+        "Question": "In judo, chokeholds, known as _______, are often subject to restrictions based on age or rank.\nA) Kappo\nB) Shime-waza\nC) Gi chokes\nD) Triangle chokes",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the purpose of learning kappo in some martial arts?\nA) To enhance offensive techniques\nB) To improve defensive strategies\nC) To heal a fighter choked to unconsciousness\nD) To increase physical strength",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing front headlocks in Judo, a practitioner can use the ______ grip, which involves clasping the hands together, palm to palm, at a ninety degree angle, with thumbs tucked in.\nA) Gable\nB) Butterfly\nC) Guillotine\nD) Kimura",
+        "Answer": "A"
+    },
+    {
+        "Question": "Osoto Otoshi is classified as a ________ technique in Judo.\nA) Hand\nB) Sacrifice\nC) Foot\nD) Hip",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the 1895 Gokyo no Waza lists, Osoto Otoshi belonged to which group?\nA) Ikkyo\nB) Nikyo\nC) Sankyo\nD) Yonkyo",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Kodokan Judo, which of the following is recognized as a comprehensive list of techniques?\nA) The Canon of Football\nB) The Canon of Judo\nC) The Kodokan Judo Handbook\nD) The List of Judo Strategies",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the described technique, how does the tori use their leg in relation to the uke's leg?\nA) The tori sweeps the uke's leg off the ground.\nB) The tori hooks the uke's leg without lifting it off the ground.\nC) The tori steps on the uke's foot to immobilize them.\nD) The tori uses their leg to push the uke's leg forward.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which part of the uke's body is targeted to hit the mat first when executing the described technique?\nA) The side\nB) The front\nC) The back\nD) The head",
+        "Answer": "C"
+    },
+    {
+        "Question": "The described technique shares a similarity with which other Judo technique?\nA) Ippon Seoi Nage\nB) Osoto Gari\nC) Uchi Mata\nD) Harai Goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Obi Otoshi is categorized as which type of Judo technique?\nA) Leg technique\nB) Sacrifice technique\nC) Hand technique\nD) Pinning technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which of the following lists is Obi Otoshi included as a preserved throwing technique in Judo?\nA) The 1922 Kodokan Goshin Jutsu\nB) The 1895 Gokyo no Waza\nC) The 1987 Judo Formal Techniques\nD) The 1911 Nage no Kata",
+        "Answer": "B"
+    },
+    {
+        "Question": "Yoko gake belongs to which group of the traditional throwing list in Kodokan Judo?\nA) First group\nB) Third group\nC) Fifth group\nD) Seventh group",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is Yoko gake classified in terms of judo techniques?\nA) Ashi-waza\nB) Te-waza\nC) Yoko-sutemi\nD) Koshi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main reason Yoko gake is considered dangerous for the Uke?\nA) The Uke has too much space to dissipate the impact of the fall.\nB) The Uke has insufficient space to dissipate the impact of the fall.\nC) The Uke is typically stronger than the Tori.\nD) The Uke can easily counter the technique.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What must the Uke do to reduce the risk of injury when being thrown with Yoko gake?\nA) Increase the speed of the throw.\nB) Compensate to achieve proper rotation in executing the breakfall.\nC) Resist the throw as much as possible.\nD) Perform a different technique to counter.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why is Yoko gake infrequently used in competition?\nA) It is an easy technique to perform.\nB) It is not an effective technique in scoring.\nC) It carries a high risk of injury for the Uke.\nD) It is considered a disrespectful technique.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Yoko-gake, when executed as a sacrifice technique, can be considered similar to which of the following trip throws?\nA) Kosoto gake\nB) Harai tsurikomi ashi\nC) De ashi harai\nD) Okuriashi harai",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following throws is NOT typically associated with Yoko-gake as a variation?\nA) Kosoto gake\nB) Harai tsurikomi ashi\nC) De ashi harai\nD) Uchi mata",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the ideal condition for initiating a Yoko-gake technique in Judo?\nA) A slight imbalance toward the back\nB) A strong grip on Uke's sleeve\nC) A slight imbalance toward the front\nD) Full control of Uke's hip movement",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the execution of Yoko-gake, what action must Tori take in relation to Uke's advancing foot?\nA) Tori must step away from Uke's advancing foot.\nB) Tori must step to the opposite side of Uke's advance.\nC) Tori must step to the same side as Uke's advance.\nD) Tori must remain stationary and wait for Uke to retreat.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In order to complete the Yoko-gake throw, what must Tori do after rotating to a perpendicular position with Uke?\nA) Tori must lift the advanced leg, pushing it with their own.\nB) Tori must lift the advanced leg, hooking and sweeping it with their own.\nC) Tori must push Uke's advanced leg with their hand.\nD) Tori must pull Uke's advanced leg towards themselves.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the Japanese term for the 'half cross strangle' technique in Judo?\nA) Kata Guruma\nB) Kata J\u016bji-jime\nC) Katate-Juji-Jime\nD) Kesa Gatame",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kata J\u016bji-jime is classified under which category of Kodokan Judo techniques?\nA) Nage-waza\nB) Katame-waza\nC) Shime-waza\nD) Atemi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In \"The Canon Of Judo,\" what alternative name is given to Kata J\u016bji-jime?\nA) Kuzure-Kesa-Gatame\nB) Katate-Juji-Jime\nC) Ude-Hishigi-Juji-Gatame\nD) Hadaka-Jime",
+        "Answer": "B"
+    },
+    {
+        "Question": "When applying Kata J\u016bji-jime, how should the palms of the hands be positioned?\nA) Both palms facing the opponent\nB) Both palms facing away from the opponent\nC) One palm facing the opponent, the other facing away\nD) Both palms facing downwards",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the primary effect of scissoring the hands in the Kata J\u016bji-jime technique?\nA) Causing joint dislocation\nB) Applying pressure to the carotid arteries\nC) Pinning the opponent to the ground\nD) Twisting the opponent's ankle",
+        "Answer": "B"
+    },
+    {
+        "Question": "Yoko Guruma is classified as which type of judo technique?\nA) Ashi-waza\nB) Te-waza\nC) Yoko-sutemi\nD) Koshi-waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, known as Gokyo (no waza), Yoko Guruma belongs to which group?\nA) First group\nB) Third group\nC) Fifth group\nD) Seventh group",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many throws are currently recognized in the Kodokan Judo syllabus, which includes Yoko Guruma?\nA) 40 throws\nB) 57 throws\nC) 67 throws\nD) 75 throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "When studying nage-waza, Yoko Guruma is preferably used as a counter throw to which technique?\nA) Uki-goshi\nB) O-soto-gari\nC) Seoi-nage\nD) Harai-goshi",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the described technique, Tori defends against Uke's initial attack by moving to the _______, slightly away from the Uke.\nA) front\nB) side\nC) back\nD) center",
+        "Answer": "B"
+    },
+    {
+        "Question": "To counter possible counters like ura-nage, Uke will _______ to fall.\nA) spontaneously react\nB) refuse\nC) hesitate\nD) wait",
+        "Answer": "A"
+    },
+    {
+        "Question": "Tori attempts to land on the left side by placing the right leg _______ those of Uke.\nA) outside\nB) inside\nC) between\nD) alongside",
+        "Answer": "C"
+    },
+    {
+        "Question": "The throw described is angled in the direction of _______.\nA) resistance\nB) flow\nC) imbalance\nD) gravity",
+        "Answer": "B"
+    },
+    {
+        "Question": "If Tori's technique fails, he has no opportunity to complete a _______, but Uke can counter with the \u014cuchi gari technique.\nA) new attack\nB) combination\nC) defensive position\nD) escape",
+        "Answer": "B"
+    },
+    {
+        "Question": "What term was traditionally used to refer to a judo practitioner below the rank of 4th dan?\nA) Judoka\nB) Sensei\nC) Kenkyu-sei\nD) Senpai",
+        "Answer": "C"
+    },
+    {
+        "Question": "The suffix \"-ka\" (\u5bb6) in \"judoka\" signifies that the person is:\nA) A beginner\nB) A teacher\nC) An expert or someone with special knowledge\nD) A student",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a Western d\u014dj\u014d, who is commonly addressed as \"sensei\"?\nA) Only judokas of 4th dan or higher\nB) Any instructor regardless of dan grade\nC) Exclusively judo practitioners\nD) Only judo practitioners below 4th dan",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the meaning of \"sensei\" when broken down into its components \"sen/saki\" and \"sei\"?\nA) One who is a senior practitioner\nB) One who has preceded you in life\nC) One who practices daily\nD) One who is a lifelong learner",
+        "Answer": "B"
+    },
+    {
+        "Question": "Traditionally, who would be called a \"judoka\"?\nA) Any judo practitioner regardless of rank\nB) Judo practitioners of 4th dan or higher\nC) Judo practitioners below the rank of 4th dan\nD) All martial arts instructors",
+        "Answer": "B"
+    },
+    {
+        "Question": "Sambo is heavily influenced by which martial art, combined with wrestling techniques?\nA) Karate\nB) Judo\nC) Taekwondo\nD) Aikido",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was judo included in the Olympics, marking a significant recognition for the sport?\nA) 1948\nB) 1964\nC) 1972\nD) 1980",
+        "Answer": "B"
+    },
+    {
+        "Question": "In judo, what is the primary focus of Randori?\nA) Prearranged forms\nB) Free practice\nC) Competition only\nD) Striking techniques",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which type of techniques were limited to kata in the early history of judo?\nA) Kansetsu waza\nB) Atemi waza\nC) Nage waza\nD) Ukemi",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main purpose of practicing ukemi in judo?\nA) To improve striking skills\nB) To prepare for kata\nC) To ensure safety when falling\nD) To enhance joint manipulation",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kansetsu waza in judo is limited to techniques focusing on which joint?\nA) Shoulder\nB) Elbow\nC) Knee\nD) Ankle",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the reason for prohibiting certain throwing techniques from Jujutsu in judo competitions?\nA) They were considered too easy to execute\nB) They were not effective in real combat\nC) They were too dangerous to practice at full force\nD) They did not conform to the principles of judo",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was the film \"Sanshiro Sugata Part II\", also known as \"Judo Saga II\", directed by Akira Kurosawa released?\nA) 1943\nB) 1945\nC) 2004\nD) 1944",
+        "Answer": "B"
+    },
+    {
+        "Question": "The safety of both tori and uke during the practice of throwing techniques is primarily dependent on:\nA) The difficulty of the throw\nB) The strength of tori\nC) The skill level of both participants\nD) The type of judogi worn",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the risk when tori uses excessive power to compensate for poor technique?\nA) The throw becomes more effective\nB) It increases the risk of injury to both tori and uke\nC) It is considered a foul\nD) Uke is more likely to execute a perfect breakfall",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Judo, poor ukemi can lead to injury, especially from throws that uke is:\nA) Familiar with\nB) Skilled at countering\nC) Lacking the skill to breakfall from\nD) Able to perform effortlessly",
+        "Answer": "C"
+    },
+    {
+        "Question": "Throws in Judo are typically taught in a sequence that:\nA) Reflects the historical development of the techniques\nB) Is random to challenge the students\nC) Is based on the age of the students\nD) Increases in difficulty for both tori and uke",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the Gokyo system, throws grouped under Dai ikkyo are:\nA) The most difficult to perform\nB) The easiest from which to breakfall\nC) Only taught to advanced students\nD) Forbidden in competition",
+        "Answer": "B"
+    },
+    {
+        "Question": "At the 57th general session of the International Olympic Committee, held in Rome on what date was Judo formally decided to be included in the Olympic Games?\nA) 22 August 1958\nB) 22 August 1960\nC) 22 August 1962\nD) 22 August 1964",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many dissenting votes were there in the final poll to include Judo in the Olympic Games?\nA) None\nB) One\nC) Two\nD) Three",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which Olympic Games was Judo first contested as an Olympic sport for men?\nA) 1960 Games in Rome\nB) 1964 Games in Tokyo\nC) 1968 Games in Mexico City\nD) 1972 Games in Munich",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who won the first Olympic gold medal in the open division of Judo?\nA) Akio Kaminaga of Japan\nB) Anton Geesink of the Netherlands\nC) Yasuhiro Yamashita of Japan\nD) Teddy Riner of France",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year was the women's Judo event introduced as a demonstration event at the Olympics?\nA) 1984\nB) 1988\nC) 1992\nD) 1996",
+        "Answer": "B"
+    },
+    {
+        "Question": "When did Judo become an official medal event for women in the Olympics?\nA) 1984\nB) 1988\nC) 1992\nD) 1996",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo competitions, how many weight divisions are there that may be adjusted by governing bodies or based on the age of the competitors?\nA) Five\nB) Six\nC) Seven\nD) Eight",
+        "Answer": "C"
+    },
+    {
+        "Question": "Georgian Judo is particularly known for its ________ techniques, which involve the use of power moves.\nA) Countering\nB) Attacking\nC) Defensive\nD) Evasive",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following moves is emphasized in the Georgian style of Judo due to the influence of Chidaoba?\nA) Bear hugs and double underhooks\nB) Armlocks and strangles\nC) Leg sweeps and hip throws\nD) Foot techniques and katas",
+        "Answer": "A"
+    },
+    {
+        "Question": "Lasha Bekauri and Shota Chochishvili are known for representing Georgian Judo as ________.\nA) Olympic winners and World Champions\nB) National coaches\nC) Judo historians\nD) Judo equipment innovators",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Katame-waza, the subcategory of osaekomi-waza involves:\nA) Choking or strangling the opponent\nB) Pinning the opponent on their back on the floor\nC) Painful manipulation of the opponent's joints\nD) Applying techniques from a non-standing position",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the current limitation of Kansetsu-waza in competitive judo?\nA) It can only be applied from a standing position\nB) It is limited to elbow joint manipulation\nC) It includes manipulation of all joints\nD) It is not allowed in competition",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following kata includes manipulation and locking of joints other than the elbow?\nA) Katame-no-kata\nB) Nage-no-kata\nC) Kime-no-kata\nD) Ju-no-kata",
+        "Answer": "A"
+    },
+    {
+        "Question": "Mental training in judo aims to improve performance, promote health and well-being, and is also intended to benefit the _______ of athletes.\nA) physical strength\nB) technical skills\nC) entourage\nD) flexibility",
+        "Answer": "C"
+    },
+    {
+        "Question": "The first publication of a judo-specific practical mental training approach was in _______.\nA) 1995\nB) 2000\nC) 2005\nD) 2010",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who were the authors of the first publication on judo-specific practical mental training?\nA) Boris Blumenstein, Ronnie Lidor, and Gershon Tenenbaum\nB) Jigoro Kano, Anton Geesink, and Keiko Fukuda\nC) Isao Inokuma, Yasuhiro Yamashita, and Toshihiko Koga\nD) Neil Adams, Teddy Riner, and Ilias Iliadis",
+        "Answer": "A"
+    },
+    {
+        "Question": "In 2022, Caio Gabriel published an article on mental training in the scientific journal of the International Judo Federation titled _______.\nA) \"The Mental Edge in Judo\"\nB) \"Judo Psychology: The Mind-Body Connection\"\nC) \"The Arts and Sciences of Judo\"\nD) \"Winning Mindset: The Judo Champion's Guide\"",
+        "Answer": "C"
+    },
+    {
+        "Question": "How are some derivative martial arts from Kano's judo often referred to, to differentiate them from mainstream judo?\nA) As Kano Jiu-Jitsu\nB) As Kodokan Jiu-Jitsu\nC) As Jujutsu or Jiu-Jitsu\nD) As Traditional Judo",
+        "Answer": "C"
+    },
+    {
+        "Question": "Judo was introduced as an Olympic sport in which year?\nA) 1882\nB) 1964\nC) 1904\nD) 1948",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is the founder of Judo?\nA) Morihei Ueshiba\nB) Kan\u014d Jigor\u014d\nC) Helio Gracie\nD) Jigoro Kano",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does \"randori\" in Judo mean?\nA) Pre-arranged forms\nB) Free sparring\nC) Joint lock\nD) Choke",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary objective in competitive Judo?\nA) To break an opponent's weapon\nB) To strike an opponent until submission\nC) To throw, pin, or submit an opponent\nD) To perform the most artistic kata",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the term used for a Judo practitioner?\nA) Judoka\nB) Judogi\nC) Jujutsuka\nD) Judoist",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following is NOT allowed in Judo competition?\nA) Throws\nB) Pins\nC) Strikes\nD) Joint locks",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the name of the Judo uniform?\nA) Karategi\nB) Judogi\nC) Keikogi\nD) Dobok",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does \"Seiryoku-Zenyo\" represent in Judo's philosophy?\nA) Mutual respect and honor\nB) Good use of energy\nC) Maximum efficiency, minimum effort\nD) Mutual welfare and benefit",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which martial art is NOT a derivative of Judo?\nA) Brazilian jiu-jitsu\nB) Krav Maga\nC) Aikido\nD) Sambo",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the international governing body for Judo?\nA) World Judo Association\nB) International Judo Federation\nC) Global Judo Network\nD) United Judo Organization",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the penalty called that is given for minor rule infringements in Judo?\nA) Hansoku-make\nB) Shido\nC) Waza-ari\nD) Ippon",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many shidos can a judoka receive before it leads to victory for their opponent?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the consequence of receiving a hansoku-make for a major rule infringement?\nA) Warning\nB) Loss of the match\nC) Expulsion from the tournament\nD) Both B and C",
+        "Answer": "D"
+    },
+    {
+        "Question": "As of the recent rule changes, what happens when a judoka receives their first shidos?\nA) Immediate expulsion\nB) Immediate victory for the opponent\nC) Warnings\nD) Match continues without any consequence",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the event of a tie, how are shidos used to determine the winner?\nA) The player with more shidos wins\nB) Shidos are not considered in a tie\nC) The player with fewer shidos wins\nD) The match is decided by a golden score",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Mongolian Judo, the influence of Bokh is evident in the use of specific grips. Which of the following grips is NOT typically emphasized in Mongolian Judo?\nA) Over-under grip\nB) Double underhooks\nC) Grips on the belt\nD) Wristlock grip",
+        "Answer": "D"
+    },
+    {
+        "Question": "Mongolian Judo is known for focusing more on which aspect compared to other Far East styles of Judo?\nA) Speed\nB) Flexibility\nC) Power\nD) Precision",
+        "Answer": "C"
+    },
+    {
+        "Question": "What did Kan\u014d Jigor\u014d study from the age of seven?\nA) Mathematics and Science\nB) English, shod\u014d, and the Four Confucian Texts\nC) Martial Arts and Philosophy\nD) Economics and Politics",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the name of the English-medium school Kano attended at fourteen?\nA) Tokyo Imperial University\nB) Ikuei-Gijuku\nC) Shiga Prefectural School\nD) Nippon Sport Science University",
+        "Answer": "B"
+    },
+    {
+        "Question": "What cultural issue at the school Kano attended influenced him to seek out J\u016bjutsu training?\nA) Academic competition\nB) Bullying\nC) Religious studies\nD) Language barriers",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why did Katagiri Ryuji refuse to teach Kano jujutsu?\nA) He was too busy with other students.\nB) He believed jujutsu was no longer of practical use.\nC) He did not know jujutsu well enough to teach.\nD) He was not a certified instructor.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What did Fukuda Hachinosuke emphasize in his teaching?\nA) Formal exercise\nB) Technique\nC) Theoretical knowledge\nD) Physical strength",
+        "Answer": "B"
+    },
+    {
+        "Question": "After Fukuda's death, who did Kano continue his studies with?\nA) Iikubo Tsunetoshi\nB) Iso Masatomo\nC) Nakai Umenari\nD) Katagiri Ryuji",
+        "Answer": "B"
+    },
+    {
+        "Question": "What aspect of judo did Iso Masatomo place more emphasis on?\nA) Kata\nB) Randori\nC) Nage-waza\nD) Ne-waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who was responsible for instructing randori after Iso Masatomo's death?\nA) Fukuda Hachinosuke\nB) Iso Masatomo\nC) Iikubo Tsunetoshi\nD) Kan\u014d Jigor\u014d",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which school of jujutsu did Iikubo Tsunetoshi belong to?\nA) Tenjin Shin'y\u014d-ry\u016b\nB) Ky\u016bshin-ry\u016b\nC) Kit\u014d-ry\u016b\nD) Jikishin-ry\u016b",
+        "Answer": "C"
+    },
+    {
+        "Question": "What did Iikubo Tsunetoshi place much emphasis on in his teaching?\nA) Kata\nB) Randori\nC) Ne-waza\nD) Kime-no-kata",
+        "Answer": "B"
+    },
+    {
+        "Question": "What did Kano become for Fukuda's d\u014dj\u014d after Fukuda's death?\nA) A regular student\nB) The head instructor\nC) The caretaker\nD) The recipient of the densho",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is \"randori\" in judo?\nA) Pre-arranged forms\nB) Free practice\nC) A type of throwing technique\nD) A traditional osteopathy practice",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is \"kata\" in the context of judo?\nA) Free practice\nB) A type of throwing technique\nC) Pre-arranged forms\nD) A traditional osteopathy practice",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the relationship between Kano's father and Nakai Umenari?\nA) Teacher-student\nB) Father-son\nC) Acquaintances\nD) Business partners",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, the term \"randori\" is best described as ______.\nA) a formal set of rules\nB) a specific throwing technique\nC) free practice\nD) a victory celebration",
+        "Answer": "C"
+    },
+    {
+        "Question": "Yakusoku geiko, a form of randori, is characterized by what kind of practice?\nA) High-intensity competition\nB) Prearranged practice with no resistance\nC) Full-contact sparring\nD) Solo forms without a partner",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main purpose of Sute geiko in Judo training?\nA) For a less-experienced judoka to practice throws\nB) To learn how to win in competitions\nC) To perform solo kata\nD) To resist all of the partner's attempts to throw",
+        "Answer": "A"
+    },
+    {
+        "Question": "The hard style of randori in Judo aims to emulate the style seen in ______.\nA) kata demonstrations\nB) traditional ceremonies\nC) competition\nD) meditation sessions",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to traditionalists, over-emphasizing the competitive aspect of randori is seen as ______.\nA) essential for learning\nB) desirable for building character\nC) undesirable if the intent is to \"win\" rather than to learn\nD) the only way to practice effectively",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the term \"Yakusoku geiko\" literally translate to?\nA) Taking chaos\nB) Prearranged practice\nC) Throw-away practice\nD) Free practice",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of Kata in Judo?\nA) To score points in a competition\nB) To demonstrate correct execution of techniques\nC) To win matches\nD) To intimidate opponents",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many kata are officially recognized by the Kodokan today?\nA) Five\nB) Seven\nC) Ten\nD) Twelve",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Nage-no-kata consists of how many throws?\nA) Ten\nB) Twelve\nC) Fifteen\nD) Twenty",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which kata incorporates techniques that are not allowed in randori?\nA) Kime-no-kata\nB) Katame-no-kata\nC) J\u016b-no-kata\nD) G\u014d-no-kata",
+        "Answer": "A"
+    },
+    {
+        "Question": "What does the K\u014dd\u014dkan goshinjutsu kata focus on?\nA) Forms of throwing\nB) Self-defence\nC) Forms of force\nD) National physical education",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which kata illustrates the principle of J\u016b?\nA) G\u014d-no-kata\nB) J\u016b-no-kata\nC) Itsutsu-no-kata\nD) Koshiki-no-kata",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the theme of Itsutsu-no-kata?\nA) The movements of the universe\nB) The use of force\nC) Self-defence\nD) Flexibility",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Seiryoku Zen'y\u014d Kokumin Taiiku was designed to:\nA) Develop physique for judo\nB) Teach ancient techniques\nC) Prepare for combat situations\nD) Practice counter techniques",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who ordered the development of Joshi-goshinh\u014d?\nA) Jigoro Kano\nB) Kyuzo Mifune\nC) Jiro Nango\nD) Mikinosuke Kawaishi",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which kata was popularised in the West by Mikinosuke Kawaishi?\nA) Go-no-sen-no-kata\nB) Nage-waza-ura-no-kata\nC) Katame-waza ura-no-kata\nD) Itsutsu-no-kata",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Koshiki-no-kata is derived from which school of Jujutsu?\nA) Tenjin Shiny\u014d-ry\u016b\nB) Kit\u014d-ry\u016b\nC) Waseda University\nD) Kodokan",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Katame-no-kata, how many sets of techniques are there?\nA) Two\nB) Three\nC) Four\nD) Five",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the term 'Kime' in Kime-no-kata refer to?\nA) Flexibility\nB) Decisiveness\nC) Force\nD) Gentleness",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is not a category in Nage-no-kata?\nA) Te waza\nB) Koshi waza\nC) Atemi waza\nD) Yoko sutemi waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "The G\u014d-no-kata is focused on the efficient use of what?\nA) Speed\nB) Force and resistance\nC) Flexibility\nD) Strategy",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who created the Nage-waza-ura-no-kata?\nA) Jigoro Kano\nB) Kyuzo Mifune\nC) Kazuo It\u014d\nD) Mikinosuke Kawaishi",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Katame-waza ura-no-kata is attributed to which individual?\nA) Jigoro Kano\nB) Kyuzo Mifune\nC) Kazuo It\u014d\nD) Mikinosuke Kawaishi",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main focus of the Randori-no-kata?\nA) Forms of throwing and grappling\nB) Self-defence techniques\nC) The principle of J\u016b\nD) The use of atemi waza",
+        "Answer": "A"
+    },
+    {
+        "Question": "On which date is World Judo Day celebrated annually to honor the birth of Judo's founder, Jigoro Kano?\nA) October 18\nB) October 28\nC) November 28\nD) December 28",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the theme of the World Judo Day in the year 2019?\nA) Inclusion\nB) Solidarity\nC) Stronger Together\nD) Plant a Tree",
+        "Answer": "D"
+    },
+    {
+        "Question": "Since what year has the judo community been officially celebrating World Judo Day?\nA) 2009\nB) 2010\nC) 2011\nD) 2012",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was judo introduced as a Paralympic sport?\nA) 1984\nB) 1988\nC) 1992\nD) 2004",
+        "Answer": "B"
+    },
+    {
+        "Question": "During which Summer Paralympics were women's judo events contested for the first time?\nA) 1988 Seoul\nB) 1992 Barcelona\nC) 2000 Sydney\nD) 2004 Athens",
+        "Answer": "D"
+    },
+    {
+        "Question": "Atemi-waza, the techniques involving strikes to vital points, are only allowed in which judo practice setting?\nA) Randori\nB) Shiai\nC) Kata\nD) Kogi",
+        "Answer": "C"
+    },
+    {
+        "Question": "The ranking system in Judo was developed by __________.\nA) The International Judo Federation\nB) Jigoro Kano\nC) Kano Yukimitsu\nD) The Kodokan",
+        "Answer": "B"
+    },
+    {
+        "Question": "The kyu-dan ranking system in Judo is displayed by the color of a judoka's ________.\nA) Gi\nB) Belt\nC) Hakama\nD) Shoes",
+        "Answer": "B"
+    },
+    {
+        "Question": "A beginner in Judo typically starts with a ________ belt.\nA) Yellow\nB) White\nC) Blue\nD) Green",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kano Yukimitsu served as the president of the Kodokan starting in ________.\nA) 1928\nB) 1980\nC) 2009\nD) 2011",
+        "Answer": "B"
+    },
+    {
+        "Question": "The first woman to be promoted to judo's highest level, 10th dan, by USA Judo was ________.\nA) Keiko Fukuda\nB) Ryoko Tani\nC) Kayla Harrison\nD) Noriko Mizoguchi",
+        "Answer": "A"
+    },
+    {
+        "Question": "The first black belts to denote a dan rank were introduced in the ________.\nA) 1880s\nB) 1900s\nC) 1920s\nD) 1980s",
+        "Answer": "A"
+    },
+    {
+        "Question": "The colored belt system was expanded after the introduction of the ________.\nA) Kimono\nB) Judogi\nC) Hakama\nD) Obi",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Budokwai judo club, which recorded the use of colored judo belts, was founded in ________.\nA) 1918\nB) 1926\nC) 1927\nD) 1928",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Judo, the kyu grades are ________ between national organizations.\nA) The same\nB) Inconsistent\nC) Non-existent\nD) Only for children",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Budokwai Committee Minutes that list ranked colored judokas date back to June ________.\nA) 1918\nB) 1926\nC) 1927\nD) 1928",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who is likely to have been inspired to bring the colored belt system to France after visiting the Budokwai in London?\nA) Jigoro Kano\nB) Kano Yukimitsu\nC) Mikonosuke Kawaishi\nD) Keiko Fukuda",
+        "Answer": "C"
+    },
+    {
+        "Question": "The kuro obi in Judo signifies that a judoka has reached the ________ grade.\nA) Kyu\nB) Dan\nC) Beginner\nD) Intermediate",
+        "Answer": "B"
+    },
+    {
+        "Question": "What principle did Kano illustrate with the concept of \"j\u016b yoku g\u014d o seisu\"?\nA) Strength overcomes weakness\nB) Speed overcomes slowness\nC) Softness controls hardness\nD) Agility overcomes rigidity",
+        "Answer": "C"
+    },
+    {
+        "Question": "Kano's vision for judo includes the principle of seiryoku zen'y\u014d, which means:\nA) Maximum efficiency, minimum effort\nB) Mutual welfare and benefit\nC) Softness controls hardness\nD) The way of flexibility",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was the wider application of seiryoku zen'y\u014d beyond its initial conception as a jujutsu concept?\nA) A method for combat\nB) A philosophical application\nC) A set of physical techniques\nD) A sport competition guideline",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the term \"bud\u014d\" signify in the development of judo?\nA) A martial art\nB) A martial way\nC) A collection of techniques\nD) A combat sport",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kano emphasized the importance of what in the execution of judo techniques?\nA) Speed\nB) Strength\nC) Efficiency\nD) Complexity",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was Kano's perspective on the practice of jujutsu conforming to the principles of seiryoku zen'y\u014d and jita ky\u014dei?\nA) It was a means of self-defense\nB) It was a route to self-improvement and societal betterment\nC) It was primarily for physical fitness\nD) It was for entertainment purposes",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to Kano, why was \"j\u016bjutsu\" an insufficient term to describe his art?\nA) It was too difficult to pronounce\nB) It implied only physical techniques without philosophical context\nC) It was associated with negative public perception\nD) It did not reflect the competitive nature of the sport",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year will judo become a core sport in the Commonwealth Games?\nA) 1990\nB) 2002\nC) 2014\nD) 2022",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many times was judo included as an optional sport in the Commonwealth Games before becoming a core sport?\nA) Once\nB) Twice\nC) Three times\nD) Four times",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the context of judo, what is the general consensus regarding the safety of joint manipulation and strangulation/choking techniques?\nA) They are unsafe under any conditions.\nB) They are generally safe under controlled conditions.\nC) They are only safe when performed outside of a d\u014dj\u014d.\nD) They are never allowed in competition.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a common regulatory aspect of practicing kansetsu and shime waza techniques in judo?\nA) There are no age restrictions.\nB) Age restrictions are uniform worldwide.\nC) Age restrictions vary from country to country.\nD) Only senior citizens are allowed to practice these techniques.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The exact nature of age restrictions for the practice and application of kansetsu and shime waza techniques in judo:\nA) Is determined by the International Olympic Committee.\nB) Is the same across all martial arts.\nC) Varies from organization to organization.\nD) Is decided by the athletes themselves.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In what year was Kano asked to chair a committee to draw up the first formal set of contest rules for jujutsu?\nA) 1899\nB) 1900\nC) 1916\nD) 1925",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was the original duration of contests according to the rules drawn up in 1899?\nA) 10 minutes\nB) 15 minutes\nC) 20 minutes\nD) 30 minutes",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following techniques was excluded from the original contest rules?\nA) Nage waza\nB) Katame waza\nC) Atemi waza\nD) Kansetsu waza",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many ippons were required for a win under the original rules?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following was NOT a path to victory in the original judo contest rules?\nA) Throwing\nB) Pinning\nC) Submission\nD) Striking",
+        "Answer": "D"
+    },
+    {
+        "Question": "What type of locks were prohibited in the 1900 amendments for kyu grades?\nA) Wrist locks\nB) Ankle locks\nC) Neck locks\nD) All joint locks",
+        "Answer": "D"
+    },
+    {
+        "Question": "According to the 1900 amendments, what was the desired ratio of tachi-waza to ne-waza for kyu grades?\nA) 50% to 60%\nB) 60% to 70%\nC) 70% to 80%\nD) 80% to 90%",
+        "Answer": "C"
+    },
+    {
+        "Question": "In what year did judo first appear in an informal demonstration at the Olympic Games?\nA) 1916\nB) 1925\nC) 1932\nD) 1948",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the traditional color of the Judogi worn by Judo practitioners?\nA) Black\nB) Blue\nC) White\nD) Red",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Judogi is sometimes abbreviated in the west as what?\nA) Dojo\nB) Gi\nC) Obi\nD) Kimono",
+        "Answer": "B"
+    },
+    {
+        "Question": "What part of the Judogi is colored to indicate rank?\nA) Jacket\nB) Trousers\nC) Belt\nD) Sleeve",
+        "Answer": "C"
+    },
+    {
+        "Question": "When were the modern long-sleeved Judogi adopted?\nA) 1906\nB) 1986\nC) 1950\nD) 2000",
+        "Answer": "A"
+    },
+    {
+        "Question": "For ease of distinction, what color Judogi is worn by one of the competitors in high-level competition?\nA) White\nB) Red\nC) Black\nD) Blue",
+        "Answer": "D"
+    },
+    {
+        "Question": "At what level of competition is the blue Judogi mandatory outside Japan?\nA) Local\nB) Minor\nC) Regional or higher\nD) National",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the opinion of Japanese practitioners and traditionalists regarding the use of blue Judogi?\nA) They prefer it\nB) They are indifferent\nC) They look down on it\nD) They encourage it",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the IJF Official Logo Mark Label on a Judogi indicate?\nA) The country of origin\nB) The rank of the judoka\nC) Conformance to quality control tests\nD) The sponsor of the athlete",
+        "Answer": "C"
+    },
+    {
+        "Question": "In judo, the three basic categories of waza (\u6280, techniques) include nage-waza (\u6295\u3052\u6280, throwing techniques), katame-waza (\u56fa\u6280, grappling techniques), and _______.\nA) ne-waza (\u5bdd\u6280, ground techniques)\nB) atemi-waza (\u5f53\u3066\u8eab\u6280, striking techniques)\nC) kuzushi-waza (\u5d29\u3057\u6280, balance-breaking techniques)\nD) shime-waza (\u7d5e\u3081\u6280, choking techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "During judo practice, _______ (\u53d7\u3051\u8eab, break-falls) are practiced to reduce the risk of injury when performing nage-waza (\u6295\u3052\u6280, throwing techniques).\nA) kuzushi\nB) ukemi\nC) shime\nD) atemi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which type of ukemi is NOT mentioned as a distinct type of breakfall in judo?\nA) ushiro ukemi (\u5f8c\u308d\u53d7\u8eab, rear breakfalls)\nB) yoko ukemi (\u6a2a\u53d7\u3051\u8eab, side breakfalls)\nC) mae ukemi (\u524d\u53d7\u3051\u8eab, front breakfalls)\nD) koho ukemi (\u5f8c\u65b9\u53d7\u8eab, backward breakfalls)",
+        "Answer": "D"
+    },
+    {
+        "Question": "In judo terminology, the person who executes a technique is referred to as _______.\nA) uke (\u53d7\u3051, \"receiver\")\nB) sensei (\u5148\u751f, \"teacher\")\nC) tori (\u53d6\u308a, \"taker\")\nD) seme (\u653b\u3081, \"attacker\")",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was the Kodokan founded by Kano?\nA) 1880\nB) 1881\nC) 1882\nD) 1883",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the original size of the training area at the Eisho-ji d\u014dj\u014d?\nA) 10 jo (178 sq ft)\nB) 12 jo (214 sq ft)\nC) 15 jo (267 sq ft)\nD) 20 jo (356 sq ft)",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who was Kano's Kit\u014d-ry\u016b instructor that helped teach at the d\u014dj\u014d?\nA) Yamada\nB) Iikubo\nC) Fukuda\nD) Isogai",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the meaning of \"K\u014dd\u014dkan\" in English?\nA) Place for practicing the way\nB) Place for expounding the way\nC) Place for learning the way\nD) Place for mastering the way",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who were the first two students to be granted shodan grades at the Kodokan?\nA) Tomita Tsunejir\u014d and Shiro Saigo\nB) Jigoro Kano and Tomita Tsunejir\u014d\nC) Shiro Saigo and Yamada\nD) Tomita Tsunejir\u014d and Yamada",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Nage-waza, what is the term for the stage where the opponent becomes off-balanced?\nA) Tsukuri\nB) Kuzushi\nC) Kake\nD) Uchi-komi",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of Nage-waza, what is the term for turning in and fitting into the throw?\nA) Kuzushi\nB) Kake\nC) Tsukuri\nD) Uchi-komi",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the final stage of executing a Nage-waza called?\nA) Tsukuri\nB) Kuzushi\nC) Uchi-komi\nD) Kake",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which type of Nage-waza involves tori sacrificing their upright position to throw uke?\nA) Tachi-waza\nB) Te-waza\nC) Koshi-waza\nD) Sutemi-waza",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Tachi-waza, what kind of techniques does tori use to throw uke?\nA) Hand techniques\nB) Hip techniques\nC) Foot and leg techniques\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which organization is responsible for the governance of judo at the international level?\nA) International Olympic Committee\nB) International Judo Federation\nC) World Judo Association\nD) Global Judo Network",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was the International Judo Federation (IJF) founded?\nA) 1945\nB) 1951\nC) 1960\nD) 1972",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following competitions is organized by the International Judo Federation (IJF)?\nA) The Judo World Cup\nB) The World Judo Championships\nC) The Judo Grand Slam\nD) The International Judo Open",
+        "Answer": "B"
+    },
+    {
+        "Question": "Kosen judo is often compared to Brazilian jiu-jitsu due to its emphasis on which aspect of fighting?\nA) Tachi-waza (standing techniques)\nB) Newaza (ground techniques)\nC) Atemi-waza (striking techniques)\nD) Kata (formal exercises)",
+        "Answer": "B"
+    },
+    {
+        "Question": "The term \"Kosen\" in Kosen judo is an acronym for which Japanese term?\nA) Koto Senmon Gakko\nB) Kodokan Seiryoku Zenyo\nC) Kokusai Judo Renmei\nD) Kansai Judo Yudanshakai",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the modern name for the competitions organized between Japan's seven former Imperial Universities practicing Kosen judo?\nA) Shichi Honno Judo\nB) Nanatei Judo\nC) Dai Nippon Judo\nD) Kyu Teikoku Judo",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the current international contest rules in judo, which of the following is NOT a reason for a judoka to receive a penalty?\nA) Passivity\nB) Safety infringements\nC) Executing a perfect ippon\nD) Preventing progress in the match",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a judo match, when must the fighting be stopped by the referee?\nA) If a participant performs a waza-ari\nB) When a judoka requests a timeout\nC) If a participant is outside the designated area on the mat\nD) After a participant achieves two yuko scores",
+        "Answer": "C"
+    },
+    {
+        "Question": "Freestyle Judo is recognized and sanctioned by which organization in the United States of America?\nA) International Judo Federation\nB) International Freestyle Judo Alliance\nC) Amateur Athletic Union\nD) United States Judo Association",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is allowed in Freestyle Judo that may not be permitted under mainstream IJF rules?\nA) Only standing techniques\nB) Only groundwork techniques\nC) Techniques that have been removed from mainstream IJF rules\nD) Only pre-arranged forms (kata)",
+        "Answer": "C"
+    },
+    {
+        "Question": "A throw that places the opponent on their back with impetus and control scores an ______.\nA) yuko\nB) koka\nC) waza-ari\nD) ippon",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many waza-ari scores are equivalent to an ippon since the rule was resumed in 2018?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "In ne-waza, an ippon can be scored by pinning an opponent for how many seconds?\nA) 10 seconds\nB) 15 seconds\nC) 20 seconds\nD) 25 seconds",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of 2017, which score is no longer used in Judo matches?\nA) Koka\nB) Yuko\nC) Waza-ari\nD) Ippon",
+        "Answer": "B"
+    },
+    {
+        "Question": "If the scores are identical at the end of a Judo match, what method is used to resolve the contest?\nA) Hantei\nB) Golden Score\nC) Extended Time\nD) Re-match",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens if there is no score during the Golden Score period?\nA) The match continues indefinitely\nB) The match ends in a draw\nC) The winner is decided by Hantei\nD) The match is decided by a coin toss",
+        "Answer": "C"
+    },
+    {
+        "Question": "A pin lasting for less than 20 seconds but more than 10 seconds scores a ______.\nA) yuko\nB) koka\nC) waza-ari\nD) ippon",
+        "Answer": "C"
+    },
+    {
+        "Question": "What score was given for holds of longer than 15 seconds before the rule changes?\nA) Yuko\nB) Koka\nC) Waza-ari\nD) Ippon",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"Golden Score\" rule was introduced to resolve ties in Judo matches. What is the current time limit for this period?\nA) There is no time limit\nB) One minute\nC) Five minutes\nD) Until the end of match time",
+        "Answer": "A"
+    },
+    {
+        "Question": "What score used to be lesser than a yuko before it was removed from Judo scoring?\nA) Ippon\nB) Waza-ari\nC) Koka\nD) Hantei",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Judo, which technique is known as the \"corner throw\" in English?\nA) Hikikomi gaeshi\nB) Tomoe nage\nC) O soto gari\nD) Harai goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Sumi Gaeshi is classified as which type of Judo technique?\nA) Tachi-waza (Standing technique)\nB) Ne-waza (Ground technique)\nC) Sutemi-waza (Sacrifice technique)\nD) Atemi-waza (Strike technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of Kodokan Judo, Gokyo-no-Nagewaza, to which group does Sumi Gaeshi belong?\nA) Dai Ikkyo (First Group)\nB) Dai Nikyo (Second Group)\nC) Dai Sankyo (Third Group)\nD) Dai Yonkyo (Fourth Group)",
+        "Answer": "D"
+    },
+    {
+        "Question": "During the execution of Sumi Gaeshi, where does the tori plant their foot or knee?\nA) On the uke's lower back\nB) In the uke's opposite upper thigh\nC) On the uke's chest\nD) On the uke's head",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the tori NOT supposed to hit when performing the Sumi Gaeshi?\nA) The chest\nB) The arm\nC) The groin\nD) The leg",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following techniques is considered a variant of the \"Lifting hip throw\" in Judo?\nA) O goshi\nB) Kotsuri goshi\nC) Uki goshi\nD) Harai goshi",
+        "Answer": "B"
+    },
+    {
+        "Question": "Tsuri goshi is classified as which type of Judo technique?\nA) Arm technique\nB) Leg technique\nC) Hip technique\nD) Sacrifice technique",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the traditional throwing list of the Gokyo no waza, Tsuri goshi belongs to which group?\nA) First group\nB) Second group\nC) Third group\nD) Fourth group",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kyuzo Mifune's \"The Essence Of Judo,\" what is the name given to the turtle turnover technique?\nA) Turtle Flip Over\nB) Turtle Takedown\nC) Shell Roll\nD) Back Mount Escape",
+        "Answer": "A"
+    },
+    {
+        "Question": "Under which classification does the Turtle Flip Over, an unnamed technique in \"The Canon Of Judo,\" fall?\nA) Nage-waza (throwing technique)\nB) Atemi-waza (striking technique)\nC) Katame-waza (grappling technique)\nD) Kansetsu-waza (joint technique)",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Turtle Flip Over technique, what is the main action performed by tori?\nA) Tori pushes uke's head down to the mat.\nB) Tori lifts one side of uke to turn them over.\nC) Tori applies a joint lock to uke's arm.\nD) Tori throws uke over the shoulder.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In judo, Ushiro-Kesa-Gatame is recognized as a variation of which mat hold technique?\nA) Kata-Guruma\nB) Kuzure-Kami-Shiho-Gatame\nC) Kesa-Gatame\nD) Yoko-Shiho-Gatame",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the IJF official name for the technique often referred to as the \"Stomach Armlock\"?\nA) Ude Hishigi Juji Gatame\nB) Ude Hishigi Hara Gatame\nC) Kata Guruma\nD) Ouchi Gari",
+        "Answer": "B"
+    },
+    {
+        "Question": "Ude-Hishigi-Hara-Gatame is classified under which category of Kodokan Judo techniques?\nA) Nage-waza (throwing techniques)\nB) Kansetsu-waza (joint techniques)\nC) Ne-waza (ground techniques)\nD) Atemi-waza (striking techniques)",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many grappling techniques are officially recognized in Judo's Katame-waza?\nA) 9\nB) 29\nC) 3\nD) 15",
+        "Answer": "B"
+    },
+    {
+        "Question": "Utsuri Goshi, also known as the __________, is categorized under which group of the traditional throwing list in Kodokan Judo?\nA) Nikyo\nB) Sankyo\nC) Yonkyo\nD) Gokyo",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Kodokan Judo, Utsuri Goshi is classified as a __________ technique.\nA) leg\nB) arm\nC) hip\nD) shoulder",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the technique described, the initial movement begins like which other judo throw before it is reversed?\nA) Harai Goshi\nB) Ushiro Goshi\nC) O Soto Gari\nD) Seoi Nage",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the key action performed by tori to reverse the direction of the throw to the dorsal part of the hip?\nA) Dropping down to the knee\nB) Simultaneously shifting/pulling uke to the hip and turning\nC) Executing a leg sweep\nD) Applying an armlock",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of 2021, how many Asian martial arts are included in the Olympic Games?\nA) Two\nB) Three\nC) Four\nD) Six",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many total martial arts are included in the Olympic Games as of 2021?\nA) Three\nB) Four\nC) Five\nD) Six",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is NOT typically a part of the taekwondo curriculum in most schools?\nA) Self-defense techniques\nB) Throwing and falling techniques\nC) Weapons training\nD) Forms or \"pumsae\"",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which of the following martial arts is linear footwork NOT predominantly used?\nA) Karate\nB) Tae-Kwon-Do\nC) Judo\nD) Wing Chun",
+        "Answer": "D"
+    }
+]

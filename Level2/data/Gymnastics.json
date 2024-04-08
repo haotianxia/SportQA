@@ -1,0 +1,3122 @@
+[
+    {
+        "Question": "The roundoff move is similar to which other gymnastic technique?\nA) Handstand\nB) Cartwheel\nC) Backflip\nD) Split",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following sports also utilizes the roundoff technique?\nA) Soccer\nB) Swimming\nC) Dancing\nD) Cycling",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the primary purpose of the roundoff technique in gymnastics?\nA) To increase balance\nB) To turn horizontal speed into vertical speed\nC) To perform a handstand\nD) To improve flexibility",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a roundoff, how does a gymnast land on the ground?\nA) With one foot at a time\nB) With two feet placed together\nC) In a split position\nD) With feet shoulder-width apart",
+        "Answer": "B"
+    },
+    {
+        "Question": "How are the hands placed on the ground during a roundoff?\nA) Simultaneously and parallel to each other\nB) One after the other with no twists\nC) One after the other with each hand twisted\nD) Simultaneously and perpendicular to each other",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the orientation of the first hand placed on the ground during a roundoff?\nA) Twisted by 45 degrees\nB) Twisted by 90 degrees\nC) Twisted by 180 degrees\nD) Not twisted at all",
+        "Answer": "B"
+    },
+    {
+        "Question": "After achieving the handstand position in a roundoff, what does the gymnast do to create backward momentum?\nA) Push off with their hands\nB) Snap their hips down quickly\nC) Bend their knees\nD) Perform a split",
+        "Answer": "B"
+    },
+    {
+        "Question": "The roundoff technique is used to effectively turn forward momentum from a run into:\nA) Sideways momentum\nB) Downward momentum\nC) Backward momentum\nD) Static balance",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the likely consequence of not performing a headstand perfectly in gymnastics?\nA) Muscle strain\nB) Head injury\nC) Ankle sprain\nD) No consequence",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a rings routine, gymnasts must avoid deductions by maintaining a neutral head position during __________.\nA) jumps\nB) holds\nC) dismounts\nD) transitions",
+        "Answer": "B"
+    },
+    {
+        "Question": "In addition to form deductions, what other specific behavior results in deductions on the rings?\nA) Smiling during the routine\nB) Having bent arms while performing elements\nC) Clapping hands to the audience\nD) Wearing colorful attire",
+        "Answer": "B"
+    },
+    {
+        "Question": "What will result in a deduction for a gymnast performing on the still rings?\nA) A neutral face expression\nB) A controlled swing\nC) Using the straps/cables for support\nD) A perfect dismount",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG) Apparatus Norms, what is the allowable variation in the inner diameter of gymnastics rings?\nA) \u00b1 0.5 centimetres (0.20 in)\nB) \u00b1 0.2 centimetres (0.079 in)\nC) \u00b1 0.1 centimetres (0.039 in)\nD) \u00b1 1 centimetre (0.39 in)",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the specified distance between the two points of attachment for the gymnastics rings as per FIG standards?\nA) 300 centimetres (9.8 ft)\nB) 50 centimetres (1.6 ft)\nC) 18 centimetres (7.1 in)\nD) 2.8 centimetres (1.1 in)",
+        "Answer": "B"
+    },
+    {
+        "Question": "The FIG Apparatus Norms state that the distance from the point of attachment to the lower inner side of the rings must be:\nA) 280 centimetres (9.2 ft)\nB) 300 centimetres (9.8 ft)\nC) 320 centimetres (10.5 ft)\nD) 250 centimetres (8.2 ft)",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary material that the straps supporting the rings are made of?\nA) Leather\nB) Fabric\nC) Steel\nD) Rubber",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a gymnastics routine on the rings, what must the gymnast control?\nA) Only the movement of the rings\nB) Only their body movements\nC) Both the movement of the rings and their body movements\nD) The music accompanying their routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "The rings in a gymnastics apparatus are hung from which type of frame?\nA) Wooden\nB) Plastic\nC) Metal\nD) Composite",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a rings routine, gymnasts are required to perform a swing to a held handstand, which is an example of a __________.\nA) Static strength hold\nB) Swing element\nC) Aerial dismount\nD) Strength element",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Iron Cross on the rings requires the gymnast to hold their arms out from the sides of the body for a minimum of __________ seconds.\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "A more experienced gymnast on the rings may perform multiple strength elements by __________.\nA) Swinging into hold positions\nB) Only performing aerial dismounts\nC) Avoiding swing elements\nD) Performing only one hold position",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Maltese cross is a move where the gymnast holds their body __________.\nA) Perpendicular to the ground at ring height\nB) Parallel to the ground at ring height\nC) In a vertical handstand\nD) In an inverted vertical position",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Code of Points, elements on the rings are __________.\nA) Optional for the gymnast to perform\nB) Suggested guidelines\nC) Regulated\nD) Considered only for exhibition",
+        "Answer": "C"
+    },
+    {
+        "Question": "Giant swings in a ring routine are performed __________.\nA) Only in the front direction\nB) From a static hold position\nC) From handstand to handstand in both front and back directions\nD) Without returning to a handstand",
+        "Answer": "C"
+    },
+    {
+        "Question": "A gymnast performing an international level rings routine must include which of the following element groups?\nA) Kip and swing elements & swings through or to handstand\nB) Strength elements and hold elements\nC) Swings to strength hold elements\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "The rings are an apparatus in artistic gymnastics traditionally used only by _______, due to its extreme upper body strength requirements.\nA) both male and female gymnasts\nB) male gymnasts\nC) children\nD) coaches",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gymnasts often wear _______ while performing on the rings to help maintain a better grip.\nA) special shoes\nB) helmets\nC) ring grips\nD) protective eyewear",
+        "Answer": "C"
+    },
+    {
+        "Question": "A back lever is categorized as what value skill on the Code of Points?\nA) A\nB) B\nC) C\nD) D",
+        "Answer": "A"
+    },
+    {
+        "Question": "When performing a back lever, the gymnast faces towards the _______.\nA) Ceiling\nB) Wall\nC) Floor\nD) Audience",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is required to maintain the horizontal position in a back lever?\nA) Flexibility in the legs\nB) Balance on the beam\nC) Core tension\nD) Rhythmical movement",
+        "Answer": "C"
+    },
+    {
+        "Question": "In artistic gymnastics, how many variations of a planche are officially accredited?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the minimum duration a planche must be held to be recognized in a gymnastics event?\nA) One second\nB) Two seconds\nC) Three seconds\nD) Four seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "On gymnastic rings, what is the skill rating for a straddle planche?\nA) A move\nB) B move\nC) C move\nD) D move",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which muscle is primarily used when performing a planche?\nA) Pectoralis major\nB) Anterior deltoid\nC) Biceps brachii\nD) Latissimus dorsi",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the typical training progression for a planche, which position comes immediately after the advanced frog stand?\nA) Tuck planche\nB) Advanced tuck planche\nC) Straddle planche\nD) Full planche",
+        "Answer": "A"
+    },
+    {
+        "Question": "On the floor exercise, what is the skill rating for a full planche?\nA) A move\nB) B move\nC) C move\nD) D move",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of all positions in the planche progression, the arms should be:\nA) Bent at the elbows\nB) Locked at all times\nC) Alternating between bent and straight\nD) Relaxed",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the gymnastics move known as the planche, which muscle is primarily responsible for stabilizing the shoulder joint?\nA) Bicep femoris\nB) Deltoid\nC) Pectoralis major\nD) Gluteus maximus",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a planche, which of the following muscles is not directly involved in maintaining the position?\nA) Serratus anterior\nB) Soleus\nC) Biceps\nD) Quadriceps",
+        "Answer": "D"
+    },
+    {
+        "Question": "Gymnastics is a sport that requires a lot of strength and flexibility, which can sometimes lead to injuries. Which of the following is NOT a common injury associated with gymnastics?\nA) Torn ligaments/tendons in arms\nB) Wrist injury\nC) Shoulder injury\nD) Ankle sprain",
+        "Answer": "D"
+    },
+    {
+        "Question": "In artistic gymnastics, what is the primary purpose of a springboard?\nA) To provide stability during routines\nB) To propel a gymnast further than a fixed platform\nC) To serve as a landing platform\nD) To measure the gymnast's jump height",
+        "Answer": "B"
+    },
+    {
+        "Question": "The springboard is an essential equipment piece in which of the following gymnastics events?\nA) Floor exercise\nB) Vault event\nC) Rhythmic gymnastics\nD) Trampoline",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the springboard commonly utilized in events other than the vault?\nA) For dismounting from the apparatus\nB) To start the event by springing onto the apparatus\nC) As a tool for judges to score performances\nD) To adjust the height of the apparatus",
+        "Answer": "B"
+    },
+    {
+        "Question": "What factor determines the number of springs in a springboard?\nA) The height of the apparatus\nB) The weight of the gymnast\nC) The preference of the coach\nD) The gymnast's personal choice",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following statements is true regarding the bridging exercise in gymnastics?\nA) There is a single standard variation of the bridge that is universally agreed upon.\nB) The bridging exercise is a singular movement with no variations.\nC) The bridging exercise includes a wide range of variations and progressions.\nD) The bridging exercise is not a common bodyweight exercise and thus has no variations.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the statement about the bridging exercise imply about its practice in gymnastics?\nA) Practitioners must adhere to a strict standard when performing the bridging exercise.\nB) Gymnasts have the flexibility to choose from different variations of the bridging exercise.\nC) There are no progressions available for the bridging exercise.\nD) The bridging exercise is considered an advanced movement with no entry-level variations.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The stand-to-stand bridge variation is considered to be one of the most advanced because it requires significant ________.\nA) flexibility\nB) strength\nC) balance\nD) coordination",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the automatic deduction for a fall in levels 1-10 according to the 2009 FIG Code of Points?\nA) 0.1 points\nB) 0.5 points\nC) 1 full point\nD) 0.3 points",
+        "Answer": "B"
+    },
+    {
+        "Question": "If a gymnast performs an \"empty\" swing, what is this in reference to?\nA) A swing that leads into another skill\nB) An extra swing that does not lead into another skill\nC) A swing with poor form\nD) A swing with a pause",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the 2008 Olympics bars qualifications, Beth Tweddle incurred a deduction for what reason?\nA) Falling from the high bar\nB) Taking a step on the dismount\nC) Hitting the low bar with her foot\nD) Pausing during her routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG), what is the standard height of the high bar in gymnastics?\nA) 170 centimetres\nB) 240 centimetres\nC) 250 centimetres\nD) 190 centimetres",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the specified diameter of the gymnastics bar as per the Apparatus Norms brochure by FIG?\nA) 1.6 centimetres\nB) 4 centimetres\nC) 130 centimetres\nD) 240 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "The diagonal distance between the two bars in gymnastics can vary. What is the maximum distance allowed as per FIG standards?\nA) 130 centimetres\nB) 190 centimetres\nC) 250 centimetres\nD) 170 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the International Gymnastics Federation Apparatus Norms brochure, what must uneven bars used in international gymnastics competitions conform to?\nA) National guidelines\nB) Manufacturer's preferences\nC) Athlete's personal choices\nD) Guidelines and specifications set forth by the Federation",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following companies is NOT mentioned as a manufacturer of uneven bars for gymnastics?\nA) AAI\nB) Jannsen and Fritsen\nC) Acromat\nD) Gymnova",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the purpose of having a single bar or a set of uneven bars over a loose foam pit or soft mat in many gyms?\nA) To increase the difficulty of training\nB) To provide an additional level of safety for learning new skills\nC) To comply with international competition standards\nD) To reduce the cost of equipment maintenance",
+        "Answer": "B"
+    },
+    {
+        "Question": "The uneven bars in gymnastics were originally what type of apparatus?\nA) Men's high bar\nB) Women's balance beam\nC) Men's parallel bars\nD) Women's vault",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the early 1950s, uneven bars routines primarily consisted of:\nA) Complex release moves\nB) Simple circles and static holds\nC) Advanced transition elements\nD) High-flying dismounts",
+        "Answer": "B"
+    },
+    {
+        "Question": "What significant change occurred to the uneven bars in the late 1960s/early 1970s?\nA) They were removed from competitions\nB) They were made from a different material\nC) They were manufactured as a separate specific apparatus\nD) They were painted in different colors",
+        "Answer": "C"
+    },
+    {
+        "Question": "The redesign of the uneven bars included all of the following EXCEPT:\nA) Adjustable height settings\nB) Tension cables for stability\nC) Increased distance between bars\nD) Larger circumference of the bars",
+        "Answer": "D"
+    },
+    {
+        "Question": "The Korbut Flip, a high bar salto release move, was first performed by:\nA) Nadia Com\u0103neci\nB) Olga Korbut\nC) Simone Biles\nD) Svetlana Khorkina",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the mid-1980s, why were the uneven bars moved even farther apart?\nA) To accommodate static holds\nB) To reduce the difficulty of routines\nC) To allow for more swing and release moves\nD) To make the routines shorter",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following elements from the 1950s and 60s is now completely obsolete in uneven bars routines?\nA) Giant swing\nB) Hecht dismount\nC) Comaneci salto\nD) Pak salto",
+        "Answer": "B"
+    },
+    {
+        "Question": "In USAG levels 1\u20135, what type of routines do gymnasts perform?\nA) Optional routines\nB) Compulsory routines\nC) Custom routines\nD) Improvised routines",
+        "Answer": "B"
+    },
+    {
+        "Question": "At what USAG level do gymnasts start using both the low and high bar?\nA) Level 1\nB) Level 2\nC) Level 3\nD) Level 4",
+        "Answer": "D"
+    },
+    {
+        "Question": "In levels 6 through Elite in USAG, gymnasts:\nA) Perform set routines\nB) Create their own routines within specific requirements\nC) Only use the low bar\nD) Only use the high bar",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gymnastics Australia levels 1-6 have routines that are scored out of how many points?\nA) 5\nB) 10\nC) 15\nD) 20",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Gymnastics Australia, from levels 7-10 and elite, gymnasts perform:\nA) Compulsory routines\nB) Optional routines with set guidelines\nC) Routines without any requirements\nD) Routines based on audience choice",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which move was pioneered by Nadia Com\u0103neci at the 1976 Olympic Games?\nA) The Korbut Flip\nB) The Comaneci salto\nC) The Pak salto\nD) The giant swing",
+        "Answer": "B"
+    },
+    {
+        "Question": "The giant swing was adopted into the women's Code of Points from which men's apparatus?\nA) Parallel bars\nB) Pommel horse\nC) Rings\nD) High bar",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following is NOT permitted under the current Code of Points for uneven bars?\nA) Giant swing\nB) Comaneci salto\nC) Korbut Flip\nD) Pak salto",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Pak salto is an example of a:\nA) Release move\nB) Static hold\nC) Transition element\nD) Dismount",
+        "Answer": "C"
+    },
+    {
+        "Question": "The trend toward fluid motion in uneven bars routines began in which decade?\nA) 1940s\nB) 1950s\nC) 1960s\nD) 1970s",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, what is a routine generally composed of?\nA) A set of skills each worth a particular value\nB) A series of random movements\nC) A fixed number of identical jumps\nD) A single strength element repeated throughout",
+        "Answer": "A"
+    },
+    {
+        "Question": "In an international level routine on the uneven bars, which of the following is NOT a required element?\nA) Flight element from high bar to low bar and vice versa\nB) At least three different grips\nC) Non-flight with a turn on the bar\nD) Dismount",
+        "Answer": "B"
+    },
+    {
+        "Question": "What type of element is compulsory on the same bar during an international level uneven bars routine?\nA) Close bar circle element\nB) Flight element\nC) Non-flight without a turn\nD) A static hold",
+        "Answer": "B"
+    },
+    {
+        "Question": "What material is commonly used to coat the fiberglass bars in the uneven bars apparatus?\nA) Metal\nB) Plastic\nC) Wood\nD) Rubber",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the purpose of adding white chalk to the hands of a gymnast before performing on the uneven bars?\nA) To mark the bars for scoring\nB) To improve their grip on the bars\nC) For aesthetic purposes\nD) To protect the bars from damage",
+        "Answer": "B"
+    },
+    {
+        "Question": "The uneven bars are also known by which of the following abbreviations?\nA) UB or AB\nB) US or AS\nC) UB or AC\nD) UA or AB",
+        "Answer": "A"
+    },
+    {
+        "Question": "Why are the bars placed at different heights and widths in the uneven bars event?\nA) To challenge the gymnast's strength\nB) To provide aesthetic variety\nC) To allow transitions from bar to bar\nD) For safety reasons",
+        "Answer": "C"
+    },
+    {
+        "Question": "Gymnasts are permitted to use _______ or hand guards on bars level 4 through elite.\nA) tape\nB) gloves\nC) wristbands\nD) arm sleeves",
+        "Answer": "A"
+    },
+    {
+        "Question": "Coaches are NOT allowed to _______ once the gymnast's routine has started.\nA) chalk the bars\nB) physically interfere with the athlete\nC) stand on the mat\nD) catch the gymnast if she falls",
+        "Answer": "B"
+    },
+    {
+        "Question": "To begin their routines on the uneven bars, gymnasts may NOT be _______.\nA) lifted\nB) running\nC) using a springboard\nD) performing a difficult skill",
+        "Answer": "A"
+    },
+    {
+        "Question": "If a gymnast falls from the apparatus, she has _______ seconds to re-mount.\nA) 10\nB) 20\nC) 30\nD) 60",
+        "Answer": "C"
+    },
+    {
+        "Question": "During release moves and dismounts, the coach is permitted to _______.\nA) leave the competition floor\nB) physically assist the gymnast\nC) stand on the mat\nD) signal the judges",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the event of a fall, if a springboard was used for the mount, the coach must _______.\nA) leave it in place\nB) use it to lift the gymnast\nC) quickly remove it\nD) adjust it for the next attempt",
+        "Answer": "C"
+    },
+    {
+        "Question": "If necessary, after a fall, a gymnast is allowed to _______ before remounting the apparatus.\nA) change her leotard\nB) readjust her grips or chalk her hands\nC) consult with a judge\nD) take a drink of water",
+        "Answer": "B"
+    },
+    {
+        "Question": "A coach is allowed to catch the gymnast or break her fall if she falls on _______.\nA) a running mount\nB) release moves and dismounts\nC) the initial mount\nD) a non-acrobatic skill",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gymnasts may mount the uneven bars with either a _______ skill.\nA) simple or a difficult\nB) team-approved\nC) judge-approved\nD) coach-assisted",
+        "Answer": "A"
+    },
+    {
+        "Question": "Judges may give a ten-second warning if a gymnast does not return to the bars within the 30-second time limit, especially if _______.\nA) the routine was incomplete\nB) the gymnast took a hard fall\nC) the coach requests it\nD) the audience is loud",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the 2009-2012 Code of Points, which of the following elements is NOT likely to be found in the document?\nA) Scoring guidelines for gymnastic routines\nB) Description of the required apparatus for competitions\nC) A glossary of uneven bars skills\nD) Regulations for gymnastics attire during competitions",
+        "Answer": "C"
+    },
+    {
+        "Question": "Where can one find detailed explanations and animations of basic bars skills that may be beneficial for understanding gymnastics techniques?\nA) The Complete Book of Gymnastics by David Hunn\nB) Apparatus description at the FIG website\nC) US Gym Net's glossary of uneven bars skills\nD) Animations and explanations of basic bars skills",
+        "Answer": "D"
+    },
+    {
+        "Question": "According to FIG rules, which gender exclusively competes in rhythmic gymnastics?\nA) Men\nB) Women\nC) Both men and women\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many separate routines are performed in rhythmic gymnastics, each using a different apparatus?\nA) Three\nB) Four\nC) Five\nD) Six",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is NOT one of the apparatus used in rhythmic gymnastics routines?\nA) Ball\nB) Ribbon\nC) Beam\nD) Clubs",
+        "Answer": "C"
+    },
+    {
+        "Question": "In rhythmic gymnastics, group routines consist of how many gymnasts?\nA) 3\nB) 4\nC) 5\nD) 6",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum score for a rhythmic gymnastics routine?\nA) 20 points\nB) 25 points\nC) 30 points\nD) 35 points",
+        "Answer": "C"
+    },
+    {
+        "Question": "The score for a rhythmic gymnastics routine is a combination of which of the following aspects?\nA) Execution and synchronization\nB) Artistry and difficulty\nC) Flexibility and presentation\nD) Stamina and balance",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Artistic Gymnastics, men compete in how many events?\nA) Four\nB) Five\nC) Six\nD) Seven",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the deduction for a fall, on or off the event, in elite level gymnastics?\nA) 0.50\nB) 0.80\nC) 1.00\nD) 1.20",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of the 2006 FIG point system, the execution score in Artistic Gymnastics is out of how many points?\nA) 9.00\nB) 10.00\nC) 15.00\nD) No limit",
+        "Answer": "B"
+    },
+    {
+        "Question": "The difficulty score in Artistic Gymnastics is based on:\nA) The number of elements performed\nB) The artistic quality of the performance\nC) The time of the routine\nD) The elements performed and their connections",
+        "Answer": "D"
+    },
+    {
+        "Question": "Connection bonuses in Artistic Gymnastics are most commonly affected by:\nA) The order of the skills performed\nB) Deviation between intended and actual difficulty scores\nC) The costumes of the gymnasts\nD) The music selection for the routine",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens to a gymnast's difficulty score if they fail to connect a skill meant to be connected to another?\nA) It remains the same\nB) It is automatically doubled\nC) It is subject to change\nD) It is reduced by half",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the new code of points, what is the maximum score for difficulty?\nA) 10.00\nB) 15.00\nC) There is no maximum\nD) 20.00",
+        "Answer": "C"
+    },
+    {
+        "Question": "The ability to connect multiple flight elements is often hindered by:\nA) The complexity of the routine\nB) The first skill not being performed correctly\nC) The length of the gymnast's performance\nD) The choice of music",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of the 2002 update, approximately how many men's rhythmic gymnasts were there in Japan?\nA) 500\nB) 750\nC) 1000\nD) 1500",
+        "Answer": "C"
+    },
+    {
+        "Question": "When were the technical rules for the Japanese version of men's rhythmic gymnastics established?\nA) 1960s\nB) 1970s\nC) 1980s\nD) 1990s",
+        "Answer": "B"
+    },
+    {
+        "Question": "On what type of floor is tumbling performed in the Japanese version of men's rhythmic gymnastics?\nA) Hardwood floor\nB) Spring floor\nC) Foam floor\nD) Carpeted floor",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which country hosted the first edition of the Men's Rhythmic Gymnastics World Championship?\nA) China\nB) Spain\nC) Japan\nD) United States",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Junior Olympic gymnastics, what is the initial start value for routines at Levels below Level 9, assuming all event requirements are met?\nA) 9.0\nB) 9.5\nC) 10.0\nD) 8.5",
+        "Answer": "C"
+    },
+    {
+        "Question": "At what Levels do gymnasts start with a score below 10.0 and must earn bonus points to increase their start value to a 10.0?\nA) Levels 9 and 10, and NCAA\nB) Levels 8 and 9\nC) Levels 10 and 11\nD) NCAA only",
+        "Answer": "A"
+    },
+    {
+        "Question": "What types of errors can lead to a deduction of .05-.1 from a gymnast's score?\nA) Incorrect attire\nB) Steps on landings or flexed feet\nC) Being late to the competition\nD) Forgetting the routine",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a gymnastics routine, if a gymnast performs with flawless technique, what is the highest possible score they could achieve in Levels 9 and 10, and NCAA before any bonus points are added?\nA) 9.5\nB) 9.0\nC) 10.0\nD) Below 10.0",
+        "Answer": "D"
+    },
+    {
+        "Question": "When performing a vault, gymnasts are allowed to choose their starting position on the runway. What is the maximum length of the runway?\nA) 15 meters\nB) 20 meters\nC) 25 meters\nD) 30 meters",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a gymnastics vault, what body movement is used to punch the vaulting platform?\nA) Hip thrust\nB) Arm swing\nC) Shoulder movement\nD) Knee bend",
+        "Answer": "C"
+    },
+    {
+        "Question": "The success of a vault is NOT dependent on which of the following factors?\nA) The speed of the run\nB) The color of the outfit\nC) The power generated from the legs\nD) The kinesthetic awareness in the air",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is added to a vault in advanced gymnastics to increase its difficulty?\nA) A longer runway\nB) Multiple twists and somersaults\nC) A higher springboard\nD) A louder audience",
+        "Answer": "B"
+    },
+    {
+        "Question": "In acrobatic gymnastics, groups can consist of how many acrobats?\nA) One or two\nB) Two or three\nC) Two, three, or four\nD) Three or five",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is NOT allowed in the music selection for acrobatic gymnastics routines?\nA) Instrumental music\nB) Music with lyrics\nC) Music chosen by the athletes\nD) Music with a clear rhythm",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following age categories is NOT recognized in international acrobatic gymnastics competitions?\nA) 11\u201316\nB) 12\u201318\nC) 13\u201319\nD) 14\u201320",
+        "Answer": "D"
+    },
+    {
+        "Question": "What additional routine is required for the 12\u201318, 13\u201319, and Senior age categories in acrobatic gymnastics?\nA) Balance routine\nB) Dynamic routine\nC) Combined routine\nD) Artistic routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the difficulty score calculated in acrobatic gymnastics?\nA) It is a fixed score for each routine\nB) It is the sum of the difficulty values divided by 100\nC) It is given by the judges out of 10.00\nD) It is the average score of all judges",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum score for execution in acrobatic gymnastics for juniors?\nA) 10.00\nB) 20.00\nC) 30.00\nD) It is unlimited",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a competitive event category in acrobatic gymnastics?\nA) Mixed Groups\nB) Women's Pairs\nC) Men's Pairs\nD) Women's Groups",
+        "Answer": "A"
+    },
+    {
+        "Question": "Since what year have the World Championships in acrobatic gymnastics been held?\nA) 1964\nB) 1974\nC) 1984\nD) 1994",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the Senior FIG level for acrobatic gymnastics, the difficulty score is:\nA) Capped at a certain value\nB) Marked out of 30.00\nC) Unlimited\nD) Doubled for emphasis",
+        "Answer": "C"
+    },
+    {
+        "Question": "General gymnastics, also known as __________, enables people of all ages and abilities to participate in performance groups.\nA) Gymnastics for All\nB) Artistic Gymnastics\nC) Rhythmic Gymnastics\nD) Aerobic Gymnastics",
+        "Answer": "A"
+    },
+    {
+        "Question": "In what year was Gymnastics for All officially recognized as a Sport Program by the FIG?\nA) 1978\nB) 1984\nC) 1990\nD) 2001",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many participants worldwide are now involved in Gymnastics for All programs?\nA) 10 million\nB) 20 million\nC) 30 million\nD) 40 million",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since what year has the \"open-end\" scoring method been in place?\nA) 2004\nB) 2006\nC) 2008\nD) 2010",
+        "Answer": "B"
+    },
+    {
+        "Question": "How often is the Code of Points for scoring a routine's difficulty and execution revised?\nA) Every year\nB) Every two years\nC) Every four years\nD) Every Olympics year",
+        "Answer": "C"
+    },
+    {
+        "Question": "What are the composition requirements based on?\nA) The type of routine\nB) The apparatus used\nC) The level of the gymnast\nD) The preference of the judges",
+        "Answer": "B"
+    },
+    {
+        "Question": "Before the \"open-end\" scoring method was introduced, what was the possible maximum score for a routine?\nA) 9.0\nB) 9.5\nC) 10.0\nD) 10.5",
+        "Answer": "C"
+    },
+    {
+        "Question": "On the uneven bars, what is the material used to cover the bars to prevent them from breaking?\nA) Metal\nB) Pure wood\nC) Fiberglass covered in wood laminate\nD) Plastic",
+        "Answer": "C"
+    },
+    {
+        "Question": "How much can the height of the uneven bars be adjusted to suit individual gymnasts' needs?\nA) 10 cm\nB) 5 cm\nC) 15 cm\nD) Not adjustable",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is NOT allowed to be changed for individual gymnasts in elite competition?\nA) The material of the bars\nB) The height of the bars\nC) The distance between the bars\nD) The timing of the routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "What must movements pass through at the Elite level on the uneven bars?\nA) A full twist\nB) The handstand\nC) A somersault\nD) The dismount",
+        "Answer": "B"
+    },
+    {
+        "Question": "What do gymnasts often use to mount the uneven bars?\nA) A ladder\nB) A trampoline\nC) A springboard or a small mat\nD) A rope",
+        "Answer": "C"
+    },
+    {
+        "Question": "What are \"grips\" used for in gymnastics?\nA) To secure the bars to the floor\nB) To protect hands and improve performance\nC) To connect the two uneven bars\nD) To adjust the height of the bars",
+        "Answer": "B"
+    },
+    {
+        "Question": "During which Summer Olympics did women's artistic gymnastics include the team portable apparatus event?\nA) 1928 and 1936\nB) 1936 and 1948\nC) 1952 and 1956\nD) 1948 and 1952",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the US, the Junior Olympic (JO) Program for women's gymnastics starts at level __ and progresses to level 10.\nA) 1\nB) 2\nC) 3\nD) 4",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Junior Olympic (JO) Program for women's gymnastics is divided into two kinds of levels, Compulsory and Optional. Compulsory levels are:\nA) Levels 1-3\nB) Levels 1-5\nC) Levels 6-8\nD) Levels 6-10",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which level in the Junior Olympic (JO) Program for women's gymnastics is generally considered Olympic level?\nA) Level 9\nB) Level 10\nC) Elite\nD) Level 6",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of 2015, which country has adopted the women\u2019s JO Program with some modifications for use in their Provinces and Territories?\nA) United States\nB) Canada\nC) United Kingdom\nD) Australia",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gymnastics requires physical exercises that demand balance, strength, flexibility, agility, coordination, and _______?\nA) Speed\nB) Endurance\nC) Precision\nD) Strategy",
+        "Answer": "B"
+    },
+    {
+        "Question": "The ancient Greeks used gymnastics exercises as a method to improve skills for _______ and dismounting a horse.\nA) Running\nB) Mounting\nC) Jumping\nD) Racing",
+        "Answer": "B"
+    },
+    {
+        "Question": "In artistic gymnastics, which event is exclusive to women (WAG)?\nA) Vault\nB) Uneven bars\nC) Rings\nD) Pommel horse",
+        "Answer": "B"
+    },
+    {
+        "Question": "The F\u00e9d\u00e9ration Internationale de Gymnastique (FIG) governs how many sports, including gymnastics?\nA) Six\nB) Seven\nC) Eight\nD) Nine",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following disciplines is NOT currently recognized by the FIG?\nA) Rhythmic gymnastics\nB) Trampolining\nC) Wheel gymnastics\nD) Aerobic gymnastics",
+        "Answer": "C"
+    },
+    {
+        "Question": "Artistic Gymnastics (AG) for men (MAG) includes all of the following events EXCEPT:\nA) Floor\nB) Vault\nC) Beam\nD) Horizontal bar",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the diameter of the bar used in the horizontal bar event?\nA) 2.0 cm\nB) 2.5 cm\nC) 2.8 cm\nD) 3.0 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "What equipment is commonly used by gymnasts to maintain their grip on the horizontal bar?\nA) Chalk\nB) Leather grips\nC) Gloves\nD) Wristbands",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the purpose of using straps during horizontal bar training?\nA) To increase grip strength\nB) To enhance wrist support\nC) To prevent falling off the bar while learning new skills\nD) To improve the aesthetics of the performance",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a horizontal bar routine, releasing the bar at the proper point after giants allows gymnasts to:\nA) Reduce the risk of injury\nB) Decrease the routine's degree of difficulty\nC) Achieve enough height for spectacular dismounts\nD) Shorten the duration of the routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which gymnast is often considered the greatest male gymnast of all time?\nA) Vitaly Scherbo\nB) Alexei Nemov\nC) Kohei Uchimura\nD) Yuri Chechi",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who was the first American male gymnast to win the Olympic all-around title?\nA) Bart Conner\nB) Paul Hamm\nC) Li Xiaopeng\nD) Sawao Kato",
+        "Answer": "B"
+    },
+    {
+        "Question": "Yuri Chechi is known by which nickname due to his success in the rings event?\nA) The Sultan of Swing\nB) The King of the Floor\nC) The Lord of the Rings\nD) The Master of the Mat",
+        "Answer": "C"
+    },
+    {
+        "Question": "Sawao Kato is recognized as one of the most successful athletes in the history of the Olympics from which country?\nA) China\nB) Russia\nC) Japan\nD) Italy",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a men's parallel bars routine, gymnasts perform a series of movements which do NOT typically include:\nA) Swings\nB) Balances\nC) Releases\nD) Tumbles",
+        "Answer": "D"
+    },
+    {
+        "Question": "The height of the parallel bars in men's gymnastics is usually set to:\nA) 1.5m\nB) 2m\nC) 2.5m\nD) 3m",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who was the first gymnast to score a perfect 10 in the Olympics?\nA) Simone Biles\nB) Nadia Com\u0103neci\nC) Olga Korbut\nD) Mary Lou Retton",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which gymnast is known as the \"Sparrow from Minsk\"?\nA) Svetlana Khorkina\nB) Gabby Douglas\nC) Olga Korbut\nD) Aly Raisman",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who was the first American woman to win an Olympic all-around title?\nA) Simone Biles\nB) Mary Lou Retton\nC) Gabby Douglas\nD) Aly Raisman",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which American gymnast won the individual all-around champion at the 2012 Olympics?\nA) Simone Biles\nB) Mary Lou Retton\nC) Gabby Douglas\nD) Aly Raisman",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year was the \"team horizontal bar and parallel bar\" event included in the men's artistic gymnastics at the Summer Olympics?\nA) 1896\nB) 1904\nC) 1912\nD) 1924",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following events was introduced to the men's artistic gymnastics during the 1924 Summer Olympics?\nA) Tumbling\nB) Side horse vault\nC) Combined\nD) Triathlon",
+        "Answer": "B"
+    },
+    {
+        "Question": "In aerobic gymnastics, routines performed by individuals, pairs, trios, and groups are primarily judged on:\nA) Acrobatic skills\nB) Balance skills\nC) Strength, flexibility, and aerobic fitness\nD) Choreography complexity",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the required floor size for senior trios and mixed pairs routines in aerobic gymnastics since 2009?\nA) 7x7m\nB) 10x10m\nC) 12x12m\nD) 8x8m",
+        "Answer": "B"
+    },
+    {
+        "Question": "How long do routines generally last in aerobic gymnastics?\nA) 30\u201360 seconds\nB) 60\u201390 seconds\nC) 90\u2013120 seconds\nD) 120\u2013150 seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "Since what year have the World Championships for aerobic gymnastics been held?\nA) 1985\nB) 1990\nC) 1995\nD) 2000",
+        "Answer": "C"
+    },
+    {
+        "Question": "Gymnastics is considered one of the most dangerous sports, particularly for girls in what age range?\nA) 5 to 10\nB) 11 to 18\nC) 19 to 25\nD) 26 to 32",
+        "Answer": "B"
+    },
+    {
+        "Question": "Certain gymnastic movements that were once permitted in competitions are now ________ due to safety concerns.\nA) encouraged\nB) modified\nC) banned\nD) required",
+        "Answer": "C"
+    },
+    {
+        "Question": "Gymnasts are at particular risk of injuries to which two parts of the body?\nA) Knee and ankle\nB) Shoulder and elbow\nC) Foot and wrist\nD) Hip and back",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of training is recommended to help prevent injuries in gymnasts?\nA) Flexibility training\nB) Cardiovascular training\nC) Strength training\nD) Balance training",
+        "Answer": "C"
+    },
+    {
+        "Question": "TeamGym competitions are divided into how many sections?\nA) Two\nB) Three\nC) Four\nD) Five",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a discipline in TeamGym competitions?\nA) Floor\nB) Tumbling\nC) Trampette\nD) Vault",
+        "Answer": "D"
+    },
+    {
+        "Question": "Since when have the European Championships for TeamGym been held?\nA) 1996\nB) 2000\nC) 2010\nD) 2012",
+        "Answer": "C"
+    },
+    {
+        "Question": "In double-mini trampoline, how many scoring moves are performed per routine?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "How long is the routine performed on the balance beam?\nA) 30-60 seconds\nB) 60-75 seconds\nC) 70-90 seconds\nD) 100-120 seconds",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the width of the balance beam?\nA) 5 centimetres (2.00 in)\nB) 8.89 centimetres (3.50 in)\nC) 10.16 centimetres (4.00 in)\nD) 15.24 centimetres (6.00 in)",
+        "Answer": "C"
+    },
+    {
+        "Question": "The balance beam is raised from the ground to a height of:\nA) 100 centimetres (3 ft 3 in)\nB) 125 centimetres (4 ft 1 in)\nC) 150 centimetres (4 ft 11 in)\nD) 175 centimetres (5 ft 9 in)",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following elements is NOT mentioned as a part of the gymnast's routine on the balance beam?\nA) Leaps\nB) Acrobatic skills\nC) Somersaults\nD) Swings",
+        "Answer": "D"
+    },
+    {
+        "Question": "In ancient Greece, the original term for the practice of gymnastics comes from a Greek verb that translates as \"to train ______.\"\nA) with equipment\nB) clothed\nC) naked or nude\nD) outdoors",
+        "Answer": "C"
+    },
+    {
+        "Question": "Gymnastics exercises in ancient Greece were documented by ______.\nA) Aristotle\nB) Plato\nC) Socrates\nD) Philostratus",
+        "Answer": "D"
+    },
+    {
+        "Question": "The German Friedrich Ludwig Jahn is credited with starting the German gymnastics movement and the invention of several gymnastics apparatuses in ______.\nA) 1750\nB) 1811\nC) 1865\nD) 1900",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Federation of International Gymnastics (FIG) was founded in the city of ______ in 1881.\nA) Paris\nB) Liege\nC) Berlin\nD) Athens",
+        "Answer": "B"
+    },
+    {
+        "Question": "The first modern Olympic Games, which included men's gymnastics competition, took place in ______.\nA) 1896\nB) 1900\nC) 1912\nD) 1924",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Women's League of Health and Beauty, a mass movement organization of women in gymnastics, was founded in London in ______.\nA) 1920\nB) 1930\nC) 1940\nD) 1950",
+        "Answer": "B"
+    },
+    {
+        "Question": "In 2006, a new points system for Artistic gymnastics was introduced with the A Score (or D score) being based on the top ______ high scoring elements in a routine (excluding Vault).\nA) 5\nB) 6\nC) 7\nD) 8",
+        "Answer": "D"
+    },
+    {
+        "Question": "The B Score (or E Score) in Artistic gymnastics is given for ______.\nA) the difficulty of the routine\nB) the creativity of the performance\nC) how well the skills are performed\nD) the complexity of the apparatus",
+        "Answer": "C"
+    },
+    {
+        "Question": "Don Francisco Amor\u00f3s y Ondeano introduced educative gymnastics in France and was born in the city of ______.\nA) Madrid\nB) Valencia\nC) Barcelona\nD) Seville",
+        "Answer": "B"
+    },
+    {
+        "Question": "The first gymnasium in the United States was opened in 1825 at the Round Hill School located in ______.\nA) Northampton, Massachusetts\nB) New York, New York\nC) Philadelphia, Pennsylvania\nD) Richmond, Virginia",
+        "Answer": "A"
+    },
+    {
+        "Question": "The first women's Olympic competition in gymnastics was limited to synchronized calisthenics and track and field, which took place in the year ______.\nA) 1912\nB) 1924\nC) 1928\nD) 1932",
+        "Answer": "C"
+    },
+    {
+        "Question": "Soviet gymnasts set a precedent with highly disciplined and difficult performances around the time of ______.\nA) 1910\nB) 1920\nC) 1930\nD) 1940",
+        "Answer": "C"
+    },
+    {
+        "Question": "The modern format of Olympic Games apparatus and events for both men and women was standardized in ______.\nA) 1950\nB) 1954\nC) 1958\nD) 1960",
+        "Answer": "B"
+    },
+    {
+        "Question": "Television has helped to publicize and initiate a modern age of gymnastics starting approximately in the ______.\nA) 1940s\nB) 1950s\nC) 1960s\nD) 1970s",
+        "Answer": "B"
+    },
+    {
+        "Question": "The A Score in Artistic gymnastics is also known as the ______ score.\nA) B\nB) C\nC) D\nD) E",
+        "Answer": "C"
+    },
+    {
+        "Question": "In ancient Greece, gymnastics was considered a form of wisdom, comparable to philosophy, poetry, music, geometry, and ______.\nA) literature\nB) astronomy\nC) rhetoric\nD) drama",
+        "Answer": "B"
+    },
+    {
+        "Question": "The ______ movement in the United States was documented and promoted by John Neal in the American Journal of Education and The Yankee.\nA) fitness\nB) gymnastics\nC) health\nD) sports",
+        "Answer": "B"
+    },
+    {
+        "Question": "Aesthetic Group Gymnastics (AGG) was developed from the Finnish \"__________.\"\nA) suomen voimistelu\nB) naisvoimistelu\nC) voima jumppa\nD) telinevoimistelu",
+        "Answer": "B"
+    },
+    {
+        "Question": "In AGG competitions, athletes do not use any _________, unlike in Rhythmic Gymnastics.\nA) apparatus\nB) protective gear\nC) music\nD) footwear",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following is NOT a physical quality required in Aesthetic Group Gymnastics?\nA) Flexibility\nB) Speed\nC) Endurance\nD) Strength",
+        "Answer": "C"
+    },
+    {
+        "Question": "A good AGG performance is characterized by __________ and simultaneity.\nA) complexity\nB) uniformity\nC) improvisation\nD) individuality",
+        "Answer": "B"
+    },
+    {
+        "Question": "The International Federation of Aesthetic Group Gymnastics (IFAGG) was established in ________.\nA) 1999\nB) 2000\nC) 2001\nD) 2003",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the preliminary routines of high-level trampoline competitions, one routine has only two moves scored for difficulty. What about the other routine?\nA) It must include a compulsory skill set.\nB) It is a routine where the athlete is free to perform any routine.\nC) It includes only moves scored for execution.\nD) It is a synchronized routine with another athlete.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Greek verb \u03b3\u03c5\u03bc\u03bd\u03ac\u03b6\u03c9 (gymnazo), related to the origin of the word 'gymnastics', implies which of the following activities?\nA) To compete with equipment\nB) To train naked\nC) To perform musical routines\nD) To engage in team sports",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT one of the four core categories of exercise in wheel gymnastics?\nA) Straight line\nB) Spiral\nC) Vault\nD) Beam",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Tumbling, athletes perform a series of flips and twists down a _____ tumbling track.\nA) Sprung\nB) Static\nC) Rigid\nD) Flexible",
+        "Answer": "A"
+    },
+    {
+        "Question": "A tumbling pass typically consists of how many skills?\nA) 6\nB) 7\nC) 8\nD) 9",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Tumbling, the entry skill is normally a _____.\nA) Cartwheel\nB) Round-off\nC) Backflip\nD) Handspring",
+        "Answer": "B"
+    },
+    {
+        "Question": "The end skill of a tumbling pass is usually _____.\nA) The easiest skill\nB) The second hardest skill\nC) The hardest skill\nD) An additional whip",
+        "Answer": "C"
+    },
+    {
+        "Question": "Transitional skills in Tumbling are typically _____.\nA) Single somersaults\nB) Double or triple somersaults\nC) Basic whips\nD) Flicks",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is competition structured in Tumbling?\nA) Only a finals round\nB) Only a qualifying round\nC) A qualifying round and a finals round\nD) A single round of competition",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the team event of Tumbling, how many gymnasts' scores are counted?\nA) Two\nB) Three\nC) Four\nD) All",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the individual event qualification in Tumbling, a competitor must complete two types of runs: a straight pass and a _____ pass.\nA) Single\nB) Twisting\nC) Double\nD) Triple",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the final of the individual event, how many different runs must the competitor compete?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a 'full in back' in Tumbling?\nA) A double straight somersault\nB) A transitional skill\nC) A full twisting double straight\nD) An entry skill",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the consequence of not dissipating enough energy during the landing phase in gymnastics?\nA) Improved performance\nB) Increased risk of injuries\nC) Decreased competition scores\nD) Enhanced energy conservation",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a common injury associated with improper landing techniques in gymnastics?\nA) Cartilage lesions\nB) Ligament tears\nC) Muscle strains\nD) Bone bruises/fractures",
+        "Answer": "C"
+    },
+    {
+        "Question": "A successful landing in gymnastics is classified as soft when the knee and hip joints are at what degree of flexion?\nA) Less than 63 degrees\nB) Greater than 63 degrees\nC) Exactly 90 degrees\nD) Less than 45 degrees",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the vertical ground reaction force (vGRF) represent in the context of gymnastics landings?\nA) The internal force of muscle contraction\nB) The aesthetic quality of the landing\nC) The external force to be overcome by the gymnast\nD) The amount of energy conserved during landing",
+        "Answer": "C"
+    },
+    {
+        "Question": "How can gymnasts decrease the impact force during landing?\nA) By decreasing the time taken to perform the landing\nB) By increasing the flight phase duration\nC) By increasing hip, knee, and ankle amplitude\nD) By landing on a single foot",
+        "Answer": "C"
+    },
+    {
+        "Question": "The time the landing takes affects the gymnast's linear and angular momentum. What can gymnasts do to positively influence this variable?\nA) Reduce the flexion of the knee and hip joints\nB) Increase the stiffness of the landing\nC) Shorten the flight phase\nD) Increase the time taken to perform the landing",
+        "Answer": "D"
+    },
+    {
+        "Question": "In a pommel horse routine, what is the term for the element where a gymnast swings both legs in a circular motion?\nA) Scissors\nB) Moores\nC) Circling\nD) Flares",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following skills is typically performed on the pommels and involves single leg work?\nA) Scissors\nB) Moores\nC) Circling\nD) Flares",
+        "Answer": "A"
+    },
+    {
+        "Question": "When performing variations on circling skills, gymnasts may turn their body. What are these turns called?\nA) Scissors\nB) Moores and spindles\nC) Circling\nD) Flares",
+        "Answer": "B"
+    },
+    {
+        "Question": "How does a gymnast typically end a pommel horse routine?\nA) By performing a scissor\nB) By swinging his body over the horse\nC) By completing a set number of circles\nD) By landing after a handstand variation",
+        "Answer": "B"
+    },
+    {
+        "Question": "The rings in a gymnastics still rings event are suspended at what height from the floor?\nA) 5 meters\nB) 5.75 meters\nC) 6 meters\nD) 6.5 meters",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many static strength moves are required in a still rings routine?\nA) None\nB) At least one\nC) At least two\nD) At least three",
+        "Answer": "B"
+    },
+    {
+        "Question": "Male gymnasts perform their floor routines on a spring floor with dimensions of _________.\nA) 10m x 10m\nB) 12m x 12m\nC) 14m x 14m\nD) 16m x 16m",
+        "Answer": "B"
+    },
+    {
+        "Question": "In men's gymnastics, floor routines must last between _________ seconds.\nA) 30-40\nB) 45-55\nC) 60-70\nD) 75-85",
+        "Answer": "C"
+    },
+    {
+        "Question": "Unlike women's gymnastics, men's floor routines are performed _________.\nA) with music\nB) without music\nC) with a partner\nD) with additional apparatus",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Flying rings event required the performer to execute a series of stunts while __________.\nA) stationary\nB) swinging\nC) running\nD) balancing on a beam",
+        "Answer": "B"
+    },
+    {
+        "Question": "Until the early 1960s, the Flying rings was a gymnastic event sanctioned by the NCAA and which other organization?\nA) FIFA\nB) IOC\nC) AAU\nD) NBA",
+        "Answer": "C"
+    },
+    {
+        "Question": "Split leaps and split jumps require significant _________ and strength.\nA) Flexibility\nB) Speed\nC) Coordination\nD) Balance",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is emphasized to extend the leg lines while performing a split leap or split jump?\nA) Bending the knees\nB) Pointing the feet\nC) Tucking the legs\nD) Flexing the ankles",
+        "Answer": "B"
+    },
+    {
+        "Question": "Proper technique for split leaps and jumps typically calls for straight legs and a full split position at the _______.\nA) Start of the leap\nB) Mid-air phase\nC) Apex of the leap or jump\nD) Landing",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is not typically a part of the best practice technique for split leaps and jumps?\nA) Full split position at the apex\nB) Straight legs\nC) Bending the knees in stag variations\nD) Flexing the feet while airborne",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the name of the split leap where one knee is bent?\nA) Double stag split leap\nB) Straddle split leap\nC) Grand jet\u00e9\nD) Stag split leap",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which split leap is named after a ballet term and involves a front split?\nA) Stag split leap\nB) Straddle split leap\nC) Grand jet\u00e9\nD) Double stag split leap",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is a double stag split leap performed in comparison to a stag split leap?\nA) With one knee bent\nB) With legs extended symmetrically to the sides\nC) With both knees bent\nD) With legs extended asymmetrically to the front and back",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, what is the primary surface from which a split leap or split jump is performed?\nA) A balance beam\nB) The floor\nC) A trampoline\nD) Parallel bars",
+        "Answer": "B"
+    },
+    {
+        "Question": "Hand walking requires adequate upper body pressing strength primarily in the _______ and _______.\nA) Biceps and quadriceps\nB) Deltoids and triceps\nC) Pectorals and latissimus dorsi\nD) Hamstrings and calves",
+        "Answer": "B"
+    },
+    {
+        "Question": "During hand walking, why is blood pressure in the brain greater than normal?\nA) Because the body is in a horizontal position\nB) Because the body is in a vertical position\nC) Because the body is inverted\nD) Because the heart rate decreases",
+        "Answer": "C"
+    },
+    {
+        "Question": "Balance in a handstand can be maintained by _______.\nA) Holding the breath\nB) Varying the arch of the back\nC) Keeping the legs straight at all times\nD) Locking the elbows",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a back walkover, what is the initial position of the performer before the movement begins?\nA) Sitting position\nB) Lying on the back\nC) Standing position\nD) Kneeling position",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a back walkover, when the performer forms a gymnastic back bridge, which parts of the body are touching the floor?\nA) Only the feet\nB) Only the hands\nC) Both hands and feet\nD) Hands, feet, and elbows",
+        "Answer": "C"
+    },
+    {
+        "Question": "What part of the body is rapidly raised from the floor to impart momentum in a back walkover?\nA) The trailing leg\nB) The head\nC) The leading leg\nD) The arms",
+        "Answer": "C"
+    },
+    {
+        "Question": "As the performer revolves backward through a handstand position in a back walkover, what remains in contact with the floor?\nA) Both feet\nB) The head\nC) Both hands\nD) The shoulders",
+        "Answer": "C"
+    },
+    {
+        "Question": "Upon completing the back walkover, how does the performer return to the starting position?\nA) By jumping back to a standing position\nB) By rolling forward into a standing position\nC) By stepping forward into a standing position\nD) By revolving backward into an erect standing position",
+        "Answer": "D"
+    },
+    {
+        "Question": "In a one-handed walkover, how many hands are placed on the floor?\nA) None\nB) One\nC) Two\nD) Three",
+        "Answer": "B"
+    },
+    {
+        "Question": "What distinguishes a valdez from a traditional back walkover?\nA) It starts from a standing position.\nB) It includes a pause in the bridge position.\nC) It begins in a sitting position.\nD) Both hands are placed on the floor.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In artistic gymnastics, a back walkover is performed on which of the following apparatus?\nA) Vault\nB) Uneven Bars\nC) Balance Beam\nD) Pommel Horse",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a back walkover, the gymnast must transition through which intermediate position?\nA) Handstand\nB) Back Bridge\nC) Front Tuck\nD) Split Leap",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the FIG Code of Points, what is the difficulty rating of the L cross variant in gymnastics?\nA) A difficulty\nB) B difficulty\nC) C difficulty\nD) D difficulty",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the body positioned in a V cross according to the gymnastics Code of Points?\nA) In an L-sit position\nB) In a tight piked position with legs held vertically\nC) In an inverted position\nD) Parallel to the ground at ring height",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct name for the D difficulty variation where the gymnast holds his body parallel to the ground at ring height with arms extended laterally?\nA) L cross\nB) V cross\nC) Inverted cross\nD) Maltese cross or swallow",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which variant in gymnastics is described as an inverted Maltese cross, with the body held parallel to the ground and facing up?\nA) L cross\nB) V cross\nC) Inverted cross\nD) Victorian cross or inverted swallow",
+        "Answer": "D"
+    },
+    {
+        "Question": "In gymnastics, what is the difficulty value of an iron cross according to the International Gymnastics Federation Code of Points?\nA) A\nB) B\nC) C\nD) D",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the context of gymnastics, what alternative names are used to refer to an iron cross?\nA) Crucifix or cross\nB) Pike or stretch\nC) Salto or flip\nD) Tuck or roll",
+        "Answer": "A"
+    },
+    {
+        "Question": "In artistic gymnastics, handsprings are commonly performed on which apparatus?\nA) Rings\nB) Vault\nC) Parallel Bars\nD) Uneven Bars",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the \"up\" phase of a standing back handspring, the gymnast's arms should be:\nA) Down by the sides\nB) Straight above the head\nC) In front at an angle slightly above horizontal\nD) Crossed over the chest",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the \"sit\" phase of a standing back handspring, the gymnast must:\nA) Keep the legs straight\nB) Sit back as if sitting in a chair\nC) Jump immediately without bending knees\nD) Place hands on the floor",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the body shape maintained by the gymnast until the hands contact the floor in the jump phase?\nA) Hollow\nB) Arch\nC) Linear\nD) Tucked",
+        "Answer": "B"
+    },
+    {
+        "Question": "The transition from an arch shape to a \"hollow\" shape during a standing back handspring is facilitated by:\nA) Landing on the feet\nB) Swinging the arms down\nC) Pushing the hands against the floor\nD) Bending the knees",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing a standing back handspring, the gymnast's head should be in what position during the jump phase?\nA) Tucked in\nB) Looking upwards\nC) In a neutral position\nD) Turned to the side",
+        "Answer": "C"
+    },
+    {
+        "Question": "The angular momentum in a standing back handspring is primarily generated during which phases?\nA) Up and jump\nB) Sit and jump\nC) Up and sit\nD) Jump and landing",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a standing back handspring, where do the feet land relative to the body's center of gravity?\nA) In front\nB) Directly underneath\nC) Behind\nD) To the side",
+        "Answer": "C"
+    },
+    {
+        "Question": "After the hands contact the floor in a standing back handspring, what action causes the body to lift off from the floor?\nA) Swinging the legs up\nB) A second jump\nC) Pushing against the floor\nD) Pulling the knees to the chest",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a standing back handspring, where should the gymnast's arms be positioned at the beginning of the motion?\nA) At the sides, parallel to the body\nB) In front at an angle slightly above horizontal\nC) Crossed over the chest\nD) Directly above the head",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing a standing back handspring, what is the correct position of the head upon jumping?\nA) Tucked into the chest\nB) Thrown back as far as possible\nC) Held in a neutral position\nD) Looking down at the feet",
+        "Answer": "C"
+    },
+    {
+        "Question": "How should a gymnast land after performing a standing back handspring to avoid point deductions?\nA) Taking a step back to maintain balance\nB) With additional steps to correct balance\nC) Without additional steps, arms raised high (\"salute\")\nD) On the heels with arms at the sides",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a front handspring, judges expect the gymnast to land on which part of the feet?\nA) The heels\nB) The balls of the feet in a tight arch\nC) The toes with feet pointed\nD) Flat-footed with legs straight",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, a front handspring is commonly initiated by:\nA) Walking into it\nB) A stationary standing position\nC) A hurdle at a run\nD) A cartwheel",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing a front handspring on the beam, it:\nA) Requires a different technique than on the floor\nB) Is not allowed in competitions\nC) Is performed the same way as on the floor\nD) Must be preceded by a \"step out\"",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a \"step out\" in gymnastics?\nA) A type of dance move\nB) A handspring that lands both feet at the same time\nC) A handspring that lands one foot at a time\nD) A leap before a handspring",
+        "Answer": "C"
+    },
+    {
+        "Question": "A \"back handspring step-out\" on the balance beam is characterized by:\nA) Keeping the legs together throughout the move\nB) Landing both feet at the same time\nC) A full split when inverted\nD) A cartwheel entry",
+        "Answer": "C"
+    },
+    {
+        "Question": "The purpose of stepping out during a back handspring is to:\nA) Increase difficulty\nB) Make it harder to land safely\nC) Make it easier to land safely and perform other tricks\nD) Comply with competition rules",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a variation of a front handspring called a flyspring, the gymnast's feet must:\nA) Be crossed\nB) Be held together from beginning to end\nC) Land one at a time\nD) Perform a twist",
+        "Answer": "B"
+    },
+    {
+        "Question": "After a handspring, a gymnast may perform:\nA) A split jump\nB) A salto or layout\nC) Only a cartwheel\nD) A balance hold",
+        "Answer": "B"
+    },
+    {
+        "Question": "A handspring may be preceded by:\nA) A rotational move such as a cartwheel landing with feet together\nB) A balance pose\nC) A rhythmic dance sequence\nD) A forward roll",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a front handspring, the direction of body rotation is _______.\nA) Forward\nB) Backward\nC) Sideways\nD) Stationary",
+        "Answer": "A"
+    },
+    {
+        "Question": "During a back handspring, when does the performer see where their hands will land?\nA) Before the move begins\nB) After the move has begun\nC) Midway through the handspring\nD) The performer does not need to see where the hands land",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a standing handspring?\nA) A handspring performed while running\nB) A handspring that begins from a stationary standing position\nC) A handspring performed without using hands\nD) A handspring that ends in a standing position",
+        "Answer": "B"
+    },
+    {
+        "Question": "After completing a handspring, a performer may:\nA) Stop all body movement\nB) Use momentum to perform another handspring\nC) Transition into a rotational move like a flip\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which move is commonly used before a handspring to develop sufficient momentum?\nA) Cartwheel\nB) Split\nC) Roundoff\nD) Handstand",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a handspring, the direction of body rotation can be either:\nA) Forward only\nB) Backward only\nC) Sideways\nD) Forward or backward",
+        "Answer": "D"
+    },
+    {
+        "Question": "A handspring is executed by:\nA) Jumping with the feet first\nB) Lunging headfirst into an inverted vertical position\nC) Starting from a seated position\nD) Rolling from a lying position",
+        "Answer": "B"
+    },
+    {
+        "Question": "After completing a handspring, a gymnast may:\nA) Exit the competition area\nB) Perform another handspring or rotational move immediately\nC) Stand still for five seconds\nD) Leave the floor to the next competitor",
+        "Answer": "B"
+    },
+    {
+        "Question": "Handsprings are judged based on:\nA) Speed of execution only\nB) Number of handsprings performed\nC) A number of criteria\nD) The loudness of the audience's applause",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a handspring, the gymnast must push off from the floor with their ________ to leap back into an upright position.\nA) feet\nB) hands\nC) head\nD) shoulders",
+        "Answer": "B"
+    },
+    {
+        "Question": "The handspring is an acrobatic move that involves a complete revolution of the body starting from an ________ position.\nA) inverted vertical\nB) seated\nC) upright\nD) horizontal",
+        "Answer": "C"
+    },
+    {
+        "Question": "The ball used in rhythmic gymnastics must be made of either rubber or _______.\nA) Metal\nB) Wood\nC) Synthetic Material\nD) Glass",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the minimum weight requirement for the ball in rhythmic gymnastics?\nA) 200 grams\nB) 300 grams\nC) 400 grams\nD) 500 grams",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a ball routine, the gymnast is required to use _______.\nA) Only one hand\nB) Both hands\nC) Only their feet\nD) Their head",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a ball routine, the ball should not _______.\nA) Bounce\nB) Rest against the wrist\nC) Be thrown\nD) Roll",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary reason gymnasts choose to perform a wolf turn on the balance beam?\nA) It has a higher difficulty rating than a regular turn.\nB) It is required by the Code of Points.\nC) It is the easiest move to perform on the balance beam.\nD) It is the most graceful move to execute.",
+        "Answer": "A"
+    },
+    {
+        "Question": "How do gymnasts use their hands during a wolf turn to maintain balance?\nA) By keeping them close to their body.\nB) By extending them upwards.\nC) By outstretching them to reduce moment of inertia.\nD) By placing them on the beam for support.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the effect of a lower center of gravity when executing a wolf turn?\nA) It makes the turn more difficult to perform.\nB) It decreases the move's difficulty rating.\nC) It makes the turn easier to execute than a pirouette.\nD) It increases the risk of falling off the beam.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Despite its strategic advantages, why is the wolf turn often looked down upon?\nA) It is considered too easy to perform.\nB) It is often executed wobbly or ungracefully.\nC) It has a low difficulty rating.\nD) It is not a traditional gymnastics move.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Thomas salto, a move in artistic gymnastics, is named after which American gymnast?\nA) Mark Spitz\nB) Kurt Thomas\nC) Simone Biles\nD) Shawn Johnson",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the required body position for a gymnast performing the Thomas salto with 1 \u00bd twists?\nA) Tucked or piked\nB) Layout or straight\nC) Straddled\nD) Stretched with bend knees",
+        "Answer": "A"
+    },
+    {
+        "Question": "Why was the Thomas salto removed from the Code of Points?\nA) It was too easy to perform\nB) It was considered aesthetically displeasing\nC) It resulted in several serious accidents\nD) It was replaced by more advanced techniques",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of the 2017\u20132020 Code of Points, which type of salto elements are not permitted?\nA) Salto elements with a blind landing\nB) \"3/2 salto elements with reception by and then spring from the hands\"\nC) Salto elements without twists\nD) Salto elements performed with a hop",
+        "Answer": "B"
+    },
+    {
+        "Question": "What tragic event is associated with the Thomas salto?\nA) The retirement of a famous gymnast\nB) The winning of an Olympic medal\nC) The paralysis of Elena Mukhina\nD) A record-breaking performance",
+        "Answer": "C"
+    },
+    {
+        "Question": "In artistic gymnastics, what is the name of the basic skill performed on apparatus such as uneven bars, parallel bars, rings, or horizontal bar where a gymnast pikes and slides upwards to a handstand?\nA) Swing\nB) Kip\nC) Cast\nD) Vault",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing a cast on the uneven bars, how may some gymnasts choose to position their legs?\nA) Bent at the knees\nB) Straight together\nC) Straddled\nD) Crossed at the ankles",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a front walkover, how does the performer begin the movement sequence?\nA) Sitting down with legs crossed\nB) Standing up straight with arms raised\nC) In a handstand position\nD) Lying down on the back",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a front walkover, what is the position of the arms as the performer starts the movement?\nA) Down by the sides\nB) Positioned near to the ears\nC) Extended forward\nD) Crossed over the chest",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a front walkover, what happens immediately after the performer lunges forward?\nA) The performer jumps into a split\nB) The leading leg is raised followed by the other leg in a handstand transition\nC) The performer goes into a back bridge position\nD) The trailing foot touches the floor first",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a proper front walkover, the legs are held straight in what position as they travel overhead?\nA) Bent in a tuck position\nB) In a pike position\nC) In a split\nD) Crossed at the ankles",
+        "Answer": "C"
+    },
+    {
+        "Question": "How does a gymnast typically end a front walkover?\nA) With both feet together and arms down\nB) With one foot extended in front and arms raised\nC) In a sitting position with arms extended\nD) With a jump into another acrobatic movement",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG), what is the allowed variance in the measurement of the performance area for Artistic and Acrobatic Gymnastics?\nA) \u00b1 1 centimetre\nB) \u00b1 3 centimetres\nC) \u00b1 5 centimetres\nD) \u00b1 10 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the width of the border around the performance area for Rhythmic Gymnastics?\nA) 50 centimetres\nB) 100 centimetres\nC) 150 centimetres\nD) 200 centimetres",
+        "Answer": "A"
+    },
+    {
+        "Question": "In Artistic Gymnastics, what is the approximate length of the diagonals of the performance area?\nA) 1,200 centimetres\nB) 1,697 centimetres\nC) 1,838 centimetres\nD) 2,000 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "For both male and female competitors, the dimensions of the apparatus in Artistic and Acrobatic Gymnastics are __________.\nA) different based on gender\nB) the same for all competitors\nC) only published for male competitors\nD) not regulated by the FIG",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of the springs and rubber foam combination in competitive gymnastics floors?\nA) To make the floor bouncy and soften the impact of landings\nB) To define the perimeters of the competition area\nC) To provide a surface for artistic expression\nD) To increase the risk and difficulty of the exercise",
+        "Answer": "A"
+    },
+    {
+        "Question": "What indicates an out of bounds area on most competitive gymnastics floors?\nA) The color of the floor\nB) The delimitation strip\nC) The presence of springs\nD) The texture of the floor surface",
+        "Answer": "B"
+    },
+    {
+        "Question": "The apparatus for gymnastics floor exercises originated as a 'free exercise' for which gender?\nA) Women\nB) Men\nC) Both men and women\nD) Neither, it was a unisex sport",
+        "Answer": "B"
+    },
+    {
+        "Question": "How long can men's floor exercise routines last before a penalty is applied for exceeding the legal time?\nA) 60 seconds\nB) 70 seconds\nC) 80 seconds\nD) 90 seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the purpose of the loud beep during men's floor exercise routines?\nA) To start the routine\nB) To signal the end of the routine\nC) To alert the gymnast they have 10 seconds remaining\nD) To indicate a penalty has been given",
+        "Answer": "C"
+    },
+    {
+        "Question": "What elements are men's floor exercise routines typically made up of?\nA) Acrobatic elements only\nB) Strength elements only\nC) Acrobatic elements, strength, and flexibility displays\nD) Dance movements",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Men's Artistic Gymnastics, what constitutes the overall score?\nA) The D-score only\nB) The E-score only\nC) The highest of the D-score or E-score\nD) The addition of the D-score and the E-score",
+        "Answer": "D"
+    },
+    {
+        "Question": "How long can a floor exercise routine last in women's artistic gymnastics (WAG)?\nA) 60 seconds\nB) 75 seconds\nC) 90 seconds\nD) 120 seconds",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who is responsible for keeping time during a WAG floor exercise?\nA) The head judge\nB) The time keeper\nC) The coach\nD) The gymnast",
+        "Answer": "B"
+    },
+    {
+        "Question": "What elements must be included in a WAG floor routine?\nA) Acrobatic and strength elements\nB) Acrobatic and dance elements\nC) Dance and flexibility elements\nD) Strength and flexibility elements",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is NOT allowed in the music for a WAG floor routine?\nA) Instrumental music\nB) Vocalization as an instrument\nC) Spoken words\nD) Classical music",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the role of a choreographer in WAG?\nA) To keep time during routines\nB) To judge the routines\nC) To design the routines\nD) To select the music for routines",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum starting value for the E-score in WAG scoring?\nA) 8.0\nB) 9.0\nC) 10.0\nD) 11.0",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the D-score in WAG scoring represent?\nA) Deductions for errors\nB) Duration of the routine\nC) Difficulty of the routine\nD) Dance quality",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the D-score calculated in WAG scoring?\nA) By the number of elements performed\nB) By the level of artistry shown\nC) By adding values for the 8 most difficult skills and requirements\nD) By the duration of the routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "What happens if a gymnast steps outside the designated floor area?\nA) Bonus points are awarded\nB) The routine is disqualified\nC) A deduction is incurred\nD) The routine must be restarted",
+        "Answer": "C"
+    },
+    {
+        "Question": "How often do some gymnasts adopt a new floor exercise (FX) routine?\nA) Every competition\nB) Every month\nC) Every year\nD) Every Olympic cycle",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is uncommon but not unheard of regarding FX routines in the same season?\nA) Changing the music\nB) Using more than one different FX routine\nC) Keeping the same routine\nD) Modifying the routine's composition",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who typically brings the music to every competition?\nA) The choreographer\nB) The time keeper\nC) The coach\nD) The gymnast",
+        "Answer": "C"
+    },
+    {
+        "Question": "What are the two components of the overall WAG score?\nA) Artistry score and Execution score\nB) Difficulty score and Execution score\nC) Choreography score and Technique score\nD) Performance quality score and Artistry score",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is expected of a gymnast regarding the use of the floor area during their routine?\nA) To use only the center of the floor\nB) To use the entire floor area\nC) To stay within two corners of the mat\nD) To avoid the corners of the mat",
+        "Answer": "B"
+    },
+    {
+        "Question": "What will result in a deduction in WAG floor exercise scoring?\nA) A routine lasting exactly 90 seconds\nB) A routine with purely instrumental music\nC) A routine with lyrics in the music\nD) A routine with high difficulty",
+        "Answer": "C"
+    },
+    {
+        "Question": "Senior gymnasts are required to include a specific element in their floor routines. What is this element?\nA) A single salto\nB) A double salto\nC) A triple salto\nD) A non-acrobatic element",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, what is the English abbreviation for the floor exercise event when it comes to scoring?\nA) FE\nB) FX\nC) FL\nD) GE",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the main reason a spring floor is used in gymnastics?\nA) To increase the challenge for gymnasts\nB) To enhance the visual appeal of the performance\nC) To provide more bounce and prevent injuries\nD) To adhere to traditional gymnastics standards",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the primary difference between the sprung floor used in gymnastics and the one used for indoor athletics?\nA) The gymnastics floor is larger\nB) The indoor athletics floor is designed to reduce bounce\nC) The gymnastics floor is more colorful\nD) The indoor athletics floor is softer",
+        "Answer": "B"
+    },
+    {
+        "Question": "In rhythmic gymnastics, floor exercises for the youngest gymnasts up to 10 years old are performed __________.\nA) with a random apparatus\nB) without any apparatus\nC) with a partner\nD) with all five apparatuses",
+        "Answer": "B"
+    },
+    {
+        "Question": "The routines for floor exercises in rhythmic gymnastics for gymnasts up to 10 years old __________.\nA) have no specific length or content requirements\nB) can be improvised on the spot\nC) are clearly specified for each age category\nD) are the same across all age categories",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the category of floor exercises in rhythmic gymnastics, gymnasts up to 10 years old __________.\nA) must incorporate rope into their routines\nB) perform with the hoop as the only apparatus\nC) are required to use the ball, clubs, and ribbon\nD) perform their routines freehand",
+        "Answer": "D"
+    },
+    {
+        "Question": "In a front lever pullup, what is the required position of the gymnast's body during the exercise?\nA) Vertical\nB) Inverted\nC) Horizontal\nD) Diagonal",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a valid execution of a front lever pullup, where should the gymnast's elbows be in relation to the line of their shoulders?\nA) Above the line of shoulders\nB) At the same level as the line of shoulders\nC) Below the line of shoulders\nD) Any position as long as the pullup is completed",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the front lever pulls, what position must the athlete maintain throughout the entire execution?\nA) A dead hang position\nB) A vertical position with feet to the bar or rings\nC) The front lever position\nD) A tucked position",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a more difficult variation of the front lever pulls?\nA) Starting in a tucked position, pulling to a dead hang\nB) Starting in a dead hang, pulling to a vertical position\nC) Starting directly in front lever position, pulling, then returning to the front lever position\nD) Starting in a vertical position, pulling to a front lever position",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the one arm front lever, how is the body typically positioned?\nA) Parallel to the ground, facing downwards\nB) Perpendicular to the ground, facing sideways\nC) Parallel to the ground, turned sideways\nD) Perpendicular to the ground, facing forward",
+        "Answer": "C"
+    },
+    {
+        "Question": "The front lever is a gymnastic move that is performed on the __________.\nA) Floor\nB) Balance beam\nC) Still rings or pull-up bar\nD) Pommel horse",
+        "Answer": "C"
+    },
+    {
+        "Question": "The front lever is rated __________ in the gymnastic code of points.\nA) A\nB) B\nC) C\nD) D",
+        "Answer": "A"
+    },
+    {
+        "Question": "What has changed in the rating of the front lever since the 1960s?\nA) It was unrated\nB) It was rated B\nC) It was rated C\nD) It was rated D",
+        "Answer": "B"
+    },
+    {
+        "Question": "Athlete's body length affects point scoring, indicating that world-class gymnasts are __________ now than during the mid-20th century.\nA) Taller\nB) Shorter\nC) The same height\nD) Not a factor",
+        "Answer": "B"
+    },
+    {
+        "Question": "What modification can athletes make to increase the difficulty of the front lever?\nA) Perform it with both legs\nB) Perform it with only one arm\nC) Perform it with a twist\nD) Perform it with additional weights",
+        "Answer": "B"
+    },
+    {
+        "Question": "By increasing the width of the hands in relation to the shoulders, which muscles are activated more?\nA) Biceps and triceps\nB) Pectorals and abdominals\nC) Dorsals and rear deltoids\nD) Quadriceps and hamstrings",
+        "Answer": "C"
+    },
+    {
+        "Question": "The 2004 Olympic champion American gymnast, Paul Hamm, is __________ tall.\nA) 1.85m\nB) 1.68m\nC) 1.75m\nD) 1.90m",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which front lever variation requires the gymnast to keep their back flat?\nA) Tuck front lever\nB) Advanced tuck front lever\nC) Single leg front lever\nD) Full front lever",
+        "Answer": "B"
+    },
+    {
+        "Question": "When training for the front lever, what additional exercise can gymnasts perform at any stage of learning?\nA) Leg lifts in the front lever position\nB) Pull-ups in the front lever position\nC) Push-ups in the front lever position\nD) Dips in the front lever position",
+        "Answer": "B"
+    },
+    {
+        "Question": "In artistic gymnastics, a kip is a technique that involves flexing or piking at the hips, and then rapidly extending the hip joints to impart ________.\nA) balance\nB) momentum\nC) flexibility\nD) strength",
+        "Answer": "B"
+    },
+    {
+        "Question": "The kip may be performed on all apparatuses, but it is most commonly performed on the women's uneven bars and on the men's ________.\nA) floor\nB) rings\nC) vault\nD) beam",
+        "Answer": "B"
+    },
+    {
+        "Question": "As a technique in artistic gymnastics, the kip is used as both a ________ and an element or connecting technique in a bar routine.\nA) dismount\nB) mount\nC) transition\nD) finish",
+        "Answer": "B"
+    },
+    {
+        "Question": "After performing a kip and arriving in a front support on the bar, a gymnast may then perform any number of ________.\nA) dismounts\nB) routines\nC) skills\nD) stretches",
+        "Answer": "C"
+    },
+    {
+        "Question": "The most commonly used mount on the women's uneven bars is the ________ kip.\nA) glide\nB) swing\nC) drop\nD) leap",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the USA, the kip first appears in the women's USAG Level ________.\nA) 3\nB) 4\nC) 5\nD) 6",
+        "Answer": "B"
+    },
+    {
+        "Question": "What position is used to swing under the bar during a glide kip?\nA) Piked hollow\nB) Straight hollow\nC) Straddle hollow\nD) Tucked",
+        "Answer": "A"
+    },
+    {
+        "Question": "The glide kip can be used as a _________.\nA) Disconnection\nB) Mount or connecting skill\nC) Dismount\nD) Solely a strength element",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a long hang kip, when is the kipping action initiated?\nA) At the peak of the swing\nB) Much earlier in the swing\nC) After the swing reaches horizontal\nD) At the very end of the swing",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is NOT a characteristic of a long hang kip compared to a glide kip?\nA) Swinging in a piked hollow position\nB) Swinging out to horizontal\nC) Starting with a straight hollow swing\nD) Pushing with the arms",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of a drop kip?\nA) To gain momentum\nB) To strengthen muscles\nC) To perform a dismount\nD) To connect two high bar elements",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a drop kip, the gymnast's shins or feet must remain _________.\nA) Close to the bar\nB) In a piked position\nC) Stretched to the side\nD) In a tucked position",
+        "Answer": "A"
+    },
+    {
+        "Question": "When performing a glide kip with stoop through, the feet and straight legs pass _________.\nA) Over the bar\nB) Between the bar and the arms\nC) Under the bar\nD) Around the bar",
+        "Answer": "B"
+    },
+    {
+        "Question": "The glide kip with stoop through typically propels the gymnast from the low bar to _________.\nA) The floor\nB) A handstand\nC) The high bar\nD) A dismount",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is unique about the jump with 1/2 turn to kip?\nA) It involves a swing\nB) It is performed from a hang\nC) The kip is immediate\nD) The gymnast performs a dismount",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a glide kip, the gymnast transitions from a piked hollow position to a _________ position.\nA) Tucked\nB) Straddle\nC) Straight hollow\nD) Bent",
+        "Answer": "C"
+    },
+    {
+        "Question": "Taller gymnasts may perform the glide kip in a _________ hollow rather than piked hollow swing.\nA) Straddle\nB) Straight\nC) Tucked\nD) Bent",
+        "Answer": "A"
+    },
+    {
+        "Question": "The glide kip with stoop through is used to transition between which two apparatus?\nA) Floor and beam\nB) Rings and vault\nC) Low bar and high bar\nD) Pommel horse and parallel bars",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a drop kip, the gymnast begins in a _________ on the bar.\nA) Back support\nB) Side support\nC) Front support\nD) Inverted hang",
+        "Answer": "C"
+    },
+    {
+        "Question": "The drop kip requires a great deal of _________ on the part of the gymnast.\nA) Flexibility\nB) Strength\nC) Momentum\nD) Balance",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which skill is named after a gymnast that only 5 individuals have successfully completed on the floor exercise as of November 2023?\nA) The Amanar\nB) The Biles\nC) The Yurchenko\nD) The Produnova",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Women's Artistic Gymnastics, how many elements in the Code of Points are named after Simone Biles?\nA) Three\nB) Four\nC) Five\nD) Six",
+        "Answer": "C"
+    },
+    {
+        "Question": "In what year did Biles first start training the triple-twisting double-tucked salto backwards?\nA) 2012\nB) 2013\nC) 2014\nD) 2015",
+        "Answer": "B"
+    },
+    {
+        "Question": "At which event did Biles first complete her signature maneuver in competition?\nA) 2019 U.S. Classic\nB) 2019 World Championships\nC) 2019 U.S. National Championships\nD) 2020 Olympic Games",
+        "Answer": "C"
+    },
+    {
+        "Question": "What rating was given to Biles' skill at the 2019 World Championships?\nA) I\nB) J\nC) K\nD) L",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which American gymnast performed the laid-out version of Biles' skill during podium training at the 2021 U.S. Classic?\nA) Simone Biles\nB) Jade Carey\nC) MyKayla Skinner\nD) Aly Raisman",
+        "Answer": "B"
+    },
+    {
+        "Question": "What difficulty rating was assigned to the laid-out version of the skill submitted by Carey to be added to the code of points at the 2020 Olympic Games?\nA) H\nB) I\nC) J\nD) K",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the USA Gymnastics Level 4 compulsory beam routine, which skill is a required element?\nA) Handstand\nB) Split Leap\nC) Cartwheel\nD) Roundoff",
+        "Answer": "C"
+    },
+    {
+        "Question": "What movement may precede a cartwheel in a floor exercise to create a chasse cartwheel?\nA) Forward roll\nB) Back handspring\nC) Side-step \"gallops\"\nD) Pirouette",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a proper gymnastics cartwheel, the hands are placed on the ground __________.\nA) one after another\nB) simultaneously side by side\nC) with fingers interlocked\nD) at a wide distance apart",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a cartwheel, what position should the head be in?\nA) Looking up\nB) Tucked in\nC) Turned sideways\nD) Facing forward",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the required degree of motion for the legs during a cartwheel in United States competitions?\nA) At least 45 degrees\nB) At least 60 degrees\nC) At least 75 degrees\nD) At least 90 degrees",
+        "Answer": "D"
+    },
+    {
+        "Question": "In a classic gymnastics cartwheel, the legs must be __________.\nA) bent at the knees\nB) crossed\nC) straddled wide apart\nD) kept together",
+        "Answer": "C"
+    },
+    {
+        "Question": "When initiating a cartwheel, the gymnast starts with a forward __________.\nA) jump\nB) lunge\nC) roll\nD) step",
+        "Answer": "B"
+    },
+    {
+        "Question": "As the gymnast's body becomes inverted, their toes and feet should be __________.\nA) relaxed\nB) flexed\nC) pointed\nD) flat",
+        "Answer": "C"
+    },
+    {
+        "Question": "After completing the cartwheel, the gymnast should land facing __________.\nA) the same direction as they started\nB) the opposite direction from the one they started in\nC) sideways\nD) the judges",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the cartwheel, the gymnast's arms should be __________.\nA) bent at the elbows\nB) behind the head\nC) high and straight\nD) crossed over the chest",
+        "Answer": "C"
+    },
+    {
+        "Question": "When landing the cartwheel, the gymnast's weaker leg should be __________.\nA) in the back\nB) in the front\nC) crossed over the lead leg\nD) extended to the side",
+        "Answer": "B"
+    },
+    {
+        "Question": "A cartwheel with legs bent can be an interim training technique because it is __________.\nA) more aesthetically pleasing\nB) easier to control\nC) the preferred form in competitions\nD) more challenging",
+        "Answer": "B"
+    },
+    {
+        "Question": "A cartwheel is a movement where the body rotates sideways, resembling the spokes of a turning wheel. What is the primary reason it is called a cartwheel?\nA) Because it involves a cart-like apparatus\nB) Because the performer's arms and legs move like the spokes of a turning wheel\nC) Because it was first performed near carts\nD) Because it is commonly performed by cart drivers",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a cartwheel, how do the hands and feet touch the floor?\nA) Both hands and feet touch the floor simultaneously\nB) Hands touch the floor one at a time, followed by the feet one at a time\nC) Feet touch the floor one at a time, followed by the hands one at a time\nD) Both hands touch the floor at the same time, followed by both feet at the same time",
+        "Answer": "B"
+    },
+    {
+        "Question": "What year was the first recorded use of the cartwheel?\nA) 1925\nB) 1905\nC) 1945\nD) 1885",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who was the first recorded individual to use a cartwheel in a performance setting?\nA) Matthew Douglass\nB) George Nissen\nC) Nadia Com\u0103neci\nD) Mikhail Baryshnikov",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the COP reference number for a Gienger?\nA) 3.205\nB) 3.405\nC) 3.505\nD) 3.605",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a traditional Gienger, the body form should be ______.\nA) Tucked\nB) Stretched\nC) Piked\nD) Straddled",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Def, a variation of the Gienger, is rated as a G element in COP and involves ______ twists before regrasp.\nA) 1/2\nB) 1\nC) 1 1/2\nD) 2",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the execution of a Gienger, the gymnast completes a ______ twist before regrasping the bar.\nA) 1/4\nB) 1/2\nC) 3/4\nD) Full",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Gienger skill typically begins from a ______.\nA) Swing forward\nB) Handstand\nC) Kip\nD) Cast",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following gymnasts is known for performing the Gienger?\nA) Simone Biles\nB) Nastia Liukin\nC) Gabby Douglas\nD) Aly Raisman",
+        "Answer": "B"
+    },
+    {
+        "Question": "When landing a vault, gymnasts are expected to land within a set landing zone on the mat. What happens if a gymnast takes a hop or step upon landing?\nA) No penalty is given\nB) A deduction is incurred\nC) Extra points are awarded\nD) The gymnast must perform an additional vault",
+        "Answer": "B"
+    },
+    {
+        "Question": "In order to qualify for the vault apparatus finals, how many vaults must a gymnast perform during qualifications?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "For men, what is required regarding the two vaults they must perform in the Apparatus Finals?\nA) The vaults must be identical\nB) The vaults must be from the same element group\nC) The vaults must be from different element groups\nD) The vaults must be performed simultaneously",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is one of the criteria for a gymnast's technique and execution in the actual vault?\nA) The amount of cheering from the audience\nB) The color of the gymnast's outfit\nC) The height off the table\nD) The time of day the vault is performed",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Team Final and All Around Final, how many vaults do gymnasts (both male and female) show?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the maximum allowable width for the gymnastics run up area?\nA) 90 centimetres\nB) 91 centimetres\nC) 100 centimetres\nD) 101 centimetres",
+        "Answer": "D"
+    },
+    {
+        "Question": "How much is the allowable variation in height for the men's gymnastics apparatus?\nA) \u00b1 0.5 centimetres\nB) \u00b1 1 centimetre\nC) \u00b1 1.5 centimetres\nD) \u00b1 2 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct length of the gymnastics run up area including the maximum allowable deviation?\nA) 3,490 centimetres\nB) 3,500 centimetres\nC) 3,510 centimetres\nD) 3,520 centimetres",
+        "Answer": "C"
+    },
+    {
+        "Question": "The early form of the vault was invented by which individual?\nA) Friedrich Ludwig Jahn\nB) Janssen-Fritsen\nC) International Gymnastics Federation\nD) An unnamed gymnast",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was the original name of the apparatus used for vaulting before it became known as the \"vaulting table\"?\nA) The vaulting board\nB) The springboard\nC) The pommel horse\nD) The vaulting horse",
+        "Answer": "D"
+    },
+    {
+        "Question": "How was the horse set up for women during the early days of the vault?\nA) Perpendicular to the run\nB) Parallel to the run\nC) Diagonal to the run\nD) Without any specific orientation",
+        "Answer": "A"
+    },
+    {
+        "Question": "In which year did the Men's vault first appear in the modern Olympics?\nA) 1896\nB) 1900\nC) 2000\nD) 2001",
+        "Answer": "A"
+    },
+    {
+        "Question": "What led to the re-evaluation and change of the vaulting apparatus by the International Gymnastics Federation (FIG)?\nA) The introduction of new gymnastics techniques\nB) The desire to reduce the cost of equipment\nC) Accidents that occurred in 1988, 1998, and 2000\nD) The need for a more aesthetically pleasing design",
+        "Answer": "C"
+    },
+    {
+        "Question": "How does the vaulting table's surface compare to the old apparatus?\nA) Smaller and less cushioned\nB) Flat, larger, and more cushioned\nC) Identical in size and cushioning\nD) Round and less stable",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, what is a requirement for a gymnast to compete in a vault final regarding the performance of vaults?\nA) Perform two vaults from the same group with identical second flight phases\nB) Perform two vaults from different groups with identical second flight phases\nC) Perform two vaults from different groups whose second flight phase is not identical\nD) Perform one vault with a unique second flight phase",
+        "Answer": "C"
+    },
+    {
+        "Question": "What are vault styles in gymnastics categorized into?\nA) Routines\nB) Sequences\nC) Families\nD) Classes",
+        "Answer": "C"
+    },
+    {
+        "Question": "To perform a vault, the gymnast must first run down a __________, which is typically designed for safety and performance.\nA) runway\nB) balance beam\nC) trampoline\nD) uneven bars",
+        "Answer": "A"
+    },
+    {
+        "Question": "When performing vaults in the Yurchenko family, the gymnast first puts their hands on a __________ before executing the rest of the vault.\nA) balance beam\nB) springboard\nC) mat\nD) pommel horse",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Yurchenko family of vaults, after putting their hands onto a mat, the gymnast's next move is to:\nA) round-off onto the board\nB) do a cartwheel onto the board\nC) leap directly onto the vault\nD) perform a somersault onto the board",
+        "Answer": "A"
+    },
+    {
+        "Question": "The off-flight phase of a vault may include:\nA) leaping over the apparatus without any turns\nB) executing several twists and turns in the air\nC) a simple forward roll\nD) a stationary pose on the apparatus",
+        "Answer": "B"
+    },
+    {
+        "Question": "In artistic gymnastics, what is the English abbreviation used for scoring the event that involves performing on the vault apparatus?\nA) VA\nB) VT\nC) VG\nD) VP",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following statements is true regarding the vault in artistic gymnastics?\nA) Only male gymnasts perform the vault.\nB) Both male and female gymnasts do not perform the vault.\nC) Both male and female gymnasts perform the vault.\nD) The vault is exclusive to rhythmic gymnastics.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In women's gymnastics, which vault category does a Handspring without any turns in the first flight phase belong to?\nA) Vault with salto\nB) Vault without salto\nC) Tsukahara vault\nD) Yurchenko vault",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum number of turns a gymnast can perform in the first flight phase of a Handspring fwd vault?\nA) \u00bc turn (90\u00b0)\nB) \u00bd turn (180\u00b0)\nC) \u00be turn (270\u00b0)\nD) 1/1 turn (360\u00b0)",
+        "Answer": "D"
+    },
+    {
+        "Question": "The Tsukahara vault in women's gymnastics involves a handspring with a turn in the first flight phase. How much is the turn?\nA) \u00bc - \u00bd turn (90\u00b0 - 180\u00b0)\nB) \u00bd - \u00be turn (180\u00b0 - 270\u00b0)\nC) \u00be - full turn (270\u00b0 - 360\u00b0)\nD) No turn",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a Round-off (Yurchenko) vault, what is the maximum turn allowed in the first flight phase for it to still be considered a Yurchenko?\nA) \u00bd turn (180\u00b0)\nB) \u00be turn (270\u00b0)\nC) 1/1 turn (360\u00b0)\nD) 1\u00bc turns (450\u00b0)",
+        "Answer": "B"
+    },
+    {
+        "Question": "A Round-off vault with a \u00bd turn in the first flight phase can be followed by which types of salto in the second flight phase?\nA) Salto fwd only\nB) Salto bwd only\nC) Salto fwd or bwd with twist\nD) Salto bwd without twist",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a gymnastics vault, judges specifically look at four main phases. Which of the following is NOT one of those phases?\nA) Pre-flight\nB) Support\nC) After-flight\nD) In-flight",
+        "Answer": "D"
+    },
+    {
+        "Question": "In women's gymnastics competitions, how is a competitor's score for the vault event determined?\nA) By the highest score of the two vaults performed\nB) By the combined average score of the two vaults performed\nC) By the score of the first vault only\nD) By the judges' overall impression",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of the changes made in 2005, gymnastics events are no longer scored out of what traditional maximum score?\nA) 9.0\nB) 10.0\nC) 15.0\nD) 20.0",
+        "Answer": "B"
+    },
+    {
+        "Question": "What aspect of the gymnastics vault is scored out of 10.0 under the new scoring system?\nA) Projected difficulty\nB) Number of skills\nC) Execution\nD) Creativity",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the new scoring system, what increases the projected difficulty of a gymnast's routine?\nA) The number of judges present\nB) The speed of the vault\nC) Every skill included\nD) The choice of music",
+        "Answer": "C"
+    },
+    {
+        "Question": "What did the FIG changes in 2009 emphasize less in the scoring of gymnastics vaults?\nA) Execution\nB) Difficulty\nC) Artistic impression\nD) Speed",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the new scoring system, what are judges looking for in the execution score of a vault?\nA) The gymnast's costume and presentation\nB) The form, height, length, and the landing\nC) The number of twists performed\nD) The reaction of the audience",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was American gymnast Julissa Gomez paralyzed in a vaulting accident?\nA) 1986\nB) 1988\nC) 1990\nD) 1992",
+        "Answer": "B"
+    },
+    {
+        "Question": "What injury did Chinese gymnast Sang Lan suffer during the 1998 Goodwill Games?\nA) Ankle sprain\nB) Cervical-spine injury\nC) Concussion\nD) Fractured wrist",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to a 2021 study, what change in scoring criteria could potentially increase the risk of injury in women's gymnastics vault events?\nA) Decreasing the required height of the vault\nB) Increasing the complexity of required maneuvers\nC) Landing scoring criteria\nD) Reducing the length of the runway",
+        "Answer": "C"
+    },
+    {
+        "Question": "What did studies recommend to reduce impact-related injuries in gymnastics?\nA) Allowing less flexion at the knees during landing\nB) Allowing more flexion at the knees during landing\nC) Increasing the height of the horse\nD) Using a softer landing mat",
+        "Answer": "B"
+    },
+    {
+        "Question": "In men's gymnastics, which category of vault includes handspring sideways and Tsukahara vaults with or without simple twists, and all double salto bwd?\nA) Single salto vaults with complex twists\nB) Handspring vaults with or without simple twists, and all double salto fwd\nC) Handspring sideways and Tsukahara vaults with or without simple twists, and all double salto bwd\nD) Round off entry vaults",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following vault categories for men does not specify the inclusion of twists?\nA) Single salto vaults with complex twists\nB) Handspring vaults with or without simple twists, and all double salto fwd\nC) Handspring sideways and Tsukahara vaults with or without simple twists, and all double salto bwd\nD) Round off entry vaults",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the maximum diameter allowed for the handle of the apparatus in gymnastics?\nA) 0.5 cm\nB) 1 cm\nC) 1.5 cm\nD) 2 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "What materials can the handle of the gymnastics apparatus be made from?\nA) Metal, bamboo, or plastic\nB) Wood, bamboo, or metal\nC) Wood, bamboo, or plastic\nD) Plastic, nylon, or bamboo",
+        "Answer": "C"
+    },
+    {
+        "Question": "In rhythmic gymnastics, what is the apparatus composed of a handle, a ribbon, and an attachment known as?\nA) Hoop\nB) Ball\nC) Clubs\nD) Ribbon",
+        "Answer": "D"
+    },
+    {
+        "Question": "The ribbon in rhythmic gymnastics is attached to the stick by means of a ________.\nA) rigid connector\nB) supple attachment\nC) magnetic lock\nD) fixed knot",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the maximum length allowed for the attachment connecting the ribbon to the stick in rhythmic gymnastics?\nA) 10 cm\nB) 5 cm\nC) 7 cm\nD) 12 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "In rhythmic gymnastics, what is required of the ribbon during routines?\nA) It must remain static\nB) It must be in constant motion\nC) It should be used intermittently\nD) It needs to be knotted at intervals",
+        "Answer": "B"
+    },
+    {
+        "Question": "The final position of a kip-up is typically a _____ position.\nA) standing\nB) prone\nC) supine\nD) squatting",
+        "Answer": "D"
+    },
+    {
+        "Question": "What degree of rotation is required to perform a full twist in gymnastics?\nA) 180-degree\nB) 360-degree\nC) 540-degree\nD) 720-degree",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a full twisting layout, the gymnast must maintain what type of body position while flipping upside down?\nA) Tucked\nB) Piked\nC) Extended\nD) Arched",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the standing twist drill, what is the recommended progression for athletes to develop their skill?\nA) Start with a full twist and then progress to a half twist\nB) Begin with a quarter twist and then move to a half twist\nC) Start with a half twist and then progress to a full twist\nD) Begin with a double twist and then reduce to a full twist",
+        "Answer": "C"
+    },
+    {
+        "Question": "The long axis, important for the alignment in the standing twist, runs through which part of the body?\nA) From the left shoulder to the right hip\nB) From the front of the body to the back\nC) From the head to the toe through the center of the body\nD) Around the body in a horizontal loop",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does practicing the standing twist help gymnasts gain in the air?\nA) Speed\nB) Height\nC) Awareness\nD) Flexibility",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, at which minimum level is the skill introduced in floor routines?\nA) Level 5\nB) Level 6\nC) Level 7\nD) Level 9",
+        "Answer": "B"
+    },
+    {
+        "Question": "At what level is the skill legally allowed for competition in gymnastics?\nA) Level 5\nB) Level 6\nC) Level 7\nD) Level 9",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which form is the skill commonly performed as a vault?\nA) Yurchenko\nB) Tsukahara\nC) Both A and B\nD) Neither A nor B",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, which skill is considered absolutely required before attempting to learn a full-twisting layout?\nA) Roundoff\nB) Back handspring\nC) Back tuck\nD) Back layout",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is commonly performed in a tumbling pass directly before a back layout?\nA) Roundoff back handspring\nB) Front handspring\nC) Half twisting layout\nD) Back tuck",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following skills is NOT recommended to be in good condition before executing a full-twisting layout?\nA) Roundoff\nB) Layout\nC) Front handspring\nD) Half twisting layout",
+        "Answer": "C"
+    },
+    {
+        "Question": "When transferring the full-twist skill to the floor, special attention must be paid to which two aspects to prevent injury due to low landings or incomplete rotations?\nA) Flexibility and precision\nB) Speed and power\nC) Balance and coordination\nD) Stamina and technique",
+        "Answer": "B"
+    },
+    {
+        "Question": "The full-twisting layout is a skill that requires professional coaching due to its complexity. What does using a trampoline add to tumbling that the floor does not provide?\nA) Increased precision\nB) More stiffness\nC) Additional height\nD) Enhanced balance",
+        "Answer": "C"
+    },
+    {
+        "Question": "When progressing from a half-twist to a full-twist on the floor exercise, what should a gymnast ensure before attempting the more advanced movement?\nA) The gymnast should ensure they are comfortable with the half-twist layout.\nB) The gymnast should ensure they have a coach present.\nC) The gymnast should ensure they are wearing the right outfit.\nD) The gymnast should ensure the floor is made of concrete.",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the purpose of using additional matting on the floor during gymnastics exercises?\nA) To make the floor more aesthetically pleasing.\nB) To aid in injury prevention.\nC) To increase the difficulty of the exercise.\nD) To limit the number of twists a gymnast can perform.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, a somersault can be performed in various body positions. Which of the following is NOT a recognized position for a somersault?\nA) Tucked\nB) Piked\nC) Straddled\nD) Coiled",
+        "Answer": "D"
+    },
+    {
+        "Question": "In women's artistic gymnastics, how are Arabian saltos classified?\nA) Front tumbling\nB) Back tumbling\nC) Side tumbling\nD) Not included in the classifications",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the initial direction of an Arabian salto?\nA) Forwards\nB) Backwards\nC) Sideways\nD) Downwards",
+        "Answer": "B"
+    },
+    {
+        "Question": "To build an Arabian salto, gymnasts should start with which of the following elements?\nA) A back handspring\nB) An Arabian dive roll\nC) A back salto\nD) A front handspring",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, what is another term for a somersault performed in the air?\nA) Flip\nB) Heli\nC) Salto\nD) Roll",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which axis does a person's body rotate around during a somersault?\nA) Vertical axis\nB) Diagonal axis\nC) Horizontal axis\nD) Perpendicular axis",
+        "Answer": "C"
+    },
+    {
+        "Question": "A somersault that is executed on the ground is typically called a:\nA) Flip\nB) Heli\nC) Salto\nD) Roll",
+        "Answer": "D"
+    },
+    {
+        "Question": "As of 2003, which element had become a standard part of women's gymnastics routines?\nA) Tucked single back salto\nB) Tucked double back salto\nC) Triple back salto\nD) Back triple double",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who was the first woman to compete with a back triple double in gymnastics?\nA) Aly Raisman\nB) Nadia Comaneci\nC) Simone Biles\nD) Gabby Douglas",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, what is the consequence of a gymnast falling off the beam during their routine?\nA) A bonus is awarded\nB) The performance is disqualified\nC) A deduction is taken\nD) The routine is paused",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is NOT a factor in determining a gymnast's final mark?\nA) The complexity of the routine\nB) The execution of the routine\nC) The gymnast's outfit\nD) The control during the performance",
+        "Answer": "C"
+    },
+    {
+        "Question": "What must gymnasts fulfill to avoid deductions in their routine according to the scoring rules?\nA) The required Code of Points elements\nB) A minimum number of flips\nC) A routine under one minute\nD) A performance without music",
+        "Answer": "A"
+    },
+    {
+        "Question": "According to the Apparatus Norms brochure published by the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG), what is the official width of the gymnastics apparatus?\nA) 5 centimetres (1.97 in)\nB) 10 centimetres (3.9 in)\nC) 15 centimetres (5.9 in)\nD) 20 centimetres (7.87 in)",
+        "Answer": "B"
+    },
+    {
+        "Question": "The F\u00e9d\u00e9ration Internationale de Gymnastique (FIG) specifies the height of the gymnastics apparatus in the Apparatus Norms brochure. What is the height as per their publication?\nA) 100 centimetres (3.28 ft)\nB) 110 centimetres (3.61 ft)\nC) 125 centimetres (4.10 ft)\nD) 150 centimetres (4.92 ft)",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the English abbreviation for the balance beam event in gymnastics scoring?\nA) BB\nB) BM\nC) BE\nD) BL",
+        "Answer": "A"
+    },
+    {
+        "Question": "The balance beam is only performed competitively by _________ gymnasts.\nA) male\nB) female\nC) both male and female\nD) children",
+        "Answer": "B"
+    },
+    {
+        "Question": "Balance beams are typically covered with what type of material?\nA) Polished wood\nB) Plastic\nC) Leather-like material\nD) Metal",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the International Gymnastics Federation, the balance beam must be ______ inches wide.\nA) two\nB) four\nC) six\nD) eight",
+        "Answer": "B"
+    },
+    {
+        "Question": "For practice situations, some gymnastics schools may use balance beams with surfaces covered in _______.\nA) suede\nB) carpet\nC) silk\nD) rubber",
+        "Answer": "B"
+    },
+    {
+        "Question": "Floor beams used for learning new skills are set at what distance from the ground?\nA) A very short distance\nB) One meter\nC) Two meters\nD) At ground level",
+        "Answer": "A"
+    },
+    {
+        "Question": "Before the 1980s, what material was sometimes used for the beam surface that was later banned?\nA) Basketball-like material\nB) Polished wood\nC) Leather\nD) Suede",
+        "Answer": "A"
+    },
+    {
+        "Question": "What feature was added to balance beams since the 1980s to accommodate high-difficulty moves?\nA) They were made wider\nB) They were made adjustable in height\nC) They were made longer\nD) They were made sprung",
+        "Answer": "D"
+    },
+    {
+        "Question": "A beam routine in gymnastics must include a connection of two dance elements, one of which is a __________.\nA) leap, jump, or hop with legs in 180-degree split\nB) cartwheel\nC) handstand\nD) forward roll",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a beam routine, the gymnast is required to perform a full turn on __________.\nA) both feet\nB) one hand\nC) one foot\nD) the head",
+        "Answer": "C"
+    },
+    {
+        "Question": "For a beam routine to be considered complete, it must contain one series of two acrobatic skills, which includes at least one __________.\nA) dance move\nB) salto\nC) split leap\nD) balance hold",
+        "Answer": "B"
+    },
+    {
+        "Question": "The dismount from the beam can be performed using a __________.\nA) trampoline\nB) springboard\nC) mat\nD) any of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the 1960s, what was considered the most difficult acrobatic skill performed by the average Olympic gymnast on the beam?\nA) cartwheel\nB) back handspring\nC) front tuck\nD) aerial walkover",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which gymnast pioneered advanced tumbling combinations and aerial skills on the beam in the 1970s?\nA) Shannon Miller\nB) Olga Korbut\nC) Simone Biles\nD) Nadia Com\u0103neci",
+        "Answer": "B"
+    },
+    {
+        "Question": "The transition from wooden beams to suede-covered surfaces made the beam less _______ and facilitated an increase in difficulty.\nA) expensive\nB) slippery\nC) durable\nD) traditional",
+        "Answer": "B"
+    },
+    {
+        "Question": "By the mid-1980s, top gymnasts routinely performed _______ on the balance beam.\nA) simple leaps\nB) basic dance poses\nC) flight series and multiple aerial elements\nD) only handstands and rolls",
+        "Answer": "C"
+    },
+    {
+        "Question": "A gymnast may choose to wear special shoes while performing on the beam. What are these shoes called?\nA) Running shoes\nB) Beam shoes\nC) Gym shoes\nD) Dance shoes",
+        "Answer": "B"
+    },
+    {
+        "Question": "What can a gymnast apply to her hands and/or feet to increase stability on the beam?\nA) Oil\nB) Lotion\nC) Chalk\nD) Glue",
+        "Answer": "C"
+    },
+    {
+        "Question": "If a gymnast falls off the beam, how many seconds does she have to remount and continue her routine?\nA) 5 seconds\nB) 10 seconds\nC) 15 seconds\nD) 20 seconds",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to FIG rules, what is the maximum allowed time for a balance beam routine?\nA) 1:00 minute\nB) 1:15 minutes\nC) 1:30 minutes\nD) 2:00 minutes",
+        "Answer": "C"
+    },
+    {
+        "Question": "What happens if a gymnast's coach spots her or interferes during her beam routine?\nA) The routine is paused\nB) The coach receives a warning\nC) The gymnast incurs a penalty\nD) The routine is disqualified",
+        "Answer": "C"
+    },
+    {
+        "Question": "When is the only time a coach may accompany a gymnast on the podium during her beam routine?\nA) When adjusting the beam\nB) In the case of a mount involving a springboard\nC) During the dismount\nD) When the gymnast requests assistance",
+        "Answer": "B"
+    },
+    {
+        "Question": "What indicates to the gymnast and judges that there are 10 seconds remaining in a balance beam routine?\nA) A green light\nB) A warning tone or bell\nC) A flag signal\nD) A whistle",
+        "Answer": "B"
+    },
+    {
+        "Question": "A sideways roll in gymnastics is also known as a:\nA) Log roll\nB) Barrel roll\nC) Pencil roll\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "When performing a log roll, where should the gymnast's hands be positioned?\nA) Next to the waist\nB) Stretched above the head\nC) On the hips\nD) Alongside the body",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the initial position a gymnast must assume to start a sideways roll?\nA) Standing upright\nB) Lying down on the back or front with the body outstretched\nC) Sitting with legs crossed\nD) In a handstand",
+        "Answer": "B"
+    },
+    {
+        "Question": "A pencil roll differs from a log roll in that the gymnast's hands are:\nA) On the hips\nB) Next to the waist\nC) Stretched above the head\nD) Clasped behind the back",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, what is the primary difference between a roll and a flip?\nA) A roll is performed in the air, while a flip is performed on the ground.\nB) A roll involves the hips passing over the head, while a flip does not.\nC) A roll is usually made on the ground, while a flip is made in the air.\nD) A roll cannot be used to recover from a fall, while a flip can.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why are rolls considered a fundamental skill in gymnastics classes?\nA) They are the most difficult skills to perform.\nB) They require a complete rotation of the body in the air.\nC) They are similar to flips but are performed on the ground.\nD) They help gymnasts recover from a fall safely.",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following statements is true regarding rolls in gymnastics?\nA) Rolls do not involve a complete rotation of the body.\nB) Rolls and flips both require the use of hands on the ground.\nC) Rolls are a basic skill that can help with safe fall recovery.\nD) Rolls are performed with the hips passing over the head in the air.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a Tucked Sideways roll, the gymnast must begin in which starting position?\nA) Standing with arms raised\nB) Kneeling with arms in an outstretched position\nC) Sitting with legs straight ahead\nD) Lying flat on the back",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the Tucked Sideways roll, how should the gymnast's legs be maintained?\nA) In a stretched position\nB) In a tucked position\nC) In a straddle position\nD) In a piked position",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a backward roll, after the gymnast leans back and their bottom reaches the floor, what is the next step in the movement?\nA) They stand up immediately\nB) They continue the momentum and roll over their back onto their shoulders\nC) They jump to a handstand\nD) They perform a cartwheel",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a backward roll, where should the gymnast place their hands to assist in completing the roll?\nA) On their knees\nB) Next to their hips\nC) Next to their shoulders\nD) Above their head",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the key difference between a standard backward roll and a backward roll to handstand?\nA) The backward roll to handstand is performed on rings\nB) The hands do not make contact with the ground in a backward roll to handstand\nC) The body straightens fully into a handstand after the hands make contact with the ground\nD) The backward roll to handstand involves a jump",
+        "Answer": "C"
+    },
+    {
+        "Question": "Where is a backward roll on rings typically performed?\nA) On the floor\nB) On a balance beam\nC) On rings\nD) On a trampoline",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a backward roll to Maltese?\nA) A backward roll followed by a dance move\nB) A backward roll followed by a leap\nC) A backward roll that transitions into a Maltese cross position on rings\nD) A backward roll performed with a partner",
+        "Answer": "C"
+    },
+    {
+        "Question": "In rhythmic gymnastics, which variation of the backward roll is commonly performed?\nA) Backward roll to handstand\nB) Backward roll on rings\nC) Shoulder roll\nD) Backward roll to Maltese",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is the shoulder roll preferred in rhythmic gymnastics when compared to the standard backward roll?\nA) It is more difficult and scores higher points\nB) It is faster and protects the hair\nC) It requires less strength\nD) It is easier to learn",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a forward roll, how should the gymnast's hands be positioned when they crouch down?\nA) Hands behind the back\nB) Hands shoulder wide apart and facing forward\nC) Hands together above the head\nD) Hands on the knees",
+        "Answer": "B"
+    },
+    {
+        "Question": "What part of the body should the gymnast tuck to their chest to initiate the forward roll?\nA) Their knees\nB) Their elbows\nC) Their chin\nD) Their hips",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing a forward roll, where does the gymnast place the back of their head?\nA) On the floor\nB) On their knees\nC) In their hands\nD) It does not touch anything",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the final movement to complete the forward roll and return to a standing position?\nA) Pressing the hands onto the floor and kicking the legs up\nB) Pressing the feet onto the floor and whipping the arms forward\nC) Doing a handstand\nD) Jumping back to a standing position",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, a dive roll is initiated with a horizontal forward motion and is characterized by what kind of landing?\nA) A rough landing\nB) A smooth landing\nC) A backward landing\nD) A stationary landing",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the Tin soldier/Teddy bear roll, the gymnast must hold their legs below the _______ while leaning over towards the shoulder to roll.\nA) ankles\nB) knees\nC) hips\nD) waist",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, flips are categorized according to the ________ of body rotation.\nA) speed\nB) direction\nC) style\nD) height",
+        "Answer": "B"
+    },
+    {
+        "Question": "Gymnastics nomenclature is often applied to flips found in other disciplines because many of these flips are variations of the fundamental ________ flips.\nA) gymnastics\nB) ballet\nC) diving\nD) dance",
+        "Answer": "A"
+    },
+    {
+        "Question": "How does an Arabian tuck differ from a traditional back tuck?\nA) An Arabian tuck involves a half twist after take-off, changing into a front tuck.\nB) An Arabian tuck is executed with the help of a partner.\nC) An Arabian tuck is performed with knees and feet together.\nD) An Arabian tuck does not involve any rotation.",
+        "Answer": "A"
+    },
+    {
+        "Question": "In gymnastics, when performing a flip that requires the hips to pass over the head, which of the following body forms is characterized by unbent knees and legs in a split aligned on the rotational plane?\nA) Tuck\nB) Layout\nC) Pike\nD) Aerial",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the name of the gymnastics flip that involves legs together, knees fully bent, and hands clutching the knees or held close to the body to reach maximum angular velocity?\nA) Aerial\nB) Tuck\nC) Layout\nD) Pike",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which gymnastics flip is initiated with arms down from against the ears to the hips to help initiate the flip and control momentum for landing?\nA) Aerial\nB) Tuck\nC) Layout\nD) Pike",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a \"layout\" flip, how are the legs positioned?\nA) Bent at the hips with knees straight\nB) Together with unbent hips and knees\nC) Fully bent and drawn to the chest\nD) In a forward or side split",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the term for a tuck flip that includes a rotation using torque twist to make a 360 rotation?\nA) Back tuck full\nB) Half twist\nC) Double full\nD) Triple full",
+        "Answer": "A"
+    },
+    {
+        "Question": "A layout that includes axial body rotation is called a:\nA) Twist\nB) Pike\nC) Tuck\nD) Aerial",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many degrees of axial rotation are completed in a layout with a full twist?\nA) 90 degrees\nB) 180 degrees\nC) 360 degrees\nD) 720 degrees",
+        "Answer": "C"
+    },
+    {
+        "Question": "What body position is assumed during a pike flip?\nA) Unbent knees with legs in a split\nB) Knees fully bent with legs together\nC) Bent hips with knees straight and legs together\nD) Body fully extended with legs together",
+        "Answer": "C"
+    },
+    {
+        "Question": "A front flip performed with a tucked body form is called a:\nA) Front aerial\nB) Front tuck\nC) Front layout\nD) Front pike",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of a front tuck initiated from a stationary, standing position?\nA) Standing front aerial\nB) Standing front tuck\nC) Standing front layout\nD) Standing front pike",
+        "Answer": "B"
+    },
+    {
+        "Question": "To minimize the time required for the body to complete its revolution in a tuck flip, the gymnast should:\nA) Extend the body fully\nB) Keep the legs in a split\nC) Tuck the body tightly\nD) Keep the arms and legs straight",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a twist flip, the number of axial rotations completed while airborne is categorized by:\nA) The angle of the knees\nB) The number of degrees in the twist\nC) The position of the arms\nD) The speed of rotation",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is not a commonly employed body form in gymnastics flips?\nA) Aerial\nB) Tuck\nC) Layout\nD) Spiral",
+        "Answer": "D"
+    },
+    {
+        "Question": "In gymnastics, what is the name of the modification where a flip is launched from and lands on the same leg?\nA) Gainer\nB) Loser\nC) Switch\nD) Tumbler",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which flip modification results in the gymnast ending forward of the starting point due to forward momentum?\nA) Gainer\nB) Loser\nC) Switch\nD) Spinner",
+        "Answer": "A"
+    },
+    {
+        "Question": "An acrobatic flip can be initiated from which of the following positions?\nA) A moving bicycle\nB) A stationary, standing position\nC) Sitting down\nD) Lying on the back",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing an acrobatic flip, it is common to execute it immediately following another rotational move to take advantage of what?\nA) Increased altitude\nB) Angular momentum\nC) Physical strength\nD) Audience applause",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the gymnastics move where legs and arms are split normal to the rotational plane to form a shape?\nA) Tuck\nB) X-in or X-out\nC) Layout or Straight\nD) Pike",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, specific errors on the horizontal bar that can lead to deductions include all of the following EXCEPT:\nA) Bent or separated legs\nB) Pauses during the routine\nC) Perfect amplitude in flight elements\nD) Deviations from the plane of movement",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the FIG's Apparatus Norms, what is the specified diameter of the horizontal bar used in gymnastics?\nA) 2.0 cm\nB) 2.5 cm\nC) 2.8 cm\nD) 3.0 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "When setting up the horizontal bar, including the landing mats, what should be the total height of the apparatus?\nA) 248 cm\nB) 268 cm\nC) 278 cm\nD) 288 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "The horizontal bar is an apparatus used exclusively by which group in artistic gymnastics?\nA) Female gymnasts\nB) Male gymnasts\nC) Both male and female gymnasts\nD) Children gymnasts",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the typical material used for the core of elite-level competition horizontal bars?\nA) Aluminum\nB) Bronze\nC) Stainless steel\nD) Wood",
+        "Answer": "C"
+    },
+    {
+        "Question": "Gymnasts typically wear what kind of grips when performing on the horizontal bar?\nA) Rubber grips\nB) Suede leather grips\nC) Cloth wraps\nD) No grips are used",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a grip used during a bar routine on the horizontal bar?\nA) Overgrip\nB) Undergrip\nC) Lateral grip\nD) Mixed grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "The elements performed on the horizontal bar are regulated by what?\nA) The Olympic Committee\nB) The Code of Points\nC) The International Gymnastics Federation\nD) The Athlete's Personal Coach",
+        "Answer": "B"
+    },
+    {
+        "Question": "What aspect of the horizontal bar routine is often considered one of the most exciting?\nA) The power exhibited during giant swings\nB) The precision required for in-bar work\nC) The balance needed for turns\nD) The endurance needed for maintaining grips",
+        "Answer": "A"
+    },
+    {
+        "Question": "According to the FIG Code of Points, men's horizontal bar routines must demonstrate the full potential of the apparatus by including which types of elements?\nA) Static holds and balancing\nB) Swinging, turning, and flight elements\nC) Strength-based maneuvers\nD) Flexibility and dance movements",
+        "Answer": "B"
+    },
+    {
+        "Question": "In men's artistic gymnastics, horizontal bar routines should be performed with what kind of flow between the elements?\nA) With rapid acceleration and deceleration\nB) With pauses and static holds near the bar\nC) With a fluid connection and without pauses\nD) In a slow and controlled manner",
+        "Answer": "C"
+    },
+    {
+        "Question": "A gymnast performing an international level horizontal bar routine must include elements from which of the following groups?\nA) Long hang swings with and without turns\nB) Flight elements\nC) In bar and Adler elements\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following is NOT a required element group for an international level horizontal bar routine?\nA) Long hang swings with turns only\nB) Flight elements\nC) In bar and Adler elements\nD) Dismounts",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who introduced the horizontal bar into gymnastics through his book \"Gymnastik f\u00fcr die Jugend\"?\nA) Friedrich Ludwig Jahn\nB) Johann Christoph Friedrich GutsMuths\nC) An ancient Greek acrobat\nD) An ancient Roman acrobat",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year did Friedrich Ludwig Jahn further the use and development of the horizontal bar after being inspired by \"Gymnastik f\u00fcr die Jugend\"?\nA) 1793\nB) 1805\nC) 1811\nD) 1820",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the standard grip used for the horizontal bar in gymnastics?\nA) Dorsal grip\nB) Reverse grip\nC) Overhand grip\nD) Elgrip",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which grip requires the gymnast's hands to be turned 180 degrees outward from an over grip?\nA) Dorsal grip\nB) Elgrip\nC) Mixed grip\nD) Underhand grip",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which grip do the palms of the hands face the gymnast?\nA) Overhand grip\nB) Dorsal grip\nC) Reverse grip\nD) Elgrip",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Code of Points often requires gymnasts to use specific grips for certain skills on which apparatus?\nA) Floor\nB) Balance beam\nC) Horizontal bar\nD) Parallel bars",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the name of the grip employed when the gymnast's legs pass through the arms into a \"skin the cat\" position?\nA) Overhand grip\nB) Dorsal grip\nC) Reverse grip\nD) Elgrip",
+        "Answer": "B"
+    },
+    {
+        "Question": "For what type of skills is the elgrip particularly necessary due to its requirement for flexible shoulders?\nA) Forward giant swings\nB) German Giant Swings\nC) Release skills\nD) Swing comfortably",
+        "Answer": "D"
+    },
+    {
+        "Question": "In an all-around competition with 24 male gymnasts, how many gymnasts would typically perform on each apparatus during the first rotation?\nA) 6\nB) 4\nC) 8\nD) 3",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the starting apparatus for male gymnast A in the provided scenario?\nA) Vault\nB) Parallel Bars\nC) Horizontal Bar\nD) Floor",
+        "Answer": "A"
+    },
+    {
+        "Question": "If a female gymnast is currently performing on the uneven bars in the first rotation, which apparatus would she perform on in the second rotation?\nA) Balance Beam\nB) Vault\nC) Floor Exercise\nD) The same apparatus, uneven bars",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many apparatuses do female gymnasts use in Olympic order?\nA) Six\nB) Four\nC) Eight\nD) Five",
+        "Answer": "B"
+    },
+    {
+        "Question": "If male gymnast Q is on the floor exercise in the first rotation, what apparatus will he end with in the sixth rotation?\nA) Rings\nB) Vault\nC) Horizontal Bar\nD) Pommel Horse",
+        "Answer": "C"
+    },
+    {
+        "Question": "In an all-around competition, what format is the Olympic order performed in?\nA) Sequential\nB) Circular\nC) Random\nD) Linear",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to the International Gymnastics Federation's Code of Points for Women, which type of vault is prohibited in women's gymnastics?\nA) Vaults with a forward take-off\nB) Vaults with a sideward take-off or landing\nC) Vaults with a backward take-off\nD) Vaults with a handspring entry",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is not allowed during a women's uneven bars (UB) routine?\nA) Salto with take-off from one foot\nB) Salto & DMT with take-off from two feet\nC) Circling elements without hand changes\nD) Kip cast to handstand",
+        "Answer": "B"
+    },
+    {
+        "Question": "In women's gymnastics, which skill has been banned by at least some gymnastics associations due to safety concerns?\nA) Amanar vault\nB) Korbut flip\nC) Double twisting Yurchenko\nD) Shushunova",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which skill on the balance beam is prohibited according to the Code of Points for Women?\nA) Acrobatic elements with a handstand dismount\nB) Dance elements with a full turn\nC) Dance elements with cross sit landing on BB\nD) Leaps with a 180-degree split",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the 2022-24 Code of Points for Men's Artistic Gymnastics, which of the following moves would render a vault invalid?\nA) A twist in the first flight phase\nB) A salto in the first flight phase\nC) A piked position in the second flight phase\nD) A tucked position in the landing phase",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"2022\u20132024 Code of Points\" for Women's and Men's Artistic Gymnastics was published by which organization?\nA) International Olympic Committee\nB) International Gymnastics Federation\nC) World Anti-Doping Agency\nD) United Nations Educational, Scientific and Cultural Organization",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following reasons is the most common for gymnastic skills to be banned?\nA) Lack of popularity\nB) Safety concerns for the athletes\nC) Complexity of the moves\nD) Judging difficulties",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, where is a gainer typically performed?\nA) On the floor\nB) On the side of a balance beam\nC) On the vault\nD) On the rings",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics scoring, what specific deduction is taken if an athlete adjusts their hand position in a handstand?\nA) Deduction for lack of form\nB) Deduction for not controlling swing elements\nC) Deduction for adjusting hand position\nD) No deduction is taken for handstand adjustments",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the gymnastics rules, swing type elements should demonstrate what position momentarily?\nA) A tucked position\nB) A piked position\nC) A handstand position\nD) A straddle position",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the allowed tolerance in the length of the gymnastics bar?\nA) \u00b1 0.5 centimetres\nB) \u00b1 1 centimetre\nC) \u00b1 2 centimetres\nD) \u00b1 1.5 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "The distance between the bars can be adjusted within a certain range. What is the maximum distance allowed?\nA) 42 centimetres\nB) 50 centimetres\nC) 52 centimetres\nD) 55 centimetres",
+        "Answer": "C"
+    },
+    {
+        "Question": "The parallel bars in gymnastics are supported by a framework that is primarily made of which material?\nA) Plastic\nB) Metal\nC) Rubber\nD) Glass",
+        "Answer": "B"
+    },
+    {
+        "Question": "What feature of the parallel bars' supporting framework allows for customization to accommodate each gymnast's needs?\nA) The color of the bars\nB) The material of the bars\nC) The adjustability of the vertical members\nD) The shape of the bars",
+        "Answer": "C"
+    },
+    {
+        "Question": "The outer coating of the gymnastics parallel bars is typically made of what material?\nA) Metal\nB) Plastic\nC) Wood\nD) Fiberglass",
+        "Answer": "C"
+    },
+    {
+        "Question": "Parallel bars in artistic gymnastics are made of ________ and are slightly over 3.4 metres long.\nA) Metal\nB) Plastic\nC) Wood\nD) Composite Material",
+        "Answer": "C"
+    },
+    {
+        "Question": "When performing a routine on the parallel bars, gymnasts may optionally wear ________.\nA) Shoes\nB) Grips\nC) Helmets\nD) Wristbands",
+        "Answer": "B"
+    },
+    {
+        "Question": "A routine performed on the parallel bars must include various elements that depend on the gymnast's ___________.\nA) personal preference\nB) competitive level\nC) choice of music\nD) outfit color",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a parallel bar routine, which of the following is NOT a position that is typically involved?\nA) Support position\nB) Hanging position\nC) Upper arm position\nD) Lower back position",
+        "Answer": "D"
+    },
+    {
+        "Question": "Each parallel bar routine ends with a ___________.\nA) dance move\nB) dismount\nC) salute to the judges\nD) chalk application",
+        "Answer": "B"
+    },
+    {
+        "Question": "A gymnast's parallel bar routine must include elements from various groups. Which of the following element groups is NOT a requirement for an international level parallel bar routine?\nA) Elements in support or through support\nB) Elements starting in upper arm position\nC) Long swings in hang, on 1 or 2 bars and Underswings\nD) Elements involving a handstand hold for at least three seconds",
+        "Answer": "D"
+    },
+    {
+        "Question": "In an international level parallel bar routine, which element group pertains to the way the routine must conclude?\nA) Elements in support or through support\nB) Elements starting in upper arm position\nC) Long swings in hang, on 1 or 2 bars and Underswings\nD) Dismounts",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who is credited with inventing the parallel bars in gymnastics?\nA) Hermann Otto Kluge\nB) Friedrich Ludwig Jahn\nC) Leo Tolstoy\nD) None of the above",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year were the first transportable parallel bars described?\nA) 1819\nB) 1856\nC) 1873\nD) 1877",
+        "Answer": "A"
+    },
+    {
+        "Question": "What innovation did Hermann Otto Kluge introduce to the parallel bars?\nA) The concept of exercise\nB) The use of tubes for adjustability\nC) The invention of the horizontal bar\nD) Portable design",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following statements is true regarding the number of Romanian gymnasts who have elements named after them in gymnastics?\nA) Five Romanian gymnasts have elements named after them.\nB) Nine Romanian gymnasts have elements named after them.\nC) Ten Romanian gymnasts have elements named after them.\nD) Seven Romanian gymnasts have elements named after them.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Barani flip is officially used in which of the following sports?\nA) Gymnastics\nB) Tumbling\nC) Freerunning\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "In gymnastics, a Barani is sometimes described as a roundoff without _____.\nA) Momentum\nB) Hands\nC) A twist\nD) A flip",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, particularly on the beam, how is a Barani flip described?\nA) A front somersault with a full twist\nB) A back handspring with no twist\nC) A front handspring with a half twist\nD) A front somersault with a half twist",
+        "Answer": "D"
+    },
+    {
+        "Question": "According to the F\u00e9d\u00e9ration Internationale de Gymnastique guidelines, what is crucial for a successful pommel horse routine?\nA) Flexibility of the back\nB) Strength of the arms\nC) Form of the gymnast\nD) Speed of the routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a pommel horse routine, when is a gymnast allowed to separate their legs?\nA) During the entire routine\nB) Only during scissors, single-legged elements, and flairs\nC) Whenever they are not using the pommel horse sections\nD) Separation of legs is not allowed at any time",
+        "Answer": "B"
+    },
+    {
+        "Question": "What are the consequences of not using all three sections of the pommel horse during a routine?\nA) Bonus points are awarded\nB) No impact on the score\nC) Points are deducted\nD) The routine is disqualified",
+        "Answer": "C"
+    },
+    {
+        "Question": "In pommel horse, what form elements must a gymnast maintain throughout the routine?\nA) Bent knees and flexed feet\nB) Pointed feet and bent legs\nC) Pointed feet and straight legs\nD) Relaxed feet and straight legs",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG), what is the acceptable range for the height from the top surface to the floor of the apparatus?\nA) 114 centimetres to 116 centimetres\nB) 160 centimetres to 161 centimetres\nC) 115 centimetres to 116 centimetres\nD) 155 centimetres to 156 centimetres",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the maximum height allowed for the pommels on the apparatus as per FIG standards?\nA) 12.5 centimetres\nB) 11.5 centimetres\nC) 12 centimetres\nD) 13 centimetres",
+        "Answer": "A"
+    },
+    {
+        "Question": "The distance between the pommels on the apparatus can be adjusted within which range?\nA) 35 centimetres to 40 centimetres\nB) 40 centimetres to 45 centimetres\nC) 45 centimetres to 50 centimetres\nD) 30 centimetres to 35 centimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "The pommel horse is an apparatus used in artistic gymnastics. Which group of gymnasts traditionally uses it?\nA) Female gymnasts\nB) Male gymnasts\nC) Both male and female gymnasts\nD) Children gymnasts",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the modern pommel horse covered with?\nA) Foam rubber and plastic\nB) Foam rubber and leather\nC) Wood and leather\nD) Metal and foam",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is considered the most decorated and successful Olympic pommel worker in history?\nA) Marius Urzic\u0103\nB) Louis Smith\nC) Max Whitlock\nD) Boris Shakhlin",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many Olympic medals has Max Whitlock won on the pommel horse?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "Under the historic rules, who would have shared the gold medal in the 2012 Olympics?\nA) Kristian Berki\nB) Max Whitlock\nC) Louis Smith\nD) Marius Urzic\u0103",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which gymnast was awarded the silver medal behind Kristian Berki after a tie was broken on execution score in 2012?\nA) Louis Smith\nB) Marius Urzic\u0103\nC) Max Whitlock\nD) Zolt\u00e1n Magyar",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a typical pommel horse exercise, single leg skills are commonly performed in the form of ______.\nA) Flairs\nB) Moores\nC) Scissors\nD) Spindles",
+        "Answer": "C"
+    },
+    {
+        "Question": "The main component of a pommel horse routine is the ______ leg workout.\nA) Single\nB) Double\nC) Triple\nD) Quadruple",
+        "Answer": "B"
+    },
+    {
+        "Question": "A gymnast's dismount from the pommel horse may involve:\nA) Swinging over the horse\nB) Going through a handstand\nC) Both A and B\nD) Jumping directly off the horse",
+        "Answer": "C"
+    },
+    {
+        "Question": "Compared to other men's events, the pommel horse is considered:\nA) Less difficult\nB) Equally difficult\nC) More difficult\nD) Not a part of men's events",
+        "Answer": "C"
+    },
+    {
+        "Question": "During a pommel horse exercise, gymnasts may perform skills by placing one or both hands on the:\nA) Mat\nB) Pommel or the leather\nC) Horse's legs\nD) Gymnast's own legs",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a reason why less muscle is needed for pommel horse routines compared to other events?\nA) Routines are performed from the shoulders\nB) A leaning motion is used\nC) Moves need to be held\nD) Stress in the arms is reduced",
+        "Answer": "C"
+    },
+    {
+        "Question": "In an international level pommel horse routine, which group of elements must include circles and flairs, potentially with additional techniques like spindles and handstands?\nA) Single leg swings and scissors\nB) Circles and flairs\nC) Side and cross support travels\nD) Dismounts",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is one of the required element groups that an athlete must perform during an international level pommel horse routine?\nA) Single leg swings and scissors\nB) Circles and flairs\nC) Side and cross support travels\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "How many times has the record for most World victories on the pommel horse been achieved by several gymnasts?\nA) 2\nB) 3\nC) 4\nD) 5",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many total global titles does Max Whitlock hold?\nA) 5\nB) 6\nC) 7\nD) 8",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who among the following gymnasts has not won the World title on the pommel horse three times?\nA) Miroslav Cerar\nB) Zoltan Magyar\nC) Max Whitlock\nD) Kristian Berki",
+        "Answer": "D"
+    },
+    {
+        "Question": "The apparatus used in gymnastics that originates from the Romans was initially used for teaching _______.\nA) balance and coordination\nB) mounting and dismounting\nC) flips and somersaults\nD) strength and flexibility",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who is credited with developing the basic modern exercises in gymnastics in the early 19th century?\nA) Friedrich Ludwig Jahn\nB) Pierre de Coubertin\nC) Hans van Essen\nD) Johann Christoph Friedrich GutsMuths",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who is recognized as one of the fathers of German gymnastics and encouraged the use of medicine balls in exercise?\nA) Johann Christoph Guts Muths\nB) Friedrich Ludwig Jahn\nC) Both A and B\nD) None of the above",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the minimum weight required for a hoop used in rhythmic gymnastics?\nA) 200 grams\nB) 300 grams\nC) 400 grams\nD) 500 grams",
+        "Answer": "B"
+    },
+    {
+        "Question": "In rhythmic gymnastics, what is the permissible range for the interior diameter of the hoop?\nA) 30 cm to 70 cm\nB) 40 cm to 80 cm\nC) 51 cm to 90 cm\nD) 60 cm to 100 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "What kind of materials can the hoop be made of in rhythmic gymnastics?\nA) Plastic only\nB) Wood only\nC) Plastic or metal\nD) Plastic or wood",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which of the following is NOT a fundamental requirement of a hoop routine in rhythmic gymnastics?\nA) Rotation around the hand or body\nB) Rolling\nC) Bouncing the hoop on the floor\nD) Throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "The hoop used in rhythmic gymnastics may be covered with adhesive tape. What is the requirement regarding the tape's color?\nA) It must be the same color as the hoop.\nB) It must be of a different color than the hoop.\nC) It can be either the same or a different color as the hoop.\nD) It must be transparent only.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The front aerial is different from a front tuck because in a front aerial, the legs are _______.\nA) bent and held against the chest\nB) extended and split along the plane of rotation\nC) kept straight and together\nD) crossed at the ankles",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a front tuck, the knees are _______ to maximize rotational velocity.\nA) extended\nB) crossed\nC) bent and held against the chest\nD) split along the plane of rotation",
+        "Answer": "C"
+    },
+    {
+        "Question": "To maintain the body aloft in a front aerial without floor support, performers use the _______ of the legs.\nA) strength\nB) flexibility\nC) inertia\nD) angular momentum",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing a front aerial from a standing position, a gymnast typically takes a _______ to develop forward momentum.\nA) leap\nB) backward step\nC) forward step\nD) pause",
+        "Answer": "C"
+    },
+    {
+        "Question": "The angular momentum necessary for a front aerial is generated from the performer's _______ momentum.\nA) upward\nB) backward\nC) forward\nD) downward",
+        "Answer": "C"
+    },
+    {
+        "Question": "A front aerial can be initiated _______.\nA) only from a run\nB) only from a stationary, standing position\nC) either from a run or from a stationary, standing position\nD) with a cartwheel",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, a front aerial is an acrobatic move where the gymnast performs a complete forward revolution of the body. What is NOT another name for this move?\nA) Aerial walkover\nB) Front aerial walkover\nC) Front flip\nD) Cartwheel",
+        "Answer": "D"
+    },
+    {
+        "Question": "When executing a front aerial in gymnastics, what is essential for the gymnast to avoid?\nA) Rotating sideways\nB) Touching the floor with their hands\nC) Jumping backwards\nD) Performing a split",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a front aerial, the calf muscle of the leading leg is primarily responsible for _______.\nA) maintaining a stationary, inverted torso\nB) providing additional upward momentum at launch\nC) rotating the lower body about the torso\nD) ensuring lower back flexibility",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is required from the torso during a front aerial performance?\nA) It must rotate about the lower body.\nB) It should provide the main upward momentum.\nC) It needs to remain stationary and inverted.\nD) It should be flexible enough to touch the floor.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The total upward momentum in a front aerial must be sufficient to _______.\nA) allow the torso to touch the floor\nB) keep the performer aloft while the torso rotates\nC) enable the lower body to complete its rotation about the torso\nD) increase the flexibility of the lower back",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a front limber, after performing a handstand, the gymnast must land in a ______ before pulling their upper body upwards to a standing position.\nA) Split\nB) Bridge\nC) Pike\nD) Tuck",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a front limber, the gymnast's legs are carried forward ______.\nA) one after the other\nB) both at once\nC) in a split position\nD) with knees bent",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing a front limber, where should the gymnast's gaze be directed?\nA) At the ceiling\nB) At the hands\nC) At the feet\nD) Forward",
+        "Answer": "B"
+    },
+    {
+        "Question": "In artistic gymnastics, a Jaeger is a move performed on which apparatus?\nA) Balance Beam\nB) Floor\nC) Horizontal Bar\nD) Vault",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Jaeger move in gymnastics involves a front somersault in which of the following grips?\nA) Undergrip\nB) L-grip or reverse grip\nC) Mixed grip\nD) Overgrip",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct name of the gymnast after whom the Jaeger move is named?\nA) Bernd J\u00e4ger\nB) Bernd Jaeger\nC) Bernard J\u00e4ger\nD) Bernard Jaeger",
+        "Answer": "A"
+    },
+    {
+        "Question": "During the hop back variations, the practitioner starts in a _______ position.\nA) Seated\nB) Supine\nC) Standing\nD) Prone",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the described gymnastic maneuver, from which position does the performer initiate the movement?\nA) Standing position\nB) Prone position\nC) Supine position\nD) Sitting position",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of momentum causes the airborne body to rotate after the thrust?\nA) Linear momentum\nB) Angular momentum\nC) Centripetal momentum\nD) Inertial momentum",
+        "Answer": "B"
+    },
+    {
+        "Question": "The kip-up ends with the performer standing in which position?\nA) A straight position\nB) A squatting position\nC) A prone position\nD) A supine position",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary difference between a standard cartwheel and an aerial cartwheel?\nA) A standard cartwheel is performed without hands, while an aerial cartwheel uses hands.\nB) An aerial cartwheel is performed with hands, while a standard cartwheel is performed without.\nC) In a standard cartwheel, the body is supported by hands, while in an aerial cartwheel it is not.\nD) An aerial cartwheel involves a running start, whereas a standard cartwheel does not.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What do performers use to maintain momentum in an aerial cartwheel due to the absence of hand support?\nA) Arm strength\nB) Leg momentum\nC) Upper body rotation\nD) Head movement",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which situation is an aerial cartwheel considered to have little practical value?\nA) Gymnastics competitions\nB) Cheerleading routines\nC) Martial arts sparring matches\nD) Acro dance performances",
+        "Answer": "C"
+    },
+    {
+        "Question": "From which position can an aerial cartwheel be initiated?\nA) Only while running\nB) Only from a stationary, standing position\nC) Either running or from a stationary, standing position\nD) Only while jumping",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the front leg used during the execution of an aerial cartwheel?\nA) It is tucked in to facilitate rotation.\nB) It lunges to initiate the momentum.\nC) It remains straight and stationary.\nD) It is used to push off from the floor.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Side somi is characterized by which of the following?\nA) Legs are held straight\nB) Legs are untucked throughout the skill\nC) Legs are held in the tucked position with a 180-degree rotation\nD) Legs are held in the tucked position with a 90-degree rotation",
+        "Answer": "D"
+    },
+    {
+        "Question": "To reduce the risk of injury when performing an aerial cartwheel, it is recommended to:\nA) Practice without any guidance or instruction.\nB) Learn the technique by watching online videos exclusively.\nC) Take classes with a qualified instructor.\nD) Attempt the skill without any prior strength training.",
+        "Answer": "C"
+    },
+    {
+        "Question": "An aerial cartwheel is a skill that requires intense:\nA) Coordination, concentration, and academic knowledge.\nB) Coordination, concentration, balance, strength, flexibility, stamina, and power.\nC) Memorization, agility, and mathematical skills.\nD) Speed, height, and entertainment value.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Before attempting an aerial cartwheel, it is beneficial to engage in:\nA) Cardiovascular exercises only.\nB) Strength training and stretching.\nC) Relaxation and meditation techniques.\nD) Watching professional gymnastics competitions.",
+        "Answer": "B"
+    },
+    {
+        "Question": "The rope used in rhythmic gymnastics must be made of materials that maintain lightness and __________.\nA) Rigidity\nB) Opacity\nC) Suppleness\nD) Reflectiveness",
+        "Answer": "C"
+    },
+    {
+        "Question": "In rhythmic gymnastics, the length of the rope should be such that when held down by the feet, it reaches the gymnast's __________.\nA) Knees\nB) Waist\nC) Armpits\nD) Ankles",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum length of anti-slip material that may cover the ends of the rope?\nA) 5 cm\nB) 10 cm\nC) 15 cm\nD) 20 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "The rope in rhythmic gymnastics may be coloured:\nA) Only at the ends\nB) Partially or entirely\nC) Only in the center\nD) It should not be coloured",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a fundamental requirement of a rope routine in rhythmic gymnastics?\nA) Leaps\nB) Skipping\nC) Cartwheels\nD) Throws",
+        "Answer": "C"
+    },
+    {
+        "Question": "The rope can have a uniform diameter or be progressively thicker in the center, provided that:\nA) The thickening is a different material\nB) It is covered with anti-slip material\nC) It retains the qualities of lightness and suppleness\nD) The thickening is of the same material as the rope",
+        "Answer": "D"
+    },
+    {
+        "Question": "In modern gymnastics, when is the straight-back handstand style typically employed?\nA) When a curved body line is desired\nB) When performing with a gymnastic apparatus\nC) When the aesthetics of straight body lines are desired\nD) When superior control of the legs and torso is not necessary",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is one of the main reasons the curved-back handstand style is often preferred?\nA) It is easier to perform\nB) It offers superior control of the legs and torso over balance\nC) It requires less strength\nD) It is more aesthetically pleasing",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a basic gymnastic handstand, how should the legs be positioned?\nA) Bent at the knees\nB) Spread apart\nC) Straight and held together\nD) One leg straight and the other bent",
+        "Answer": "C"
+    },
+    {
+        "Question": "Where should the body weight shift to maintain balance in a handstand?\nA) Towards the fingers or the heel of the hand\nB) Towards the toes\nC) Towards the side of the hands\nD) It should remain centered",
+        "Answer": "A"
+    },
+    {
+        "Question": "In a straight-back handstand, what characteristic is noted about the spine?\nA) It is curved, with hips pushed back\nB) It is straight, with hips pushed forward\nC) It is arched with a gap between the back and the ground\nD) It is twisted to maintain balance",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a handstand, which muscle is NOT primarily used for maintaining the position?\nA) Anterior deltoid\nB) Pectoralis major\nC) Biceps brachii\nD) Gastrocnemius",
+        "Answer": "D"
+    },
+    {
+        "Question": "According to a 2017 study, handbalancers maintain balance in a handstand primarily through the movement of what?\nA) Elbows\nB) Shoulders\nC) Wrists\nD) Ankles",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which handstand move is considered to require an especially high amount of strength?\nA) Cartwheel handstand\nB) Press handstand\nC) Split handstand\nD) Tiger-bend handstand",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a basic handstand, how should the hands be positioned?\nA) Hands spaced widely apart\nB) Hands placed together\nC) Hands spaced approximately shoulder-width apart\nD) One hand in front of the other",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is essential for a performer to successfully execute variations of handstands?\nA) Flexibility in the legs\nB) Adequate balance and upper body strength\nC) Ability to hold breath\nD) Speed and agility",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a basic handstand, how should the legs be positioned?\nA) Legs crossed at the ankles\nB) Legs spread apart widely\nC) Legs bent at the knees\nD) Legs together",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the common element of tumbling skills in gymnastics regarding handstands?\nA) They are judged on artistic impression.\nB) They require a handstand position at some point during execution.\nC) They must be performed without any arm movement.\nD) They are always performed in pairs.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which position does a gymnast begin when performing a Com\u0103neci salto?\nA) Hanging position on the low bar\nB) Support position on the high bar\nC) Handstand on the balance beam\nD) Pike position on the floor",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the execution of a Com\u0103neci salto, what manoeuvre does the gymnast perform after casting away from the high bar?\nA) A tucked back somersault\nB) A piked front somersault\nC) A straddled front somersault\nD) A layout step-out",
+        "Answer": "C"
+    },
+    {
+        "Question": "The back hip circle is an element in men's and women's artistic gymnastics and is usually performed on the uneven bars, high bar, or _______.\nA) Floor\nB) Balance Beam\nC) Vault\nD) Pommel Horse",
+        "Answer": "B"
+    },
+    {
+        "Question": "At what level in women's gymnastics is the back hip circle first used?\nA) Level 1\nB) Level 2\nC) Level 3\nD) Level 4",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing a back hip circle on bars, the gymnast begins in a _______.\nA) Back support\nB) Front support\nC) Handstand\nD) Straddle position",
+        "Answer": "B"
+    },
+    {
+        "Question": "A more advanced version of the back hip circle, where the gymnast does not return to a front support, is called a _______.\nA) Back hip turn\nB) Clear hip\nC) Hip release\nD) Back circle dismount",
+        "Answer": "B"
+    },
+    {
+        "Question": "The clear hip can be linked to any of the following EXCEPT:\nA) Handstand\nB) Dismount\nC) Release move\nD) Forward roll",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the V-sit position, how are the legs positioned compared to the L-sit?\nA) The legs are lowered below the hips.\nB) The legs are raised at the same level as the hips.\nC) The legs are raised further, with the feet held above the hips.\nD) The legs are kept straight on the floor.",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the main difference between the manna and the V-sit position?\nA) In the manna, the torso is lowered while the hips are above the shoulders.\nB) In the manna, the legs continue to rotate up and back until the torso is raised and the hips are held above the shoulders.\nC) In the manna, the legs are kept straight on the floor.\nD) In the manna, the legs are raised at the same level as the hips.",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the L-sit position, what part of the body bears all the weight?\nA) The legs\nB) The arms\nC) The hands\nD) The torso",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the shape that the body forms when performing an L-sit?\nA) An \"I\" shape\nB) An \"O\" shape\nC) An \"L\" shape\nD) A \"T\" shape",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is NOT a support that may be used when executing an L-sit?\nA) Parallel bars\nB) Gymnastics rings\nC) A balance beam\nD) The hands of an adagio partner",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the orientation of the torso during an L-sit?\nA) Vertically straight\nB) Slightly forward-leaning\nC) Completely horizontal\nD) Slightly backward-leaning",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the variant of the L-sit called when the legs are separated and straddle the arms?\nA) The split L-sit\nB) The straddled L-sit\nC) The open L-sit\nD) The wide L-sit",
+        "Answer": "B"
+    },
+    {
+        "Question": "In gymnastics, what is the term used to describe the physical position where the legs are extended in opposite directions and in line with each other?\nA) Pirouette\nB) Passe\nC) Split\nD) Arabesque",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the name of the front split in yoga as exercise?\nA) Adho Mukha Svanasana\nB) Hanumanasana\nC) Tadasana\nD) Vrksasana",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which muscles are significantly stretched when performing a split?\nA) Quadriceps and gluteus\nB) Hamstring and iliopsoas\nC) Gastrocnemius and soleus\nD) Adductors and abductors",
+        "Answer": "B"
+    },
+    {
+        "Question": "A split that exceeds 180 degrees is known as what?\nA) Double split\nB) Complete split\nC) Oversplit\nD) Ultra split",
+        "Answer": "C"
+    },
+    {
+        "Question": "What angle is approximately formed by the inner thighs of the legs when executing a standard split?\nA) 90 degrees\nB) 120 degrees\nC) 180 degrees\nD) 360 degrees",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following activities commonly includes performing splits?\nA) Weightlifting\nB) Sprinting\nC) Gymnastics\nD) Shot put",
+        "Answer": "C"
+    },
+    {
+        "Question": "An oversplit is characterized by:\nA) Legs forming a 90-degree angle\nB) Legs forming a 180-degree angle\nC) The angle between the legs exceeding 180 degrees\nD) The legs being parallel to each other",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of split is executed by extending the legs to the left and right of the torso?\nA) Front split\nB) Side split\nC) Twisting split\nD) Suspended split",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a standing split also known as when it involves an oversplit with the back arched backwards?\nA) Front oversplit\nB) Side oversplit\nC) Twisting oversplit\nD) Vertical oversplit",
+        "Answer": "A"
+    },
+    {
+        "Question": "A split leap or split jump is executed:\nA) Before leaping or jumping\nB) After leaping or jumping, while on the ground\nC) After leaping or jumping, while still in the air\nD) Without any leaping or jumping",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Korbut flip is a gymnastics skill that can be performed on which of the following apparatus?\nA) Balance beam\nB) Uneven bars\nC) Both A and B\nD) Floor exercise",
+        "Answer": "C"
+    },
+    {
+        "Question": "During which Olympic Games did Olga Korbut perform the Korbut flip on the uneven bars for the first time in international competition?\nA) 1968 Mexico City\nB) 1972 Munich\nC) 1976 Montreal\nD) 1980 Moscow",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year was the Code of Points modified to ban standing on the high bar during routines?\nA) 1977\nB) 1980\nC) 1985\nD) It was never banned",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Korbut flip on the balance beam is landed in what position?\nA) A seated position\nB) A straddled position\nC) A piked position\nD) A handstand position",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of the 2017 Code of Points, what is the difficulty value assigned to the Korbut flip on the balance beam?\nA) A\nB) B\nC) C\nD) D",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which gymnast modified the Korbut flip by adding a full twist?\nA) Olga Korbut\nB) Elena Mukhina\nC) Natalia Shaposhnikova\nD) Lyubov Bogdanova",
+        "Answer": "B"
+    },
+    {
+        "Question": "The uneven bars variation of the Korbut flip was later modified to be performed towards which bar?\nA) The high bar\nB) The low bar\nC) It was not modified\nD) The parallel bars",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following gymnasts has NOT been credited with performing the Korbut flip's uneven bars variation?\nA) Steffi Kraker\nB) Emily May\nC) Lyubov Bogdanova\nD) Elena Mukhina",
+        "Answer": "D"
+    },
+    {
+        "Question": "In artistic gymnastics, the term \"twisties\" refers to a sudden loss of a gymnast's ability to __________.\nA) perform on the balance beam\nB) maintain body control during aerial maneuvers\nC) execute floor exercises\nD) compete in the team all-around",
+        "Answer": "B"
+    },
+    {
+        "Question": "When gymnasts experience the \"twisties,\" they may feel __________.\nA) an out-of-body experience\nB) a surge of confidence\nC) a boost in energy levels\nD) a decrease in flexibility",
+        "Answer": "A"
+    },
+    {
+        "Question": "The \"twisties\" can increase the chance of __________.\nA) winning a medal\nB) performing a perfect routine\nC) a serious or critical injury\nD) scoring above the opponent",
+        "Answer": "C"
+    },
+    {
+        "Question": "Simone Biles withdrew from the competition during the 2020 Summer Olympics due to __________.\nA) an injury\nB) the twisties\nC) personal reasons\nD) a scheduling conflict",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which event did Simone Biles return to compete in after withdrawing due to the twisties?\nA) Women's individual all-around\nB) Floor exercise final\nC) Vault final\nD) Balance beam final",
+        "Answer": "D"
+    },
+    {
+        "Question": "In trampoline gymnastics, the condition similar to the \"twisties\" is called __________.\nA) \"bounce block\"\nB) \"flip flop\"\nC) \"lost move syndrome\"\nD) \"jump jitters\"",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the starting position for a Back Tuck Somersault?\nA) Front Layout\nB) Back Layout\nC) Ballet Leg\nD) Vertical",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the final position after completing a Back Tuck Somersault?\nA) Front Layout\nB) Back Layout\nC) Vertical\nD) Tub",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year were men first allowed to compete at the European Championships?\nA) 2014\nB) 2015\nC) 2016\nD) 2022",
+        "Answer": "C"
+    },
+    {
+        "Question": "When were men-only individual events introduced in competitions for the first time?\nA) 2015\nB) 2018\nC) 2019\nD) 2022",
+        "Answer": "D"
+    },
+    {
+        "Question": "Why is concentration important in the execution of certain specialized exercises?\nA) To develop the neuromuscular pathway needed\nB) To increase the duration of the exercise\nC) To make the exercises less intense\nD) To reduce the need for repetition",
+        "Answer": "A"
+    },
+    {
+        "Question": "The small component of the horizontal angular momentum vector along the body's long axis is necessary for ________.\nA) somersaulting rotation\nB) diving speed\nC) twisting rotation\nD) vertical alignment",
+        "Answer": "C"
+    },
+    {
+        "Question": "When experiencing the \"twisties,\" a gymnast may feel a sense of ________.\nA) excitement\nB) disorientation or unawareness of where the ground is\nC) confidence\nD) fatigue",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"twisties\" can increase the chance of ________.\nA) winning a medal\nB) performing a perfect routine\nC) a serious or critical injury\nD) receiving applause",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which US gymnast withdrew from competition during the 2020 Summer Olympics due to the \"twisties\"?\nA) Laurie Hernandez\nB) Aleah Finnegan\nC) Bryony Page\nD) Simone Biles",
+        "Answer": "D"
+    },
+    {
+        "Question": "Simone Biles returned to compete in the balance beam final and won a ________ medal.\nA) gold\nB) silver\nC) bronze\nD) platinum",
+        "Answer": "C"
+    },
+    {
+        "Question": "Laurie Hernandez and Aleah Finnegan have both ________.\nA) never experienced the \"twisties\"\nB) won gold medals in trampoline gymnastics\nC) spoken out in support of Simone Biles during the twisties incident\nD) retired from gymnastics before the 2020 Olympics",
+        "Answer": "C"
+    },
+    {
+        "Question": "In trampoline gymnastics, the condition similar to the \"twisties\" is known as ________.\nA) \"bounce block\"\nB) \"flip flop\"\nC) \"lost move syndrome\"\nD) \"jump jitters\"",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why was the front flip jump technique banned?\nA) It provided an unfair advantage\nB) It was considered unsafe\nC) It was too difficult to perform\nD) It did not conform to the traditional styles",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the fly-away phase of the vault, the vaulter's main concern is to ensure that their __________ do not knock the bar off as they go over.\nA) legs\nB) arms and face\nC) pole\nD) feet",
+        "Answer": "B"
+    },
+    {
+        "Question": "The elite vaulter's center of gravity passes underneath the crossbar in a position similar to the crotch of an upside-down __________.\nA) 'L'\nB) 'U'\nC) 'V'\nD) 'W'",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the fly-away phase, the vaulter should aim to whip their upper torso around the top of the crossbar to avoid knocking it off with their __________.\nA) knees\nB) elbows\nC) hips\nD) shoulders",
+        "Answer": "B"
+    },
+    {
+        "Question": "When landing after the vault, the vaulter should be __________.\nA) on their feet\nB) face down\nC) near the middle of the foam landing mats, face up\nD) on the side of the pit",
+        "Answer": "C"
+    },
+    {
+        "Question": "Landing on the feet or stomach first after the vault may lead to __________.\nA) immediate disqualification\nB) a higher score\nC) injuries or other problems\nD) a more stylish finish",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Turner gymnastic clubs added pole vaulting to their exercises around 1850 in _______.\nA) England\nB) Germany\nC) The Netherlands\nD) France",
+        "Answer": "B"
+    },
+    {
+        "Question": "When performing the takeoff, the foot should be angled towards the __________.\nA) Front corner of the mat\nB) Opposite back corner of the mat\nC) Side of the mat\nD) Direction of the run-up",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is a characteristic of the handle and body of one-piece plastic clubs?\nA) They are made from different materials.\nB) They are not hollow.\nC) They are constructed from the same material.\nD) They are made from metal.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Compared to composite or multi-piece clubs, one-piece plastic clubs are:\nA) Less durable and more expensive.\nB) More durable but more expensive.\nC) Less durable but cheaper.\nD) More durable and cheaper.",
+        "Answer": "D"
+    },
+    {
+        "Question": "When performing a flourish, how many times does the club revolve around its center of gravity?\nA) Once\nB) Twice\nC) Three times\nD) Four times",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary purpose of foam ends on a multi-piece club?\nA) To make the club lighter\nB) To provide a uniform structure\nC) To protect the club's ends from impacts\nD) To create a more flexible grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "The handle of a multi-piece club is made of a wrapping of either thin flexible plastic or sometimes ________.\nA) Metal\nB) Foam\nC) Cloth\nD) Wood",
+        "Answer": "C"
+    },
+    {
+        "Question": "The body of a multi-piece club is made of a single moulded shape of what material?\nA) Metal\nB) Wood\nC) Cloth\nD) Plastic",
+        "Answer": "D"
+    },
+    {
+        "Question": "Multi-piece clubs come in various lengths, generally ranging from ______.\nA) 16 to 18 inches\nB) 19 to 21 inches\nC) 22 to 24 inches\nD) 25 to 27 inches",
+        "Answer": "B"
+    },
+    {
+        "Question": "Early 20th century clubs were made entirely of _______, and they had solid handles with large bodies which were hollowed to reduce weight. What material were these clubs made from?\nA) Metal\nB) Plastic\nC) Wood\nD) Fiberglass",
+        "Answer": "C"
+    },
+    {
+        "Question": "What types of decorations are commonly used on both one-piece and multi-piece gymnastics clubs?\nA) Paint only\nB) Coloured tape and manufacturer-specific decorations\nC) Stickers and markers\nD) Lights and electronic displays",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the metal ring attached to the stick in the gymnastics apparatus?\nA) By a single metal pin and rubber band\nB) By two metal pins and nylon or metallic thread\nC) By three metal pins and plastic thread\nD) By a supple strap and glue",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following elements is NOT a compulsory element for the ribbon in rhythmic gymnastics?\nA) Flicks\nB) Circles\nC) Hops\nD) Snakes",
+        "Answer": "C"
+    },
+    {
+        "Question": "What kind of movements are preferred during a ribbon routine in rhythmic gymnastics?\nA) Quick, jerky movements\nB) Large, smooth, and flowing movements\nC) Small, precise, and repetitive movements\nD) Slow, deliberate, and minimal movements",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the minimum weight requirement for a ribbon used in senior category gymnastics?\nA) 20g\nB) 35g\nC) 50g\nD) 65g",
+        "Answer": "B"
+    },
+    {
+        "Question": "How wide must the ribbon be for it to comply with the regulations?\nA) 2-4 cm\nB) 4-6 cm\nC) 6-8 cm\nD) 8-10 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the minimum length of the ribbon for senior gymnasts?\nA) 5m\nB) 6m\nC) 7m\nD) 8m",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the end of the ribbon that attaches to the stick secured?\nA) With a knot\nB) With an adhesive\nC) By being doubled and stitched\nD) With a magnetic attachment",
+        "Answer": "C"
+    },
+    {
+        "Question": "The extremity of the ribbon may end in a strap or have an eyelet. What is the maximum length for the thin reinforcement at the top of the ribbon?\nA) 3 cm\nB) 5 cm\nC) 10 cm\nD) 12 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the sport of trampolining and tumbling, how many events are there in total?\nA) Two\nB) Three\nC) Four\nD) Five",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since which year has individual trampoline been included in the Olympic Games?\nA) 1964\nB) 1984\nC) 2000\nD) 2012",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum score a routine can be marked out of in trampolining?\nA) 8 points\nB) 10 points\nC) 15 points\nD) 20 points",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does \"Trampolining\" refer to in tennis?\nA) A player's jumping technique\nB) A shot that has a very high velocity due to loose string tension\nC) A type of tennis court surface\nD) A drill for improving footwork",
+        "Answer": "B"
+    },
+    {
+        "Question": "In synchronized trampoline, what aspect of the performance is NOT judged?\nA) The form of the moves\nB) The difficulty of the moves\nC) The height achieved during the moves\nD) The synchronization of the routine",
+        "Answer": "C"
+    },
+    {
+        "Question": "What must both competitors in synchronized trampoline do to achieve a high score?\nA) Perform the routine separately\nB) Perform the routine together\nC) Choose different routines\nD) Complete the routine in a different order",
+        "Answer": "B"
+    },
+    {
+        "Question": "Can the same skill be repeated in the same order on the double-mini during a competition?\nA) Yes, without restrictions.\nB) No, moves cannot be repeated in the same order.\nC) Yes, but only as a dismount.\nD) Yes, but only as a mounter.",
+        "Answer": "B"
+    },
+    {
+        "Question": "If a skill is competed as a mounter in one routine, how else can it be repeated in another?\nA) As a dismount in the same routine\nB) As a mounter again in the same routine\nC) As a dismount in another routine\nD) It cannot be repeated in any form",
+        "Answer": "C"
+    },
+    {
+        "Question": "In individual trampoline routines, how many bounces are performed during the sequence of aerial skills?\nA) Five\nB) Eight\nC) Ten\nD) Twelve",
+        "Answer": "C"
+    },
+    {
+        "Question": "During high-level competitions, how many preliminary routines does an athlete perform?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "How do additional points get awarded in individual trampoline routines at the highest levels of competition?\nA) Based on the artistic impression.\nB) Depending on the difficulty of the moves and the average height of the jumps.\nC) According to the speed of the routine.\nD) Based on the number of twists in the skills.",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens to the scores in some trampoline competitions when athletes enter the finals?\nA) Scores are doubled.\nB) Scores are reset to zero.\nC) Preliminary scores are added to the final score.\nD) Only the highest preliminary score is carried forward.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The X-Out flash begins as a standard X-Out, but what happens to the legs immediately after leaving the ground?\nA) They are reversed once\nB) They are reversed twice\nC) They split in the direction of body rotation\nD) The performer lands in a split position",
+        "Answer": "C"
+    },
+    {
+        "Question": "A Barani flip consists of a front flip combined with a _____ degree turn.\nA) 90\nB) 180\nC) 360\nD) 270",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary reason the Barani flip is used in multiple sports?\nA) It is aesthetically pleasing.\nB) It allows for greater control of the landing.\nC) It is easier to perform than a front flip.\nD) It requires less physical strength.",
+        "Answer": "B"
+    },
+    {
+        "Question": "When during the front flip is the 180 degree turn of a Barani typically executed?\nA) At the beginning\nB) Halfway through\nC) At the end\nD) It varies depending on the sport",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Barani flip is named after which Italian circus acrobat and tumbler?\nA) Enrico Rastelli\nB) Alfonso Baroni\nC) Federico Fellini\nD) Giuseppe Cassioli",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which Olympic trampoline gymnast discussed their personal experience with \"lost move syndrome\"?\nA) Rosie MacLennan\nB) Karen Cockburn\nC) Bryony Page\nD) Li Dan",
+        "Answer": "C"
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "Question": "How many men per team were allowed in the mixed gender team event at the 2024 Olympic Games?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the finals of an archery match, how many sets of arrows are competitors allowed to shoot?\nA) Up to 3 sets of 6 arrows\nB) Up to 5 sets of 3 arrows\nC) Up to 4 sets of 5 arrows\nD) Up to 6 sets of 4 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many points does a competitor receive if they win a set in an archery match?\nA) One point\nB) Two points\nC) Three points\nD) Four points",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens if a competitor has not won a majority of the sets in an archery elimination round?\nA) The match continues until there is a clear winner.\nB) The competitor with the most points overall wins.\nC) A single arrow shoot-off decides the winner.\nD) The match is declared a draw.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In an individual archery event, the qualifying round consists of shooting how many arrows at a distance of 70 meters?\nA) 60 arrows\nB) 72 arrows\nC) 48 arrows\nD) 24 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the head-to-head matches, how many arrows does each end consist of?\nA) 6 arrows\nB) 3 arrows\nC) 5 arrows\nD) 4 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the shooting order determined in the later stages of the competition, such as at the Olympics and World Cup?\nA) Randomly by the judges\nB) Based on the archer's preference\nC) Alternating with each archer shooting one arrow at a time\nD) The lowest seeded athlete always shoots first",
+        "Answer": "C"
+    },
+    {
+        "Question": "If the athletes are tied, who shoots first in the next end?\nA) The athlete with the highest cumulative score\nB) The athlete that shot last in the previous end\nC) The athlete that shot first in the first end\nD) The athlete with the most recent bullseye",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the event of a tie after all regular arrows have been shot, how is the winner decided?\nA) By a coin toss\nB) By shooting a single arrow each until the tie is broken\nC) By a judge's decision\nD) By the number of bullseyes during the match",
+        "Answer": "B"
+    },
+    {
+        "Question": "On the third tie-breaker arrow, if there is still a tie, what determines the winner?\nA) The archer with the most center shots in the match\nB) The archer with the arrow closest to the center\nC) The archer with the fastest shooting time\nD) The archer who shot first in the tie-breaker",
+        "Answer": "B"
+    },
+    {
+        "Question": "In a team event, how many archers make up a team?\nA) Two\nB) Three\nC) Four\nD) Five",
+        "Answer": "B"
+    },
+    {
+        "Question": "What type of bows are used in the team events?\nA) Recurve only\nB) Compound only\nC) Both recurve and compound\nD) Crossbow",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the total number of arrows shot by a team in a match?\nA) 12\nB) 18\nC) 24\nD) 30",
+        "Answer": "C"
+    },
+    {
+        "Question": "If an archer removes an arrow from their quiver before reaching the shooting line, what must they do?\nA) Shoot the arrow immediately\nB) Leave the competition area\nC) Re-enter the box and return the arrow\nD) Receive a time penalty",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the event of a tie, how many arrows does each team member shoot?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "A"
+    },
+    {
+        "Question": "What is the time limit for shooting the tiebreaker arrows?\nA) 30 seconds\nB) 1 minute\nC) 2 minutes\nD) 3 minutes",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Olympic Round is used in various competitions. Which of the following is NOT one of them?\nA) Olympic Games\nB) Archery World Cup\nC) Local tournaments\nD) Football World Cup",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who developed the Olympic Round for target archery?\nA) International Olympic Committee\nB) World Archery Federation\nC) FIFA\nD) International Archery Association",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the 2016 continental archery tournaments, how many qualification spots were allocated to Africa?\nA) 1\nB) 2\nC) 3\nD) 4",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the composition of each team in the mixed team archery competition?\nA) Two men\nB) Two women\nC) One man and one woman\nD) One man, one woman, and a coach",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the 2012 archery qualification rules, how many individual spots were allocated through the individual placement at the World Championship?\nA) 3\nB) 8\nC) 13\nD) 9",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the number of qualification spots given to Africa and Oceania for the 2012 archery competition?\nA) 2\nB) 3\nC) 4\nD) 8",
+        "Answer": "A"
+    },
+    {
+        "Question": "If a National Olympic Committee (NOC) qualifying through Final Qualification had already earned an individual spot, what would happen to the individual Final Qualification quota?\nA) It would be decreased by one.\nB) It would remain the same.\nC) One more spot would be added.\nD) Two more spots would be added.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In team archery events, how are the individual archers' scores used?\nA) Each archer's score is compared to find the highest scorer.\nB) The individual scores are summed to get a team ranking round score.\nC) The individual scores determine the order of shooting.\nD) Each archer's score is averaged to find the team's score.",
+        "Answer": "B"
+    },
+    {
+        "Question": "If the set format was not used in the 2012 team event, which year did it begin to be used?\nA) 2010\nB) 2014\nC) 2016\nD) 2018",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the individual archery competitions, how many arrows does each archer shoot during the ranking round?\nA) 60 arrows\nB) 72 arrows\nC) 64 arrows\nD) 48 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the archery competitions in the early 20th century, which of the following nations did NOT compete?\nA) France\nB) Belgium\nC) Germany\nD) The United States",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many nations at most competed in the archery competitions in any given year before the standardization under the World Archery Federation rules?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the archery events in Antwerp in 1920, why were bronze medals not awarded?\nA) The competition was cancelled\nB) Only gold and silver medals were created\nC) Only two nations competed\nD) There was a tie for the second place",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the first elimination round, how many arrows do the archers shoot in each end?\nA) 6 arrows\nB) 3 arrows\nC) 12 arrows\nD) 18 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many archers remain after the first three elimination rounds?\nA) 64 archers\nB) 32 archers\nC) 16 archers\nD) 8 archers",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the finals rounds, how do the two archers alternate their shots?\nA) By end\nB) By round\nC) By arrow\nD) Simultaneously",
+        "Answer": "C"
+    },
+    {
+        "Question": "What happens to the losers of the semifinals in the archery competition?\nA) They are eliminated from the competition\nB) They compete for the gold medal\nC) They leave with fourth place\nD) They play each other to determine the bronze medal and fourth place",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the 2008 finals round format for archery matches, how many arrows were used in each match?\nA) 6 arrows\nB) 12 arrows\nC) 10 arrows\nD) 8 arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "At which Olympic Games did archery first appear?\nA) Athens 1896\nB) Paris 1900\nC) St. Louis 1904\nD) London 1908",
+        "Answer": "B"
+    },
+    {
+        "Question": "When was team archery first introduced to the Olympics?\nA) Paris 1900\nB) St. Louis 1904\nC) London 1908\nD) Antwerp 1920",
+        "Answer": "B"
+    },
+    {
+        "Question": "What round format was used in archery at the 1988 Summer Olympics?\nA) Double FITA Round\nB) Grand FITA Round\nC) Olympic Round\nD) 1440 Round",
+        "Answer": "B"
+    },
+    {
+        "Question": "Since which year has the Olympic Round with head-to-head matches been used in archery at the Olympics?\nA) Seoul 1988\nB) Barcelona 1992\nC) Atlanta 1996\nD) Sydney 2000",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year did World War I start, coinciding with the absence of archery at the Olympics?\nA) 1912\nB) 1914\nC) 1916\nD) 1920",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many Olympic quota slots does each division of USA Archery earn?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the early Olympic archery competitions, how were the events characterized for each of the Games?\nA) They were identical for each of the Games\nB) They were unique for each of the Games\nC) They were cancelled frequently\nD) They followed a standardized international format",
+        "Answer": "B"
+    },
+    {
+        "Question": "For the 2020 Olympics, how many allocation spots per gender were awarded to the winning NOC in the mixed team event at each of the five Continental Games?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many quota spots per gender were available for the individual event winners at the Asian, European, and Pan American Games?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which organization governs the sport of archery at the international level?\nA) International Olympic Committee\nB) World Archery Federation\nC) Federation Internationale de Tir a l'Arc\nD) International Archery Association",
+        "Answer": "B"
+    },
+    {
+        "Question": "Qualification spots in archery are allotted to _______ rather than to individual athletes.\nA) National Olympic Committees\nB) International Sports Federations\nC) Local Archery Clubs\nD) The International Olympic Committee",
+        "Answer": "A"
+    },
+    {
+        "Question": "How many archers may an NOC send to compete in the team event if they earn a team qualification spot?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which event was added to the Olympic archery competitions in 2020?\nA) Men's individual\nB) Women's individual\nC) Men's team\nD) Mixed team",
+        "Answer": "D"
+    },
+    {
+        "Question": "In the individual match system overhauled for the 2012 Olympics, how many arrows did each archer shoot per set?\nA) Two arrows\nB) Three arrows\nC) Four arrows\nD) Five arrows",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the 2012 Olympics, how many points were awarded to an archer for winning a set in the individual match?\nA) One point\nB) Two points\nC) Three points\nD) Four points",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the radius of the semicircle that the shooter shoots from?\nA) 19 m\nB) 21 yards\nC) 62 yards\nD) 70 yards",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why might there be a need for continuous maintenance of electronic scoring systems?\nA) Due to the simplicity of the system\nB) Because of the infrequent use of the system\nC) Owing to the high construction costs\nD) Because of the sensitivity to environmental factors",
+        "Answer": "D"
+    },
+    {
+        "Question": "Anna Sushko, the 2006 Junior World Champion, is from which country?\nA) Germany\nB) Switzerland\nC) Russia\nD) France",
+        "Answer": "C"
+    },
+    {
+        "Question": "What event contributed to the boost in popularity of Archery Tag?\nA) The Olympic Games\nB) The World Archery Championships\nC) The Hunger Games books and film series\nD) The invention of foam-tipped arrows",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a person who participates in archery commonly known as?\nA) A marksman\nB) An archer\nC) A toxophilite\nD) A bowman",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which organization's rules are often considered normative in competitive archery?\nA) USA Archery\nB) National Field Archery Association\nC) World Archery Federation\nD) International Archery Association",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of bow is used in target shooting competitions?\nA) Compound bow\nB) Crossbow\nC) Recurve bow\nD) Longbow",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which organization in the United States is responsible for governing competitive archery?\nA) World Archery Federation\nB) USA Archery\nC) National Field Archery Association\nD) American Archery Council",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a class of firearm used in Metallic silhouette competitions?\nA) Handguns\nB) Small Bore Rifle\nC) High Power Rifle\nD) Crossbow",
+        "Answer": "D"
+    },
+    {
+        "Question": "The standardization of competition style in sport blowgun is based upon _______, and governed by the International Fukiyado Association.\nA) Fukiya\nB) Archery\nC) Biathlon\nD) Skeet Shooting",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Field Style competition in sport blowgun is similar to the winter _______, where the shooter runs to a target lane, shoots, and retrieves the darts.\nA) Biathlon\nB) Triathlon\nC) Decathlon\nD) Pentathlon",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the Field Style competition, the course length varies from _______.\nA) 100 to 300 m\nB) 400 to 800 m\nC) 200 to 600 m\nD) 500 to 1000 m",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is used to block distractions from the non-aiming eye?\nA) A transparent occluder\nB) A semi-transparent occluder\nC) Sunglasses\nD) A blindfold",
+        "Answer": "B"
+    },
+    {
+        "Question": "The corrective lens for the aiming eye is adjustable in how many dimensions?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "Adjusting the corrective lens in three-dimensional space helps to minimize __________.\nA) weight of the glasses\nB) cost of the glasses\nC) optical distortions\nD) color distortions",
+        "Answer": "C"
+    },
+    {
+        "Question": "How often do the IAU World Championships take place?\nA) Annually\nB) Every three years\nC) Every two years\nD) Every four years",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which organization is responsible for organizing competitions in 7 disciplines including Target and 3D?\nA) International Shooting Sport Federation (ISSF)\nB) World Archery Federation (WAF)\nC) International Crossbow Shooting Union (IAU)\nD) World Crossbow Shooting Association (WCSA)",
+        "Answer": "D"
+    },
+    {
+        "Question": "Anna Sushko, the 2006 Junior World Champion, is from which country?\nA) Germany\nB) Switzerland\nC) Russia\nD) Austria",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Archery Tag, what type of tips do the arrows have?\nA) Metal tips\nB) Rubber tips\nC) Large foam tips\nD) Plastic tips",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the maximum draw weight allowed for the bows used in Archery Tag?\nA) 20 pounds\nB) 25 pounds\nC) 30 pounds\nD) 35 pounds",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which activity boosted the popularity of Archery Tag?\nA) The Olympics\nB) The Hunger Games books and film series\nC) The World Archery Championships\nD) The Lord of the Rings film series",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the term used to describe a person who is fond of or an expert at archery?\nA) Bowman\nB) Archer\nC) Marksman\nD) Toxophilite",
+        "Answer": "D"
+    },
+    {
+        "Question": "In what setting is field archery typically shot?\nA) Indoor ranges\nB) Open fields\nC) Wooded settings\nD) Urban environments",
+        "Answer": "C"
+    },
+    {
+        "Question": "Competitive archery in the United States is governed by which two organizations?\nA) World Archery Federation and International Archery Federation\nB) National Field Archery Association and USA Archery\nC) USA Archery and World Archery Federation\nD) International Archery Federation and National Field Archery Association",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the discipline that combines archery with running?\nA) Sprint archery\nB) Marathon archery\nC) Run archery\nD) Dash archery",
+        "Answer": "C"
+    },
+    {
+        "Question": "The headquarters of the ITCC resides in _______.\nA) UK\nB) US\nC) Germany\nD) Bulgaria",
+        "Answer": "D"
+    },
+    {
+        "Question": "During the Field Style competition, what is the maximum course length?\nA) 200 m\nB) 400 m\nC) 800 m\nD) 1000 m",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the minimum number of targets in the Field Style competition?\nA) 5 targets\nB) 9 targets\nC) 12 targets\nD) 16 targets",
+        "Answer": "B"
+    },
+    {
+        "Question": "The ruler Rudradaman was known for being skilled in all of the following EXCEPT:\nA) Indian classical music\nB) Sanskrit grammar\nC) Boxing\nD) Archery",
+        "Answer": "D"
+    },
+    {
+        "Question": "What similarity does Archery Tag share with dodgeball?\nA) The use of foam-tipped arrows\nB) The objective to hit other players with projectiles\nC) The requirement to wear protective facemasks\nD) The game begins with a whistle",
+        "Answer": "B"
+    },
+    {
+        "Question": "When was Archery Tag invented?\nA) 2009\nB) 2010\nC) 2011\nD) 2012",
+        "Answer": "C"
+    },
+    {
+        "Question": "What must participants wear to ensure safety during a game of Archery Tag?\nA) Knee pads\nB) Elbow pads\nC) Protective facemasks\nD) Chest protectors",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following is NOT a battle gaming variant of Archery Tag?\nA) Dagorhir\nB) Amtgard\nC) Belegarth\nD) LARPing",
+        "Answer": "D"
+    },
+    {
+        "Question": "How can a player bring an eliminated teammate back into play during a game of Archery Tag?\nA) By shouting their name\nB) By tagging them\nC) By catching an arrow\nD) By scoring a goal",
+        "Answer": "C"
+    },
+    {
+        "Question": "What safety equipment is mandatory for participants to wear during a game of Archery Tag?\nA) Knee pads\nB) Protective facemasks\nC) Elbow guards\nD) Chest protectors",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where was Archery Tag invented?\nA) Ashley, Indiana\nB) Toronto, Canada\nC) Moscow, Russia\nD) Lima, Peru",
+        "Answer": "A"
+    },
+    {
+        "Question": "What happens at the start of an Archery Tag game?\nA) Players shake hands\nB) Players race to collect arrows from the center of the arena\nC) Players start from the corners of the arena\nD) Players draw straws to determine who shoots first",
+        "Answer": "B"
+    }
+]

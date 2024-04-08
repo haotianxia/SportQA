@@ -1,0 +1,498 @@
+[
+    {
+        "Question": "In the \"Spinning Setup Moon Kick,\" what is the purpose of the extra spin performed before the moon kick?\nA) To gain momentum\nB) To increase height\nC) To improve balance\nD) To add aesthetic value",
+        "Answer": "A"
+    },
+    {
+        "Question": "What distinguishes a \"Swinging Moon Kick\" from other variations?\nA) It involves a double jump.\nB) It includes a backward flip.\nC) It is accompanied by swinging of the arms.\nD) It requires a partner.",
+        "Answer": "C"
+    },
+    {
+        "Question": "In gymnastics, what is a moon kick also known as?\nA) Flip the Sun\nB) Kick the Moon\nC) Star Jump\nD) Lunar Leap",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which move is similar to a moon kick but often confused with it?\nA) Cartwheel\nB) Flashkick\nC) Backflip\nD) Roundhouse Kick",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the Korean name for the uniform worn by Taekwondo practitioners?\nA) Gi\nB) Dobok\nC) Hakama\nD) Kimono",
+        "Answer": "B"
+    },
+    {
+        "Question": "When was the Korea Taekwondo Association (KTA) formed?\nA) 1959\nB) 1966\nC) 1972\nD) 1973",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which of the following martial arts influenced the development of Taekwondo?\nA) Karate and Taekkyon\nB) Kung Fu and Judo\nC) Aikido and Hapkido\nD) Muay Thai and Capoeira",
+        "Answer": "A"
+    },
+    {
+        "Question": "The International Taekwon-Do Federation (ITF) was founded by whom?\nA) Choi Hong-hi\nB) Jigoro Kano\nC) Morihei Ueshiba\nD) Bruce Lee",
+        "Answer": "A"
+    },
+    {
+        "Question": "Since which year has Gyeorugi been an Olympic event?\nA) 1988\nB) 1992\nC) 2000\nD) 2004",
+        "Answer": "C"
+    },
+    {
+        "Question": "What year was Taekwondo officially designated as Korea's national martial art by the South Korean government?\nA) 1988\nB) 2000\nC) 2015\nD) 2018",
+        "Answer": "D"
+    },
+    {
+        "Question": "In Taekwondo, the sets of prescribed formal sequences of movements that demonstrate mastery of posture, positioning, and technique are called:\nA) katas\nB) hyeong, pumsae, or tul\nC) wazas\nD) forms",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is one of the major technical differences among Taekwondo styles and organizations?\nA) The color of the belts\nB) The patterns practiced by each style\nC) The type of equipment used\nD) The duration of each match",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the style of taekwondo practiced by the American Taekwondo Association (ATA)?\nA) Chang Hon-style Taekwondo\nB) Kukkiwon-style Taekwondo\nC) Songahm-style Taekwondo\nD) Moo Duk Kwan-style Taekwondo",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the purpose of establishing international spin-offs like the Songahm Taekwondo Federation (STF) and the World Traditional Taekwondo Union (WTTU)?\nA) To promote the practice of Songahm Taekwondo internationally\nB) To compete with other martial arts\nC) To establish a new form of martial art\nD) To unify all martial arts under one organization",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which city did Haeng Ung Lee choose to relocate to when he established the ATA in the United States?\nA) New York, New York\nB) Los Angeles, California\nC) Omaha, Nebraska\nD) Chicago, Illinois",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Hwarang commandments form the historical basis for the philosophical underpinnings of __________. \nA) Judo \nB) Karate \nC) Taekwondo \nD) Kung Fu",
+        "Answer": "C"
+    },
+    {
+        "Question": "The oath authored by Choi Hong-hi includes a pledge to \"be a champion of freedom and __________.\" \nA) Equality \nB) Justice \nC) Strength \nD) Honor",
+        "Answer": "B"
+    },
+    {
+        "Question": "The World Taekwondo Federation (WTF) philosophy centers on the development of a peaceful society and is influenced by the __________ spirit. \nA) Samurai \nB) Shaolin \nC) Hwarang \nD) Ninja",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the WTF, rational behavior and understanding the philosophies embodied in the taegeuk and the sam taegeuk can further the goal of __________. \nA) Winning competitions \nB) Personal enlightenment \nC) Developing a peaceful society \nD) Achieving physical fitness",
+        "Answer": "C"
+    },
+    {
+        "Question": "The Kukkiwon's philosophical position is based on the tradition of the __________. \nA) Shaolin monks \nB) Hwarang warriors \nC) Roman gladiators \nD) Spartan soldiers",
+        "Answer": "B"
+    },
+    {
+        "Question": "The taekwondo oath includes a commitment to \"build a more __________ world.\" \nA) Competitive \nB) Peaceful \nC) Technologically advanced \nD) Economically stable",
+        "Answer": "B"
+    },
+    {
+        "Question": "The ITF philosophy has been __________ by modern ITF organizations to reflect contemporary values. \nA) Discarded \nB) Updated and expanded \nC) Simplified \nD) Reinterpreted in a religious context",
+        "Answer": "B"
+    },
+    {
+        "Question": "In American Amateur Athletic Union (AAU) competitions, what is distinct about the equipment used compared to other Taekwondo competitions?\nA) The color of the uniforms is different.\nB) Different styles of pads and gear are allowed.\nC) Only electronic scoring systems are used.\nD) Headgear is not required.",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to Choi's Theory of Power, which factor increases the kinetic energy of a strike more significantly?\nA) The mass of the striking object\nB) The speed of the strike\nC) The angle of the strike\nD) The height of the practitioner",
+        "Answer": "B"
+    },
+    {
+        "Question": "The \"relax/strike\" principle in Taekwondo suggests that a practitioner should do what between blocks, kicks, and strikes?\nA) Maintain constant tension in the muscles\nB) Relax the body\nC) Increase the speed of movement\nD) Hold their breath",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the Theory of Power state about the relationship between speed and mass in Taekwondo techniques?\nA) Mass is more important than speed\nB) Speed is more important than mass\nC) Speed and mass are equally important\nD) Neither speed nor mass is important",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the term for the principle of using opposing movements to enhance the power of a strike in Taekwondo?\nA) Equilibrium\nB) Concentration\nC) Reaction Force\nD) Breath Control",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which principle of the Theory of Power focuses on minimizing the area of impact during a strike?\nA) Mass\nB) Speed\nC) Concentration\nD) Reaction Force",
+        "Answer": "C"
+    },
+    {
+        "Question": "The sine wave technique in Taekwondo is designed to produce what kind of movement?\nA) Side-to-side\nB) Linear\nC) Circular\nD) Up-and-down",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the primary purpose of the \"relax/strike\" principle in Taekwondo?\nA) To increase flexibility\nB) To conserve the body's energy\nC) To intimidate the opponent\nD) To improve balance",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to Choi's Theory of Power, what should accompany the exhalation during a strike?\nA) A loud yell\nB) The moment of impact\nC) The beginning of the technique\nD) The relaxation of muscles",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the context of Choi's Theory of Power, what is the effect of increasing the speed of a strike?\nA) Decreases the power of the strike\nB) Increases the power of the strike quadratically\nC) Increases the power of the strike linearly\nD) Has no effect on the power of the strike",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the principle of mass in Choi's Theory of Power encourage practitioners to do?\nA) Use only the striking limb to generate power\nB) Use the entire body to generate power\nC) Focus on increasing muscle mass\nD) Reduce body mass for faster strikes",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was the Korea Tang Soo Do Association, which later became the Korea Taekwondo Association (KTA), established?\nA) 1955\nB) 1959\nC) 1966\nD) 1972",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where was the ITF initially headquartered after the split with the South Korean government?\nA) Seoul, South Korea\nB) Pyongyang, North Korea\nC) Toronto, Canada\nD) Tokyo, Japan",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the Kukkiwon-style Taekwondo often referred to as?\nA) ITF-style Taekwondo\nB) WT-style Taekwondo\nC) Chan Hon-style Taekwondo\nD) Olympic-style Taekwondo",
+        "Answer": "B"
+    },
+    {
+        "Question": "When did taekwondo first appear as a demonstration event at the Olympic Games?\nA) 1988\nB) 2000\nC) 2010\nD) 2021",
+        "Answer": "A"
+    },
+    {
+        "Question": "What was the main disagreement that led to the split between Choi and the South Korean government?\nA) The location of the ITF headquarters\nB) The style of taekwondo to be promoted\nC) North Korean influence on the martial art\nD) The establishment of the Kukkiwon",
+        "Answer": "C"
+    },
+    {
+        "Question": "What year did the ITF experience splits that led to the creation of three separate federations?\nA) 1983\nB) 1992\nC) 2001\nD) 2010",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the new name adopted by the World Taekwondo Federation in 2017?\nA) International Taekwondo Association\nB) Global Taekwondo Federation\nC) World Taekwondo\nD) Universal Taekwondo Organization",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which organization's style is employed in WT competitions?\nA) ITF\nB) KTA\nC) Kukkiwon\nD) Chan Hon",
+        "Answer": "C"
+    },
+    {
+        "Question": "When did taekwondo become a medal event at the Pan Am Games?\nA) 1987\nB) 1988\nC) 2000\nD) 2010",
+        "Answer": "A"
+    },
+    {
+        "Question": "In ITF Taekwondo, which parts of the body are typically padded during sparring?\nA) Head and torso\nB) Feet and shins\nC) Hands and feet\nD) Groins and forearms",
+        "Answer": "C"
+    },
+    {
+        "Question": "In the Kukkiwon/WT tradition, which of the following is NOT typically worn for protection during sparring?\nA) Forearm protectors\nB) Shin protectors\nC) Torso protectors\nD) Neck protectors",
+        "Answer": "D"
+    },
+    {
+        "Question": "In WT sparring competitions, additional points are awarded for which type of strikes?\nA) Strikes that include punches to the body\nB) Strikes that incorporate spinning kicks\nC) Strikes with only hand techniques\nD) Strikes that involve blocking",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is emphasized in Taekwondo techniques that distinguishes it from other martial arts?\nA) Head-height kicks, jumping and spinning kicks, and fast kicking techniques\nB) Low kicks and grappling techniques\nC) Punches and elbow strikes\nD) Weapon-based training",
+        "Answer": "A"
+    },
+    {
+        "Question": "What term is used in ITF-style Taekwondo to refer to \"forms\"?\nA) Poomsae\nB) Hyung\nC) Tul\nD) Kata",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many Chang Hon tul are defined by Choi Hong-hi in the Encyclopedia of Taekwon-Do?\nA) 22\nB) 24\nC) 26\nD) 28",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is a principle introduced by Choi Hong-hi in the sub-style of Taekwondo post-1973 split?\nA) Continuous motion\nB) Sine wave\nC) Double strikes\nD) Circular movement",
+        "Answer": "B"
+    },
+    {
+        "Question": "Where is one of the ITF federations that split in 2001 headquartered?\nA) Austria\nB) Canada\nC) South Korea\nD) United States",
+        "Answer": "A"
+    },
+    {
+        "Question": "What year was the Encyclopedia of Taekwon-Do published by Choi Hong-hi?\nA) 1973\nB) 1980\nC) 1983\nD) 1990",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the name of the specific set of tul used by the ITF?\nA) Koryo\nB) Chang Hon\nC) Taebaek\nD) Pyongwon",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the more accurate term for the style of Taekwondo practiced by the ITF before its 1973 split with the KTA?\nA) Traditional Taekwondo\nB) Original Taekwondo\nC) Traditional ITF Taekwondo\nD) Classic Taekwondo",
+        "Answer": "C"
+    },
+    {
+        "Question": "After the ITF split in 2002, how many separate federations were formed?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Olympic taekwondo competitions, which type of event is performed using WT competition rules?\nA) Breaking\nB) Patterns\nC) Sparring\nD) Self-defense (hosinsul)",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the nature of strikes in Olympic sparring?\nA) No contact\nB) Light contact\nC) Full contact\nD) Indirect contact",
+        "Answer": "C"
+    },
+    {
+        "Question": "In ITF sparring, how many points are awarded for a punch to the body or head?\nA) 1 point\nB) 2 points\nC) 3 points\nD) No points are awarded",
+        "Answer": "A"
+    },
+    {
+        "Question": "What happens if a competitor injures their opponent and they can no longer continue in an ITF match?\nA) The competitor is awarded extra points\nB) The match continues with a substitute\nC) The competitor is penalized with disqualification\nD) The injured opponent is given a timeout to recover",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of scoring system is utilized in ITF competition?\nA) Knockout system\nB) Continuous point system\nC) Round-based system\nD) Elimination system",
+        "Answer": "B"
+    },
+    {
+        "Question": "What protective equipment is NOT required in ITF sparring?\nA) Foot protection\nB) Hand protection\nC) Hogu\nD) Optional head guards",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the duration of an ITF sparring match?\nA) One minute\nB) Two minutes\nC) Three minutes\nD) Four minutes",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following is NOT a feature of ITF competitions?\nA) Patterns\nB) Breaking\nC) Special techniques\nD) Leg sweeping",
+        "Answer": "D"
+    },
+    {
+        "Question": "In which year did the World Para Taekwondo Championships become a sanctioned competition by World Taekwondo (WT)?\nA) 2005\nB) 2007\nC) 2009\nD) 2011",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which event is specifically designed for athletes under the age of 12 to compete in World Taekwondo sanctioned competitions?\nA) World Taekwondo Cadet Championships\nB) World Taekwondo Junior Championships\nC) World Taekwondo Team Championships\nD) World Taekwondo Grand Slam",
+        "Answer": "A"
+    },
+    {
+        "Question": "In which year did Jhoon Rhee relocate to the Washington\nD)C. area and establish a chain of martial arts schools?\nA) 1950\nB) 1962\nC) 1970\nD) 1980",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the late Joseon period, Korean martial arts faded because society became highly centralized under Korean ___________, which discouraged martial arts.\nA) Buddhism\nB) Confucianism\nC) Democracy\nD) Monarchy",
+        "Answer": "B"
+    },
+    {
+        "Question": "After World War II, new martial arts schools known as _______ began to appear in Seoul.\nA) Dojos\nB) Kwans\nC) Gyms\nD) Academies",
+        "Answer": "B"
+    },
+    {
+        "Question": "The founders of the nine original kwans were influenced by martial arts from _______.\nA) Japan and China\nB) India and Thailand\nC) Russia and Mongolia\nD) Brazil and Portugal",
+        "Answer": "A"
+    },
+    {
+        "Question": "The Korean martial art that was being forgotten due to forced Japanization policies is _______.\nA) Hapkido\nB) Taekkyon\nC) Tang Soo Do\nD) Soo Bahk Do",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following martial arts is NOT mentioned as an influence on the early progenitors of taekwondo?\nA) Karate\nB) Judo\nC) Kendo\nD) Muay Thai",
+        "Answer": "D"
+    },
+    {
+        "Question": "The revisionist school of thought believes that taekwondo's roots are primarily found in _______.\nA) Indigenous Korean martial arts\nB) Karate\nC) Chinese martial arts\nD) A combination of various Asian martial arts",
+        "Answer": "B"
+    },
+    {
+        "Question": "The prevailing theory about the origins of taekwondo is known as _______.\nA) Traditionalism\nB) Revisionism\nC) Modernism\nD) Fundamentalism",
+        "Answer": "B"
+    },
+    {
+        "Question": "To promote a \"legitimate cultural past,\" the Korean government supports the _______ view of taekwondo's origins.\nA) Revisionist\nB) Traditionalist\nC) Modernist\nD) Eclectic",
+        "Answer": "B"
+    },
+    {
+        "Question": "During the breaking technique known as \"speed breaking,\" how are the boards held?\nA) Tightly clamped\nB) Loosely by one edge\nC) At a great height\nD) Submerged in water",
+        "Answer": "B"
+    },
+    {
+        "Question": "What aspect of taekwondo training emphasizes the importance of ethical discipline, respect, and self-confidence?\nA) Forms\nB) Sparring\nC) Relaxation and meditation exercises\nD) Mental and ethical discipline",
+        "Answer": "D"
+    },
+    {
+        "Question": "What are \"special techniques\" in the context of breaking?\nA) Using straightforward techniques to break boards\nB) Breaking boards with jumping or flying techniques\nC) Breaking boards while blindfolded\nD) Breaking boards with speed and agility",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which type of workout is included in a typical taekwondo curriculum?\nA) Only anaerobic workout\nB) Only aerobic workout\nC) Both anaerobic and aerobic workout\nD) Only strength training",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Taekwondo, junior ranks are indicated by a number and the term ____, which represents belt color.\nA) dan\nB) geup\nC) saseong\nD) kyosa-nim",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Taekwondo ranks count down from higher numbers to lower ones for ____ ranks and count upwards for ____ ranks.\nA) junior, senior\nB) senior, junior\nC) dan, geup\nD) geup, dan",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the International Taekwon-Do Federation, which title is given to instructors holding ranks from 1st to 3rd dan?\nA) boosabum\nB) sabum\nC) sahyun\nD) saseong",
+        "Answer": "A"
+    },
+    {
+        "Question": "According to WT/Kukki-Taekwondo, an instructor with a 6th dan is allowed to issue ____ ranks.\nA) color belt only\nB) black belt/dan-ranks only\nC) both color belt and black belt/dan-ranks\nD) neither color belt nor black belt/dan-ranks",
+        "Answer": "C"
+    },
+    {
+        "Question": "The term \"ap seogi\" in ITF/Chang Hon-style Taekwondo typically refers to what kind of stance?\nA) An upright walking stance\nB) A defensive high block\nC) A long, low, front stance\nD) A ready stance",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which organization is responsible for promoting the sportive side of Kukki-Taekwondo?\nA) International Olympic Committee\nB) South Korean Ministry of Culture\nC) World Taekwondo Federation\nD) Korea Taekwondo Association",
+        "Answer": "C"
+    },
+    {
+        "Question": "When did the International Olympic Committee recognize the WT and taekwondo sparring?\nA) 1978\nB) 1980\nC) 1982\nD) 1984",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the WT competition ruleset's stance on the number of techniques allowed?\nA) It allows all techniques\nB) It allows a moderate number of techniques\nC) It only allows a very small number of the total number of techniques\nD) It does not restrict techniques",
+        "Answer": "C"
+    },
+    {
+        "Question": "Under World Taekwondo rules, sparring takes place in an area measuring __________ or an octagon of similar size.\nA) 6 meters square\nB) 8 meters square\nC) 10 meters square\nD) 12 meters square",
+        "Answer": "B"
+    },
+    {
+        "Question": "Each Taekwondo sparring match consists of __________ two-minute rounds.\nA) Two\nB) Three\nC) Four\nD) Five",
+        "Answer": "B"
+    },
+    {
+        "Question": "Competitors must wear protective gear including all of the following EXCEPT:\nA) Hogu\nB) Head protector\nC) Elbow pads\nD) Forearm guards",
+        "Answer": "C"
+    },
+    {
+        "Question": "In Taekwondo, a punch to the opponent's hogu scores __________ points.\nA) 1\nB) 2\nC) 3\nD) 4",
+        "Answer": "A"
+    },
+    {
+        "Question": "Penalties in Taekwondo sparring are called __________ and count as a point for the opposing contestant.\nA) Gam-jeom\nB) Kyong-go\nC) Joo-ui\nD) Shi-jak",
+        "Answer": "A"
+    },
+    {
+        "Question": "In the event of a tie after three rounds, a __________ round is held to determine the winner.\nA) Bonus\nB) Sudden death\nC) Final\nD) Tiebreaker",
+        "Answer": "B"
+    },
+    {
+        "Question": "In World Taekwondo poomsae competition, errors made by competitors result in:\nA) Disqualification\nB) Time penalties\nC) Deductions\nD) Verbal warnings",
+        "Answer": "C"
+    },
+    {
+        "Question": "A regular kick to the hogu scores __________ points.\nA) 1\nB) 2\nC) 3\nD) 4",
+        "Answer": "B"
+    },
+    {
+        "Question": "As of June 2018, a turning kick to the head scores __________ points.\nA) 3\nB) 4\nC) 5\nD) 6",
+        "Answer": "C"
+    },
+    {
+        "Question": "In poomsae competition, competitors are assessed for accuracy and __________.\nA) Strength\nB) Presentation\nC) Agility\nD) Speed",
+        "Answer": "B"
+    },
+    {
+        "Question": "The electronic scoring system in Taekwondo was fully adopted by major national and international tournaments as of __________.\nA) 2010\nB) 2012\nC) 2015\nD) 2017",
+        "Answer": "D"
+    },
+    {
+        "Question": "A technical kick to the hogu is worth __________ points.\nA) 2\nB) 3\nC) 4\nD) 5",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many \"Gam-jeom\" penalties will result in a loss by referee's punitive declaration?\nA) 5\nB) 8\nC) 10\nD) 12",
+        "Answer": "C"
+    },
+    {
+        "Question": "In addition to sparring, World Taekwondo sanctions competition in __________.\nA) Judo\nB) Poomsae\nC) Karate\nD) Kendo",
+        "Answer": "B"
+    },
+    {
+        "Question": "A win by superiority in Taekwondo sparring is determined by:\nA) The number of successful attacks\nB) The number of defensive moves\nC) The number of fouls committed\nD) The refereeing officials",
+        "Answer": "D"
+    },
+    {
+        "Question": "The rest period between each round in a Taekwondo match is __________ minutes.\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "A"
+    },
+    {
+        "Question": "Competitors in a Taekwondo match are matched within __________ and weight division.\nA) Age group\nB) Belt level\nC) Gender\nD) Experience",
+        "Answer": "C"
+    },
+    {
+        "Question": "The electronic headgear in Taekwondo has been controversial because it:\nA) Is uncomfortable for athletes\nB) Cannot determine the correct taekwondo technique\nC) Frequently malfunctions\nD) Is too expensive for most tournaments",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Taekwondo, a punch that does not score points must be:\nA) A straight punch with arm extended\nB) A jab, hook, or uppercut\nC) Delivered to the head\nD) Performed with an open hand",
+        "Answer": "B"
+    },
+    {
+        "Question": "For the Olympics, the number of weight divisions in Taekwondo is condensed to:\nA) Two\nB) Three\nC) Four\nD) Six",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which year did the nine original kwans agree upon the name \"taekwondo\" as a common term for their martial arts?\nA) 1946\nB) 1955\nC) 1959\nD) 1964",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does \"Tang Soo Do\" translate to in English?\nA) Chinese Hand Way\nB) Empty Hand Way\nC) Foot Hand Way\nD) Way of the Warrior",
+        "Answer": "A"
+    },
+    {
+        "Question": "Which organization was formed to begin work on a common curriculum for Taekwondo?\nA) World Taekwondo Federation\nB) Korea Taekwondo Association\nC) International Taekwondo Federation\nD) Kukkiwon",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the official curriculum of the kwans that joined the unification, with the exception of half the Oh Do Kwan?\nA) Chan Hon curriculum\nB) Kukki Style of Taekwondo\nC) ITF Taekwondo curriculum\nD) The Kukkiwon curriculum",
+        "Answer": "D"
+    },
+    {
+        "Question": "The kwans that formed the KTA still exist today as what type of organizations?\nA) Governmental regulatory bodies\nB) Independent fraternal membership organizations\nC) Commercial martial arts schools\nD) Non-profit community centers",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the role of the kwans in relation to Kukkiwon dan and poom certification?\nA) They provide training for certification\nB) They issue the certification directly\nC) They function as a channel for the issuing of certification\nD) They have no role in the certification process",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the name of the Taekwondo style that resulted from the unification process and the work of the KTA?\nA) Chan Hon Style\nB) Kukki Style\nC) ITF Style\nD) Oh Do Kwan Style",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which part of the Oh Do Kwan joined the ITF and therefore does not follow the Kukkiwon curriculum?\nA) The entire Oh Do Kwan\nB) Three-quarters of the Oh Do Kwan\nC) Half of the Oh Do Kwan\nD) One-quarter of the Oh Do Kwan",
+        "Answer": "C"
+    },
+    {
+        "Question": "In 1952, which South Korean president witnessed a martial arts demonstration that led to the push for a unified martial arts system in the army?\nA) Kim Dae-jung\nB) Park Chung-hee\nC) Syngman Rhee\nD) Moon Jae-in",
+        "Answer": "C"
+    },
+    {
+        "Question": "What does the hanja \"\u8dc6\" in the name \"Tae Soo Do\" represent?\nA) Way\nB) Hand\nC) Fist\nD) Stomp",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who advocated for the name \"Tae Kwon Do\" to represent the unified Korean martial art?\nA) Nam Tae-hi\nB) Choi Hong-hi\nC) Kim Un-yong\nD) Hwang Kee",
+        "Answer": "B"
+    },
+    {
+        "Question": "The term \"Tae Kwon Do\" replaces \"su\" meaning \"hand\" with what hanja character that means \"fist\"?\nA) \u624b\nB) \u9053\nC) \u8dc6\nD) \u62f3",
+        "Answer": "D"
+    },
+    {
+        "Question": "What was the significance of the South Korean military adopting taekwondo?\nA) It led to the decline of the sport.\nB) It caused controversy among the kwans.\nC) It increased its popularity among civilian martial arts schools.\nD) It changed the focus from self-defense to combat.",
+        "Answer": "C"
+    },
+    {
+        "Question": "The name \"Tae Soo Do\" was considered for the unified style of Korean martial arts. What does the hanja \"\u624b\" in this name mean?\nA) Way\nB) Hand\nC) Fist\nD) Stomp",
+        "Answer": "B"
+    },
+    {
+        "Question": "What was the initial reaction of the kwan leaders to the new name \"Tae Kwon Do\"?\nA) They accepted it immediately.\nB) They were slow to catch on.\nC) They rejected it outright.\nD) They were indifferent to the change.",
+        "Answer": "B"
+    },
+    {
+        "Question": "A hyeong is a sequence of martial techniques that can be performed:\nA) Only with the use of a weapon\nB) Only without the use of a weapon\nC) Either with or without the use of a weapon\nD) Only in demonstration competitions",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the Korean martial arts term for blocking techniques, such as those used in taekwondo?\nA) Uke waza\nB) Chukyeo makgi\nC) Makgi\nD) Age uke",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"Harlequin Step\" was a technique that involved:\nA) A powerful uppercut\nB) A grappling move\nC) Avoiding a punch while delivering one\nD) A specific type of kick",
+        "Answer": "C"
+    },
+    {
+        "Question": "The female triangle pattern is characterized by:\nA) The practitioner advancing along an inverse triangle\nB) A retreating motion while facing the opponent\nC) A static position that facilitates blocking\nD) A series of jumps and kicks",
+        "Answer": "A"
+    }
+]

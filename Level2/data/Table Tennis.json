@@ -1,0 +1,918 @@
+[
+    {
+        "Question": "What is the role of the ITTF in the sport of table tennis?\nA) Providing financial support to players\nB) Maintaining an international ranking system and organizing events\nC) Selling table tennis equipment worldwide\nD) Training all international table tennis players",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which organization was responsible for the governance of table tennis for persons with a disability before 2007?\nA) The International Olympic Committee\nB) The International Paralympic Committee\nC) The European Table Tennis Union\nD) USA Table Tennis",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the governing body responsible for table tennis in Europe?\nA) The Asian Table Tennis Union\nB) The African Table Tennis Federation\nC) The European Table Tennis Union\nD) The Pan-American Table Tennis Association",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who is the national governing body for table tennis in the United States?\nA) The United States Olympic Committee\nB) The National Collegiate Athletic Association\nC) The United States Table Tennis Association\nD) USA Table Tennis",
+        "Answer": "D"
+    },
+    {
+        "Question": "In which scenario would a player NOT score a point?\nA) The opponent's ball passes over the player's court without touching it\nB) The ball accidentally hits the player's hand and then the racket\nC) The opponent touches the net assembly during play\nD) The opponent's free hand touches the playing surface",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the consequence of the opponent committing a second offense after being warned by the umpire?\nA) A replay of the point\nB) A point for the player\nC) A two-point penalty for the opponent\nD) Transfer of penalty points to the next game",
+        "Answer": "B"
+    },
+    {
+        "Question": "What occurs if both players reach 10 points in a game?\nA) The game ends in a draw\nB) The next point wins the game\nC) The game continues until one player has a 2-point lead\nD) A tie-breaker round is played",
+        "Answer": "C"
+    },
+    {
+        "Question": "If the opponent strikes the ball with a side of the racket blade that is not covered with rubber, what is the result?\nA) The opponent scores a point\nB) The player receives a warning\nC) The player scores a point\nD) The rally is replayed",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing a backspin in table tennis, the bottom half of the ball should be rotating:\nA) Towards the player\nB) Away from the player\nC) In a static position\nD) In a topspin motion",
+        "Answer": "B"
+    },
+    {
+        "Question": "At the professional level, backspin is used defensively to:\nA) Increase the ball's speed\nB) Make the ball bounce higher\nC) Keep the ball low\nD) Create a curve in the ball's trajectory",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is backspin commonly employed in service?\nA) It is easier to produce an offensive return\nB) It makes the ball easier to catch\nC) It is harder to produce an offensive return\nD) It allows the ball to travel faster",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which type of spin do most professional players serve with?\nA) Backspin only\nB) Topspin only\nC) Sidespin with either backspin or topspin\nD) No spin",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the effect of backspin on the speed with which one can hit the ball without missing the opponent's side of the table?\nA) It allows for greater speed\nB) It has no effect on speed\nC) It limits the speed\nD) It doubles the speed",
+        "Answer": "C"
+    },
+    {
+        "Question": "Smashing with backspin offensively is possible, but under what specific condition?\nA) On low balls that are far from the net\nB) On any balls regardless of their position\nC) On high balls that are close to the net\nD) Only when the opponent is unprepared",
+        "Answer": "C"
+    },
+    {
+        "Question": "After the 2000 Olympics, the ITTF replaced the older 38 mm table tennis balls with a larger size to _______.\nA) increase the ball's weight\nB) decrease the ball's air resistance\nC) increase the ball's air resistance\nD) make the balls more colorful",
+        "Answer": "C"
+    },
+    {
+        "Question": "The change from the older 38 mm balls to the 40 mm balls in table tennis was officially made in _______.\nA) July 2014\nB) September 2001\nC) October 2000\nD) 2002",
+        "Answer": "C"
+    },
+    {
+        "Question": "The ITTF's introduction of the 11-point scoring system was intended to _______.\nA) slow down the game\nB) make games more fast-paced and exciting\nC) reduce the ball's air resistance\nD) increase the server's advantage",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the new scoring system adopted by the ITTF, the serve rotation was reduced from five points to _______.\nA) four points\nB) three points\nC) two points\nD) one point",
+        "Answer": "C"
+    },
+    {
+        "Question": "As of July 2014, all table tennis events are played with balls made of _______.\nA) the original celluloid material\nB) a new poly material\nC) a lightweight composite\nD) a heavier rubber compound",
+        "Answer": "B"
+    },
+    {
+        "Question": "The ITTF's rule changes in the early 2000s were aimed at making table tennis more _______ as a televised spectator sport.\nA) challenging for players\nB) viable\nC) exclusive\nD) traditional",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to ITTF rule 2.13.1, how is the first service in a game of table tennis decided?\nA) By a predetermined schedule\nB) By the highest-ranked player's choice\nC) By lot, normally a coin toss\nD) By the player who wins the first point",
+        "Answer": "C"
+    },
+    {
+        "Question": "If a player guesses correctly in which hand the ball is hidden under the table, what options does the \"winner\" have?\nA) Choose to serve only\nB) Choose to receive only\nC) Choose to serve, receive, or pick a side of the table\nD) Choose the color of the ball for the game",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is a common but non-sanctioned method players sometimes use to decide the first service?\nA) Flipping a paddle\nB) Playing the ball back and forth three times and then playing out the point\nC) Rock-paper-scissors\nD) Asking the umpire to decide",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct or incorrect guess in the hand-guessing method primarily used for?\nA) Determining the winner of the match\nB) Deciding who gets to serve first\nC) Assigning points to the players\nD) Choosing the type of ball to be used in the match",
+        "Answer": "B"
+    },
+    {
+        "Question": "An official hall of fame for table tennis is located at the ________.\nA) Olympic Village\nB) ITTF Museum\nC) World Cup headquarters\nD) International Sports Hall of Fame",
+        "Answer": "B"
+    },
+    {
+        "Question": "A player earns a Grand Slam title in table tennis by winning singles crowns at all of the following events EXCEPT:\nA) The Olympic Games\nB) The ITTF Grand Prix\nC) The World Championships\nD) The World Cup",
+        "Answer": "B"
+    },
+    {
+        "Question": "Who was the first player to complete a Grand Slam at the 1992 Olympic Games?\nA) Ma Lin\nB) Deng Yaping\nC) Jan-Ove Waldner\nD) J\u00f6rgen Persson",
+        "Answer": "C"
+    },
+    {
+        "Question": "Deng Yaping of China is notable for being the first female to record a win at the ________.\nA) Olympic Games\nB) World Championships\nC) Inaugural Women's World Cup in 1996\nD) ITTF Grand Prix",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which of the following players has won both the World Championships and the World Cup, but lost in the Olympic gold medal matches?\nA) Jean-Philippe Gatien\nB) Ma Lin\nC) J\u00f6rgen Persson\nD) Liu Shiwen",
+        "Answer": "A"
+    },
+    {
+        "Question": "In table tennis, what is the primary surface used for play?\nA) A grass field\nB) A clay court\nC) A stationary table\nD) An ice rink",
+        "Answer": "C"
+    },
+    {
+        "Question": "How many players can form a team in a competitive table tennis match?\nA) One or two\nB) Three or four\nC) Five or six\nD) Seven or eight",
+        "Answer": "A"
+    },
+    {
+        "Question": "What aspect of table tennis is emphasized more than in other ball sports?\nA) Speed\nB) Power\nC) Spin\nD) Endurance",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since what year has table tennis been an Olympic sport?\nA) 1976\nB) 1988\nC) 1992\nD) 2008",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the role of the International Table Tennis Federation (ITTF)?\nA) Organizing tennis tournaments\nB) Governing table tennis and specifying its rules\nC) Promoting basketball internationally\nD) Regulating football clubs",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many member associations are currently included in the ITTF?\nA) 100\nB) 150\nC) 226\nD) 300",
+        "Answer": "C"
+    },
+    {
+        "Question": "In a standard game, how often do players alternate service?\nA) After every point\nB) After every two points\nC) After every game\nD) After every five points",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens when both players reach ten points in a game?\nA) They continue with the same service order\nB) The player who reached ten points first serves\nC) Service alternates after every point\nD) The game is paused to determine the winner",
+        "Answer": "C"
+    },
+    {
+        "Question": "If the expedite system is in operation, how does service alternation change?\nA) Service alternates after every two points\nB) Service alternates after every three points\nC) Service alternates after every point\nD) There is no change in service alternation",
+        "Answer": "C"
+    },
+    {
+        "Question": "When players switch sides of the table during a match?\nA) After each set\nB) After each game\nC) When a player scores ten points\nD) After every two points",
+        "Answer": "B"
+    },
+    {
+        "Question": "In doubles table tennis, when do pairs switch ends of the table?\nA) After each game\nB) When a pair reaches 5 points in the final game\nC) After every two services\nD) At the start of each new match",
+        "Answer": "B"
+    },
+    {
+        "Question": "If the initial order of play in a doubles match is A\u2192X\u2192B\u2192Y, what is the correct order of play in the second game?\nA) X\u2192A\u2192Y\u2192B\nB) A\u2192B\u2192X\u2192Y\nC) B\u2192Y\u2192A\u2192X\nD) Y\u2192B\u2192X\u2192A",
+        "Answer": "A"
+    },
+    {
+        "Question": "In doubles, what is the sequence of players hitting the ball during a rally?\nA) A\u2192B\u2192X\u2192Y\nB) A\u2192X\u2192B\u2192Y\nC) A\u2192Y\u2192B\u2192X\nD) A\u2192X\u2192Y\u2192B",
+        "Answer": "B"
+    },
+    {
+        "Question": "How is the first receiver chosen in the second or latter games of a doubles match?\nA) The player who served first in the previous game\nB) The player who received first in the previous game\nC) The partner of the first server in the previous game\nD) The player who served to the first server of the game in the preceding game",
+        "Answer": "D"
+    },
+    {
+        "Question": "In doubles, how is the order of service determined at the start of each game after the first?\nA) The order is the same as the first game\nB) The order is reversed from the previous game\nC) The order is randomly chosen\nD) The order is decided by the umpire",
+        "Answer": "B"
+    },
+    {
+        "Question": "When does the receiving pair in a doubles match have the opportunity to choose who will receive first?\nA) At the beginning of each game\nB) Only in the first game of the match\nC) Whenever they score a point\nD) After each change of service",
+        "Answer": "B"
+    },
+    {
+        "Question": "If players A and B are partners, and A serves to X, who will X serve to when it is their turn?\nA) Player A\nB) Player B\nC) Player Y\nD) Player X does not serve",
+        "Answer": "B"
+    },
+    {
+        "Question": "What must happen when a pair reaches 5 points in the final game of a doubles match?\nA) They win the match\nB) They switch ends of the table and change the receiver\nC) They are awarded an extra point\nD) They call a timeout",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the correct order of play after the change of service if the previous order was X\u2192B\u2192Y\u2192A?\nA) B\u2192Y\u2192A\u2192X\nB) Y\u2192A\u2192X\u2192B\nC) A\u2192X\u2192B\u2192Y\nD) X\u2192A\u2192Y\u2192B",
+        "Answer": "A"
+    },
+    {
+        "Question": "If the order of play is A\u2192X\u2192B\u2192Y at the beginning of the first game, who will be the first server in the second game?\nA) Player A\nB) Player B\nC) Player X\nD) Player Y",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to ITTF regulations, what is the minimum height clearance required for a playing area in table tennis?\nA) 4 m (13.1 ft)\nB) 5 m (16.4 ft)\nC) 6 m (19.7 ft)\nD) 7 m (23.0 ft)",
+        "Answer": "B"
+    },
+    {
+        "Question": "For wheelchair table tennis events, what is the minimum required width of the playing space as per ITTF regulations?\nA) 5 m (16.4 ft)\nB) 6 m (19.7 ft)\nC) 7 m (23.0 ft)\nD) 8 m (26.2 ft)",
+        "Answer": "B"
+    },
+    {
+        "Question": "The shakehand grip in table tennis is often compared to a handshake because:\nA) It is a formal way to start a match\nB) The racket is held with the thumb up\nC) The racket is grasped as if one is performing a handshake\nD) It is a traditional greeting among players",
+        "Answer": "C"
+    },
+    {
+        "Question": "The \"Western\" grip in table tennis is associated with players from:\nA) Western tennis traditions\nB) Western United States\nC) Western nations such as Europe and the Americas\nD) Western parts of China",
+        "Answer": "C"
+    },
+    {
+        "Question": "The shakehand grip is NOT related to the Western tennis grip because:\nA) It is not popularized on the West Coast of the United States\nB) The racket is not rotated 90\u00b0 in table tennis\nC) The wrist is turned differently on impact\nD) All of the above",
+        "Answer": "D"
+    },
+    {
+        "Question": "Why is the shakehand grip considered versatile?\nA) It allows for a variety of serves\nB) It is suitable for both offensive and defensive play\nC) It can only be used by professional players\nD) It is the only grip used in China",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to top-level Chinese trainers, why has the shakehand grip been established as a common grip even in China?\nA) Because it is similar to the Western tennis grip\nB) Because the European style of play should be emulated and trained against\nC) Because it is more challenging to learn than other grips\nD) Because it is a traditional Chinese grip",
+        "Answer": "B"
+    },
+    {
+        "Question": "Compared to the penholder grip, the shakehand grip is generally considered:\nA) More difficult to master\nB) Less versatile\nC) Easier to learn\nD) Less popular among world-class players",
+        "Answer": "C"
+    },
+    {
+        "Question": "When executing a chop in table tennis, the racket face should be oriented primarily:\nA) Vertically\nB) Horizontally\nC) Diagonally\nD) In a neutral position",
+        "Answer": "B"
+    },
+    {
+        "Question": "A chop in table tennis is considered a defensive stroke that counters an opponent's:\nA) Loop drive\nB) Smash\nC) Serve\nD) Block",
+        "Answer": "A"
+    },
+    {
+        "Question": "The direction of the stroke for a chop is:\nA) Straight up\nB) Straight down\nC) Horizontal to the table\nD) Diagonal to the table",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the primary objective of a defensive chop?\nA) To increase the speed of the ball\nB) To match the opponent's topspin with backspin\nC) To create a no-spin situation\nD) To attack with a topspin",
+        "Answer": "B"
+    },
+    {
+        "Question": "The penhold grip is named after the similarity to holding a __________.\nA) Tennis racquet\nB) Writing instrument\nC) Baseball bat\nD) Paintbrush",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Chinese penhold style is characterized by the middle, ring, and fourth finger being __________.\nA) Straight and separated\nB) Curled and touching one another\nC) Splayed out across the back\nD) Only the middle finger touching the back",
+        "Answer": "B"
+    },
+    {
+        "Question": "Chinese penholders prefer a __________ racket head for their style of play.\nA) Square\nB) Round\nC) Triangular\nD) Rectangular",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Japanese/Korean penhold grip differs from the Chinese style by __________.\nA) Having the three fingers splayed out\nB) Using a round racket head\nC) Stacking the fingers upon one another\nD) Using a triangular racket head",
+        "Answer": "A"
+    },
+    {
+        "Question": "Japanese and Korean penholders often use a __________ racket for their style of play.\nA) Round-headed\nB) Square-headed\nC) Triangular-headed\nD) Hexagonal-headed",
+        "Answer": "B"
+    },
+    {
+        "Question": "A traditional penhold racket may feature __________ for increased grip and comfort.\nA) A layer of rubber\nB) A block of cork on top of the handle\nC) A thin layer of plastic\nD) A strip of leather",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the traditional penhold style, players typically use __________ side(s) of the racket to hit the ball.\nA) Both\nB) One\nC) Three\nD) No",
+        "Answer": "B"
+    },
+    {
+        "Question": "The reverse penhold backhand is a technique where the player __________.\nA) Hits the ball with the traditional side of the racket\nB) Strikes the ball with the handle of the racket\nC) Turns the traditional side of the racket to face oneself\nD) Uses the edge of the racket to hit the ball",
+        "Answer": "C"
+    },
+    {
+        "Question": "The development of the reverse penhold backhand has __________ the penhold style.\nA) Weakened\nB) Not changed\nC) Greatly improved\nD) Made obsolete",
+        "Answer": "C"
+    },
+    {
+        "Question": "Penhold styles are especially popular among players from __________.\nA) North American countries\nB) European countries\nC) East Asian countries\nD) South American countries",
+        "Answer": "C"
+    },
+    {
+        "Question": "The new technique developed by the Chinese in the 1990s refers to the use of __________.\nA) Only the front side of the racket\nB) Both sides of the racket\nC) The handle to hit the ball\nD) A different grip style",
+        "Answer": "B"
+    },
+    {
+        "Question": "In which year was Zdenko Uzorinac's book \"ITTF 1926 - 2001 Table Tennis Legends\" published?\nA) 1993\nB) 1996\nC) 2001\nD) 2011",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who is the author of \"Winning Table Tennis: Skills, Drills, and Strategies\"?\nA) Larry Hodges\nB) Dan Seemiller\nC) Zdenko Uzorinac\nD) Jerome Charyn",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which organization published the \"2021 ITTF Handbook\"?\nA) Four Walls Eight Windows\nB) Human Kinetics\nC) International Table Tennis Federation\nD) ITTF Legends Committee",
+        "Answer": "C"
+    },
+    {
+        "Question": "Sidespin is predominantly employed during _______, wherein the contact angle of the racket can be more easily varied.\nA) service\nB) a rally\nC) defensive play\nD) net play",
+        "Answer": "A"
+    },
+    {
+        "Question": "The axis of rotation for a ball with sidespin is _______.\nA) horizontal\nB) vertical\nC) diagonal\nD) non-existent",
+        "Answer": "B"
+    },
+    {
+        "Question": "The Magnus effect will dictate the _______ of the ball when sidespin is applied.\nA) speed\nB) trajectory\nC) color\nD) size",
+        "Answer": "B"
+    },
+    {
+        "Question": "Unlike backspin and topspin, sidespin has _______ effect on the bounce of the ball.\nA) a significant\nB) no\nC) a very little\nD) an unpredictable",
+        "Answer": "C"
+    },
+    {
+        "Question": "Sidespin is considered a useful weapon in service because it is _______.\nA) more powerful than topspin\nB) less easily recognized when bouncing\nC) causing the ball to bounce higher\nD) easier to return",
+        "Answer": "B"
+    },
+    {
+        "Question": "In addition to service, sidespin can also be employed in _______.\nA) offensive rally strokes\nB) defensive blocks\nC) passive returns\nD) scoring directly",
+        "Answer": "A"
+    },
+    {
+        "Question": "The stroke sometimes referred to as a \"hook\" is used to _______.\nA) increase the speed of the ball\nB) circumvent the net when away from the table\nC) perform a powerful smash\nD) make the ball bounce twice on the opponent's side",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the minimum percentage of natural wood required by the ITTF for the blade of a racket?\nA) 75%\nB) 85%\nC) 95%\nD) 100%",
+        "Answer": "B"
+    },
+    {
+        "Question": "In official table tennis matches, how many sides of the racket can be covered with rubber?\nA) One side only\nB) Both sides\nC) Neither side\nD) Three sides",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the term used by the ITTF to refer to a table tennis racket?\nA) Bat\nB) Paddle\nC) Racket\nD) Stick",
+        "Answer": "C"
+    },
+    {
+        "Question": "What color must one side of the racket rubber be according to international rules?\nA) Red\nB) Green\nC) Black\nD) Blue",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the average length of the racket blade?\nA) 14 centimetres\nB) 15 centimetres\nC) 16 centimetres\nD) 17 centimetres",
+        "Answer": "D"
+    },
+    {
+        "Question": "Why are players allowed to inspect their opponent's racket before a match?\nA) To check the weight of the racket\nB) To see the type and color of rubber used\nC) To determine the brand of the racket\nD) To measure the size of the blade",
+        "Answer": "B"
+    },
+    {
+        "Question": "What types of materials may be used in the racket blade construction besides wood?\nA) Cork and plastic\nB) Glass fiber and carbon fiber\nC) Steel and titanium\nD) Nylon and polyester",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which wood type is popular for racket blades in Japan?\nA) Balsa\nB) Limba\nC) Cypress\nD) Hinoki",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the purpose of having different rubber surfaces on each side of the racket?\nA) To increase the weight of the racket\nB) To make the racket look more appealing\nC) To provide various levels of spin or speed\nD) To comply with color regulations",
+        "Answer": "C"
+    },
+    {
+        "Question": "Can a player exchange their racket for another one during a match?\nA) Yes, at any time\nB) Only if the racket is damaged\nC) No, not under any circumstances\nD) Yes, but only between games",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the other bright color that the racket rubber can be, apart from black?\nA) White\nB) Pink\nC) Yellow\nD) Red",
+        "Answer": "D"
+    },
+    {
+        "Question": "The topspin stroke has a smaller influence on the first part of the ball curve, and like the backspin stroke, the axis of spin remains _______ to the trajectory of the ball.\nA) parallel\nB) perpendicular\nC) intersecting\nD) opposite",
+        "Answer": "B"
+    },
+    {
+        "Question": "Due to the Magnus effect, after the apex of the curve, the ball with topspin _______.\nA) floats in the air\nB) dips downwards\nC) moves in a straight line\nD) stops spinning",
+        "Answer": "B"
+    },
+    {
+        "Question": "When the topspin ball bounces, it will _______.\nA) slow down significantly\nB) stop immediately\nC) accelerate\nD) reverse direction",
+        "Answer": "C"
+    },
+    {
+        "Question": "To compensate for the topspin on the ball, the opponent must adjust the angle of his or her racket by _______ it.\nA) opening\nB) closing\nC) flipping\nD) twisting",
+        "Answer": "B"
+    },
+    {
+        "Question": "Compared to the backspin stroke, the speed limitation of the topspin stroke is _______.\nA) greater\nB) the same\nC) minor\nD) non-existent",
+        "Answer": "C"
+    },
+    {
+        "Question": "Topspin is considered an offensive technique due to all of the following EXCEPT:\nA) increased ball speed\nB) higher bio-mechanical efficiency\nC) lower bio-mechanical efficiency\nD) reduced reaction time for the opponent",
+        "Answer": "B"
+    },
+    {
+        "Question": "Defensive topspin-lobs from far behind the table are used by players who are _______.\nA) inexperienced\nB) highly skilled\nC) defensive specialists\nD) beginners",
+        "Answer": "B"
+    },
+    {
+        "Question": "When serving the ball, the server must toss the ball at least how high?\nA) 10 cm\nB) 12 cm\nC) 16 cm\nD) 20 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "During the service, where must the ball remain in relation to the endline and playing surface?\nA) In front of the endline\nB) Above the playing surface\nC) Behind the endline and above the playing surface\nD) Below the playing surface",
+        "Answer": "C"
+    },
+    {
+        "Question": "If the umpire is doubtful of the legality of a service, what may they do first?\nA) Award a point to the receiver\nB) Interrupt play and give a warning\nC) Disqualify the server\nD) Ignore the doubt",
+        "Answer": "B"
+    },
+    {
+        "Question": "How should the server hold the ball before serving?\nA) In the paddle hand\nB) In the closed palm of the freehand\nC) On the open palm of the freehand\nD) With two fingers",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is NOT allowed by the server's body or clothing during service?\nA) Moving\nB) Obstructing sight of the ball\nC) Touching the ball\nD) Being above the table",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens if the serve is doubted again by the umpire after a warning?\nA) The server gets another warning\nB) The receiver scores a point\nC) The serve is replayed\nD) The server scores a point",
+        "Answer": "B"
+    },
+    {
+        "Question": "What must the receiver do if the service is \"good\"?\nA) Wait for the ball to bounce twice\nB) Hit the ball back before it bounces a second time\nC) Catch the ball\nD) Allow the ball to pass",
+        "Answer": "B"
+    },
+    {
+        "Question": "After the service, how must the server and receiver continue the rally?\nA) The server must serve again\nB) The receiver must serve\nC) They must alternately make a return\nD) They can return in any order",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is technically illegal in casual games that some players do not follow?\nA) Serving with spin\nB) Tossing the ball upward\nC) Hitting the ball before it descends\nD) Not tossing the ball upward",
+        "Answer": "D"
+    },
+    {
+        "Question": "If a game of topingpang reaches 10 minutes in duration and the score is less than 18 points, what system is initiated?\nA) The acceleration system\nB) The expedite system\nC) The quick play system\nD) The time-out system",
+        "Answer": "B"
+    },
+    {
+        "Question": "When the expedite system is in effect, how many consecutive returns must the server win the point before?\nA) 10 consecutive returns\nB) 11 consecutive returns\nC) 12 consecutive returns\nD) 13 consecutive returns",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who serves first if the expedite system is introduced while the ball is not in play?\nA) The previous server\nB) The previous receiver\nC) The player with the highest score\nD) The player with the lowest score",
+        "Answer": "B"
+    },
+    {
+        "Question": "Can players request the initiation of the expedite system before the 10-minute mark?\nA) Yes, but only the umpire can decide\nB) No, they must wait until 10 minutes have passed\nC) Yes, at the request of both players or pairs\nD) No, it is automatically applied without requests",
+        "Answer": "C"
+    },
+    {
+        "Question": "The diameter of the ball used in official competition is ________.\nA) 38 millimetres\nB) 40 millimetres\nC) 42 millimetres\nD) 45 millimetres",
+        "Answer": "B"
+    },
+    {
+        "Question": "When dropped from a height of 30.5 cm onto a standard steel block, the ball should bounce up to ________.\nA) 20\u201322 cm\nB) 22\u201324 cm\nC) 24\u201326 cm\nD) 26\u201328 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "The material used to make ping pong balls as of 2015 is ________.\nA) celluloid\nB) polymer\nC) rubber\nD) plastic",
+        "Answer": "B"
+    },
+    {
+        "Question": "The star rating system on ping pong balls indicates ________.\nA) the size of the ball\nB) the weight of the ball\nC) the manufacturer's brand\nD) the quality of the ball",
+        "Answer": "D"
+    },
+    {
+        "Question": "The 40 mm ball was introduced after the ________.\nA) 1996 Summer Olympics\nB) 2000 Summer Olympics\nC) 2004 Summer Olympics\nD) 2008 Summer Olympics",
+        "Answer": "B"
+    },
+    {
+        "Question": "In table tennis, the 'ready position' is crucial because it:\nA) Allows the player to rest between shots\nB) Is a formal requirement before serving\nC) Helps the player be prepared to make the next shot\nD) Is only used by professional players",
+        "Answer": "C"
+    },
+    {
+        "Question": "The stance in table tennis involves the feet being spaced:\nA) Together and parallel\nB) Wider than shoulder width\nC) At shoulder width\nD) In a single line",
+        "Answer": "B"
+    },
+    {
+        "Question": "When adopting the 'ready position', a player should:\nA) Stand completely upright\nB) Adopt a partial crouch\nC) Sit down\nD) Lean backwards",
+        "Answer": "B"
+    },
+    {
+        "Question": "The upper torso of a player in the ready position should be:\nA) Positioned slightly backward\nB) Positioned slightly forward\nC) Turned to the side\nD) Kept in a neutral position",
+        "Answer": "B"
+    },
+    {
+        "Question": "In the World Championship of Ping Pong, what are the paddles covered with?\nA) High-friction rubber\nB) Sandpaper\nC) Anti-spin coating\nD) Sponge and smooth rubber",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens to players during a \"Round the World\" game when they lose a point?\nA) They continue playing without any changes\nB) They are given a second chance before elimination\nC) They are eliminated from the game\nD) They move to the end of the line to wait for another turn",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the most important international table tennis competition?\nA) ITTF World Tour\nB) The Olympics\nC) The Table Tennis World Cup\nD) The World Table Tennis Championships",
+        "Answer": "D"
+    },
+    {
+        "Question": "Which virtual reality table tennis game was played during the Olympic Esports Week in 2023?\nA) VR Ping Pong Pro\nB) Eleven Table Tennis\nC) Racket Fury: Table Tennis VR\nD) Ping Pong League VR",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the name of the professional table tennis league in China?\nA) China Table Tennis Super League\nB) China National Table Tennis League\nC) China Premier Table Tennis League\nD) China Elite Table Tennis League",
+        "Answer": "A"
+    },
+    {
+        "Question": "Players employ corkspin almost exclusively when _______, but it is also used occasionally in the lob at the professional level.\nA) serving\nB) smashing\nC) blocking\nD) pushing",
+        "Answer": "A"
+    },
+    {
+        "Question": "Upon bouncing, a cork-spun ball will dart _______.\nA) straight ahead\nB) upwards\nC) right or left\nD) backwards",
+        "Answer": "C"
+    },
+    {
+        "Question": "How can an opponent counter a cork-spun ball?\nA) With a smash\nB) By avoiding it\nC) With either topspin or backspin\nD) By catching the ball",
+        "Answer": "C"
+    },
+    {
+        "Question": "The stroke similar to the corkspin stroke due to having a lower maximum velocity is _______.\nA) the topspin stroke\nB) the backspin stroke\nC) the sidespin stroke\nD) the flat hit stroke",
+        "Answer": "B"
+    },
+    {
+        "Question": "To impart corkspin on the ball, the racket must be swung _______ to the trajectory of the ball.\nA) parallel\nB) at a shallow angle\nC) perpendicular\nD) in a circular motion",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is corkspin often mixed with another variety of spin?\nA) It increases the ball's speed\nB) It is more effective when combined\nC) It is easier to return when used alone\nD) It simplifies the game",
+        "Answer": "B"
+    },
+    {
+        "Question": "The loop stroke in ping pong is characterized by the racket being ________ to the direction of the stroke when hitting the ball.\nA) perpendicular\nB) parallel\nC) at a sharp angle\nD) not related to",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following players is known for primarily using the loop for offensive play in ping pong?\nA) Ma Long\nB) Ding Ning\nC) Jan-Ove Waldner\nD) Liu Guoliang",
+        "Answer": "B"
+    },
+    {
+        "Question": "What percentage of table tennis players at the 2016 Summer Olympics were naturalized?\nA) 15%\nB) 31%\nC) 50%\nD) 25%",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many Olympic table tennis medals has Feng Tianwei, a Chinese-born player representing Singapore, won?\nA) One\nB) Two\nC) Three\nD) Four",
+        "Answer": "C"
+    },
+    {
+        "Question": "After what event did the ITTF decide to reduce the number of entries per association in the Olympics and World Table Tennis Championships?\nA) After the 2008 Olympics\nB) After the 2012 Olympics\nC) After the 2016 Olympics\nD) After the 2004 Olympics",
+        "Answer": "A"
+    },
+    {
+        "Question": "According to the ITTF's 2019 regulations, how long must a player wait to represent their new association if they are under the age of 15 and have never represented another association?\nA) 1 year\nB) 3 years\nC) 5 years\nD) 7 years",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who favored the application for citizenship of Zeng Jian, a China-born paddler, after taking over the presidency of the Singapore Table Tennis Association?\nA) Feng Tianwei\nB) Lee Bee Wah\nC) Ellen Lee\nD) Zeng Jian",
+        "Answer": "C"
+    },
+    {
+        "Question": "The official height of the net that divides the table in a game of ping pong is _____.\nA) 10.25 cm\nB) 15.25 cm\nC) 20.25 cm\nD) 25.25 cm",
+        "Answer": "B"
+    },
+    {
+        "Question": "The table used in official ping pong matches must yield a uniform bounce of about _____ when a standard ball is dropped onto it from a height of 30 cm.\nA) 15 cm\nB) 19 cm\nC) 23 cm\nD) 27 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "According to the ITTF, the approved material for ping pong tables for official competitions is _____.\nA) Glass\nB) Metal\nC) Wood or its derivates\nD) Plastic",
+        "Answer": "C"
+    },
+    {
+        "Question": "For a ping pong table to be compliant with official regulations, the playing surface must be _____.\nA) Brightly colored and glossy\nB) Dark colored and glossy\nC) Dark colored and matte\nD) Light colored and matte",
+        "Answer": "C"
+    },
+    {
+        "Question": "When a player in table tennis applies spin to the ball, it primarily affects the ________.\nA) color of the ball\nB) size of the ball\nC) gameplay\nD) noise level of the game",
+        "Answer": "C"
+    },
+    {
+        "Question": "In table tennis, understanding the different types of spin is crucial for players to:\nA) increase the weight of the ball\nB) change the shape of the racket\nC) effectively defend against and utilize the spins\nD) score points without hitting the ball",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the typical height that a defensive lob propels the ball in topingpang?\nA) Two metres\nB) Five metres\nC) Eight metres\nD) Ten metres",
+        "Answer": "B"
+    },
+    {
+        "Question": "What makes a good defensive lob difficult to return?\nA) The height of the lob\nB) The speed of the lob\nC) The unpredictability and spin on the ball\nD) The color of the ball",
+        "Answer": "C"
+    },
+    {
+        "Question": "In topingpang, a defensive lob can be characterized by which of the following?\nA) Low trajectory and minimal spin\nB) High trajectory and no spin\nC) High trajectory and nearly any kind of spin\nD) Low trajectory and heavy spin",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which professional player is mentioned as a notable exception for using the lob less frequently?\nA) Timo Boll\nB) Ma Long\nC) Michael Maze\nD) Xu Xin",
+        "Answer": "C"
+    },
+    {
+        "Question": "The sport of ping-pong originated in which country?\nA) India\nB) United States\nC) England\nD) China",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was used as the net in the early makeshift versions of ping-pong?\nA) A row of books\nB) A piece of string\nC) A wooden plank\nD) A metal chain",
+        "Answer": "A"
+    },
+    {
+        "Question": "Who trademarked the name \"ping-pong\" in 1901?\nA) Parker Brothers\nB) E.C. Goode\nC) J. Jaques & Son Ltd\nD) James W. Gibb",
+        "Answer": "C"
+    },
+    {
+        "Question": "What did E.C. Goode invent in 1901 to modernize the ping-pong racket?\nA) A celluloid ball\nB) A rubber sheet on the wooden blade\nC) Speed glue\nD) Sponge layer",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year was the unofficial world championship of table tennis held?\nA) 1902\nB) 1921\nC) 1926\nD) 1933",
+        "Answer": "A"
+    },
+    {
+        "Question": "What organization was renamed the English Table Tennis Association in 1926?\nA) The Table Tennis Association\nB) The Ping Pong Association\nC) The International Table Tennis Federation\nD) The United States Table Tennis Association",
+        "Answer": "A"
+    },
+    {
+        "Question": "Where were the first official World Championships of table tennis held?\nA) United States\nB) China\nC) England\nD) Soviet Union",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the name of the U.S. organization formed in 1933 for table tennis?\nA) The United States Table Tennis Association\nB) The American Ping Pong Association\nC) The National Table Tennis League\nD) The United States Sports Federation",
+        "Answer": "A"
+    },
+    {
+        "Question": "What innovation in the 1950s changed the game of table tennis by introducing greater spin and speed?\nA) Celluloid balls\nB) Rubber sheet with sponge layer\nC) Speed glue\nD) Wooden paddles",
+        "Answer": "B"
+    },
+    {
+        "Question": "In what year was table tennis introduced as an Olympic sport?\nA) 1936\nB) 1952\nC) 1988\nD) 1992",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which company was responsible for introducing the rubber sheet combined with a sponge layer to Britain?\nA) J. Jaques & Son Ltd\nB) Parker Brothers\nC) E.C. Goode\nD) S.W. Hancock Ltd",
+        "Answer": "D"
+    },
+    {
+        "Question": "The name \"ping-pong\" came to specifically describe the game played with equipment from which manufacturer?\nA) S.W. Hancock Ltd\nB) Parker Brothers\nC) J. Jaques & Son Ltd\nD) E.C. Goode",
+        "Answer": "C"
+    },
+    {
+        "Question": "Which organization followed the English Table Tennis Association in 1926?\nA) The International Table Tennis Federation (ITTF)\nB) The United States Table Tennis Association\nC) The Ping Pong Association\nD) The National Table Tennis League",
+        "Answer": "A"
+    },
+    {
+        "Question": "When executing a block in table tennis, the racket should be placed in front of the ball when?\nA) Before the ball bounces\nB) Right after the ball bounces\nC) Before the opponent strikes the ball\nD) While the ball is at the peak of its bounce",
+        "Answer": "B"
+    },
+    {
+        "Question": "What influences the correct angle of a block in table tennis?\nA) The ball's weight and size\nB) The ball's color and material\nC) The ball's spin, speed, and location\nD) The ball's brand and age",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why might an opponent not be able to recover quickly enough to return a blocked shot?\nA) Due to the complexity of the block technique\nB) Because the block does not produce any spin\nC) Due to the power involved in offensive strokes\nD) Because the block is always aimed at the expected side of the table",
+        "Answer": "C"
+    },
+    {
+        "Question": "What type of spin does a block typically produce in table tennis?\nA) A different spin than was received\nB) No spin\nC) The same spin as was received\nD) An unpredictable spin",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the Seemiller grip achieved?\nA) By placing the thumb and index finger on the top of the racquet head\nB) By placing the thumb and index finger on either side of the bottom of the racquet head\nC) By holding the handle with the thumb and index finger only\nD) By using both sides of the racquet to hit the ball",
+        "Answer": "B"
+    },
+    {
+        "Question": "What combination of rubbers is commonly used by players who adopt the Seemiller grip today?\nA) Inverted and short-pipped rubber\nB) Anti-spin and long-pipped rubber\nC) Inverted and long-pipped rubber\nD) Anti-spin and smooth rubber",
+        "Answer": "C"
+    },
+    {
+        "Question": "During which event did the Seemiller grip's popularity reach its peak, as evidenced by the choice of four out of five United States participants?\nA) The 1985 Olympic Games\nB) The 1985 World Table Tennis Championships\nC) The 1985 US Open Table Tennis Championships\nD) The 1985 Pan American Games",
+        "Answer": "B"
+    },
+    {
+        "Question": "When executing a smash in table tennis, what is the primary goal of this shot?\nA) To apply maximum spin on the ball\nB) To return the ball to the opponent's side of the table\nC) To impart as much speed on the ball as possible\nD) To hit the ball with a backhand stroke",
+        "Answer": "C"
+    },
+    {
+        "Question": "In which situation is a player most likely to perform a smash?\nA) When the ball is returned low and close to the net\nB) When the ball bounces too high or too close to the net\nC) When the ball is served with heavy spin\nD) When the opponent is far from the table",
+        "Answer": "B"
+    },
+    {
+        "Question": "What type of grip is mentioned as being used more often with a smash?\nA) Shakehand grip\nB) Penhold grip\nC) Seemiller grip\nD) V-grip",
+        "Answer": "B"
+    },
+    {
+        "Question": "During a smash, how is the racket generally positioned relative to the direction of the stroke?\nA) Parallel\nB) At an acute angle\nC) Perpendicular\nD) In a closed position",
+        "Answer": "C"
+    },
+    {
+        "Question": "When a player tries to attack a ball that has not bounced beyond the edge of the table, they perform a shot known as a ______ because the backswing is compressed into a quick wrist action.\nA) smash\nB) drive\nC) flip\nD) chop",
+        "Answer": "C"
+    },
+    {
+        "Question": "The stroke that is executed without the room for a full backswing and involves a compressed wrist action is called a ______.\nA) loop\nB) counter-hit\nC) flip\nD) block",
+        "Answer": "C"
+    },
+    {
+        "Question": "A flip in table tennis is characterized by:\nA) a long backswing followed by a powerful hit.\nB) a short wrist flick instead of a full backswing.\nC) a defensive stroke to return high-speed balls.\nD) a high toss serve with heavy spin.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which of the following strokes is similar in characteristics to a flip but differs in the execution of the backswing?\nA) loop drive\nB) push\nC) serve\nD) block",
+        "Answer": "A"
+    },
+    {
+        "Question": "In topingpang, what is the primary orientation of the racket when executing a hit also known as a speed drive?\nA) Parallel to the direction of the stroke\nB) Perpendicular to the direction of the stroke\nC) At a 45-degree angle to the direction of the stroke\nD) The racket's orientation is not relevant",
+        "Answer": "B"
+    },
+    {
+        "Question": "In table tennis, when executing a counter-hit, how should the racket be held?\nA) Open and away from the ball\nB) Closed and near to the ball\nC) Perpendicular to the table\nD) At a high angle above the head",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which player is known for primarily using the counter-hit as an offensive strategy?\nA) Ma Long\nB) Timo Boll\nC) Kenta Matsudaira\nD) Zhang Jike",
+        "Answer": "C"
+    },
+    {
+        "Question": "When a service ball touches the net but is otherwise correct, the umpire should call a _______.\nA) Point\nB) Let\nC) Fault\nD) Loss of service",
+        "Answer": "B"
+    },
+    {
+        "Question": "A let is called when the ball is obstructed by the player on the receiving side. What does obstruction mean in this context?\nA) The player hits the ball before it bounces.\nB) The player touches the ball when it is above or traveling towards the playing surface.\nC) The player catches the ball with their hand.\nD) The player deliberately kicks the ball.",
+        "Answer": "B"
+    },
+    {
+        "Question": "If the player on the receiving side is not ready and the service is delivered, what is the correct call by the umpire?\nA) A point to the server\nB) A let\nC) A fault\nD) A re-serve",
+        "Answer": "B"
+    },
+    {
+        "Question": "The umpire or assistant umpire can interrupt the play by calling a _______.\nA) Point\nB) Let\nC) Fault\nD) Time-out",
+        "Answer": "B"
+    },
+    {
+        "Question": "In table tennis, which of the following is NOT a prescribed manner for gripping the racket according to the rules?\nA) Penhold\nB) Shakehand\nC) Hammerhold\nD) The rules do not prescribe a specific grip",
+        "Answer": "C"
+    },
+    {
+        "Question": "The push in table tennis is similar to a _____ in tennis.\nA) smash\nB) volley\nC) serve\nD) slice",
+        "Answer": "D"
+    },
+    {
+        "Question": "What effect does the push have on the ball?\nA) It imparts topspin.\nB) It imparts backspin.\nC) It increases the ball's speed.\nD) It makes the ball bounce higher.",
+        "Answer": "B"
+    },
+    {
+        "Question": "When facing a push, what should a player do if the ball is short?\nA) Loop the ball.\nB) Flip the ball.\nC) Smash the ball.\nD) Block the ball.",
+        "Answer": "B"
+    },
+    {
+        "Question": "Why can pushing the ball back against good players be a disadvantage?\nA) It allows the opponent to smash easily.\nB) It can lead to a pushing rally.\nC) It can result in the opponent countering with a loop.\nD) It is more likely to cause unforced errors.",
+        "Answer": "C"
+    },
+    {
+        "Question": "How does the backspin from a push affect the ball upon striking the opponent's racket?\nA) It causes the ball to speed up.\nB) It causes the ball to float slowly.\nC) It causes the ball to stop.\nD) It causes the ball to drop toward the table.",
+        "Answer": "D"
+    },
+    {
+        "Question": "How long can the rubber handle be at the level of the grip?\nA) 5 cm\nB) 8 cm\nC) 10 cm\nD) 12 cm",
+        "Answer": "C"
+    },
+    {
+        "Question": "If a player commits a serious offence or continues to misbehave after how many points are awarded to the opponent for misbehavior, will the umpire suspend play and report to the referee?\nA) After 1 point is awarded to the opponent\nB) After 2 points are awarded to the opponent\nC) After 3 points are awarded to the opponent\nD) After 4 points are awarded to the opponent",
+        "Answer": "C"
+    },
+    {
+        "Question": "What action can the umpire take against an authorised advisor who gives illegal advice after a warning?\nA) The umpire can ignore the advisor\nB) The umpire can give the advisor a yellow card\nC) The umpire can show the advisor a red card and ask them to leave the playing area\nD) The umpire can award a point to the opponent",
+        "Answer": "C"
+    },
+    {
+        "Question": "What color card does the umpire show to a player who commits a third offence after a warning?\nA) A yellow card\nB) A red card\nC) A green card\nD) A yellow card and a red card together",
+        "Answer": "D"
+    },
+    {
+        "Question": "Who has the authority to disqualify a player from the match for serious offences or continued misbehavior after the third point is awarded to the opponent?\nA) The umpire\nB) The referee\nC) The authorised advisor\nD) The ITTF committee",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the \"multiball system\" aim to minimize?\nA) The number of fouls committed during a game\nB) The influence of the crowd on the game's outcome\nC) The time taken for set pieces\nD) The downtime when the ball goes out of play",
+        "Answer": "D"
+    },
+    {
+        "Question": "What is the \"multiball system\" designed to do?\nA) Increase the number of goals scored\nB) Reduce the amount of time the ball is not in play\nC) Make the game more challenging\nD) Provide more balls for fans to take home",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the assumed diameter of the ball for the purposes of this article?\nA) 46 mm\nB) 73 mm\nC) 25 mm\nD) 26 mm",
+        "Answer": "B"
+    },
+    {
+        "Question": "Under ITTF regulations, if a player misbehaves a second time after receiving a warning, the umpire will show a _______ and a _______ card and award one point to the opponent.\nA) Blue and Green\nB) Yellow and Red\nC) Black and White\nD) Orange and Purple",
+        "Answer": "B"
+    },
+    {
+        "Question": "How many points will be awarded to the opponent if a player commits a third offence after being warned and misbehaving twice?\nA) One point\nB) Two points\nC) Three points\nD) No points",
+        "Answer": "B"
+    },
+    {
+        "Question": "What action will the umpire take if a player continues to misbehave after 3 points have been awarded to the opponent for misconduct?\nA) Give a verbal warning\nB) Show a yellow card\nC) Suspend play and report to the referee\nD) Award an additional point to the player",
+        "Answer": "C"
+    },
+    {
+        "Question": "What is the consequence for a player who commits a serious offence under ITTF regulations?\nA) A warning\nB) A two-point penalty\nC) Disqualification from the match\nD) A five-minute suspension",
+        "Answer": "C"
+    },
+    {
+        "Question": "What can an umpire do to an authorised advisor who gives illegal advice after a warning?\nA) Award a point to the opponent\nB) Show a yellow card\nC) Ask them to leave the playing area\nD) Give them a red card",
+        "Answer": "C"
+    },
+    {
+        "Question": "Under ITTF regulations, what is the consequence for a player who misbehaves a second time after receiving a warning?\nA) The player receives a verbal warning.\nB) The player is shown a yellow card.\nC) The player is awarded one point.\nD) The opponent is awarded one point.",
+        "Answer": "D"
+    },
+    {
+        "Question": "If a player commits a third offence after being warned and misbehaving twice, how many points are awarded to their opponent?\nA) One point\nB) Two points\nC) Three points\nD) No points are awarded",
+        "Answer": "B"
+    },
+    {
+        "Question": "What action will the umpire take if a player continues to misbehave after 3 points have already been awarded to the opponent for misconduct?\nA) The player is given another warning.\nB) The player is shown a yellow card.\nC) Play is suspended and the referee is notified.\nD) The player is automatically disqualified.",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who has the authority to disqualify a player from the match for serious offences or continuous misbehavior?\nA) The umpire\nB) The referee\nC) The authorised advisor\nD) The opponent",
+        "Answer": "B"
+    },
+    {
+        "Question": "What happens if an authorised advisor gives illegal advice after already being warned?\nA) They receive a yellow card.\nB) They are asked to leave the playing area.\nC) They are awarded a point.\nD) They are disqualified from the match.",
+        "Answer": "B"
+    },
+    {
+        "Question": "J\u00f6rgen Persson is distinguished for having competed in how many Olympic Games?\nA) Five\nB) Six\nC) Seven\nD) Eight",
+        "Answer": "C"
+    },
+    {
+        "Question": "Why is returning the serve considered one of the most difficult parts of the game?\nA) Because the ball moves too slowly\nB) Because the server has limited spin and speed choices\nC) Because the server's first move is often the least predictable\nD) Because the receiver can predict the ball's trajectory easily",
+        "Answer": "C"
+    },
+    {
+        "Question": "The racket in the 'ready position' is held:\nA) At the side with a straight arm\nB) At the ready with a bent arm\nC) Behind the back\nD) On the table",
+        "Answer": "B"
+    },
+    {
+        "Question": "What does the use of rackets with short outward \"pips\" and no sponge result in?\nA) Increased speeds and higher spin\nB) Decreased speeds and enhanced spin\nC) Decreased speeds and reduced spin\nD) Increased speeds and reduced spin",
+        "Answer": "C"
+    },
+    {
+        "Question": "Since 1959, Chinese male players have won what percentage of the men's World Championships?\nA) 40%\nB) 50%\nC) 60%\nD) 70%",
+        "Answer": "C"
+    },
+    {
+        "Question": "What effect does the Magnus effect have on a cork-spun ball's trajectory?\nA) Increases its speed\nB) Changes its direction\nC) Has little or no effect\nD) Stops the ball",
+        "Answer": "C"
+    },
+    {
+        "Question": "What was the reaction in Singapore to the success of naturalized players like Feng Tianwei?\nA) Widespread celebration\nB) Indifference\nC) Somewhat controversial\nD) Complete rejection",
+        "Answer": "C"
+    },
+    {
+        "Question": "The term \"Ping it\" in tennis refers to:\nA) A light hit\nB) A defensive shot\nC) Hitting an offensive shot deep to the corners\nD) A serve with no spin",
+        "Answer": "C"
+    },
+    {
+        "Question": "When the ball is lower than the net, a player must be able to execute a ________.\nA) speed shot\nB) defensive lob\nC) high toss serve\nD) smash",
+        "Answer": "A"
+    },
+    {
+        "Question": "The best defense for a top spin loop is a block close to the table with a paddle angle ________.\nA) greater than 90 degrees\nB) less than 90 degrees\nC) exactly 90 degrees\nD) variable depending on the spin",
+        "Answer": "B"
+    },
+    {
+        "Question": "In Australian doubles, players rotate court position after each _______.\nA) point\nB) game\nC) set\nD) match",
+        "Answer": "B"
+    },
+    {
+        "Question": "The upward force that lifts the ball when backspin is applied is known as the _______.\nA) Gravity effect\nB) Magnus effect\nC) Bernoulli's principle\nD) Doppler effect",
+        "Answer": "B"
+    },
+    {
+        "Question": "When playing table tennis, why is backspin considered important?\nA) It allows the ball to travel faster to the opponent\nB) It forces the player to volley the ball\nC) It requires the player to wait for the ball to bounce before hitting\nD) It makes the ball bounce higher on the opponent's side",
+        "Answer": "C"
+    },
+    {
+        "Question": "For defensive shots in racket sports, backspin is beneficial because it:\nA) Decreases the ball's bounce height\nB) Makes the ball travel to the opponent more quickly\nC) Gives the defender more time to return to position\nD) Allows the ball to bounce further forward",
+        "Answer": "C"
+    },
+    {
+        "Question": "How is the term \"pat-a-cake\" serve usually employed?\nA) Respectfully\nB) Belittlingly\nC) Formally\nD) Strategically",
+        "Answer": "B"
+    },
+    {
+        "Question": "According to ITTF regulations, what is the consequence for a player who misbehaves a second time after receiving a warning?\nA) The umpire shows a yellow card\nB) The umpire shows a yellow card and a red card together and awards one point to the opponent\nC) The umpire shows a red card and awards two points to the opponent\nD) The umpire suspends play and reports to the referee",
+        "Answer": "B"
+    },
+    {
+        "Question": "What is the penalty for a player's third offence of misbehavior under ITTF regulations?\nA) The opponent is awarded one point\nB) The opponent is awarded two points\nC) The player receives a warning\nD) The player is immediately disqualified from the match",
+        "Answer": "B"
+    },
+    {
+        "Question": "What action can the umpire take against an authorised advisor who gives illegal advice after a warning?\nA) Show a yellow card\nB) Award one point to the opponent\nC) Show a red card and ask them to leave the playing area\nD) Suspend play and report to the referee",
+        "Answer": "C"
+    },
+    {
+        "Question": "Who has the power to disqualify a player from the match for serious offences or continued misbehavior after the third point is awarded to the opponent for misbehavior?\nA) The umpire\nB) The referee\nC) The authorised advisor\nD) The ITTF committee",
+        "Answer": "B"
+    },
+    {
+        "Question": "Which serve is known for inducing strong lateral movement?\nA) Hybrid\nB) Jump float\nC) Sidespin\nD) Standing topspin",
+        "Answer": "C"
+    }
+]

@@ -6130,7 +6130,7 @@
     "level": "easy",
     "sport": "soccer",
     "hop": "single",
-    "question": "Main Question: \nDuring the final minutes of a one-point off football game, how should the team with the ball best decide their strategy?\nA) Attempt a risky long pass to potentially score quickly.\nB) Continue with their standard gameplay to maintain possession\nC) Play defensively to prevent the opponent from scoring.\nD) Try to slow down the game.\n",
+    "question": "Main Question: \nDuring the final minutes of a one-point off football game, how should the team with the ball, which is one-point off, best decide their strategy?\nA) Attempt a risky long pass to potentially score quickly.\nB) Continue with their standard gameplay to maintain possession\nC) Play defensively to prevent the opponent from scoring.\nD) Try to slow down the game.\n",
     "answer": "A"
   },
   {

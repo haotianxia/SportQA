@@ -4171,9 +4171,13 @@
   {
     "level": "easy",
     "sport": "volleyball",
-    "hop": "single",
+    "hop": "multi",
     "question": "Main Question: What is the typical duration of a set in a volleyball match?\n \n A. 15 minutes\n B. 45 minutes\n C. 25 minutes\n D. 40 minutes\n \n Sub-Question 1: How many sets does a team need to win to claim victory in a standard volleyball match?\n \n A. 2 sets\n B. 3 sets\n C. 4 sets\n D. 5 sets\n \n Sub-Question 2: What is the usual scoring system in the first set of a volleyball match?\n \n A. First team to score 15 points\n B. First team to score 20 points\n C. First team to score 25 points\n D. First team to score 30 points",
-    "answer": "C"
+    "answers": {
+      "main": "C",
+      "sub-question1": "B",
+      "sub-question2": "C"
+    }
   },
   {
     "level": "easy",
@@ -6126,7 +6130,7 @@
     "level": "easy",
     "sport": "soccer",
     "hop": "single",
-    "question": "Main Question: \nDuring the final minutes of a one-point off football game, how should the team with the ball best decide their strategy?\nA) Attempt a risky long pass to potentially score quickly.\nB) Continue with their standard gameplay to maintain possession\nC) Play defensively to prevent the opponent from scoring.\nD) Try to slow down the game.\n",
+    "question": "Main Question: \nDuring the final minutes of a one-point off football game, how should the team with the ball, which is one-point off, best decide their strategy?\nA) Attempt a risky long pass to potentially score quickly.\nB) Continue with their standard gameplay to maintain possession\nC) Play defensively to prevent the opponent from scoring.\nD) Try to slow down the game.\n",
     "answer": "A"
   },
   {

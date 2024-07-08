@@ -1183,7 +1183,8 @@
     "questions": "Main Question:  How might a tennis player's strategy change depending on the surface they are playing on and their opponent's playing style? A) They will change their serving technique B) They will not change anything C) They will modify their footwork and stroke  D) A and C   Sub-Question 1:  What are the different types of surfaces tennis matches are played on? A) Grass, Clay, Hard  B) Sand, Grass, Clay C) Concrete, Mud, Grass D) Clay, Carpet, Ice  Sub-Question 2:  What are some typical tennis playing styles? A) Aggressive baseliner, Serve-and-volley, Counterpuncher B) Offensive, Defensive, Neutral C) Fast, Slow, Medium D) High, Low, Medium",
     "answers": {
       "main": "D",
-      "sub-question1": "A:A"
+      "sub-question1": "A",
+      "sub-question2": "A"
     }
   },
   {
@@ -1565,7 +1566,8 @@
     "questions": "Main Question:   Which of the following scenarios would most likely result in an overrule in tennis?  A) A line judge's call of 'out' when the ball was in by a small margin, but the player did not request a challenge. B) A player appeals for an overrule when the opponent's serve was called 'in', but the player does not have a challenging opportunity. C) The ball was clearly out and the player had no challenges left. D) A player appeals for an overrule when the opponent's serve was called 'in' but actually it was 'out', but the player believes it was 'out' and makes a Hawk-Eye challenge.  Sub-Question 1:  In tennis, when can a chair umpire overrule a line judge's call?  A) Only when the ball was clearly out. B) Only when the player requests a challenge. C) Regardless of the player's challenges left, if the chair umpire is certain that the line judge's call was incorrect. D) When the chair umpire wants.  Sub-Question 2:  What is the role of a player's challenge in an overrule situation in tennis?  A) The player's challenge can only be used when the chair umpire agrees with the player's view. B) A player's challenge is irrelevant to the chair umpire's decision to overrule a call. C) The player's challenge can initiate a video review, which can then potentially lead to an overrule. D) A player's challenge can only be used when the ball was clearly out.",
     "answers": {
       "main": "D",
-      "sub-question1": "D:C"
+      "sub-question1": "D",
+      "sub-question2": "C"
     }
   },
   {
@@ -1607,7 +1609,8 @@
     "answers": {
       "main": "C",
       "sub-question1": "C",
-      "sub-question2": "B:B"
+      "sub-question2": "B",
+      "sub-question3": "B"
     }
   },
   {
@@ -1617,7 +1620,8 @@
     "questions": "Main Question: Why would a roving umpire in a tennis match issue a code violation to Player A during the first set, even though Player B was the one who smashed his racquet in frustration?  A) Player A used offensive language towards Player B. B) Player A was coaching Player B. C) Player A was distracting Player B. D) Player B's racquet accidentally hit Player A.  Sub-Question 1: What is the potential outcome of Player A using offensive language towards Player B?  A) Player A is disqualified. B) Player A receives a warning. C) Player B receives a point. D) All of above.  Sub-Question 2: How could Player A distract Player B during the match?  A) By continuously talking to Player B. B) By smashing his own racquet. C) By coaching Player B. D) By using offensive language.",
     "answers": {
       "main": "A",
-      "sub-question1": "D:D"
+      "sub-question1": "D",
+      "sub-question2": "D"
     }
   },
   {
@@ -14734,10 +14738,11 @@
     "level": "easy",
     "sport": "soccer",
     "hop": "multi",
-    "questions": "Main +2509:2607Question: Why might a referee decide to give a yellow card to a football player during a match?  A) The player used foul language B) The player scored a goal C) The player shook hands with the opponent D) The player substituted another player  Sub-Question 1: What is the purpose of a yellow card in football?  A) To congratulate a player B) To warn a player for misconduct C) To allow a player to rest D) To substitute a player  Sub-Question 2: How does the referee communicate his decision to the player?  A) By writing a letter B) By verbally telling the player C) By showing a colored card D) By blowing a whistle",
+    "questions": "Main Question: Why might a referee decide to give a yellow card to a football player during a match?  A) The player used foul language B) The player scored a goal C) The player shook hands with the opponent D) The player substituted another player  Sub-Question 1: What is the purpose of a yellow card in football?  A) To congratulate a player B) To warn a player for misconduct C) To allow a player to rest D) To substitute a player  Sub-Question 2: How does the referee communicate his decision to the player?  A) By writing a letter B) By verbally telling the player C) By showing a colored card D) By blowing a whistle",
     "answers": {
       "main": "A",
-      "sub-question1": "B:C"
+      "sub-question1": "B",
+      "sub-question2": "C"
     }
   },
   {
@@ -30619,7 +30624,8 @@
     "questions": "Main Question: Which of the following actions would the second referee in a volleyball match undertake to ensure effective coordination with line judges and scorers?   A) Discussing the players' physical fitness  B) Discussing the match strategy with the coach  C) Checking the line judges' understanding of signals  D) Discussing the weather conditions    Sub-Question 1: Which of these is a responsibility of the second referee in a volleyball match?  A) Planning the team's training schedule  B) Checking the line judges' understanding of signals  C) Discussing the match strategy with the coach  D) Discussing the weather conditions    Sub-Question 2: What is the role of line judges and scorers in a volleyball match?  A) Planning the team's training schedule  B) Discussing the players' physical fitness  C) Assisting in monitoring whether the ball is touched or in-out of the court boundary  D) Discussing the weather conditions",
     "answers": {
       "main": "C",
-      "sub-question1": "B:C"
+      "sub-question1": "B",
+      "sub-question2": "C"
     }
   },
   {

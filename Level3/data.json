@@ -4767,7 +4767,7 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: How does the process of a Medical Timeout due to an injury occur in a professional tennis match and what are the implications for the injured player?\nA) The player requests a Medical Timeout, the physiotherapist assesses the injury, the player receives treatment for a maximum of 3 minutes, and the player loses a point for each minute exceeding the limit.\nB) The player requests a Medical Timeout, the physiotherapist assesses the injury, the player receives treatment for a maximum of 3 minutes, and the player is not penalized if the treatment exceeds the limit.\nC) The umpire requests a Medical Timeout on behalf of the player, the physiotherapist assesses the injury, the player receives treatment for a maximum of 3 minutes, and the player is disqualified if the treatment exceeds the limit.\nD) The player requests a Medical Timeout, the physiotherapist assesses the injury, the player receives treatment for a maximum of 3 minutes, and the player is disqualified if the treatment exceeds the limit.",
-    "answer": "AB"
+    "answer": "B"
   },
   {
     "level": "hard",

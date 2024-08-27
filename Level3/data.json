@@ -2363,7 +2363,7 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: Which of the following statements about the US Open's all-Hawkeye system is correct?\nA) The duties of the line judge are superseded.\nB) A strong push to promote this technology may result in some line judges losing their jobs.\nC) Hawkeye's penalty is final.\nD) The chair umpire can overturn Hawkeye's decision.",
-    "answer": "ABCD"
+    "answer": "ABC"
   },
   {
     "level": "hard",
@@ -4028,13 +4028,13 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: What is the score of a tennis player when he/she wins a tiebreak game?\nA) 6\nB) 7\nC) 5\nD) 8",
-    "answer": "B"
+    "answer": "BD"
   },
   {
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why does a player A serve from the right court when the situation is 2(A):1 in a tennis tiebreak?\nA. Because the rules require alternating service courts after the first point in which he served in left court.\nB. The player has to serve from the left court because his point is 2.\nC. Because it is easier for the player to hit the ball from the left court.\nD. Because the player can choose any court to serve from during a tiebreak.",
+    "question": "Question: Why does a player A serve from the right court when the situation is 2:1 in a tennis tiebreak?\nA. Because the rules require alternating service courts after the first point in which he served in left court.\nB. The player has to serve from the left court because his point is 2.\nC. Because it is easier for the player to hit the ball from the left court.\nD. Because the player can choose any court to serve from during a tiebreak.",
     "answer": "A"
   },
   {
@@ -4076,7 +4076,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Which of the following best describes the structure of a Grand Slam men's singles tennis match?\nA. A match consists of three sets, and each set is won by the player who first wins six games and leads by at least 2 games.\nB. A match consists of four quarters, and each quarter lasts 15 minutes.\nC. A match consists of two halves, and each half lasts 45 minutes.\nD. A match consists of nine innings, and each player has a turn to bat in each inning.",
+    "question": "Question: Which of the following best describes the structure of a Grand Slam men's singles tennis match?\nA. A match consists of up to five sets, and each set is won by the player who first wins six games and leads by at least 2 games.\nB. A match consists of four quarters, and each quarter lasts 15 minutes.\nC. A match consists of two halves, and each half lasts 45 minutes.\nD. A match consists of nine innings, and each player has a turn to bat in each inning.",
     "answer": "A"
   },
   {
@@ -4168,7 +4168,7 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: Why is it important for a tennis coach to ensure that players use the correct grip during training?\nA. It enhances the aesthetic appeal of the player\nB. It ensures that the tennis racket doesn't slip from the player's hands\nC. It allows the player to hit a wide range of shots with more control and power\nD. It increases the player's popularity\n",
-    "answer": "C"
+    "answer": "BC"
   },
   {
     "level": "easy",
@@ -4217,7 +4217,7 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: What may be the penalty for a player in a tennis match who exceeds the allotted time for a break between games?\nA) The player is disqualified\nB) The player loses a point\nC) The server loses a serve\nD) The player receives a warning\n",
-    "answer": "ABD"
+    "answer": "D"
   },
   {
     "level": "easy",
@@ -5011,7 +5011,7 @@
     "level": "hard",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Which of the following scenarios would require the intervention of a roving umpire in a professional tennis match?\nA) Player A claims that Player B's serve was out, but Player B disputes this.\nB) Player B's racket touches the net during a serve, but neither player notices.\nC) Player A's ball hits the net cord on the serve and lands in the correct service box, but Player B is unsure about the rules regarding this situation.\nD) Player B repeatedly serves before Player A is ready, causing Player A to request the umpire's intervention.",
+    "question": "Question: Which of the following scenarios would require the intervention of an umpire in a professional tennis match?\nA) Player A claims that Player B's serve was out, but Player B disputes this.\nB) Player B's racket touches the net during a serve, but neither player notices.\nC) Player A's ball hits the net cord on the serve and lands in the correct service box, but Player B is unsure about the rules regarding this situation.\nD) Player B repeatedly serves before Player A is ready, causing Player A to request the umpire's intervention.",
     "answer": "ABD"
   },
   {
@@ -7664,7 +7664,7 @@
     "level": "hard",
     "sport": "soccer",
     "hop": "single",
-    "question": "Question: What is typically done by the scoring team immediately after a goal is scored in a football match?\nA) The team leaves the field  \nB) The team starts the next play from the center circle  \nC) The team changes their goalkeeper  \nD) The team takes a corner kick  \n",
+    "question": "Question: What is typically done by the conceding team immediately after a goal is scored in a football match? A) The team leaves the field   B) The team starts the next play from the center circle   C) The team changes their goalkeeper   D) The team takes a corner kick  ",
     "answer": "B"
   },
   {
@@ -8196,7 +8196,7 @@
     "level": "easy",
     "sport": "soccer",
     "hop": "single",
-    "question": "Question: What is a common technological tool used in football to assist with offside decisions?\nA) Hawk-Eye Technology\nB) Goal-Line Technology\nC.Semi-automatic offside recognition technology\nD) Electronic Performance and Tracking Systems\n",
+    "question": "Question: What is a common technological tool used in football to assist with offside decisions? A) Hawk-Eye Technology B) Goal-Line Technology C) Semi-automatic offside recognition technology D) Electronic Performance and Tracking Systems",
     "answer": "C"
   },
   {
@@ -9198,7 +9198,7 @@
     "level": "easy",
     "sport": "soccer",
     "hop": "single",
-    "question": "Question: Why is it essential for soccer referees to avoid collisions or obstructions with players, the ball, or other referees during a match? \nA) It maintains the flow of the game and prevents unnecessary interruptions. \nB) It helps to preserve the physical safety of all individuals on the field. \nC) It allows the referee to give more yellow cards to players. \nD) It ensures that the referee?€?s judgment and decision-making are not compromised due to poor positioning or visibility.",
+    "question": "Question: Why is it essential for soccer referees to avoid collisions or obstructions with players, the ball, or other referees during a match?  A) It maintains the flow of the game and prevents unnecessary interruptions.  B) It helps to preserve the physical safety of all individuals on the field.  C) It allows the referee to give more yellow cards to players.  D) It ensures that the referee's judgment and decision-making are not compromised due to poor positioning or visibility.",
     "answer": "ABD"
   },
   {
@@ -9485,7 +9485,7 @@
     "level": "hard",
     "sport": "soccer",
     "hop": "single",
-    "question": "Question: Which of the following are valid procedures according to FIFA's laws on player substitution in a professional soccer match?\nA) A player who has been substituted becomes the substitute and can replace a player who is still on the field.\nB) The substituted player can leave the field at the nearest boundary line, unless the referee indicates the player to leave at the halfway line.\nC) A substitution can only be made during a stoppage in play and with the referee?€?s permission.\nD) A substituted player can return to the field if he/she is deemed medically fit after an injury assessment.",
+    "question": ""Question: Which of the following are valid procedures according to FIFA's laws on player substitution in a professional soccer match? A) A player who has been substituted becomes the substitute and can replace a player who is still on the field. B) The substituted player can leave the field at the nearest boundary line, unless the referee indicates the player to leave at the halfway line. C) A substitution can only be made during a stoppage in play and with the referee's permission. D) A substituted player can return to the field if he/she is deemed medically fit after an injury assessment."",
     "answer": "BC"
   },
   {
@@ -10580,7 +10580,7 @@
     "level": "hard",
     "sport": "soccer",
     "hop": "multi",
-    "questions": "Main Question:  How can a goal be considered valid in a football game given the following scenarios:  A) A player kicks the ball into the goal from a direct free kick after a foul, but the referee had not yet blown the whistle to resume play.  B) The ball crosses the goal line between the goalposts and under the crossbar, but it was kicked by a player who was in an offside position.  C) A player scores a goal directly from a throw-in.  D) The ball crosses the goal line between the goalposts and under the crossbar after it was last touched by a player from the opposing team.  Sub-Question 1:  In a football match, when can a player be considered to be in an offside position? A) When the player is nearer to the opponent's goal line than both the ball and the second-to-last opponent when the ball is played. B) When the player is in his own half of the field. C) When the player is level with the second-to-last opponent. D) When the player is level with the two last opponents.  Sub-Question 2: What is the rule regarding scoring a goal directly from a throw-in in a football match? A) A goal can be scored directly from a throw-in. B) A goal cannot be scored directly from a throw-in. C) A goal can be scored directly from a throw-in only in certain situations. D) A goal can be scored directly from a throw-in if the ball bounces off an opponent.",
+    "questions": "Main Question:  How can a goal be considered valid in a football game given the following scenarios:  A) A player kicks the ball into the goal from a direct free kick after a foul, but the referee had not yet blown the whistle to resume play.  B) The ball crosses the goal line between the goalposts and under the crossbar, but it was kicked by a player who was in an offside position.  C) A player scores a goal directly from a throw-in.  D) The ball crosses the goal line between the goalposts and under the crossbar after it was last touched by a player from the opposing team.  Sub-Question 1:  In a football match, when can a player be considered to be in an offside position? A) When the player is nearer to the opponent's goal line than both the ball and the second-to-last opponent when the ball is played. B) When the player is in his own half of the field. C) When the player is level with the second-to-last opponent. D) When the player is level with the two last opponents.  Sub-Question 2: What is the rule regarding scoring a goal directly from a throw-in in a football match? A) A goal can be scored directly from a throw-in. B) A goal cannot be scored directly from a throw-in. C) A goal can be scored directly from a throw-in only in certain situations. D) A goal can be scored directly from a throw-in if the ball bounces back out of the goal and hits an opponent.",
     "answers": {
       "main": "D",
       "sub-question1": "A",
@@ -15659,7 +15659,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: Why might a referee call a holding penalty during an American football game?\nA) A player tackles someone who pretended to have the ball but doesn't have the ball.\nB) An offensive player uses their hands or arms to hinder a defender's movement.\nC) A player grabs another player's face mask.\nD) A defender wraps their arms around the waist of an offensive player from behind.",
+    "question": "Question: Why might a referee call a holding penalty during an American football game? A) A player tackles someone who pretended to have the ball but doesn't have the ball. B) An offensive player uses their hands or arms to hinder a defender's movement. C) A player grabs another player's face mask. D) A defender wraps their arms around the waist of an offensive lineman from behind.",
     "answer": "BD"
   },
   {
@@ -16602,7 +16602,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "multi",
-    "questions": "Main Question: Why might a referee decide to penalize a team with both a loss of down and a 10-yard penalty after a play in an American football game?  A) The quarterback was flagged for intentional grounding when he was not outside the tackle box and there was no eligible receiver in the area. B) A defensive player was offside, and the play resulted in a sack. C) An offensive player committed holding in their own end zone. D) The offensive team had too many players on the field during the play.  Sub-Question 1: Why would intentional grounding result in a loss of down?  A) The quarterback threw the ball to an area with no eligible receiver to avoid a sack. B) The quarterback spiked the ball to stop the clock. C) The quarterback was outside the tackle box and threw the ball away. D) The pass made by the quarterback did not cross the line of scrimmage.  Sub-Question 2: Under what circumstances does holding lead to a safety if committed by the offense in their own end zone?  A) The holding infraction prevented a potential sack. B) The holding occurred while the quarterback was in the pocket. C) The offensive player’s holding action directly prevented a defender from making a play on the ball carrier. D) The holding took place while the ball carrier was tackled in the end zone.",
+    "questions":"Main Question: Why might a referee decide to penalize a team with both a loss of down and a 10-yard penalty after a play in an American football game?  A) The quarterback was flagged for intentional grounding when he was not outside the tackle box and there was no eligible receiver in the area. B) A defensive player was offside, and the play resulted in a sack. C) An offensive player committed holding in their own end zone. D) The offensive team had too many players on the field during the play.  Sub-Question 1: Why would intentional grounding result in a loss of down?  A) The quarterback threw the ball to an area with no eligible receiver to avoid a sack. B) The quarterback spiked the ball to stop the clock. C) The quarterback was outside the tackle box and threw the ball away. D) The pass made by the quarterback did not cross the line of scrimmage.  Sub-Question 2: Under what circumstances does holding lead to a safety if committed by the offense in their own end zone?  A) The holding infraction prevented a potential sack. B) The holding occurred while the quarterback was in the pocket. C) The offensive player's holding action directly prevented a defender from making a play on the ball carrier. D) The holding took place while the ball carrier was tackled in the end zone.",
     "answers": {
       "main": "A",
       "sub-question1": "AD",
@@ -16889,7 +16889,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: How does the NFL's substitution rule affect the game play when a player is injured during a defensive drive and the play results in a turnover, considering that the injured player's team has not used a timeout and the game clock does not stop?\nA) The injured player must leave the field for at least one play, unless a timeout is used by the injured player's team.\nB) The opposing team can make unlimited substitutions while the injured player is attended to on the field.\nC) The injured player can remain in the game if the turnover leads to an immediate change of possession and the game clock continues to run.\nD) The team with the injured player may substitute a player to replace the injured one after the turnover, even if no timeout is called.\n",
+    "question": "Question: How does the NFL's substitution rule affect the game play when a player is injured during a defensive drive and the play results in a turnover, considering that the injured player's team has not used a timeout and the game clock does not stop? A) The injured player must leave the field for at least one play, unless a timeout is used by the injured player's team. B) The opposing team can make unlimited substitutions while the injured player is attended to on the field. C) The injured player can remain in the game if the turnover leads to an immediate change of possession and the game clock continues to run because the player recovers quickly. D) The team with the injured player may substitute a player to replace the injured one after the turnover, even if no timeout is called.",
     "answer": "ABD"
   },
   {
@@ -17066,13 +17066,6 @@
     "hop": "single",
     "question": "Question: Which piece of equipment is required for all players to wear during an American football game?\nA) Shoulder pads\nB) Knee pads\nC) Helmet\nD) Mouthguard\n",
     "answer": "ABC"
-  },
-  {
-    "level": "hard",
-    "sport": "American Football",
-    "hop": "single",
-    "question": "Question: Which position is responsible for running routes down field and catching a pass in an American football team?\nA) Wide Receiver\nB) Quarterback\nC) Linebacker\nD) Running Back",
-    "answer": "A"
   },
   {
     "level": "hard",
@@ -17274,7 +17267,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: Why might a football coach call a timeout during a critical play in the fourth quarter?\nA) To give the players a rest\nB) To discuss and adjust the team's strategy\nC) To challenge a referee's call\nD) To celebrate a good play\n",
+    "question": "Question: Why might a football coach most likely call a timeout during a critical play in the fourth quarter?\nA) To give the players a rest\nB) To discuss and adjust the team's strategy\nC) To challenge a referee's call\nD) To celebrate a good play\n",
     "answer": "B"
   },
   {
@@ -17878,7 +17871,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "multi",
-    "questions": "Main Question: How can an American football player ensure they are maintaining their physical fitness during the off-season to prepare for the demands of the game?  A) Participating in regular cardiovascular exercises B) Engaging in sport-specific drills C) Taking an extended break from all physical activities D) Attending a cooking class  Sub-Question 1: How does participating in cardiovascular exercises benefit an American football player during the off-season?  A) Increases stamina B) Enhances knitting skills C) Improves balance D) Builds muscular endurance  Sub-Question 2: Why are sport-specific drills important for an American football player’s off-season training?  A) They help maintain skill levels B) They provide a break from physical activity C) They ensure the player is ready for culinary challenges D) They keep the player's strategic thinking sharp",
+    "questions": "Main Question: How can an American football player ensure they are maintaining their physical fitness during the off-season to prepare for the demands of the game?  A) Participating in regular cardiovascular exercises B) Engaging in sport-specific drills C) Taking an extended break from all physical activities D) Attending a cooking class  Sub-Question 1: How does participating in cardiovascular exercises benefit an American football player during the off-season?  A) Increases stamina B) Enhances knitting skills C) Improves balance D) Builds muscular endurance  Sub-Question 2: Why are sport-specific drills important for an American football playerâ€™s off-season training?  A) They help maintain skill levels B) They provide a break from physical activity C) They ensure the player is ready for culinary challenges D) They keep the player's strategic thinking sharp",
     "answers": {
       "main": "AB",
       "sub-question1": "AD",
@@ -18534,7 +18527,7 @@
     "level": "hard",
     "sport": "American Football",
     "hop": "multi",
-    "questions": "Main Question: Why might a football team choose to perform a substitution of a defensive player with a special teams player during a fourth down on their own 20-yard line when the opposing team is not showing any signs of a fake punt?  A) To provide better pass coverage in case of an unexpected pass play. B) To adapt to a potential fake punt despite no initial signs. C) To rest the defensive player for the next drive. D) To comply with the maximum number of players allowed on the field.  Sub-Question 1: In American football, what is the strategic importance of field position regarding the decision to substitute players during a fourth down?  A) Field position determines the likelihood of the opposing team opting for a field goal. B) Field position impacts the offensive play choices and potential risks a team is willing to take. C) Field position is irrelevant to substitution decisions. D) Field position dictates the number of defensive players on the field.  Sub-Question 2: How does the presence of a special teams player on the field during a fourth down potentially benefit the team if the opposing team unexpectedly opts for a pass play?  A) Special teams players are generally faster and can rush the passer more effectively. B) Special teams players are better at tackling and can prevent a running back from gaining yards. C) Special teams players are typically involved in kick coverage and can adapt to defend against pass plays. D) Special teams players enhance the team’s ability to execute offensive plays.",
+    "questions": "Main Question: Why might a football team choose to perform a substitution of a defensive player with a special teams player during a fourth down on their own 20-yard line when the opposing team is not showing any signs of a fake punt?  A) To provide better pass coverage in case of an unexpected pass play. B) To adapt to a potential fake punt despite no initial signs. C) To rest the defensive player for the next drive. D) To comply with the maximum number of players allowed on the field.  Sub-Question 1: In American football, what is the strategic importance of field position regarding the decision to substitute players during a fourth down?  A) Field position determines the likelihood of the opposing team opting for a field goal. B) Field position impacts the offensive play choices and potential risks a team is willing to take. C) Field position is irrelevant to substitution decisions. D) Field position dictates the number of defensive players on the field.  Sub-Question 2: How does the presence of a special teams player on the field during a fourth down potentially benefit the team if the opposing team unexpectedly opts for a pass play?  A) Special teams players are generally faster and can rush the passer more effectively. B) Special teams players are better at tackling and can prevent a running back from gaining yards. C) Special teams players are typically involved in kick coverage and can adapt to defend against pass plays. D) Special teams players enhance the teamâ€™s ability to execute offensive plays.",
     "answers": {
       "main": "B",
       "sub-question1": "B",
@@ -19093,7 +19086,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: Which of the following physical fitness tests would be most appropriate for assessing the physical fitness level of a professional basketball player and why?\n \nA) The Cooper Test: This test measures aerobic endurance. The athlete runs as far as possible within 12 minutes.\nB) The Illinois Agility Test: This test measures speed and agility. The athlete runs a course involving a series of quick changes of direction.\nC) The Sit and Reach Test: This test measures flexibility. The athlete sits with legs straight and reaches forward as far as possible.\nD) The Body Mass Index (BMI) Test: This test measures body composition. It calculates the ratio of an individual's weight to their height.",
+    "question": ""Question: Which of the following physical fitness tests would be appropriate for assessing the physical fitness level of a professional basketball player and why? A) The Cooper Test: This test measures aerobic endurance. The athlete runs as far as possible within 12 minutes. B) The Illinois Agility Test: This test measures speed and agility. The athlete runs a course involving a series of quick changes of direction. C) The Sit and Reach Test: This test measures flexibility. The athlete sits with legs straight and reaches forward as far as possible. D) The Body Mass Index (BMI) Test: This test measures body composition. It calculates the ratio of an individual's weight to their height."",
     "answer": "ABCD"
   },
   {
@@ -19184,7 +19177,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: Why might a referee during a basketball game decide to start the game with a jump ball even though one team had clear possession of the ball at the start of the game?\n \nA) The referee made a mistake and didn't see the clear possession.\nB) The referee determined that both teams had possession of the ball simultaneously.\nC) The referee decided to start with a jump ball due to a rule violation by the team with clear possession.\nD) The game is being played under FIBA rules, where every period starts with a jump ball.",
+    "question": "Question: Why might a referee during a basketball game decide to restart the game with a jump ball even though one team had clear possession of the ball at the start of the game? A) The referee made a mistake and didn't see the clear possession. B) The referee determined that both teams had possession of the ball simultaneously. C) The referee decided to start with a jump ball due to a rule violation by the team with clear possession. D) The game is being played under FIBA rules, where every period starts with a jump ball.",
     "answer": "C"
   },
   {
@@ -19275,7 +19268,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: How are the durations of time-outs typically managed in a professional basketball game, considering events like regular gameplay, overtime periods, and television broadcasts?\n \nA) Each team is granted six full time-outs that last 75 seconds each during regulation time and two 75-second time-outs during each overtime period.\nB) In the last three minutes of regulation and overtime periods, each team is allowed up to two 75-second time-outs.\nC) Television time-outs, which are not charged to either team, last approximately 100 seconds during national broadcasts.\nD) In NBA games, each team is granted seven full time-outs that last 90 seconds each during regulation time and one 90-second time-out during each overtime period.",
+    "question": "Question: How are the durations of time-outs typically managed in a professional basketball game, considering events like regular gameplay, overtime periods, and television broadcasts? A) Each team is granted seven full time-outs that last 75 seconds each during regulation time and two 75-second time-outs during each overtime period. B) In the last three minutes of regulation and overtime periods, each team is allowed up to two 75-second time-outs. C) Television time-outs, which are not charged to either team, last approximately 100 seconds during national broadcasts. D) In NBA games, each team is granted seven full time-outs that last 90 seconds each during regulation time and one 90-second time-out during each overtime period.",
     "answer": "AB"
   },
   {
@@ -19660,7 +19653,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: During a quarter of a professional basketball game, what is the typical number of time-outs allowed per team?\n \n A) 1\n B) 2\n C) 3\n D) 4",
+    "question": "Question: During a quarter of a professional basketball game, what is the typical number of time-outs allowed per team? A) 1 B) 2 C) 3 D) 7 per game",
     "answer": "D"
   },
   {
@@ -19709,7 +19702,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: How does the 8-second rule in basketball relate to a backcourt violation?\n \n A) A team has 8 seconds to pass the ball to the frontcourt, or else it's a backcourt violation.\n B) A player has 8 seconds to shoot the ball after a backcourt violation.\n C) A team has 8 seconds to score a basket after a backcourt violation.\n D) A player has 8 seconds to dribble the ball in the backcourt.",
+    "question": "Question: How does the 8-second rule in basketball relate to a backcourt violation? A) A team has 8 seconds to pass the ball to the frontcourt, or else it's a backcourt violation. B) A player has 8 seconds to shoot the ball after a backcourt violation. C) A team has 8 seconds to score a basket after a backcourt violation. D) A player has 8 seconds to dribble the ball in the backcourt before they must pass to another player in the backcourt.",
     "answer": "A"
   },
   {
@@ -20365,8 +20358,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "multi",
-    "questions": "Main Question: How many time-outs are allowed per team per quarter in a standard NBA basketball game? A) 2 B) 1 C) 7 D) 4  Sub-Question 1: How many time-outs can a team call in total during a half in a standard NBA basketball game? A) 4 B) 7 C) 2 D) 8  Sub-Question 2: How many quarters are there in a standard basketball game? A) 3 B) 4 C) 2 D) 5",
-    "answers": {
+    "questions": "Main Question: How many time-outs are allowed per team per quarter in a standard NBA basketball game? A) 2 B) 1 C) 7 per game D) 4  Sub-Question 1: How many time-outs can a team call in total during a half in a standard NBA basketball game? A) 4 B) 7 C) 2 D) 8  Sub-Question 2: How many quarters are there in a standard basketball game? A) 3 B) 4 C) 2 D) 5","answers": {
       "main": "C",
       "sub-question1": "B",
       "sub-question2": "B"
@@ -21074,7 +21066,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "multi",
-    "questions": "Main Question: Which is the appropriate step to be taken by the referee when a coach protests a decision during a basketball game?  A) Ignore the coach and continue the game B) Review the decision if the coach has a remaining challenge, or give a warning or issue a technical foul to the coach if the coach does not have any remaining challenges C) Ask the coach to leave the court D) Stop the game and argue with the coach  Sub-Question 1: What is the general rule for handling protests from coaches during the game?  A) The referee should stop the game and review the play if the coach has a remaining challeng B) The referee should ignore the coach C) The referee can issue a technical foul if the coach's protest is disrespectful or disruptive D) The referee should ask the coach to leave the court  Sub-Question 2: What should a referee do if a coach continues to protest after a technical foul has been issued?  A) The referee should ignore the coach B) The referee should stop the game and argue with the coach C) The referee can issue a second technical foul, ejecting the coach from the game D) The referee should continue issuing technical fouls indefinitely",
+    "questions": "Main Question: Which is the appropriate step to be taken by the referee when a coach protests a decision during a basketball game?  A) Ignore the coach and continue the game B) Review the decision if the coach has a remaining challenge, or give a warning or issue a technical foul to the coach if the coach does not have any remaining challenges C) Ask the coach to leave the court D) Stop the game and argue with the coach  Sub-Question 1: What is the general rule for handling protests from coaches during the game?  A) The referee should stop the game and review the play if the coach has a remaining challenge B) The referee should ignore the coach C) The referee can issue a technical foul if the coach's protest is disrespectful or disruptive D) The referee should ask the coach to leave the court  Sub-Question 2: What should a referee do if a coach continues to protest after a technical foul has been issued?  A) The referee should ignore the coach B) The referee should stop the game and argue with the coach C) The referee can issue a second technical foul, ejecting the coach from the game D) The referee should continue issuing technical fouls indefinitely",
     "answers": {
       "main": "B",
       "sub-question1": "BC",
@@ -22484,7 +22476,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "multi",
-    "questions": "Main Question:   How are the technical gestures and signals for a charge foul and traveling violation in basketball communicated and interpreted during a game?   A) The referee blows the whistle and signals with a fist punching updward in the air for a charge foul, while for a traveling violation, the referee uses a hand motion that mimics walking. B) For a charge foul, the referee blows the whistle, claps hands above the head, and then points in the direction of the offensive team's basket, while for a traveling violation, the referee blows the whistle and signals by rotating their fists around each other. C) The referee blows the whistle and signals with a hand thrusting forward for a charge foul, while for a traveling violation, the referee uses a hand motion that mimics dribbling. D) For a charge foul, the referee blows the whistle, puts a hand on the head and then points in the direction of the defensive team's basket, while for a traveling violation, the referee blows the whistle and makes a running motion with their hands.     Sub-Question 1:  How are the signals for a charge foul in basketball communicated and interpreted?   A) The referee blows the whistle and signals with a fist punching upward in the air. B) The referee blows the whistle, claps hands above the head, and then points in the direction of the offensive team's basket. C) The referee blows the whistle and signals with a hand thrusting forward. D) The referee blows the whistle, puts a hand on the head and then points in the direction of the defensive team's basket.     Sub-Question 2:  How are the signals for a traveling violation in basketball communicated and interpreted?   A) The referee uses a hand motion that mimics walking. B) The referee blows the whistle and signals by rotating their fists around each other. C) The referee uses a hand motion that mimics dribbling. D) The referee blows the whistle and makes a running motion with their hands.",
+    "questions": "Main Question:   How are the technical gestures and signals for a charge foul and traveling violation in basketball communicated and interpreted during a game?   A) The referee blows the whistle and signals with a fist punching updward in the air for a charge foul, while for a traveling violation, the referee uses a hand motion that mimics walking. B) For a charge foul, the referee blows the whistle, claps hands above the head, and then points in the direction of the offensive team's basket, while for a traveling violation, the referee blows the whistle and signals by rotating their fists around each other. C) The referee blows the whistle and signals with a hand thrusting forward for a charge foul, while for a traveling violation, the referee uses a hand motion that mimics dribbling. D) For a charge foul, the referee blows the whistle, puts a hand on the head and then points in the direction of the defensive team's basket, while for a traveling violation, the referee blows the whistle and makes a running motion with their hands.     Sub-Question 1:  How are the signals for a charge foul in basketball communicated and interpreted?   A) The referee blows the whistle and signals with a fist punching upward in the air. B) The referee blows the whistle, claps hands above the head, and then points in the direction of the offensive team's basket. C) The referee blows the whistle and signals with a hand thrusting forward. D) The referee blows the whistle, puts a hand on the head and then points in the direction of the defensive team's basket.     Sub-Question 2:  How are the signals for a traveling violation in basketball communicated and interpreted?   A) The referee uses a hand motion that mimics walking. B) The referee blows the whistle and signals by rotating their fists around each other. C) The referee uses a hand motion that mimics dribbling. D) The referee blows the whistle and points toward the stadium door.",
     "answers": {
       "main": "D",
       "sub-question1": "D",
@@ -22867,7 +22859,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: \n \n How does the duration of time-outs in a professional NBA basketball game vary under different circumstances? \n \n A) The duration of time-outs is always the same, regardless of the circumstances. \n \n B) The duration of time-outs changes based on the quarter of the game, with longer time-outs in the final quarter. \n \n C) The duration of time-outs is typically 75 seconds, but can extend up to 130 seconds for television time-outs. \n \n D) The duration of time-outs is decided by the coach of the team that called the time-out.",
+    "question": "Question:How does the duration of time-outs in a professional NBA basketball game vary under different circumstances?  A) The duration of time-outs is always the same, regardless of the circumstances.  B) The duration of time-outs changes based on the quarter of the game, with longer time-outs in the final quarter.  C) The duration of time-outs is typically 75 seconds, but can extend longer for television time-outs.  D) The duration of time-outs is decided by the coach of the team that called the time-out.",
     "answer": "C"
   },
   {
@@ -23077,7 +23069,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: How does the NBA's \"Last Two Minute Report\" rule affect the frequency of timeouts during the last two minutes of a professional basketball game?\n \n A) Teams are allowed unlimited timeouts.\n B) Teams are allowed no timeouts.\n C) Teams are allowed two timeouts.\n D) Teams are allowed one timeout.",
+    "question": "Question: How do the NBA's rules affect the frequency of timeouts during the last three minutes of a professional basketball game? A) Teams are allowed unlimited timeouts. B) Teams are allowed no timeouts. C) Teams are allowed two timeouts. D) Teams are allowed one timeout.",
     "answer": "C"
   },
   {
@@ -23937,7 +23929,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "multi",
-    "questions": "Main Question:   Why does the standard diameter of a basketball hoop, the size and weight of the basketball, and the height of the backboard contribute to the level of challenge and fairness in a professional basketball game?    A) They are randomly determined and have no effect on the game.  B) They make the game more difficult for shorter players.  C) They are designed to match the average height of players.  D) They are based on human ergonomics, skill levels, and the need for a balanced challenge.     Sub-Question 1:   Why is the diameter of a basketball hoop just under twice the diameter of a standard NBA basketball?    A) To make the game easier for beginners.  B) To ensure that two balls cannot go through the hoop at the same time.  C) To allow the ball to pass through the hoop with a margin of error.  D) It's purely a historical accident.     Sub-Question 2:   Why is the standard height of the basketball hoop at 10 feet in professional basketball games?    A) It was the height of the first peach basket used in the gameâ€™s creation.  B) It matches the average height of NBA players.  C) It is the maximum height a human can jump.  D) It provides a consistent target for players of different heights.",
+    "questions": "Main Question:   Why does the standard diameter of a basketball hoop, the size and weight of the basketball, and the height of the backboard contribute to the level of challenge and fairness in a professional basketball game?    A) They are randomly determined and have no effect on the game.  B) They make the game more difficult for shorter players.  C) They are designed to match the average height of players.  D) They are based on human ergonomics, skill levels, and the need for a balanced challenge.     Sub-Question 1:   Why is the diameter of a basketball hoop just under twice the diameter of a standard NBA basketball?    A) To make the game easier for beginners.  B) To ensure that two balls cannot go through the hoop at the same time.  C) To allow the ball to pass through the hoop with a margin of error.  D) It's purely a historical accident.     Sub-Question 2:   Why is the standard height of the basketball hoop at 10 feet in professional basketball games?    A) It was the height of the first peach basket used in the game's creation.  B) It matches the average height of NBA players.  C) It is the maximum height a human can jump.  D) It provides a consistent target for players of different heights.",
     "answers": {
       "main": "D",
       "sub-question1": "C",
@@ -24856,7 +24848,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "single",
-    "question": "Question: In a typical game of NBA basketball, how many time-outs is each team allowed per quarter?\n \nA) One\nB) Two\nC) Three\nD) Four",
+    "question": "Question: In a typical game of NBA basketball, how many time-outs is each team allowed per quarter? A) One B) Two C) Three D) Seven total timeouts for the full game with two being mandatory each half.",
     "answer": "D"
   },
   {
@@ -25108,7 +25100,7 @@
     "level": "easy",
     "sport": "basketball",
     "hop": "single",
-    "question": "Q: What happens to possession after a successful free throw in a basketball game?\n \nA) The team that makes the free throw gets the ball.\nB) The other team has the ball.\nC) The ball is awarded to the fouled player for the next play.\nD) The opponent serves the ball from the baseline to enter the game.",
+    "question": "Question:  What happens to possession after a successful free throw in a basketball game? A) The team that makes the free throw gets the ball. B) The other team has the ball. C) The ball is awarded to the fouled player for the next play. D) The opponent passess the ball from the baseline to enter the game.",
     "answer": "BD"
   },
   {
@@ -25711,7 +25703,7 @@
     "level": "hard",
     "sport": "basketball",
     "hop": "multi",
-    "questions": "Main Question:  How many time-outs maximum are typically allowed for each team in a quarter of an NBA basketball game? A) 1 B) 2 C) 3 D) 4     Sub-Question 1:  How many full time-outs are usually allowed for each team in a quarter of an NBA basketball game? A) 1 B) 2 C) 3 D) 4     Sub-Question 2:  How many 20-second time-outs are typically permitted for each team in a quarter of an NBA basketball game? A) 0 B) 1 C) 2 D) 3",
+    "questions": "Main Question:  How many time-outs maximum are typically allowed for each team in a quarter of an NBA basketball game? A) 1 B) 2 C) 3 D) 7 timeouts per game     Sub-Question 1:  How many full time-outs are usually allowed for each team in a quarter of an NBA basketball game? A) 1 B) 2 C) 3 D) 7 timeouts per game     Sub-Question 2:  How many 20-second time-outs are typically permitted for each team in a quarter of an NBA basketball game? A) 0 B) 1 C) 2 D) 3",
     "answers": {
       "main": "D",
       "sub-question1": "D",
@@ -27396,17 +27388,6 @@
     "level": "easy",
     "sport": "American Football",
     "hop": "multi",
-    "questions": "Main Question: How can an American football player ensure they are maintaining their physical fitness during the off-season to prepare for the demands of the game?  A) Participating in regular cardiovascular exercises B) Engaging in sport-specific drills C) Taking an extended break from all physical activities D) Attending a cooking class  Sub-Question 1: How does participating in cardiovascular exercises benefit an American football player during the off-season?  A) Increases stamina B) Enhances knitting skills C) Improves balance D) Builds muscular endurance  Sub-Question 2: Why are sport-specific drills important for an American football player’s off-season training?  A) They help maintain skill levels B) They provide a break from physical activity C) They ensure the player is ready for culinary challenges D) They keep the player's strategic thinking sharp",
-    "answers": {
-      "main": "AB",
-      "sub-question1": "AD",
-      "sub-question2": "AD"
-    }
-  },
-  {
-    "level": "easy",
-    "sport": "American Football",
-    "hop": "multi",
     "questions": "Main Question: Which types of exercises would an American Football player likely include in their routine to improve both their cardiovascular fitness and upper body strength?  A) Sprinting drills B) Bench press C) Yoga D) Cycling  Sub-Question 1: For improving cardiovascular fitness, which exercises would be most beneficial for an American Football player?  A) Long-distance running B) Sprinting drills C) Swimming D) Cycling  Sub-Question 2: Which exercises are known to effectively increase upper body strength, essential for an American Football player?  A) Bench press B) Pull-ups C) Yoga D) Pilates",
     "answers": {
       "main": "ABD",
@@ -28297,13 +28278,6 @@
     "level": "easy",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: Why might a referee call a holding penalty during an American football game?\nA) A player tackles someone who pretended to have the ball but doesn't have the ball.\nB) An offensive player uses their hands or arms to hinder a defender's movement.\nC) A player grabs another player's face mask.\nD) A defender wraps their arms around the waist of an offensive player from behind.",
-    "answer": "BD"
-  },
-  {
-    "level": "easy",
-    "sport": "American Football",
-    "hop": "single",
     "question": "Question: How can a defensive player legally stop an offensive player who has possession of the ball?\nA) By tackling the player before they go out of bounds\nB) By pulling the player's jersey to slow them down\nC) By intercepting the ball when it is thrown\nD) By grabbing the player's face mask to turn their head",
     "answer": "AB"
   },
@@ -28640,7 +28614,7 @@
     "level": "easy",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: How long is a typical American Football game without considering overtime?\nA) 60 minutes\nB) 120 minutes\nC) 270 minutes\nD) 180 minutes",
+    "question": "Question: How long is a typical American Football game's play time without considering overtime? A) 60 minutes B) 120 minutes C) 270 minutes D) 180 minutes",
     "answer": "C"
   },
   {
@@ -28705,13 +28679,6 @@
     "hop": "single",
     "question": "Question: What is the penalty for a player who commits a face mask foul in American Football?\nA) Loss of 5 yards\nB) Loss of 10 yards\nC) Loss of 15 yards\nD) Automatic first down",
     "answer": "C"
-  },
-  {
-    "level": "easy",
-    "sport": "American Football",
-    "hop": "single",
-    "question": "Question: Why might a referee call a holding penalty during an American football game?\nA) Because a player used their hands to grab and hold onto an opponent to stop their forward progress.\nB) Because a player scored a touchdown.\nC) Because the game has reached halftime.\nD) Because a player celebrated excessively after a play.",
-    "answer": "A"
   },
   {
     "level": "easy",
@@ -28878,13 +28845,6 @@
     "level": "easy",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: Why might a football coach call a timeout during a critical play in the fourth quarter?\nA) To give the players a rest\nB) To discuss and adjust the team's strategy\nC) To challenge a referee's call\nD) To celebrate a good play\n",
-    "answer": "B"
-  },
-  {
-    "level": "easy",
-    "sport": "American Football",
-    "hop": "single",
     "question": "Question: How does an American Football team typically communicate plays during a game?\nA) The quarterback yells out codes in the huddle.\nB) Players wear headsets to talk to each other on the field.\nC) Fans signal the plays from the stands.\nD) The coach emails the plays to each player's smartphone.\n",
     "answer": "A"
   },
@@ -28892,7 +28852,7 @@
     "level": "easy",
     "sport": "American Football",
     "hop": "single",
-    "question": "Question: Which position is responsible for running routes down field and catching a pass in an American football team?\nA) Wide Receiver\nB) Quarterback\nC) Linebacker\nD) Running Back",
+    "question": "Question: Which position is responsible for running routes deep down field and catching a pass in an American football team? A) Wide Receiver B) Quarterback C) Linebacker D) Running Back",
     "answer": "A"
   },
   {
@@ -29973,7 +29933,7 @@
     "sport": "volleyball",
     "hop": "single",
     "question": "Question: Why might a volleyball coach decide to switch the positions of two players during a game?\n \n A) The coach wants to confuse the opposing team.\n B) One player is injured and cannot continue playing.\n C) The coach believes the switch will enhance the team's offensive or defensive strategy.\n D) The coach wants to give all players equal playing time.",
-    "answer": "BC"
+    "answer": "AC"
   },
   {
     "level": "easy",
@@ -31068,7 +31028,7 @@
     "hop": "multi",
     "questions": "Main Question:  In a standard professional volleyball match, which of the following scenarios is possible considering the duration of sets, number of sets to win a match, and scoring system? A) A team wins a match with a 2-0 set lead in a best of five series B) A team wins the second set with a score of 25-23, but loses the match by 1-2 sets C) A team wins the first set with a score of 30-28, but loses the match by 2-3 sets in a best of five series D) A team wins the match with a 3-1 in a best of three series  Sub-Question 1:  Which of these statements is true about the number of sets to win a match in a standard FIVB volleyball game? A) A team must win at least 3 sets to win a match in a best of five series B) A team can win a match with a 1-0 set lead in a best of five series C) A team can win a match with a 3-0 set lead in a best of three series D) A team must win at least 2 sets to win a match in a best of three series  Sub-Question 2:  Considering the scoring system of a standard volleyball game, which of these scenarios is possible? A) A team can win a set with a score of 25-23 B) A team can win a set with a score of 30-28 C) Both A and B are possible D) Neither A nor B is possible",
     "answers": {
-      "main": "CD",
+      "main": "C",
       "sub-question1": "C",
       "sub-question2": "C"
     }
@@ -32652,7 +32612,7 @@
     "sport": "table tennis",
     "hop": "single",
     "question": "Question: How should a table tennis player conduct themselves during a match in accordance to professional sportsmanship standards?\nA) They should shake hands with their opponent before and after the match.\nB) They should attempt to distract their opponent during a serve by making loud noises.\nC) They should accept the umpire's decisions without argument.\nD) They should intentionally delay the game when they are ahead to frustrate their opponent.",
-    "answer": "AB"
+    "answer": "AC"
   },
   {
     "level": "hard",
@@ -33387,13 +33347,6 @@
     "hop": "single",
     "question": "Q: What is the standard size of a table tennis table?\nA) Length: 2.74 meters, Width: 1.525 meters\nB) Length: 5 meters, Width: 3 meters\nC) Length: 2 meters, Width: 1 meter\nD) Length: 3 meters, Width: 1.5 meters",
     "answer": "A"
-  },
-  {
-    "level": "easy",
-    "sport": "table tennis",
-    "hop": "single",
-    "question": "Question: Why are the dimensions of a standard table tennis table important in a match?\nA) They determine the amount of space needed for players to move around.\nB) They affect the trajectory and bounce of the ball.\nC) They make the game more challenging and exciting.\nD) They are necessary to fit the table tennis table into a room.",
-    "answer": "AB"
   },
   {
     "level": "easy",

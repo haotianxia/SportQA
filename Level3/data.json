@@ -4013,7 +4013,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: What is the possible score of a tennis player when he/she wins a tiebreak game?\nA) 6\nB) 10\nC) 5\nD) 12",
+    "question": "Question: What is the possible score of a tennis player when he/she wins a tiebreak game?\nA) 6\nB) 7\nC) 5\nD) 8",
     "answer": "BD"
   },
   {

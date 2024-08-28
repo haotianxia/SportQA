@@ -346,13 +346,6 @@
     "level": "hard",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why does a tennis match typically consist of an odd number of sets?\nA) To ensure a player can rest after each set.\nB) To make the match more challenging.\nC) To avoid a potential tie and determine a clear winner.\nD) To prolong the duration of the match.\n",
-    "answer": "C"
-  },
-  {
-    "level": "hard",
-    "sport": "tennis",
-    "hop": "single",
     "question": "Question: What is the consequence for a tennis player who repeatedly uses abusive language during a match?\nA) The player is awarded extra points.\nB) The player is disqualified from the match.\nC) The player is given a trophy.\nD) The player is asked to sing the national anthem.\n",
     "answer": "B"
   },
@@ -4020,15 +4013,15 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: What is the score of a tennis player when he/she wins a tiebreak game?\nA) 6\nB) 7\nC) 5\nD) 8",
+    "question": "Question: What is the possible score of a tennis player when he/she wins a tiebreak game?\nA) 6\nB) 10\nC) 5\nD) 12",
     "answer": "BD"
   },
   {
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why does a player A serve from the right court when the situation is 2:1 in a tennis tiebreak?\nA. Because the rules require alternating service courts after the first point in which he served in left court.\nB. The player has to serve from the left court because his point is 2.\nC. Because it is easier for the player to hit the ball from the left court.\nD. Because the player can choose any court to serve from during a tiebreak.",
-    "answer": "A"
+    "question": "Question: Why does a player A serve from the right court when the situation is 1:1 in a tennis tiebreak?\nA. Because the rules require alternating service courts after the first point in which he served in left court.\nB. The player has to serve from the right court because his point is 2.\nC. Because it is easier for the player to hit the ball from the left court.\nD. Because the player can choose any court to serve from during a tiebreak.",
+    "answer": "B"
   },
   {
     "level": "easy",
@@ -4049,13 +4042,6 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: What is the term used to describe a sequence of points played with the same player serving in a tennis match?\nA. Set\nB. Match\nC. Game\nD. Rally\n",
-    "answer": "C"
-  },
-  {
-    "level": "easy",
-    "sport": "tennis",
-    "hop": "single",
-    "question": "Question: Why does a tennis match typically consist of an odd number of sets?\nA. To ensure that the match ends quickly.\nB. To maximize the players' stamina.\nC. To allow for a clear winner.\nD. To make the game more challenging.\n",
     "answer": "C"
   },
   {
@@ -4209,7 +4195,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: What may be the penalty for a player in a tennis match who exceeds the allotted time for a break between games?\nA) The player is disqualified\nB) The player loses a point\nC) The server loses a serve\nD) The player receives a warning\n",
+    "question": "Question: What is the penalty for a tennis player who exceeds the allotted time for the first time during a break between games?\nA) The player is disqualified\nB) The player loses a point\nC) The server loses a serve\nD) The player receives a warning\n",
     "answer": "D"
   },
   {

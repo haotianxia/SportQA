@@ -2418,13 +2418,6 @@
     "level": "hard",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why do tennis matches usually have an odd number of sets?\nA) To ensure there is always a clear winner\nB) To allow for rest periods between sets\nC) To provide a fair chance to both players\nD) To maintain the tradition of the game",
-    "answer": "AC"
-  },
-  {
-    "level": "hard",
-    "sport": "tennis",
-    "hop": "single",
     "question": "Question: What are some appropriate actions a tennis player should take during a match?\nA) Shaking hands with the opponent at the end of the match.\nB) Throwing the racket on the ground in frustration.\nC) Respecting the umpire's decisions.\nD) Arguing with the spectators.",
     "answer": "AC"
   },
@@ -2432,7 +2425,7 @@
     "level": "hard",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why might a tennis player receive a conduct violation during a match?\nA) The player uses offensive language on the court.\nB) The player smashes their racquet in frustration.\nC) The player takes a water break after every point.\nD) The player consistently arrives late to their matches.",
+    "question": "Question: Why might a tennis player receive a conduct violation during a match?\nA) The player uses offensive language on the court.\nB) The player smashes their racquet in frustration.\nC) The player takes a water break after every point.\nD) The player consistently take longer break time.",
     "answer": "ABCD"
   },
   {
@@ -2552,7 +2545,7 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: Why would a tennis umpire overrule a line judge's 'out' call during a match?\nA) The line judge was not in a good position to see the ball land.\nB) The umpire had a clear view and is certain the ball landed within the court lines.\nC) The ball hit the net post before landing in the court.\nD) The player who hit the ball requested the overrule.",
-    "answer": "AB"
+    "answer": "B"
   },
   {
     "level": "hard",
@@ -5005,13 +4998,6 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: Why would a roving umpire in a tennis match make a decision to overrule a line call?\nA) The line judge appears to have been unsighted and did not make a call.\nB) The call is clearly wrong and the roving umpire has a better view.\nC) The player requested the roving umpire to overrule the call.\nD) The call was close and the roving umpire wants to ensure fair play.",
-    "answer": "ABD"
-  },
-  {
-    "level": "hard",
-    "sport": "tennis",
-    "hop": "single",
-    "question": "Question: Which of the following scenarios would require the intervention of an umpire in a professional tennis match?\nA) Player A claims that Player B's serve was out, but Player B disputes this.\nB) Player B's racket touches the net during a serve, but neither player notices.\nC) Player A's ball hits the net cord on the serve and lands in the correct service box, but Player B is unsure about the rules regarding this situation.\nD) Player B repeatedly serves before Player A is ready, causing Player A to request the umpire's intervention.",
     "answer": "ABD"
   },
   {

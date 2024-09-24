@@ -3999,7 +3999,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: \nHow is an \"In\" call made in a tennis match?\nA. When the ball lands outside the boundary lines\nB. When the ball hits the net\nC. When the ball lands within the boundary lines\nD. When the ball hits the umpire\n",
+    "question": "Question: \nHow is an \"In\" call made in a tennis match?\nA. When the ball lands outside the boundary lines\nB. When the ball hits the net\nC. When the ball lands within the boundary lines\nD. When the ball hits the umpire before it bounces\n",
     "answer": "C"
   },
   {
@@ -4077,13 +4077,13 @@
     "sport": "tennis",
     "hop": "single",
     "question": "Question: How should a tennis player behave when they disagree with an umpire's decision during a match?\nA. They should argue with the umpire until they change their decision.\nB. They should throw their racket in frustration.\nC. They should politely ask for clarification.\nD. They should ignore the decision and continue playing as if it didn't happen.\n",
-    "answer": "C"
+    "answer": "CD"
   },
   {
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Which of the following behaviors is considered acceptable according to tennis Player Conduct rules?\nA. Yelling obscenities at the referee\nB. Intentionally hitting the ball towards the crowd\nC. Shaking hands with the opponent at the end of the match\nD. Smashing the racket on the ground out of frustration\n",
+    "question": "Question: Which of the following behaviors is considered acceptable according to tennis Player Conduct rules?\nA. Yelling obscenities at the referee\nB. Intentionally smashing the ball towards the crowd\nC. Shaking hands with the opponent at the end of the match\nD. Smashing the racket on the ground out of frustration\n",
     "answer": "C"
   },
   {
@@ -4111,7 +4111,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Which of the following scenarios would most likely require a medical timeout in a tennis match?\nA) A player hits an ace serve.\nB) A player experiences heatstroke.\nC) A player argues a call with the umpire.\nD) A player takes a brief rest between games.\n",
+    "question": "Question: Which of the following scenarios would most likely require a medical timeout in a tennis match?\nA) A player hits an ace serve.\nB) A player experiences ankle sprain.\nC) A player argues a call with the umpire.\nD) A player takes a brief rest between games.\n",
     "answer": "B"
   },
   {
@@ -4202,7 +4202,7 @@
     "level": "easy",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Why would a tennis player be given a warning for a time violation during a match?\nA. The player took longer than the allowed time to serve.\nB. The player hit the ball outside the court.\nC. The player argued with the referee.\nD. The player changed his racket during the game.\n",
+    "question": "Question: Why would a tennis player be given a warning for a time violation during a match?\nA. The player took longer than the allowed time to serve.\nB. The player hit the ball outside the court.\nC. The player argued with the referee.\nD. The player smashed the ball to the spectators.\n",
     "answer": "A"
   },
   {
@@ -4773,7 +4773,7 @@
     "level": "hard",
     "sport": "tennis",
     "hop": "single",
-    "question": "Question: Which scenarios may cause a penalty according to the Continuous Play rule uring a tennis match? \nA) A player takes more than the allotted 20 seconds between points in a regular game. \nB) A player requests a medical time-out due to a minor injury. \nC) A player takes more than the allotted 90 seconds on changeovers. \nD) A player needs to replace a broken racket in the middle of a game.",
+    "question": "Question: Which scenarios may cause a penalty according to the Continuous Play rule uring a tennis match? \nA) A player takes more than the allotted 25 seconds between points in a regular game. \nB) A player requests a medical time-out due to a minor injury. \nC) A player takes more than the allotted 90 seconds on changeovers. \nD) A player needs to replace a broken racket in the middle of a game.",
     "answer": "AC"
   },
   {
